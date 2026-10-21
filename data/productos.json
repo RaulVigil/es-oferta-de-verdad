@@ -3,7 +3,7 @@
   "moneda": "USD",
   "pais": "El Salvador",
   "creado": "2026-10-20",
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "corte_linea_base": "2026-11-01",
   "evento": {
     "nombre": "Black Friday / Cyber Monday 2026",
@@ -42,7 +42,7 @@
         "teclado"
       ],
       "incluir": "teclado",
-      "excluir": "musical|piano|[oó]rgano|yamaha|casio|winfun|juguete|infantil|adaptador|escritorio|porta ?teclado|\\bpc\\b|computadora|laptop|funda|protector|cubierta|tablet|ipad|keycap|repuesto|sticker|calcoman|limpiador|soporte|reposamu[nñ]ecas|alfombrilla|mouse ?pad",
+      "excluir": "musical|piano|korg|roland|alesis|kurzweil|medeli|kawai|nektar|arturia|novation|m-audio|tonos|ritmos|octavas|sintetiz|arranger|[oó]rgano|yamaha|casio|winfun|juguete|infantil|adaptador|escritorio|porta ?teclado|\\bpc\\b|computadora|laptop|funda|protector|cubierta|tablet|ipad|keycap|repuesto|sticker|calcoman|limpiador|soporte|reposamu[nñ]ecas|alfombrilla|mouse ?pad|amplificador|pedestal|asiento|banco|rollins|jean paul|cerradura|cerrojo|puerta|caja fuerte|estuche|pro lok",
       "pistas": [
         "teclados"
       ]
@@ -77,7 +77,7 @@
         "sillas"
       ],
       "incluir": "^\\s*(silla|combo de oficina)",
-      "excluir": "ruedas para silla|silla de ruedas|beb[eé]|comedor|playa|camping|infantil|ni[nñ][oa]|mesa|coj[ií]n|funda|alfombra|repuesto|pist[oó]n|rodaja|base para|reposapies|bar\\b|banco|taburete|mecedora|plegable|exterior|jard[ií]n|terraza|auto|carro|ducha|ba[nñ]o"
+      "excluir": "ruedas para silla|silla de ruedas|beb[eé]|comedor|playa|camping|infantil|ni[nñ][oa]|mesa|coj[ií]n|funda|alfombra|repuesto|pist[oó]n|rodaja|base para|reposapies|bar\\b|banco|taburete|mecedora|plegable|exterior|jard[ií]n|terraza|auto|carro|ducha|ba[nñ]o|silla pl[aá]stica|silla (para oficina )?de pl[aá]stico|espera|eiffel|playera|chaise|seville|de acero|apilable|resina|^\\s*silla moderna|de madera|madera contrachapada|rat[aá]n|rocking|tapizada|adirondack"
     },
     "control": {
       "nombre": "Controles de consola",
@@ -98,7 +98,7 @@
         "gamepad"
       ],
       "incluir": "^\\s*(control(es)?|mando|gamepad|joy-?con|dualsense|pro controller)\\b",
-      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|cable|bater[ií]a|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n"
+      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|cable|bater[ií]a|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n|psi\\b|modulante|bomba"
     },
     "consola": {
       "nombre": "Consolas",
@@ -117,7 +117,7 @@
         "xbox"
       ],
       "incluir": "^\\s*(consola|(combo|bundle)\\s+(consola\\s+)?(nintendo|playstation|ps5|xbox)|nintendo switch|playstation ?5|ps5|xbox series)",
-      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick",
+      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick|canales|\bch\b|mezcla|mixer|audio|amplificada|behringer|soundcraft|mackie|phonic|peavey|allen|presonus|voyz|topp ?pro|mdf|madera|mueble|melamina",
       "omnisport": [
         "consolas"
       ]
@@ -216,7 +216,7 @@
         "guardarropa"
       ],
       "incluir": "ropero|cl[oó]set|armario|guardarropa",
-      "excluir": "mu[nñ]eca|juguete|peppa|disfraz|barbie|lil tots|castillo|libro|inmunitario|alacena|organizador|gancho|perchero|bolsa|funda|cortina|zapatera|ambientador|antihumedad|desodorante|absorbe|l[aá]mpara|luz|\\bled\\b|barra|tubo|caja|cubo|canasta|cesta|colgador|aroma|polilla|repelente|sensor|bisagra|jaladera|manija|botiqu[ií]n|de cocina|de ba[nñ]o|met[aá]lico de oficina|archivo"
+      "excluir": "mu[nñ]eca|juguete|peppa|disfraz|barbie|lil tots|castillo|libro|inmunitario|alacena|organizador|gancho|perchero|bolsa|funda|cortina|zapatera|ambientador|antihumedad|desodorante|absorbe|l[aá]mpara|luz|\\bled\\b|barra|tubo|caja|cubo|canasta|cesta|colgador|aroma|polilla|repelente|sensor|bisagra|jaladera|manija|botiqu[ií]n|de cocina|de ba[nñ]o|met[aá]lico de oficina|archivo|^\\s*(riel|rodo|puerta)|shelf|deshumidificador|accesorios de instalaci|joyas|(para|de) cl[oó]set"
     },
     "audifono": {
       "nombre": "Audífonos",
@@ -316,7 +316,7 @@
         "monomando"
       ],
       "incluir": "^\\s*(ducha|regadera|mezcladora|grifo|llave (de|para) lavamanos|monomando|columna de ducha|set de ducha)",
-      "excluir": "manguera|soporte|brazo|filtro|cortina|tapete|alfombra|repuesto|cartucho|empaque|tefl[oó]n|adaptador|v[aá]lvula de paso|chorro|llave de paso|accesorio|organizador|jabonera|toallero|silla|banco|juguete|gorro"
+      "excluir": "manguera|soporte|brazo|filtro|cortina|tapete|alfombra|repuesto|cartucho|empaque|tefl[oó]n|adaptador|v[aá]lvula de paso|chorro|llave de paso|accesorio|organizador|jabonera|toallero|silla|banco|juguete|gorro|litros|\\d+ ?l\\b|jard[ií]n"
     },
     "refrigeradora": {
       "nombre": "Refrigeradoras",
@@ -332,7 +332,7 @@
         "nevera"
       ],
       "incluir": "^\\s*(refrigeradora|refrigerador|refri|nevera|frigobar|minibar)",
-      "excluir": "filtro|organizador|im[aá]n|term[oó]metro|repuesto|empaque|bandeja|limpiador|desodorante|juguete|protector de voltaje|regulador|recipiente|contenedor",
+      "excluir": "filtro|organizador|im[aá]n|term[oó]metro|repuesto|empaque|bandeja|limpiador|desodorante|juguete|protector de voltaje|regulador|recipiente|contenedor|refrigerante|radiador",
       "omnisport": [
         "refrigeradores"
       ]
@@ -385,6 +385,106 @@
       "omnisport": [
         "freidores-de-alimentos"
       ]
+    },
+    "amplificador": {
+      "nombre": "Amplificadores de instrumento",
+      "buscar": [
+        "amplificador guitarra",
+        "amplificador bajo"
+      ],
+      "pistas": [
+        "amplificadores",
+        "ampli",
+        "amplis",
+        "amp"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(mini )?(amplificador|amplif\\.|amp\\.|cabezal|gabinete)\\b(?=.*(guit|bajo|teclado|instrumento|marshall|fender|vox|ampeg|aguilar|eden|laney|blackstar|orange|boss|roland|hartke|line ?6))",
+      "excluir": "potencia|mezclador|pedal|footswitch|cable|funda|cubierta|soporte|stand|repuesto|v[aá]lvulas? de repuesto|bajo consumo|auto|carro|wifi|se[nñ]al|antena|celular|pc\\b|computadora|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a"
+    },
+    "guitarra": {
+      "nombre": "Guitarras",
+      "buscar": [
+        "guitarra"
+      ],
+      "pistas": [
+        "guitarras",
+        "requinto",
+        "requintos"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(pack )?(guitarras?\\b|guit\\.|requinto\\b)",
+      "excluir": "(para|p/) ?guit|de guitarra|interactiva|luminosa|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|^\\s*(\\S+\\s+)?(funda|estuche|case|gig ?bag|cuerdas?|set|juego|correa|cincha|strap|capo|cejilla|afinador|u[nñ]etas?|plumillas?|pedal|cable|clavijas?|soporte|stand|pedestal|asiento|banco|atril|base|gancho|colgador|pastillas?|puente|repuesto)\\b|micr[oó]fono"
+    },
+    "bajo": {
+      "nombre": "Bajos",
+      "buscar": [
+        "bajo electrico"
+      ],
+      "pistas": [
+        "bajos"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(pack )?(pj )?bajos? (el[eé]ct|electroac|ac[uú]st|de \\d cuerdas|\\d cuerdas)",
+      "excluir": "(para|p/) ?bajo|amplificador|cabezal|gabinete|bocina|bajo consumo|bajo voltaje|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|^\\s*(\\S+\\s+)?(funda|estuche|case|gig ?bag|cuerdas?|set|juego|correa|cincha|strap|capo|cejilla|afinador|u[nñ]etas?|plumillas?|pedal|cable|clavijas?|soporte|stand|pedestal|asiento|banco|atril|base|gancho|colgador|pastillas?|puente|repuesto)\\b|micr[oó]fono"
+    },
+    "piano": {
+      "nombre": "Teclados musicales y pianos",
+      "buscar": [
+        "piano digital",
+        "teclado musical",
+        "sintetizador"
+      ],
+      "pistas": [
+        "pianos",
+        "sintetizador",
+        "sintetizadores",
+        "organo",
+        "teclado musical",
+        "teclados musicales",
+        "musical",
+        "musicales"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(piano|sintetizador|workstation|[oó]rgano (electr|musical|digital)|teclado\\b(?=.*(musical|tonos|ritmos|octavas|piano|casio|yamaha|korg|roland|alesis|kurzweil|nord|medeli|kawai|arranger|m-audio|akai|novation|nektar|arturia|rollins|jean paul|psx)))",
+      "excluir": "(para|p/) ?(piano|teclado)|alfombra|tapete|de piso|^\\s*(\\S+\\s+){0,2}?(pedestal|banco|asiento|funda|estuche|soporte|stand|adaptador|cable|cubierta|forro|pedal|atril|base)\\b|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|bisagra|micr[oó]fono"
+    },
+    "bateria": {
+      "nombre": "Baterías (instrumento)",
+      "buscar": [
+        "bateria electronica",
+        "bateria acustica"
+      ],
+      "pistas": [
+        "baterias",
+        "drums"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(set de )?bater[ií]as?\\s+(ac[uú]stica|electr[oó]nica|el[eé]ctrica|musical|mesh|de \\d+ ?(piezas|pzs?|pcs)|\\d+ ?(piezas|pzs?|pcs))",
+      "excluir": "litio|recargable|\\d+ ?v\\b|voltios|\\d ?mah\\b|amperios|auto|carro|moto|laptop|celular|inversor|\\bups\\b|solar|cocina|ollas?|sart[eé]n|antiadherente|acero|inoxidable|cer[aá]mica|hierro|aluminio|tefl[oó]n|utensilios|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|^\\s*(\\S+\\s+)?(funda|estuche|baquetas|banco|asiento|pedal|parche|soporte|stand|alfombra)\\b|terminal|borne|cargador|a bater[ií]a|navide|\\btren\\b|micr[oó]fono"
+    },
+    "microfono": {
+      "nombre": "Micrófonos",
+      "buscar": [
+        "microfono"
+      ],
+      "pistas": [
+        "microfonos",
+        "mic",
+        "mics"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?micr[oó]fonos?\\b",
+      "excluir": "(para|p/) ?micr[oó]fono|con (\\d+ )?micr[oó]fonos?|infantil|ni[nñ][oa]s?\\b|barbie|frozen|disney|paw patrol|peppa|bluey|spider|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|^\\s*(\\S+\\s+)?(base|soporte|stand|brazo|pedestal|filtro|espuma|cable|adaptador|antiviento|c[aá]psula|funda|estuche|pinza|clip|cubre|repuesto)\\b|auricular|aud[ií]fono|headset|earbuds"
+    },
+    "ukulele": {
+      "nombre": "Ukuleles",
+      "buscar": [
+        "ukulele",
+        "ukelele"
+      ],
+      "pistas": [
+        "ukulele",
+        "ukelele",
+        "ukuleles",
+        "ukeleles"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(ukelele|ukulele)s?\\b",
+      "excluir": "(para|p/) ?uk|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|^\\s*(\\S+\\s+)?(funda|estuche|case|gig ?bag|cuerdas?|set|juego|correa|cincha|strap|capo|cejilla|afinador|u[nñ]etas?|plumillas?|pedal|cable|clavijas?|soporte|stand|pedestal|asiento|banco|atril|base|gancho|colgador|pastillas?|puente|repuesto)\\b|micr[oó]fono"
     }
   },
   "categorias": {

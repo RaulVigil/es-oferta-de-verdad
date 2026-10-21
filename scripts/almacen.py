@@ -393,6 +393,9 @@ def pistas(filtros: dict) -> dict[str, str]:
         # solo el id y las "pistas" explicitas: los terminos de busqueda traen palabras
         # ambiguas ("con" de joy-con, "gamer") que filtrarian la categoria equivocada
         for w in [cid, *cfg.get("pistas", [])]:
+            # una frase ("teclado musical") gana a sus palabras sueltas en el buscador
+            if len(tokens(w)) > 1:
+                salida.setdefault(" ".join(tokens(w)), cid)
             for t in tokens(w):
                 if len(t) < 3 or t in VACIAS:
                     continue

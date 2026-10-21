@@ -9,6 +9,9 @@ Cada tienda expone el mismo catalogo que usa su propio sitio web:
     omnisport           HTML         paginas de categoria y de producto
     zonadigital         API JSON     apizd.zonadigitalsv.com (la que usa su pagina Vue)
     aeon                HTML Odoo    /shop?search=... con datos schema.org
+    vidri               Doofinder    API publica del buscador del sitio (por termino de busqueda)
+    coopesa             WooCommerce  Store API publica /wp-json/wc/store/v1/products
+    electronica2001     HTML         paginas de categoria + /api/v01/processingRequests.php por codigo
 
 consultar(comercial, sku, url) -> precio actual de un SKU:
     {precio, precio_lista, disponible, nombre, nota}
@@ -65,6 +68,17 @@ AEON_CATEGORIAS = [
     "perifericos-teclados-408", "perifericos-combo-teclado-y-mouse-449", "audifonos-579",
     "perifericos-headset-gaming-465", "perifericos-mouse-gaming-493", "accesorios-accesorios-para-consola-589",
 ]
+VIDRI_BUSCAR = "https://us1-search.doofinder.com/6/b4d8961c442269cb15909f69bc6cfd6c/_search"
+_VIDRI_CABECERAS = {"Origin": "https://www.vidri.com.sv", "Referer": "https://www.vidri.com.sv/"}
+COOPESA_API = "https://www.coopesa.com.sv/wp-json/wc/store/v1/products"
+E2001_WEB = "https://electronica2001es.com/"
+# claves de catalogo.php?key=... de electronica2001es.com que cubren lo que se sigue
+E2001_CATEGORIAS = [
+    "GUITARRAACUSTICA", "GUITARRAELECTRICA", "GUITARRAELECTROACUSTICA", "COMBOSGUITARRA", "BAJOELECTRICO4",
+    "BAJOELECTRICO5", "COMBOSBAJOS", "TECLADOSSINTETIZADORESPIANOS", "BATELECTRONICAS", "BATERIAS",
+    "AMPLIFICADORGUITARRA", "AMPLIFICADORBAJO", "AMPTECLAS", "MICROFONOSALAMBRICOS", "MICROFONOSINALAMBRICOS",
+    "UKELELE", "AUDIFONOS",
+]
 PAUSA = 0.3  # segundos entre paginas durante un barrido
 PRADO_APP = "WLT832EA3J"
 PRADO_KEY = "YTYwZjI3ODFjOTI3YWQ0MjJmYzQ3ZjBiNmY1Y2FiYjRhZjNiMmM3NmMxYTMyNDUwOGUxYjhkMWFhMzFlOGExNnRhZ0ZpbHRlcnM9"
@@ -80,10 +94,11 @@ class ErrorTienda(Exception):
 
 def soportado(comercial: str) -> bool:
     return comercial in VTEX or comercial in MAGENTO or comercial in ALGOLIA or comercial in (
-        "omnisport", "zonadigital", "aeon")
+        "omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001")
 
 
-COMERCIALES_BARRIDO = list(VTEX) + list(MAGENTO) + ["prado", "epa", "omnisport", "zonadigital", "aeon"]
+COMERCIALES_BARRIDO = list(VTEX) + list(MAGENTO) + ["prado", "epa", "omnisport", "zonadigital", "aeon", "vidri",
+                                                    "coopesa", "electronica2001"]
 
 
 def fijar_limite(segundos: float | None) -> None:
@@ -536,6 +551,157 @@ def _aeon_barrer() -> list:
 
 
 # --------------------------------------------------------------------------- #
+# Vidri (Doofinder: el buscador del sitio)
+# --------------------------------------------------------------------------- #
+def _vidri_item(r: dict) -> dict:
+    precio = r.get("sale_price") or r.get("price")
+    lista = r.get("price")
+    return {
+        "sku": str(r["id"]),
+        "nombre": html.unescape(r.get("title", "")).strip(),
+        "marca": r.get("brand") or "",
+        "url": r.get("link", ""),
+        "precio": round(float(precio), 2) if precio else None,
+        "precio_lista": round(float(lista), 2) if lista and precio and float(lista) > float(precio) else None,
+        "disponible": r.get("availability") == "In stock",
+        "nota": "",
+    }
+
+
+def _vidri_buscar(consulta: str, pagina: int = 1) -> dict:
+    params = urllib.parse.urlencode({"query": consulta, "rpp": 100, "page": pagina})
+    return json.loads(_pedir(f"{VIDRI_BUSCAR}?{params}", cabeceras=_VIDRI_CABECERAS))
+
+
+def _vidri(sku: str) -> dict:
+    for r in _vidri_buscar(sku).get("results", []):
+        if str(r.get("id")) == str(sku):
+            return _vidri_item(r)
+    raise ErrorTienda(f"SKU {sku} no aparece en el buscador")
+
+
+def _vidri_barrer(terminos: list) -> list:
+    """Doofinder corta cada busqueda en 1,000 resultados (10 paginas de 100): se busca por termino."""
+    vistos: dict[str, dict] = {}
+    for t in terminos:
+        for pagina in range(1, 11):
+            datos = _vidri_buscar(t, pagina)
+            for r in datos.get("results", []):
+                vistos.setdefault(str(r["id"]), _vidri_item(r))
+            time.sleep(PAUSA)
+            if not datos.get("results") or pagina * 100 >= int(datos.get("total") or 0):
+                break
+    return list(vistos.values())
+
+
+# --------------------------------------------------------------------------- #
+# COOPESA (WooCommerce Store API)
+# --------------------------------------------------------------------------- #
+def _coopesa_item(p: dict) -> dict:
+    pr = p.get("prices") or {}
+    div = 10 ** int(pr.get("currency_minor_unit") or 2)
+    precio = int(pr.get("price") or 0) / div
+    regular = int(pr.get("regular_price") or 0) / div
+    return {
+        "sku": str(p["id"]),
+        "nombre": html.unescape(p.get("name", "")).strip(),
+        "marca": "",
+        "url": p.get("permalink", ""),
+        "precio": round(precio, 2) if precio > 0 else None,
+        "precio_lista": round(regular, 2) if regular > precio else None,
+        "disponible": bool(p.get("is_in_stock")),
+        "nota": "",
+    }
+
+
+def _coopesa(sku: str) -> dict:
+    return _coopesa_item(json.loads(_pedir(f"{COOPESA_API}/{urllib.parse.quote(sku)}")))
+
+
+def _coopesa_barrer() -> list:
+    """El catalogo completo son ~600 productos: se recorre entero."""
+    vistos: dict[str, dict] = {}
+    for pagina in range(1, 50):
+        productos = json.loads(_pedir(f"{COOPESA_API}?per_page=100&page={pagina}"))
+        for p in productos:
+            vistos.setdefault(str(p["id"]), _coopesa_item(p))
+        time.sleep(PAUSA)
+        if len(productos) < 100:
+            break
+    return list(vistos.values())
+
+
+# --------------------------------------------------------------------------- #
+# Electronica 2001 (HTML de categorias; API JSON por codigo)
+# --------------------------------------------------------------------------- #
+def _e2001_url(codigo: str) -> str:
+    # no hay pagina por producto: su buscador con el codigo muestra solo ese producto
+    return f"{E2001_WEB}search2.php?js={urllib.parse.quote(codigo)}"
+
+
+def _e2001_nombre(texto: str) -> str:
+    """Quita el numero de parte del inicio ("0970150032 CC-60S GUIT..." -> "CC-60S GUIT...")."""
+    t = re.sub(r"\s+", " ", html.unescape(texto)).strip()
+    return re.sub(r"^(\d{6,}(:\w+)?( / \d{6,})?\s+)+", "", t)
+
+
+def _e2001_bloques(fuente: str) -> list:
+    salida = []
+    for bloque in fuente.split('class="product-details"')[1:]:
+        nombre = re.search(r'product-title">\s*<a[^>]*>([^<]+)', bloque)
+        codigo = re.search(r'name="code" value="([^"]+)"', bloque)
+        precio = re.search(r'product-price">\s*\$ ?([\d,.]+)', bloque)
+        if not (nombre and codigo):
+            continue
+        p = _numero(precio.group(1)) if precio else None
+        salida.append({
+            "sku": codigo.group(1).strip(),
+            "nombre": _e2001_nombre(nombre.group(1)),
+            "marca": "",
+            "url": _e2001_url(codigo.group(1).strip()),
+            "precio": p if p else None,
+            "precio_lista": None,
+            "disponible": True,  # el listado no publica existencias
+            "nota": "",
+        })
+    return salida
+
+
+def _e2001(sku: str) -> dict:
+    texto = _pedir(f"{E2001_WEB}api/v01/processingRequests.php?code={urllib.parse.quote(sku)}")
+    # responde el JSON envuelto en <p>...</p>
+    m = re.search(r"\{.*\}", html.unescape(texto), re.S)
+    datos = json.loads(m.group(0)) if m else {}
+    if not datos.get("code"):
+        raise ErrorTienda(datos.get("error") or f"codigo {sku} no encontrado")
+    precio = _numero(datos.get("price"))
+    return {
+        "sku": datos["code"].strip(),
+        "nombre": _e2001_nombre(datos.get("description", "")),
+        "marca": "",
+        "url": _e2001_url(datos["code"].strip()),
+        "precio": precio if precio else None,
+        "precio_lista": None,
+        "disponible": float(datos.get("stock") or 0) > 0,
+        "nota": "",
+    }
+
+
+def _e2001_barrer() -> list:
+    vistos: dict[str, dict] = {}
+    for cat in E2001_CATEGORIAS:
+        for pagina in range(1, 30):
+            items = _e2001_bloques(_pedir(f"{E2001_WEB}catalogo.php?key={cat}&pagina={pagina}"))
+            nuevos = [i for i in items if i["sku"] not in vistos]
+            for i in nuevos:
+                vistos[i["sku"]] = i
+            time.sleep(PAUSA)
+            if not nuevos:  # despues de la ultima pagina repite la anterior o sale vacia
+                break
+    return list(vistos.values())
+
+
+# --------------------------------------------------------------------------- #
 # Entrada publica
 # --------------------------------------------------------------------------- #
 def consultar(comercial: str, sku: str, url: str = "") -> dict:
@@ -551,6 +717,12 @@ def consultar(comercial: str, sku: str, url: str = "") -> dict:
         return _zonadigital(url)
     if comercial == "aeon":
         return _aeon(url)
+    if comercial == "vidri":
+        return _vidri(sku)
+    if comercial == "coopesa":
+        return _coopesa(sku)
+    if comercial == "electronica2001":
+        return _e2001(sku)
     raise ErrorTienda(f"no se como consultar '{comercial}' automaticamente")
 
 
@@ -581,4 +753,10 @@ def barrer(comercial: str, filtros: dict | None = None) -> list:
         return _zonadigital_barrer()
     if comercial == "aeon":
         return _aeon_barrer()
+    if comercial == "vidri":
+        return _vidri_barrer(terminos)
+    if comercial == "coopesa":
+        return _coopesa_barrer()
+    if comercial == "electronica2001":
+        return _e2001_barrer()
     raise ErrorTienda(f"no hay barrido para '{comercial}'")

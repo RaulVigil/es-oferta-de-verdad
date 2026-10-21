@@ -74,7 +74,16 @@ const tokens = (t) => normalizar(t).split(" ").map((x) => x.replace(/^\.+|\.+$/g
 function interpretar(q) {
   let cat = null;
   const palabras = [];
-  for (const t of tokens(q)) {
+  const ts = tokens(q);
+  for (let i = 0; i < ts.length; i++) {
+    // frases primero: "teclado musical" no es la categoria de "teclado"
+    const n = [3, 2].find((k) => i + k <= ts.length && E.catalogo.pistas[ts.slice(i, i + k).join(" ")]);
+    if (n) {
+      cat = cat || E.catalogo.pistas[ts.slice(i, i + n).join(" ")];
+      i += n - 1;
+      continue;
+    }
+    const t = ts[i];
     if (E.catalogo.pistas[t]) cat = cat || E.catalogo.pistas[t];
     else if (!VACIAS.has(t)) palabras.push(t);
   }

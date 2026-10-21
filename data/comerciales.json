@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "actualizado": "2026-10-20",
+  "actualizado": "2026-10-21",
   "comerciales": [
     {
       "id": "siman",
@@ -81,6 +81,30 @@
       "tipo": "ferretería y hogar",
       "captura": "auto (indice Algolia del sitio)",
       "notas": "Precios de la sucursal Soyapango, que es la que muestra el sitio."
+    },
+    {
+      "id": "vidri",
+      "nombre": "Vidrí",
+      "url": "https://www.vidri.com.sv",
+      "tipo": "ferretería y hogar",
+      "captura": "auto (buscador Doofinder del sitio)",
+      "notas": "El buscador corta cada búsqueda en 1,000 resultados: se busca por término de cada categoría."
+    },
+    {
+      "id": "coopesa",
+      "nombre": "COOPESA",
+      "url": "https://www.coopesa.com.sv",
+      "tipo": "instrumentos musicales y audio",
+      "captura": "auto (WooCommerce Store API)",
+      "notas": "Catálogo completo (~600 productos) en cada captura."
+    },
+    {
+      "id": "electronica2001",
+      "nombre": "Electrónica 2001",
+      "url": "https://electronica2001es.com",
+      "tipo": "instrumentos musicales y audio",
+      "captura": "auto (páginas de categoría + API por código)",
+      "notas": "No tiene página por producto: el enlace abre su buscador con el código. El listado no publica existencias: se asume disponible."
     }
   ]
 }
