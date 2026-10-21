@@ -1,0 +1,3504 @@
+{
+ "comercial": "coopesa",
+ "actualizado": "2026-10-21T10:49:50-06:00",
+ "listados": {
+  "42540": {
+   "nombre": "GUITARRA ELECTROACUSTICA TAGIMA KANSAS",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-tagima-kansas/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 475.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42432": {
+   "nombre": "MICROFONO JBL QUANTUM STREAM USB-C",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-jbl-quantum-stream-usb-c/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42426": {
+   "nombre": "MICROFONOS INALAMBRICOS JBL PARTYBOX",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfonos-inalambricos-jbl-partybox/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42414": {
+   "nombre": "BAJO ELECTRICO TAGIMA TW66",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-tagima-tw66/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 449.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42406": {
+   "nombre": "GUITARRA ELECTROACUSTICA TAGIMA JUNINHO",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-tagima-juninho/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 759.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42401": {
+   "nombre": "GUITARRA ELECTROACUSTICA 12 CUERDAS TAGIMA SOLARIS12",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SOLARIS12",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-12-cuerdas-tagima-solaris12/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 675.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42398": {
+   "nombre": "GUITARRA ELECTROACUSTICA TAGIMA SOLARIS",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-tagima-solaris/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 649.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42394": {
+   "nombre": "GUITARRA ELECTRICA TAGIMA MIRACH TR",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-tagima-mirach-tr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 890.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42388": {
+   "nombre": "GUITARRA ELECTRICA TAGIMA ALAMACH",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-tagima-alamach/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 550.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "42378": {
+   "nombre": "GUITARRA ELECTRICA TAGIMA MIRACH",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-tagima-mirach/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 850.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "41711": {
+   "nombre": "SET DE 4 MICROFONOS INALAMBRICO UHF FU-4.200",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/set-de-4-microfonos-inalambrico-uhf-fu-4-200/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 329.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40781": {
+   "nombre": "BAJO ELECTRICO PALMER PB5",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-palmer-pb5/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 205.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40772": {
+   "nombre": "BAJO ELECTRICO PALMER ECLIPSE 5D",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-palmer-eclipse-5d/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40721": {
+   "nombre": "TECLADO YAMAHA PSR E383",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e383/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 420.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40716": {
+   "nombre": "TECLADO YAMAHA PSR E283",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e283/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 240.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40333": {
+   "nombre": "AMPLIFICADOR PARA GUITARRA BANDIT 112",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-guitarra-bandit-112/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 590.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "37185": {
+   "nombre": "MICROFONO MINI LAVALIER CONECTOR 3.5 MM",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-mini-lavalier-conector-3-5-mm/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 11.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36533": {
+   "nombre": "BAJO ELÉCTRICO ECLIPSE 4D",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-eclipse-4d/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 249.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36334": {
+   "nombre": "GABINETE PARA AMPLIFICADOR DE BAJO MEGABASS 410",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/gabinete-para-amplificador-de-bajo-megabass-410/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 950.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36317": {
+   "nombre": "BAJO ELECTRICO PEAVEY MILES-5",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MILES5",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-peavey-miles-5/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 345.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36300": {
+   "nombre": "BAJO ELECTRICO PALMER PB4",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-palmer-pb4/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 179.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36256": {
+   "nombre": "BAJO ELECTRICO STRINBERG SAB400",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SAB400",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-strinberg-sab400/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 415.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36230": {
+   "nombre": "BAJO ELECTRICO ROLLINS ROL719",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "ROL719",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-rollins-rol-719/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 485.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "36004": {
+   "nombre": "SINTETIZADOR KORG KROME EX-61",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/sintetizador-korg-krome-ex-61/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1849.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "26149": {
+   "nombre": "MICRÓFONO INALÁMBRICO TMW-8000L",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "TMW8000L",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-8000l/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 167.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "26101": {
+   "nombre": "MICRÓFONO INALÁMBRICO FU-800",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "FU800",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-fu-800/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "26094": {
+   "nombre": "MICRÓFONO FU-658SW",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "FU658SW",
+   "url": "https://www.coopesa.com.sv/producto/microfono-fu-658/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 27.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "26089": {
+   "nombre": "MICRÓFONO FU-603",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "FU603",
+   "url": "https://www.coopesa.com.sv/producto/microfono-fu-603/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "26083": {
+   "nombre": "MICRÓFONO FU-929",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "FU929",
+   "url": "https://www.coopesa.com.sv/producto/microfono-fu-929/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "26076": {
+   "nombre": "MICRÓFONO FU-629",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "FU629",
+   "url": "https://www.coopesa.com.sv/producto/microfono-fu-629/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23944": {
+   "nombre": "MICRÓFONO PEAVEY PV7 XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pv7-xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23931": {
+   "nombre": "CABEZAL MINIAMPLIFICADOR DE BAJO MINIMEGA™ DE 1000 WATTS",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/cabezal-miniamplificador-de-bajo-minimega-de-1000-watts/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 825.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23915": {
+   "nombre": "AMPLIFICADOR PARA BAJO MAX250",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX250",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-max250/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 559.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23911": {
+   "nombre": "AMPLIFICADOR PARA TECLADO KB1",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-teclado-kb1/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 155.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23899": {
+   "nombre": "AMPLIFICADOR PARA BAJO MAX208",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX208",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-max208/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 475.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23544": {
+   "nombre": "MICROFONOS CONDENSADOR BEHRINGER",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfonos-condensador-behringer/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 75.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23531": {
+   "nombre": "TECLADO ROLLINS CON PEDESTAL INCLUIDO",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/teclado-rollins-con-pedestal-incluido/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 185.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23517": {
+   "nombre": "MICROFONO CONDENSADOR SB78A",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SB78A",
+   "url": "https://www.coopesa.com.sv/producto/microfono-condensador-sb78a/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23514": {
+   "nombre": "MICROFONO DINAMICO BEHRINGER XM8500",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "XM8500",
+   "url": "https://www.coopesa.com.sv/producto/microfono-dinamico-behringer-xm8500/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 45.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23460": {
+   "nombre": "AMPLIFICADOR PARA GUITARRA CHAMPION 100",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-guitarra-champion-100/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 900.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23455": {
+   "nombre": "AMPLIFICADOR PARA BAJO RUMBLE 100",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-rumble-100/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 700.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23450": {
+   "nombre": "AMPLIFICADOR PARA BAJO RUMBLE 40",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-rumble-40/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 470.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23422": {
+   "nombre": "MICRÓFONOS INALÁMBRICOS UHF SDM 420",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfonos-inalambricos-uhf-sdm-420/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23415": {
+   "nombre": "SISTEMA DE MICRÓFONO INALÁMBRICO UHF GW 2001",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/sistema-de-microfono-inalambrico-uhf-gw-2001/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23412": {
+   "nombre": "MICRÓFONO INALÁMBRICO UHF GW-850",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "GW850",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-uhf-gw-850/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23405": {
+   "nombre": "SISTEMA DE MICRÓFONO INALÁMBRICO GW R2000",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "R2000",
+   "url": "https://www.coopesa.com.sv/producto/sistema-de-microfono-inalambrico-gw-r200/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23398": {
+   "nombre": "MICROFONO INALAMBRICO UHF",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-uhf/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23393": {
+   "nombre": "TECLADO JEAN PAUL PSX E393",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/teclado-jean-paul-psx-e393/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 470.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23387": {
+   "nombre": "TECLADO JEAN PAUL PSX E283",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/teclado-jean-paul-psx-e283/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 360.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23340": {
+   "nombre": "PIANO DIGITAL ROLAND FP30 BK",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/piano-digital-roland-fp30-bk/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1799.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23335": {
+   "nombre": "GUITARRA ELECTROACUSTICA  COLOR NATURAL SD 200C",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-color-natural-sd-200c/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23328": {
+   "nombre": "GUITARRA ELECTROACUSTICA COLOR NATURAL STRINBERG SA 200C",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-strinberg-sa-200c/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23323": {
+   "nombre": "GUITARRA ELECTRICA STRATOCASTER STRINBERG STS150",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "STS150",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-stratocaster-strinbeg-sts150/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 425.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23318": {
+   "nombre": "GUITARRA ELECTROACUSTICA STRINBERG SD201HCR",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SD201HCR",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-strinberg-sd201hcr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 495.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23313": {
+   "nombre": "GUITARRA ELECTROACÚSTICA  GALAXY  SD301HCR",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SD301HCR",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-galaxy-sd301hcr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 690.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "23301": {
+   "nombre": "MICRÓFONO DINÁMICO BEHRINGER SL85S",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SL85S",
+   "url": "https://www.coopesa.com.sv/producto/microfono-dinamico-behringer-sl85s/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 40.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "22592": {
+   "nombre": "MICROFONO INALAMBRICO SHURE BLX188/CVLH",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "BLX188",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-shure-blx188-cvlh/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1155.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "22552": {
+   "nombre": "MICROFONO PARA INSTRUMENTOS SM57",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-para-instrumentos-sm57/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "22546": {
+   "nombre": "KIT DE MICROFONOS PARA BATERIA DMK57-52",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DMK5752",
+   "url": "https://www.coopesa.com.sv/producto/22546/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 871.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "22179": {
+   "nombre": "GUITARRA ELECTRICA ROL 711",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-rol-711/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21798": {
+   "nombre": "GUITARRA ELECTRICA SQUIER BULLET TELECASTER SUNBRUST",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-squier-bullet-telecaster-sunbrust/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 416.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21792": {
+   "nombre": "GUITARRA ELECTRICA SQUIER BULLET STRATOCASTER HSS",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-squier-bullet-stratocaster-hss/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 416.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21782": {
+   "nombre": "GUITARRA ELECTRICA SQUIER BULLET STRATOCASTER BSB",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-fender-squire-bullet-stratocaster/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 416.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21277": {
+   "nombre": "BAJO ELECTRICO IBANEZ GSRM25",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "GSRM25",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-ibanez-gsrm25/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 559.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21272": {
+   "nombre": "BAJO ELECTRICO IBANEZ GSR105",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "GSR105",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-ibanez-gsr105/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 410.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21267": {
+   "nombre": "SINTETIZADOR YAMAHA MODX6",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MODX6",
+   "url": "https://www.coopesa.com.sv/producto/sintetizador-yamaha-modx6/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 2234.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21262": {
+   "nombre": "SINTETIZADOR YAMAHA MX61",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/sintetizador-yamaha-mx61/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21165": {
+   "nombre": "SINTETIZADOR YAMAHA MX88",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/sintetizador-yamaha-mx88/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1869.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21153": {
+   "nombre": "BATERIA ACUSTICA DE 5 PIEZAS PDCE2215K",
+   "categoria": "bateria",
+   "tipo": "bateria",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PDCE2215K",
+   "url": "https://www.coopesa.com.sv/producto/bateria-acustica-de-5-piezas-pdce2215k/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "21145": {
+   "nombre": "TECLADO YAMAHA PSR SX600",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SX600",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-sx600/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 1428.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "20882": {
+   "nombre": "MICROFONO SHURE SM48-LC",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SM48LC",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm48-lc/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 97.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "19923": {
+   "nombre": "GUITARRA ELECTROACUSTICA PEAVEY CON ESTUCHE  2W/C",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-peavey-con-estuche-2w-c/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "19601": {
+   "nombre": "UKELELE STUDENT PEAVEY",
+   "categoria": "ukulele",
+   "tipo": "ukulele",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/ukele-student-peavey/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 95.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "18769": {
+   "nombre": "BATERIA ELECTRICA DB6V2 FOLD",
+   "categoria": "bateria",
+   "tipo": "bateria",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DB6V2",
+   "url": "https://www.coopesa.com.sv/producto/bateria-electrica-db6v2-fold/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 325.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "18254": {
+   "nombre": "GUITARRA CLASICA YAMAHA  C70",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-clasica-yamaha-c70/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "17525": {
+   "nombre": "GUITARRA ACUSTICA PEAVEY   DW-2GTR",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DW2GTR",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-acustica-peavey-dw-2gtr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 320.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "17131": {
+   "nombre": "MICROFONO INALAMBRICO VOYZ LB33",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-voyz-lb33/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "17095": {
+   "nombre": "GUITARRA ELECTROACUSTICA PALMER   PF25CEQ",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PF25CEQ",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-palmer-pf25ceq/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 339.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16484": {
+   "nombre": "REQUINTO ACUSTICO PALMER MARINA-VP",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/requinto-acustico-palmer-marina-vp/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16443": {
+   "nombre": "GUITARRA ELECTRICA ROLLINS ROL712",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "ROL712",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-rollins-rol712/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 265.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16438": {
+   "nombre": "UKELELE PALMER UKE-21",
+   "categoria": "ukulele",
+   "tipo": "ukulele",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "UKE21",
+   "url": "https://www.coopesa.com.sv/producto/ukulele-palmer-uke-21/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16400": {
+   "nombre": "UKELELE VIVALDI INS10107",
+   "categoria": "ukulele",
+   "tipo": "ukulele",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "INS10107",
+   "url": "https://www.coopesa.com.sv/producto/ukulele-vivaldi-ins10105/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 86.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16397": {
+   "nombre": "GUITARRA ELECTRICA SQUIER BY FENDER",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-squier-by-fender/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 359.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16326": {
+   "nombre": "GUITARRA ELECTRICA PEAVEY PS568340",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PS568340",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-peavey-ps568340/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 240.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15964": {
+   "nombre": "GUITARRA PALMER SPEC",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-spec/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15932": {
+   "nombre": "GUITARRA ELECTRICA PALMER LPS",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-palmer-lps/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15710": {
+   "nombre": "MICROFONO CON BLUETOOTH Y USB VZ 404BT",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "404BT",
+   "url": "https://www.coopesa.com.sv/producto/microfono-con-bluetooth-y-usb-vz-404bt/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15693": {
+   "nombre": "MICRÓFONO PEAVEY PV-MSP2XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PVMSP2XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pv-msp2xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15668": {
+   "nombre": "MICRÓFONO PEAVEY PVI3XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PVI3XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pvi3xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 52.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15523": {
+   "nombre": "AMPLIFICADOR PARA GUITARRA PEAVEY SOLO-D-C",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-guitarra-peavey-solo-d-c/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15512": {
+   "nombre": "AMPLIFICADOR PARA GUITARRA PEAVEY NANOVYPYR",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/nanovypyr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 137.57,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15483": {
+   "nombre": "MICROFONO TOPPRO TMW U1 100L",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-toppro-tmw-u1-100l/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15476": {
+   "nombre": "MICROFONO SKY SDM-663A",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM663A",
+   "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm-663a/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 37.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15465": {
+   "nombre": "MICROFONO INALAMBRICO SKY SDM-7702A",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM7702A",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-sky-sdm-7702a/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 295.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15458": {
+   "nombre": "MICROFONO SKY SDM-1400",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM1400",
+   "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm-1400/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15453": {
+   "nombre": "MICROFONO DE OIDO SKY MH-04",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-de-oido-sky-mh-04/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15425": {
+   "nombre": "MICROFONO TOA DE ESCRITORIO PM-660",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PM660",
+   "url": "https://www.coopesa.com.sv/producto/microfono-toa-de-escritorio-pm-660/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14975": {
+   "nombre": "BAJO ELECTRICO  PEAVEY MILESTONE 4 CUERDAS",
+   "categoria": "bajo",
+   "tipo": "bajo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bajo-electrico-peavey-milestone-4-cuerdas/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14697": {
+   "nombre": "BATERIA ACUSTICA PV 5PC",
+   "categoria": "bateria",
+   "tipo": "bateria",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bateria-acustica-pv-5pc-azul/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 669.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14686": {
+   "nombre": "AMPLIFICADOR PARA BAJO MAX300",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX300",
+   "url": "https://www.coopesa.com.sv/producto/combo-amplificado-para-bajo-max300/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 615.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14673": {
+   "nombre": "GUITARRA  PALMER ELECTROACUSTICA FINA CEQ",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-electroacustica-fina-ceq/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14558": {
+   "nombre": "MICROFONO SKY SDM400",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM400",
+   "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm400/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 43.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14554": {
+   "nombre": "MICROFONO SKY SDM305",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM305",
+   "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm305/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 8.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14549": {
+   "nombre": "MICROFONO SKY SDM288",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM288",
+   "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm288/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 16.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14509": {
+   "nombre": "MICROFONO INALAMBRICO SDM-5504",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM5504",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-sdm-5504/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14493": {
+   "nombre": "MICROFONO INALAMBRICO SDM-3500",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDM3500",
+   "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-sdm-3500/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 130.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14367": {
+   "nombre": "REQUINTO ELECTROACUSTICO PALMER SANDRA CEQF",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/requinto-electroacustico-palmer-sandra-ceqf/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 265.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14354": {
+   "nombre": "GUITARRA ACUSTICA PALMER SOFIA (Para niño)",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-acustica-palmer-sofia-para-nino/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 86.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14348": {
+   "nombre": "GUITARRA ELECTROACUSTICA  PALMER MICHELLE CEQ",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-palmer-michelle-ceq/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 365.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14326": {
+   "nombre": "GUITARRA PALMER ACUSTICA PC13-P",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PC13P",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-acustica-pc13/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14323": {
+   "nombre": "GUITARRA PALMER AMANDA PARA NIÑOS",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-amanda-clasica-39/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14287": {
+   "nombre": "BATERIA ELECTRICA YAMAHA DD-75",
+   "categoria": "bateria",
+   "tipo": "bateria",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/bateria-electrica-yamaha-dd-75/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 598.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14280": {
+   "nombre": "GUITARRA YAMAHA C40",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/guitarra-yamaha-c40/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14221": {
+   "nombre": "MICROFONO TOPP PRO TXL935",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "TXL935",
+   "url": "https://www.coopesa.com.sv/producto/microfono-topp-pro-txl935/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14218": {
+   "nombre": "MICROFONO TOPP PRO TXL235",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "TXL235",
+   "url": "https://www.coopesa.com.sv/producto/microfono-topp-pro-txl235/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14208": {
+   "nombre": "MICROFONO TOPP PRO TMW U1 100M",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-topp-pro-tmw-u1-100l/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 205.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14183": {
+   "nombre": "TECLADO YAMAHA PSR-E273",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PSRE273",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e273-2/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 231.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14178": {
+   "nombre": "TECLADO YAMAHA PSR-E473",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PSRE473",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e473/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 591.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14171": {
+   "nombre": "TECLADO YAMAHA PSR-F52",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PSRF52",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-f52/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 228.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14164": {
+   "nombre": "TECLADO YAMAHA PSR-E373",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PSRE373",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e373-2/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 366.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14150": {
+   "nombre": "TECLADO YAMAHA PSR-SX700",
+   "categoria": "piano",
+   "tipo": "piano",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PSRSX700",
+   "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-sx700/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 2128.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14069": {
+   "nombre": "MICROFONO SHURE SV200",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SV200",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-sv200/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 41.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14064": {
+   "nombre": "MICROFONO SHURE SV100",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SV100",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-sv100/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14060": {
+   "nombre": "MICROFONO PGADRUMKIT5",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGADRUMKIT5",
+   "url": "https://www.coopesa.com.sv/producto/microfono-pgadrumkit5/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 475.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14052": {
+   "nombre": "MICROFONO SHURE SM58S",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SM58S",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm58s/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 195.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14047": {
+   "nombre": "MICROFONO SHURE SM58-LC",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SM58LC",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm58-lc/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14042": {
+   "nombre": "MICROFONO SHURE SM48S-LC",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SM48SLC",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm48s-lc/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14030": {
+   "nombre": "MICROFONO SLX24-BETA87A",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SLX24BETA87A",
+   "url": "https://www.coopesa.com.sv/producto/microfono-slx24-beta87a/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 979.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14022": {
+   "nombre": "MICROFONO SHURE PGXD24-SM86",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGXD24SM86",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-pgxd24-sm86/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 650.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14007": {
+   "nombre": "MICROFONO SHURE PGA81-XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGA81XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga81-xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "14001": {
+   "nombre": "MICROFONO SHURE PGA58-QTR EXTENSIÓN XLR A 1/4",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGA58QTR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga58-qtr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13996": {
+   "nombre": "MICROFONO SHURE PGA58-XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGA58XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga58-xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 87.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13987": {
+   "nombre": "MICROFONO PGA57-XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGA57XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-pga57-xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13983": {
+   "nombre": "MICROFONO SHURE PGA48-QTR EXTENSIÓN XLR A 1/4",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGA48QTR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga48-qtr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13976": {
+   "nombre": "MICROFONO SHURE PGA48-XLR A XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PGA48XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga48-xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13974": {
+   "nombre": "MICROFONO PEAVEY PVi100XLR",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PVI100XLR",
+   "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pvi100xlr/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13970": {
+   "nombre": "MICROFONO SHURE MX418S/S",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MX418S",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-mx418s-s/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13964": {
+   "nombre": "MICROFONO SHURE MX418D/S",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MX418D",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-mx418d-s/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 499.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13956": {
+   "nombre": "MICROFONO SHURE MX418D/C",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MX418D",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-mx418d-c/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 499.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13952": {
+   "nombre": "MICROFONO SHURE GLXD24/SM58",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "GLXD24",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-glxd24-sm58/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 899.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13928": {
+   "nombre": "MICROFONO SHURE BLX24/SM58J",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "BLX24",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-blx24-sm58j/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 580.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13913": {
+   "nombre": "AMPLIFICADOR PEAVEY VYPYR VIP3 PARA GUITARRA ELECTRICA",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-vypyr-vip3-para-guitarra-electrica/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13906": {
+   "nombre": "AMPLIFICADOR PEAVEY RAGE258 PARA GUITARRA ELECTRICA",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "RAGE258",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-rage258-para-guitarra-electrica/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13890": {
+   "nombre": "AMPLIFICADOR PEAVEY RAGE158 PARA GUITARRA ELECTRICA",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "RAGE158",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-rage158-para-guitarra-electrica/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 140.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13867": {
+   "nombre": "MICROFONO SHURE BETA 58A",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-beta-58a/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13859": {
+   "nombre": "MICROFONO SHURE BLX14/P31J1",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "BLX14",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-blx14-p31/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 550.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13848": {
+   "nombre": "AUDIFONO SHURE SRH240A",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SRH240A",
+   "url": "https://www.coopesa.com.sv/producto/audifono-shure-srh240a/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 95.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13827": {
+   "nombre": "AMPLIFICADOR PEAVEY BACKSTAGE PARA GUITARRA ELECTRICA",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-backstage-para-guitarra-electrica/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 105.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13814": {
+   "nombre": "AMPLIFICADOR PEAVEY AUDITION PARA GUITARRA ELECTRICA",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-audition-para-guitarra-electrica/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13807": {
+   "nombre": "AMPLIFICADOR PEAVEY KB5 PARA TECLADO",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb5-para-teclado/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 755.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13799": {
+   "nombre": "AMPLIFICADOR PEAVEY KB4 PARA TECLADO",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb4-para-teclado/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 585.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13792": {
+   "nombre": "AMPLIFICADOR PEAVEY KB3 PARA TECLADO",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb3-para-teclado/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 415.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13779": {
+   "nombre": "AMPLIFICADOR PEAVEY KB2 PARA TECLADO",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb2-para-teclado/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 340.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13760": {
+   "nombre": "AMPLIFICADOR PARA BAJO ELECTRICO PEAVEY MAX158",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX158",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-electrico-peavey-max158/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 160.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13756": {
+   "nombre": "MICROFONO SHURE BLX1288P31J",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "BLX1288P31J",
+   "url": "https://www.coopesa.com.sv/producto/microfono-shure-blx128831j/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 975.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13750": {
+   "nombre": "AMPLIFICADOR PARA BAJO ELECTRICO PEAVEY MAX150",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX150",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-electrico-peavey-max150/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 445.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13745": {
+   "nombre": "AMPLIFICADOR PARA BAJO ELECTRICO PEAVEY MAX126",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX126",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-peavey-max126/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13719": {
+   "nombre": "AMPLIFICADOR PARA BAJO ELECTRICO PEAVEY MAX100",
+   "categoria": "amplificador",
+   "tipo": "amplificador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MAX100",
+   "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-electrico-peavey-max100/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13701": {
+   "nombre": "MICROFONO TOA WS5225",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "WS5225",
+   "url": "https://www.coopesa.com.sv/producto/microfono-toa-ws5225/",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T10:49:50-06:00",
+     "precio": 675.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  }
+ }
+}
