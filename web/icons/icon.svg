@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#161616"/>
+  <!-- etiqueta de precio con un escalon que baja: el historial -->
+  <path d="M112 176 H208 V256 H304 V336 H400" fill="none" stroke="#f6f5f1" stroke-width="28" stroke-linecap="square"/>
+  <circle cx="400" cy="336" r="26" fill="#4cc38a"/>
+  <path d="M112 384 H400" stroke="#f6f5f1" stroke-opacity=".35" stroke-width="10" stroke-dasharray="16 18"/>
+</svg>

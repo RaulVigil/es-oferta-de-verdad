@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.tmp
+.vercel/
+.DS_Store
+Thumbs.db
+
+# notas y reportes locales (no se publican)
+ANALISIS.md
+reportes/

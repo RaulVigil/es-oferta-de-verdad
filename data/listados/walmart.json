@@ -1,0 +1,4648 @@
+{
+ "comercial": "walmart",
+ "actualizado": "2026-10-20T12:51:51-06:00",
+ "listados": {
+  "102975": {
+   "nombre": "Cama Serta perfect balance firme matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "SERTA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cama-serta-perfect-balance-firme-matrimonial-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:21:26-06:00",
+     "precio": 445.0,
+     "precio_lista": 680.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111042": {
+   "nombre": "Pantalla Samsung LED Smart 4K UN55U8000FPXPA - 55 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN55U8000FPXPA",
+   "url": "https://www.walmart.com.sv/tratamiento-elvive-loreal-paris-serum-anticaida-con-aminexil-102-ml-8-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:20:18-06:00",
+     "precio": 400.95,
+     "precio_lista": 469.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111836": {
+   "nombre": "Pantalla Xiaomi LED Smart 4k - 55 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-xiaomi-led-smart-4k-55-pulgadas-1-in-2-54-cm-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:20:26-06:00",
+     "precio": 381.22,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111044": {
+   "nombre": "Pantalla Samsung LED Smart TV 2025 Crystal UHD 4K - 43 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-tv-2025-crystal-uhd-4k-43-pulgadas-1-in-2-54-cm-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 272.25,
+     "precio_lista": 329.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117948": {
+   "nombre": "Pantalla RCA Roku Qled 4k Smart TV - 50 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-rca-qled-50-roku-sv423-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 292.05,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117945": {
+   "nombre": "Pantalla Xiaomi 2026 - 43 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/tv-43-xiaomi-2026-sv5454-5-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 236.61,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111834": {
+   "nombre": "Pantalla Xiaomi Qled Smart 4K - 43 Pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-xiaomi-qled-smart-4k-43-pulgadas-1-in-2-54-cm-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 266.31,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "74650": {
+   "nombre": "Pantalla RCA Roku Smart LED HD RC40RK - 40 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 40,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC40RK",
+   "url": "https://www.walmart.com.sv/pantalla-rca-led-smart-rc40rk-hd-40-pulgadas-1-in-2-54-cm-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 197.01,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117954": {
+   "nombre": "Pantalla RCA Roku Smart QLED RC43QL - 43 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC43QL",
+   "url": "https://www.walmart.com.sv/pantalla-rca-qled-43-roku-sv9121-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 215.82,
+     "precio_lista": 289.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111944": {
+   "nombre": "Pantalla Xiaomi LED Smart QLED 4K - 55 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-xiaomi-smart-qled-4k-55-pulgadas-1-in-2-54-cm-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 459.0,
+     "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "92866": {
+   "nombre": "Pantalla Hotline Roku HL40RK LED Smart FHD - 40 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 40,
+   "medida": null,
+   "marca": "HOTLINE",
+   "modelo": "HL40RK",
+   "url": "https://www.walmart.com.sv/pantalla-hotline-led-smart-roku-fhd-40-in-1-in-2-54-cm-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 187.11,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111833": {
+   "nombre": "Pantalla Xiaomi LED Smart 4k - 50 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-xiaomi-led-smart-4k-50-pulgadas-1-in-2-54-cm-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 331.65,
+     "precio_lista": 369.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "126634": {
+   "nombre": "Samsung Smart Tv Mini Led 4k 50",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/samsung-smart-tv-mini-led-4k-50-sv6437-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 409.0,
+     "precio_lista": 518.67,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111076": {
+   "nombre": "Pantalla Samsung Un58u8000 LED Smart 4k - 58 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 58,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN58U8000",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-un58u8000-led-smart-4k-58-pulgadas-1-in-2-54-cm-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 464.31,
+     "precio_lista": 559.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "111051": {
+   "nombre": "Pantalla Samsung QLED  Smart TV QN55Q7FAA Ai 2025 - 55 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "QN55Q7FAA",
+   "url": "https://www.walmart.com.sv/55-qled-q7fsamsung-ai-smart-tv-2025-sv2910-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 435.0,
+     "precio_lista": 539.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "92867": {
+   "nombre": "Pantalla Hotline Smart TV Roku HL43RK - 43 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "HOTLINE",
+   "modelo": "HL43RK",
+   "url": "https://www.walmart.com.sv/pantalla-hotline-negra-43-in-1-in-2-54-cm-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 216.81,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "119441": {
+   "nombre": "Pantalla RCA RC58QL LED Smart Roku QLED - 58 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 58,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC58QL",
+   "url": "https://www.walmart.com.sv/pantalla-rca-qled-58-sv5320-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 434.61,
+     "precio_lista": 479.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117002": {
+   "nombre": "Pantalla LG Led Smart 2025 Ai 4k 50ua800 - 50 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "50UA800",
+   "url": "https://www.walmart.com.sv/lg-led-ai-50-4k-50ua800-smart-2025-sv7485-5-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 449.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "87237": {
+   "nombre": "Pantalla Hotline LED Smart  Roku 4K - 58 pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 58,
+   "medida": null,
+   "marca": "HOTLINE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-led-smart-hotline-roku-4k-58-pulgadas-1-in-2-54-cm-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 404.91,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "110510": {
+   "nombre": "Pantalla Durabrand Qled Smart 4k Google Tv - 55 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/qled-smart-4k-55-durabrand-google-tv-sv5589-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 399.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "87238": {
+   "nombre": "Pantalla Hotline LED Smart Roku HL50RK 4K - 50 pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "HOTLINE",
+   "modelo": "HL50RK",
+   "url": "https://www.walmart.com.sv/pantalla-hotline-led-smart-roku-hl50rk-4k-50-pulgadas-1-in-2-54-cm-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 309.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "126640": {
+   "nombre": "Samsung Smart Tv Mini Led 4k 55",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/samsung-smart-tv-mini-led-4k-55-sv783-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 430.65,
+     "precio_lista": 597.77,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117958": {
+   "nombre": "Pantalla Roku Tv Hotline Qled - 50 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "HOTLINE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-hotline-qled-50-roku-sv1839-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 359.0,
+     "precio_lista": 359.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117952": {
+   "nombre": "Pantalla RCA QLED Roku - 40 Pulgadas (1 in = 2.54cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 40,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-rca-qled-40-roku-sv1282-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 224.42,
+     "precio_lista": 249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "110519": {
+   "nombre": "Pantalla Durabrand Led Smart 4k Google Tv DURA50GFU - 50 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DURA50GFU",
+   "url": "https://www.walmart.com.sv/led-smart-4k-50-durabrand-google-tv-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 325.71,
+     "precio_lista": 329.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "64541": {
+   "nombre": "Pantalla Durabrand HQLED Smart TV 4K - 55 Pulgadas  (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-durabrand-hqled-smart-tv-4k-55-pulgadas-1-in-2-54-cm-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 459.0,
+     "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "52445": {
+   "nombre": "Cama Masterbed Matrimonial One Pillow Confort Firme y Suave",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "MASTERBED",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cama-masterbed-matrimonial-one-pillow-confort-firme-y-suave-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 166.6,
+     "precio_lista": 210.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "57600": {
+   "nombre": "Cama Olympia Matrimonial Duo Sense Confort Firme",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "OLYMPIA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cama-olympia-matrimonial-duo-sense-confort-firme-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 175.0,
+     "precio_lista": 175.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "50708": {
+   "nombre": "Cama Espumar Tamaño matrimonial Floresta Plus No Turn",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "ESPUMAR",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cama-espumar-tamano-matrimonial-floresta-plus-no-turn/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 208.55,
+     "precio_lista": 215.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "83193": {
+   "nombre": "Cama Master Bed Tamaño Matrimonial de tecnología americana",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "MASTERBED",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cama-master-bed-tamano-matrimonial-de-tecnologia-americana/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 249.9,
+     "precio_lista": 306.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "52444": {
+   "nombre": "Cama Matrimonial Masterbed Doble Pillow Confort Firme",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "MASTERBED",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cama-masterbed-tamano-matrimonial-doble-pillow-confort-firme/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:36:47-06:00",
+     "precio": 255.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123042": {
+   "nombre": "Teclado Trust",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/teclado-trust-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 44.99,
+     "precio_lista": 44.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123025": {
+   "nombre": "Teclado Numérico Trust Xalas Ultradelgado USB Negro",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/teclado-numerico-ala-trust-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 9.99,
+     "precio_lista": 9.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43425": {
+   "nombre": "Closet Armable Mainstays Con Niveles - Unidad",
+   "categoria": "ropero",
+   "tipo": "ropero",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/closet-armable-mainstays-con-niveles-unidad-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 25.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43424": {
+   "nombre": "Closet Armable Mainstays Color Blanco - 60 Pulgadas",
+   "categoria": "ropero",
+   "tipo": "ropero",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/closet-armable-mainstays-color-blanco-60-pulgadas/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "82232": {
+   "nombre": "Closet Mainstays Tradicional Eco Wengue 185 x 100 x 51cm",
+   "categoria": "ropero",
+   "tipo": "ropero",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/closet-mainstays-tradicional-eco-wengue-185x100x51cm-4-5-8-6-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 225.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "82231": {
+   "nombre": "Closet Mainstays bariloche wengue 1.78 x 1.47 x 0.48 m",
+   "categoria": "ropero",
+   "tipo": "ropero",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/closet-mainstays-bariloche-wengue-1-78-x-1-47x-0-48-m/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 250.0,
+     "precio_lista": 315.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "59546": {
+   "nombre": "Armario Con Espejo Mainstay, Con Compartimientos Internos Y Externos",
+   "categoria": "ropero",
+   "tipo": "ropero",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/armario-woman-con-espejo-mainstays/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T11:54:08-06:00",
+     "precio": 238.5,
+     "precio_lista": 265.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "59161": {
+   "nombre": "Silla Mainstays secretarial sin brazos",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/haus-silla-secretarial-sin-brazos/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 40.0,
+     "precio_lista": 40.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "59160": {
+   "nombre": "Silla Mainstays secretarial con descansa brazos",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/haus-silla-secretarial-con-brazos/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 61.9,
+     "precio_lista": 61.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "121473": {
+   "nombre": "Silla Gamer Negracon Masajea y Posa Pies",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/silla-gamer-negracon-masajea-y-posa-pies-sv3537-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 120.0,
+     "precio_lista": 172.89,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "121496": {
+   "nombre": "Silla gamer roja Mainstays con masaje y reposapiés",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/silla-gamer-roja-con-masajea-y-posa-pies-sv2505-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 120.0,
+     "precio_lista": 172.89,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "70211": {
+   "nombre": "Nintendo Switch OLED",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/juego-nintendo-switch-oled-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 543.51,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "57384": {
+   "nombre": "Consola Nintendo Switch 1 1",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/consola-nintendo-switch-neon-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 460.35,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "109869": {
+   "nombre": "Consola Nintendo Switch Mario Wonder",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/consolas-nintendo-nintendo-consola-nintendo-switch-2-sin-juego-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 777.15,
+     "precio_lista": 785.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "109859": {
+   "nombre": "Nintendo Switch OLED Mario Kart 8 Deluxe Bundle (Physical Game Included)",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/consolas-nintendo-nintendo-consola-nintendo-switch-2-mario-kart-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 829.0,
+     "precio_lista": 839.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "125136": {
+   "nombre": "Consola Play Station 5 Disco Standart",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/consola-play-station-5-disco-standart-sv9105-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 935.0,
+     "precio_lista": 935.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122208": {
+   "nombre": "Laptop Hp R5 7560u 8GB 512GB Almacenamiento",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "7560U",
+   "url": "https://www.walmart.com.sv/laptop-hp-r5-7560u-8gb-512gb-sv4735-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 909.81,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122191": {
+   "nombre": "Laptop HP Procesador Ryzen 5 con 8GB RAM y 512GB Almacenamiento - 14 pulgadas  (1 in = 2.54 cm)",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/laptop-hp-r5-7535hs-8gb-512gb-sv5684-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "118098": {
+   "nombre": "Laptop Acer Nitro v 15 6in Ci5 16gb 1tb",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ACER",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/laptop-acer-nitro-v-15-6in-ci5-16gb-1tb-sv6778-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 1375.0,
+     "precio_lista": 1375.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122193": {
+   "nombre": "Laptop HP Procesador Ci5 con 8GB RAM y 512GB Almacenamiento - 14 pulgadas (1 in = 2.54 cm)",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/laptop-hp-i5-120u-8gb-512gb-sv5292-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 731.61,
+     "precio_lista": 739.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122292": {
+   "nombre": "Laptop Lenovo Procesador Ci5 512GB Almacenamiento - 15.6 pulgadas",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LENOVO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/ideapad-lenovo-ci5-8gb-512gb-sv1994-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 795.0,
+     "precio_lista": 795.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122192": {
+   "nombre": "Laptop HP Procesador Ryzen 7 con 8 GB RAM y 512GB Almacenamiento - 15 pulgadas",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/laptop-hp-r7-730u-8gb-512gb-sv736-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:06:56-06:00",
+     "precio": 751.41,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "128132": {
+   "nombre": "Hp Victus B5eq3uaaba I516ram512ssd 15.6",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "I516RAM512SSD",
+   "url": "https://www.walmart.com.sv/hp-victus-b5eq3uaaba-i516ram512ssd-156-sv8115-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:25:53-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123027": {
+   "nombre": "Mouse Ergonómico Trust Bayo II Diseño Certificado de 57° Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ergonomico-ala-trust-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 22.99,
+     "precio_lista": 22.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123055": {
+   "nombre": "Mouse Inalámbrico Trust Ozaa Multidispositivo Silencioso Azul",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ina-recargable-trust-sv6154-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 34.99,
+     "precio_lista": 34.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123056": {
+   "nombre": "Mouse Inalámbrico Trust Ozaa Multidispositivo Silencioso Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ina-recargable-trust-sv9795-5-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 34.99,
+     "precio_lista": 34.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123036": {
+   "nombre": "Mouse Inalámbrico Ergonómico Trust Bayo II Recargable Blanco",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ergonomico-ina-trust-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 29.99,
+     "precio_lista": 29.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123057": {
+   "nombre": "Mouse Gamer Inalámbrico GXTrust 110 Felox Recargable Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-gaming-ina-trust-sv2872-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 21.99,
+     "precio_lista": 21.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123035": {
+   "nombre": "Mouse Gamer Inalámbrico GXTrust 110 Felox Recargable Blanco",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-gaming-ina-trust-3-3-2-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 21.99,
+     "precio_lista": 21.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123028": {
+   "nombre": "Mouse Gamer Inalámbrico GXTrust 931 Ybar Dual/BT Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-gaming-ina-regargable-trust-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 31.99,
+     "precio_lista": 31.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "52418": {
+   "nombre": "Repisa Mainstays Para Pared  Jx-18E211",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "JX18E211",
+   "url": "https://www.walmart.com.sv/repisa-mainstays-para-pared-jx-18e211-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 17.5,
+     "precio_lista": 17.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "52419": {
+   "nombre": "Repisa Mainstays Para Pared Jx-18E254A",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "JX18E254A",
+   "url": "https://www.walmart.com.sv/repisa-mainstays-para-pared-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 11.5,
+     "precio_lista": 14.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97319": {
+   "nombre": "Estante Para Casco De Motocicleta Montad",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AUTO DRIVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/estante-para-casco-de-motocicleta-montad-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 9.25,
+     "precio_lista": 9.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "60859": {
+   "nombre": "Estante Mainstays 4 Compartimentos Blanco",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/estante-mainstays-4-compartimentos-blanco-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 40.0,
+     "precio_lista": 50.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "90184": {
+   "nombre": "Estante Seco 3 Niveles Sobre La Puerta",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/estante-seco-3-niveles-sobre-la-puerta-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 17.0,
+     "precio_lista": 17.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "60161": {
+   "nombre": "Estante de esquina Mainstays de 6 niveles modelo: YS8180",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "YS8180",
+   "url": "https://www.walmart.com.sv/librera-mainstays-de-6-niveles-modelo-ys8177-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 42.3,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "74170": {
+   "nombre": "Estante Mainstays Para Baño Color Blanco 3 Niveles",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/ms-estante-para-bano-blanco-3-niv/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 12.25,
+     "precio_lista": 12.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "105797": {
+   "nombre": "Estante de 5 niveles plástico color negro medidas - 190x45x90cm",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "POLYCAR DE MEXICO, S",
+   "modelo": "190X45X90CM",
+   "url": "https://www.walmart.com.sv/estanteria-de-plastico-praktiko-5-nivele-6-0-4-6-8-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 55.0,
+     "precio_lista": 55.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "60160": {
+   "nombre": "Librera de esquina Mainstays de 6 niveles YS8176",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "YS8176",
+   "url": "https://www.walmart.com.sv/estante-de-esquina-mainstays-de-6-niveles-ys8176-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 40.0,
+     "precio_lista": 52.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "105811": {
+   "nombre": "Estantería Poly de plástico 4 niveles",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "POLYCAR DE MEXICO, S",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/estanteria-de-plastico-poly-4-niveles-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 41.4,
+     "precio_lista": 45.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "50134": {
+   "nombre": "Estanteria Handi Works De Acero 5 Pisos - Unidad",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HANDI WORKS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/estanteria-handi-works-de-acero-5-pisos-unidad/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 58.5,
+     "precio_lista": 65.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "52394": {
+   "nombre": "Librero Mainstays con 3 divisiones color café",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/librero-mainstays-con-3-divisiones-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "52392": {
+   "nombre": "Librero Mainstays con 3 divisiones color negro",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/librero-mainstays-con-3-divisiones-color-negro-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 33.0,
+     "precio_lista": 33.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "59175": {
+   "nombre": "Escritorio Mainstays para computadora",
+   "categoria": "escritorio",
+   "tipo": "escritorio",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/escritorio-mainstays-para-computadora-color-variado-modelo-jx18b184b-s479/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 45.9,
+     "precio_lista": 45.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "59174": {
+   "nombre": "Escritorio Mainstays para computadora JX-18B184A",
+   "categoria": "escritorio",
+   "tipo": "escritorio",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "JX18B184A",
+   "url": "https://www.walmart.com.sv/escritorio-mainstays-para-computadora-jx18b184a-s478/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 45.0,
+     "precio_lista": 45.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101258": {
+   "nombre": "Audífonos Marley Champion2",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MARLEY",
+   "modelo": "CHAMPION2",
+   "url": "https://www.walmart.com.sv/marley-audifono-tws-champion2-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 74.0,
+     "precio_lista": 74.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99706": {
+   "nombre": "Audífonos Durabrand Alámbricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-durabrand-s438/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 2.0,
+     "precio_lista": 2.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "94498": {
+   "nombre": "Audífonos Durabrand Alámbricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-durabrand-a1266/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 2.0,
+     "precio_lista": 2.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "100097": {
+   "nombre": "Audifonos Durabrand Inalambricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/durabrand-audifonos-inalambricos-s851/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 14.5,
+     "precio_lista": 14.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99699": {
+   "nombre": "Audífonos Durabrand Alámbricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-durabrand-s437/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 2.0,
+     "precio_lista": 2.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97151": {
+   "nombre": "Audífonos Durabrand Alámbricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-durabrand-s17/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 3.5,
+     "precio_lista": 3.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101173": {
+   "nombre": "Audifonos Xtech Stich Disney",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XTECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/xtech-bt-stich-tws-disney-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 19.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "115124": {
+   "nombre": "Audífonos Durabrand Inalámbricos Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-bluetooth-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 22.0,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101255": {
+   "nombre": "Audifonos Marley Frequency Rasta",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MARLEY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/marley-audif-bt-frequency-rasta-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 79.0,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97919": {
+   "nombre": "Audífonos Motorola Motobuds Plus",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MOTOROLA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-motorola-motobuds-plus-s99/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 79.0,
+     "precio_lista": 125.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101165": {
+   "nombre": "Audifonos Klipxtreme Diadema Zoundtune",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/klipxtreme-audif-diad-zoundtune-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 14.0,
+     "precio_lista": 14.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "120350": {
+   "nombre": "Audífonos Motorola Buds Bass Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MOTOROLA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/motobuds2-motorola-sv3496-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 29.0,
+     "precio_lista": 39.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97910": {
+   "nombre": "Audífonos Maxell entrada tipo C",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-maxell-entrada-tipo-c-s16/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 9.0,
+     "precio_lista": 9.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "119556": {
+   "nombre": "Audífonos Klipxtreme Buds-Fi Inalámbricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/buds-fi-klipxtreme-audifonos-sv6583-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 17.0,
+     "precio_lista": 17.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "115126": {
+   "nombre": "Audífonos Durabrand Inalámbricos Bluetooth LED",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-bluetoot-led-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 32.0,
+     "precio_lista": 32.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99519": {
+   "nombre": "Audífonos Groove Onn Intrauditivos Estéreo",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ONN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/onn-auriculares-intrauditivos-s237/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 4.0,
+     "precio_lista": 4.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "120349": {
+   "nombre": "Audífonos inalambricos Motorola Moto Loops",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MOTOROLA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/moto-loops-motorola-sv9326-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 89.0,
+     "precio_lista": 115.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "115121": {
+   "nombre": "Audífonos Durabrand Inalámbricos con Banda",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-con-banda-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 14.9,
+     "precio_lista": 14.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101254": {
+   "nombre": "Audífonos Marley Bluetooth XL ANC",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MARLEY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/marley-audif-bt-xl-anc-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 119.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99507": {
+   "nombre": "Audífonos Groove Onn Intrauditivos Estéreo",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ONN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/onn-auriculares-intrauditivos-s236/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 4.0,
+     "precio_lista": 4.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "120739": {
+   "nombre": "Audífonos Samsung Galaxy Buds 4",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/samsung-buds-4-sv8148-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 145.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "70239": {
+   "nombre": "Audifonos  Klip Xtreme  Buds Deportivo",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-inalambricos-kte-500-xtrmebuds/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 36.0,
+     "precio_lista": 36.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "105849": {
+   "nombre": "Audífonos Airpods 4 Apple Inalámbrico",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "APPLE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/airpods-4-apple-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 189.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99701": {
+   "nombre": "Audífonos Groove Onn Intrauditivos Inalambricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ONN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/onn-auriculares-inalambricos-intrauditiv-s434/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 8.5,
+     "precio_lista": 8.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97904": {
+   "nombre": "Audífonos Maxell Inbax con micrófono",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-maxell-con-microfono-in-bax-s14/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 1.99,
+     "precio_lista": 1.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "81403": {
+   "nombre": "Audífonos Apple Beasts Studio Buds",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "APPLE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-apple-beasts-studio-buds/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 195.0,
+     "precio_lista": 195.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "44461": {
+   "nombre": "Audífonos I2GO Multicolor Alámbricos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-i2-go-multicolor/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 4.5,
+     "precio_lista": 4.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "120736": {
+   "nombre": "Audífonos Samsung Galaxy Buds 4 Pro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/samsung-buds-4-pro-sv6686-5-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 263.62,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "90189": {
+   "nombre": "Audífonos inalámbricos Samsung galaxy buds3 Pro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "BUDS3",
+   "url": "https://www.walmart.com.sv/audifonos-inalambricos-samsung-galaxy-buds3-pro-s869/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 129.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "118791": {
+   "nombre": "Audífonos JBL Inalámbrico Vibe Beam 2",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vibe-bean-2-jbl-audifonos-sv7280-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 54.0,
+     "precio_lista": 54.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "118112": {
+   "nombre": "Audífonos Apple Beats Solo Buts negros",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "APPLE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-apple-beats-solo-buts-nc-sv5122-5-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97903": {
+   "nombre": "Audífonos Maxell con micrófono HP B52",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-maxell-con-microfono-hp-b52-s13/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 20.0,
+     "precio_lista": 20.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "105852": {
+   "nombre": "Audífonos Airpods 4 Apple Inalámbrico Blanco",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "APPLE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/airpods-4-apple-nc-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 259.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97531": {
+   "nombre": "Audífonos Argom Ultimate Sound Live Wired",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-argom-ultimate-sound-live-wire-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 24.99,
+     "precio_lista": 24.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "113861": {
+   "nombre": "Audífonos Samsung Galaxy Core Inalámbrico Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-samsung-galaxy-core-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 47.0,
+     "precio_lista": 54.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "115132": {
+   "nombre": "Audífonos Durabrand Inalámbricos ANC con LCD",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-anc-con-lcd-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "90183": {
+   "nombre": "Audífonos Samsung galaxy buds3 inalámbricos colores surtidos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "BUDS3",
+   "url": "https://www.walmart.com.sv/audifonos-samsung-galaxy-buds3-inalambricos-colores-surtido-s868/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 134.0,
+     "precio_lista": 165.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97902": {
+   "nombre": "Audífonos Maxell in ear con micrófono integrado",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-maxell-in-ear-cable-trenzado-s15/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 9.99,
+     "precio_lista": 9.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "62775": {
+   "nombre": "Audífonos intraaurales JBL Tune 110 color Blanco",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-alambricos-jbl-tune-110-con-microfono-incorporado-blancos/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 10.0,
+     "precio_lista": 10.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "114172": {
+   "nombre": "Audífonos JBL Inalámbrico Live Buds 3 Silver",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/jbl-live-buds-3-silver-sv1386-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 125.0,
+     "precio_lista": 209.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101261": {
+   "nombre": "Audifonos Marley Diadema Bt Positiv Riddim Crem",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MARLEY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/marley-audif-bt-oreja-riddim-rasta-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 59.0,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97527": {
+   "nombre": "Audífonos Argo Skeipods E56 True Wireless Stereo",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audi-skeipods-argom-e56-t-wire-stere-1ea-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "83158": {
+   "nombre": "Audífonos I2GO con Microfono City Go",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-i2-go-con-microfono-city-go-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 4.0,
+     "precio_lista": 4.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "82019": {
+   "nombre": "Audífonos Maxell XC1 Alámbricos conector USB-C Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-alambricos-maxell-xc1-conector-usb-c-negro/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 10.99,
+     "precio_lista": 10.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "120176": {
+   "nombre": "Audífonos Xiaomi Redmi Buds 8 Active colores surtidos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-xiaomi-redmi-buds-8-active-sv3341-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 20.0,
+     "precio_lista": 20.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97909": {
+   "nombre": "Audífonos Maxell INBAX Alámbricos con micrófono y conector USB-C",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-alambricos-maxell-inbax-con-microfono-y-conector-usb-c/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 4.99,
+     "precio_lista": 4.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "119389": {
+   "nombre": "Audífonos Argom Skeipods Clip On Up to 25Hrs AI ENC",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "25HRS",
+   "url": "https://www.walmart.com.sv/argom-skeipods-clip-on-upto25hrs-ai-enc-sv4206-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 24.0,
+     "precio_lista": 24.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "83166": {
+   "nombre": "Audífonos I2GO PROEAR023 con micrófono conector tipo C",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "PROEAR023",
+   "url": "https://www.walmart.com.sv/audifono-i2go-microfono-control-tipo-c/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 8.99,
+     "precio_lista": 8.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "83155": {
+   "nombre": "Audífonos I2GO In Ear con Microfono Y Control de Volumen",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-i2go-microfono-control-llamada/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 6.99,
+     "precio_lista": 6.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "118181": {
+   "nombre": "Audífonos Xiaomi Redmi Buds 8 Lite Inalámbrico colores surtidos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/buds-xiaomi-redmi-8-lite-tws-sv6550-5-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 23.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "89063": {
+   "nombre": "Audífonos circumaurales inalámbricos JBL Tune 770 cancelacion de ruido color Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-jbl-tune-770nc-diadema-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 95.0,
+     "precio_lista": 95.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "78262": {
+   "nombre": "Audífonos I2GO Alámbricos de gata con micrófono conector 3.5 mm",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-i2go-c-microfono-gato-3-5mm/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 19.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "71850": {
+   "nombre": "Audífonos inalámbricos premium KlipXtreme Style modelo KWH-750CO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KWH750CO",
+   "url": "https://www.walmart.com.sv/audifonos-marca-klip-xtreme-premiun-v5-cuenta-con-bluetooth-40-h-de-carga-modelo-kwh750/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 43.0,
+     "precio_lista": 43.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "53480": {
+   "nombre": "Audífono I2Go Urban Series",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-urban-series-i2go/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 5.99,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "82021": {
+   "nombre": "Audifono Maxell Dynamic Black",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifono-maxell-dynamic-black/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "84429": {
+   "nombre": "Audifono Klip Xtreme HI FI ANC WLS AZ BT KNH750",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KNH750",
+   "url": "https://www.walmart.com.sv/audifono-klip-xtreme-hi-fi-anc-wls-az-bt-knh750-s1011/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 59.0,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "72403": {
+   "nombre": "Auriculares Electrónica de tela -1.2m",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SIN MARCA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/auriculares-marca-electronica-de-tela-1-2m/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 1.25,
+     "precio_lista": 1.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123034": {
+   "nombre": "Mouse Trust",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-trust-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 19.99,
+     "precio_lista": 19.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123073": {
+   "nombre": "Mouse Ergonomico Ina Trust",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ergonomico-ina-trust-sv5665-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 29.99,
+     "precio_lista": 29.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123045": {
+   "nombre": "Mouse ergonómico Targus inalámbrico vertical",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ina-ergonomico-trust-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 24.99,
+     "precio_lista": 24.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43230": {
+   "nombre": "Mouse Gaming Argomtech Ms2042 USB 7 Botones",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "MS2042",
+   "url": "https://www.walmart.com.sv/mouse-gaming-argom-usb-7-botones-ms2042-3200-dpi-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 10.0,
+     "precio_lista": 12.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "70009": {
+   "nombre": "Mouse Babaria, Limpiador Facial Cremoso - 150 ml",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "BABARIA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-babaria-limpiador-facial-cremoso-150-ml/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 10.2,
+     "precio_lista": 10.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40530": {
+   "nombre": "Mouse gamer inalámbrico Logitech G305 LIGHTSPEED Color Azul",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-gaming-logitech-g305-lightspeed-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 49.0,
+     "precio_lista": 49.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "75042": {
+   "nombre": "Mezcladora Para Lavabo Mainstays Acero Inoxidable Cuello Curvo - 4 Pulgadas",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HYPER TOUGH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mezcladora-para-lavabo-mainstays-acero-inoxidable-cuello-curvo-4-pulgadas-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 24.0,
+     "precio_lista": 24.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "75041": {
+   "nombre": "Mezcladora Para Lavabo Mainstays Acero Inoxidable Cuello Bar - 4 Pulgadas",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HYPER TOUGH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mezcladora-para-lavabo-mainstays-acero-inoxidable-cuello-bar-4-pulgadas-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 20.0,
+     "precio_lista": 24.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "70797": {
+   "nombre": "Ducha Electrica Hyper Tough 3 Temperaturas",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HYPER TOUGH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/ducha-electrica-3temperaturas/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 17.9,
+     "precio_lista": 17.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "70798": {
+   "nombre": "Ducha Electrica Hyper Tough 4 Temperaturas Con Niple",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HYPER TOUGH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/ducha-electrica-4temperaturas-con-niple/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 26.5,
+     "precio_lista": 26.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "75028": {
+   "nombre": "Regadera Redonda Mainstays Metálica 3 1/2 Pulgadas",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HYPER TOUGH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/regadera-redonda-mainstays-metalica-3-1-2-pulgadas/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 6.6,
+     "precio_lista": 6.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "53212": {
+   "nombre": "Regadera Metalic. 3 1/2 in Yd0148 (1 in = 2.54 cm)",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WOLFOX",
+   "modelo": "YD0148",
+   "url": "https://www.walmart.com.sv/regadera-metalic-3-1-2plg-yd0148/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 9.65,
+     "precio_lista": 9.65,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "51828": {
+   "nombre": "Mezcladora Kid Connention con bloques",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KID CONNECTION",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mezcladora-kidz-time-con-bloques-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 17.5,
+     "precio_lista": 17.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "75040": {
+   "nombre": "Mezcladora Para Fregadero Mainstays Acero Inoxidable Cuello de Ganso - 8 Pulgadas",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HYPER TOUGH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mezcladora-para-fregadero-mainstays-acero-inoxidable-cuello-de-ganso-8-pulgadas-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 22.5,
+     "precio_lista": 30.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101451": {
+   "nombre": "Refrigeradora Oster OS NFMI1502ESDI 409 L Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "NFMI1502ESDI",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-os-nfmi1502esdi-gris-metalico-con-dispensador-de-agua-capacidad-409-l-14-pies-cubicos-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 632.61,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "88986": {
+   "nombre": "Refrigeradora Durabrand DUCRF162CAM 92 L inoxidable",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DUCRF162CAM",
+   "url": "https://www.walmart.com.sv/mini-frigobar-durabrand-color-gris-acero-inoxidable-1-ud-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 188.1,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "87372": {
+   "nombre": "Refrigeradora Oster OSFDNFS2002PVDI 20 pies cúbicos French",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "OSFDNFS2002PVDI",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-mod-os-fdnfs2002pvdi-french-door-no-frost-575lts-20-3pc-inverter-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 989.0,
+     "precio_lista": 989.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123000": {
+   "nombre": "Refrigeradora Whirlpool WRJ43BKTWW 14 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WRJ43BKTWW",
+   "url": "https://www.walmart.com.sv/refrigerador-whirlpool-tm-14pc-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 765.0,
+     "precio_lista": 765.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "107313": {
+   "nombre": "Refrigeradora Oster OS NFMI1202SDI 12 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "NFMI1202SDI",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-silver-os-nfmi1202sdi-12-pies-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 550.54,
+     "precio_lista": 550.54,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "83145": {
+   "nombre": "Refrigeradora Oster OS DFMI173V 6 pies cúbicos inoxidable",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "DFMI173V",
+   "url": "https://www.walmart.com.sv/refrigeradora-defrost-oster-os-dfmi173v-inox-capacidad-173-l-6-pies-cubicos-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 262.35,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "88977": {
+   "nombre": "Refrigeradora Durabrand DUFRF068CAM 18 pies cúbicos French",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DUFRF068CAM",
+   "url": "https://www.walmart.com.sv/refrigerador-durabrand-french-door-con-dispensador-de-agua-y-frost-free-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 769.0,
+     "precio_lista": 769.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101023": {
+   "nombre": "Refrigeradora Whirlpool WT02409D 9 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WT02409D",
+   "url": "https://www.walmart.com.sv/refrigeradora-whirlpool-inverter-9-pies-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 449.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "124773": {
+   "nombre": "Refrigeradora Whirlpool WRW45BKTWW 15 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WRW45BKTWW",
+   "url": "https://www.walmart.com.sv/whirlpool-refrigerad-tm-15pc-0-0-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 855.0,
+     "precio_lista": 855.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "46600": {
+   "nombre": "Refrigeradora Whirlpool WT1756A 17 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WT1756A",
+   "url": "https://www.walmart.com.sv/refrigeradora-top-mount-whirlpool-wt1756a-17-pies-cubicos-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 692.01,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "83143": {
+   "nombre": "Refrigeradora Oster OSMBG93PBV 3.3 pies cúbicos inoxidable",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "OSMBG93PBV",
+   "url": "https://www.walmart.com.sv/minibar-oster-mod-os-mbg93pbv-cap-93-lts-3-2pc-color-negro-con-puerta-color-inox-luz-interior-puerta-reversible-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 184.5,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122568": {
+   "nombre": "Refrigeradora Mabe RMA1300FHCAE 300 L aproximadamente Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MABE",
+   "modelo": "RMA1300FHCAE",
+   "url": "https://www.walmart.com.sv/refri-mabe-11ft-sindisp-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 409.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "98126": {
+   "nombre": "Refrigeradora Oster OS MNFT17SSEI 17 pies cúbicos French",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "MNFT17SSEI",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-os-mnft17ssei-17-pies-cubicos-multidoor-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 919.71,
+     "precio_lista": 929.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101024": {
+   "nombre": "Refrigeradora Whirlpool WT32409D 9 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WT32409D",
+   "url": "https://www.walmart.com.sv/refrigeradora-whirlpool-acero-inoxidable-9-pies-cubicos-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 479.0,
+     "precio_lista": 479.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "89002": {
+   "nombre": "Refrigeradora Durabrand DUWTT302CAM 10 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DUWTT302CAM",
+   "url": "https://www.walmart.com.sv/refrigeradora-durabrand-inverter-10-5-pies-cubicos-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 444.51,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "55970": {
+   "nombre": "Refrigeradora Oster OS SBSH115BG 429 L  15.2 pies cúbicos Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "SBSH115BG",
+   "url": "https://www.walmart.com.sv/refrigerador-side-by-side-oster-15-pc-color-negro-frente-de-vidrio-templado-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 989.0,
+     "precio_lista": 989.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97933": {
+   "nombre": "Refrigeradora Samsung RT53DG6124S9AP 18 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "RT53DG6124S9AP",
+   "url": "https://www.walmart.com.sv/ref-rt53dg6124-samsung-18-ft-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 612.81,
+     "precio_lista": 679.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "69194": {
+   "nombre": "Refrigeradora Oster OS DFMI187VD 6 pies cúbicos dispensador agua",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "DFMI187VD",
+   "url": "https://www.walmart.com.sv/refrigeradora-defrost-oster-os-dfmi187vd-plateada-con-dispensador-6-6-pies-cubicos-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 345.0,
+     "precio_lista": 345.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "123325": {
+   "nombre": "Refrigeradora Oster OSMDS1902IWW 560 L aproximadamente Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "OSMDS1902IWW",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-os-mds1902iww-inverter-20-ft3-multidoor-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 876.15,
+     "precio_lista": 935.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122548": {
+   "nombre": "Refrigeradora Mabe MSM631LKLSS0 631 L Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MABE",
+   "modelo": "MSM631LKLSS0",
+   "url": "https://www.walmart.com.sv/refrig-mabe-22ft-sbs-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 751.41,
+     "precio_lista": 929.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "88988": {
+   "nombre": "Refrigeradora Durabrand DUSRF112CAM 15 pies cúbicos Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DUSRF112CAM",
+   "url": "https://www.walmart.com.sv/refrigerador-durabrand-sbs-inverter-2-puertas-y-15-pies-cubicos-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 699.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "46596": {
+   "nombre": "Refrigeradora Whirlpool WD5620S 699 L aproximadamente Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WD5620S",
+   "url": "https://www.walmart.com.sv/refrigerador-whirpool-side-by-side-xpert-energy-wd5620s-25-pies-cubicos-s133/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1195.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97428": {
+   "nombre": "Refrigeradora Samsung REF RT38DG6224S 13 pies cúbicos Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "RT38DG6224S",
+   "url": "https://www.walmart.com.sv/refrigeradora-samsung-13pc-rt38dg6224-s84/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 543.51,
+     "precio_lista": 579.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117186": {
+   "nombre": "Refrigeradora Oster OSSBST1702SDI 17 pies cúbicos Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "OSSBST1702SDI",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-sbs-os-sbst1702sdi-2-puertas-de-18-pies-cubicos-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 699.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101250": {
+   "nombre": "Refrigeradora Oster OS SBSS1502EGBI 15 pies cúbicos Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "SBSS1502EGBI",
+   "url": "https://www.walmart.com.sv/refrigeradora-oster-os-sbss1502egbi-negra-capacidad-445-l-15-pies-cubicos-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 850.41,
+     "precio_lista": 859.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "101242": {
+   "nombre": "Refrigeradora Whirlpool WRW32DKTWW 11 pies cúbicos (303 litros) Dos puertas",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WRW32DKTWW",
+   "url": "https://www.walmart.com.sv/refrigerador-whirlpool-tm-11-pies-cubicos-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 589.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "75977": {
+   "nombre": "Refrigeradora Whirlpool WD1600S 18 pies cúbicos Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WD1600S",
+   "url": "https://www.walmart.com.sv/refrigerador-whirlpool-side-by-side-18-pies-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 741.51,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122559": {
+   "nombre": "Refrigeradora Mabe MSM544LMLSS0 19 pies cúbicos Side by Side",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MABE",
+   "modelo": "MSM544LMLSS0",
+   "url": "https://www.walmart.com.sv/refrig-mabe-19ft-56-sbs-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 649.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "98288": {
+   "nombre": "Lavadora automática Oster OS WSMDW20W 20 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "WSMDW20W",
+   "url": "https://www.walmart.com.sv/lavadora-digital-oster-os-wsmdw20w-blanca-con-capacidad-20-kg-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 475.0,
+     "precio_lista": 475.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "60000": {
+   "nombre": "Lavadora automática Whirlpool WW20BTAHLA 20 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WW20BTAHLA",
+   "url": "https://www.walmart.com.sv/lavadora-whirlpool-wm20bthla-negra-automatica-digital-capacidad-20-kg-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 494.01,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "90161": {
+   "nombre": "Lavadora automática Whirlpool WW17KBAHLA 17 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WW17KBAHLA",
+   "url": "https://www.walmart.com.sv/lavadora-whirpool-automatica-digital-capacidad-17-kg-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 449.0,
+     "precio_lista": 539.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "118199": {
+   "nombre": "Lavadora automática Whirlpool 8MWTW2054WRM 20 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "8MWTW2054WRM",
+   "url": "https://www.walmart.com.sv/whirlpool-lavadora-agitador-2en1-20kg-sv9937-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 434.61,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117188": {
+   "nombre": "Lavadora automática Oster OSWSMDW172W 17 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "OSWSMDW172W",
+   "url": "https://www.walmart.com.sv/lavadora-automatica-oster-os-wsmdw172w-capacidad-17-kg-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 410.62,
+     "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "68996": {
+   "nombre": "Lavadora automática Whirlpool WWG15BSHLA 15 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WWG15BSHLA",
+   "url": "https://www.walmart.com.sv/lavadora-whirlpool-automatica-digital-capacidad-15-kg-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "49685": {
+   "nombre": "Lavadora automática Mabe LMA46102VBAB0 16 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA CUINERA",
+   "modelo": "LMA46102VBAB0",
+   "url": "https://www.walmart.com.sv/lavadora-mabe-lma-46102-vbab-blanca-capacidad-16-kg-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 449.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "71194": {
+   "nombre": "Lavadora automática Whirlpool 8MWTW2224WJM 22 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "8MWTW2224WJM",
+   "url": "https://www.walmart.com.sv/lavadora-whirlpool-8mwtw2224wjm-automatica-blanca-capacidad-22-kg-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 436.59,
+     "precio_lista": 615.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122594": {
+   "nombre": "Lavadora automática Whirlpool WWG18CSHLA 18 kg Carga superior",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WWG18CSHLA",
+   "url": "https://www.walmart.com.sv/lavadora-whirlpool-aut-18kg-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 550.0,
+     "precio_lista": 550.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "90000": {
+   "nombre": "Lavadora automática Samsung WF20T6000AWAP 20 kg Carga frontal",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "WF20T6000AWAP",
+   "url": "https://www.walmart.com.sv/lavadora-samsung-20kg-wf20t6000awap-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 599.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "88979": {
+   "nombre": "Lavadora automática Durabrand DUAWM221CAM 10 kg Carga frontal",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DUAWM221CAM",
+   "url": "https://www.walmart.com.sv/lavadora-durabrand-carga-frontal-blanca-con-capacidad-de-10-5-kg-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 315.81,
+     "precio_lista": 439.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "100876": {
+   "nombre": "Microondas Hamilton Beach 0.7 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HAMILTON BEACH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/microondas-hamilton-beach-de-0-7-pies-cubicos-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 74.0,
+     "precio_lista": 74.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "81732": {
+   "nombre": "Microondas Oster OGGME2701 de 7 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "OGGME2701",
+   "url": "https://www.walmart.com.sv/horno-microondas-oster-mod-oggme2701-cap-20-litros-0-7-pcs-color-blanco-control-digital-funcion-de-descongelado-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 67.62,
+     "precio_lista": 95.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "115865": {
+   "nombre": "Microondas Hamilton Beach 0.9 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HAMILTON BEACH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/hamilton-beach-microondas-0-9-pc-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 70.56,
+     "precio_lista": 80.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "49864": {
+   "nombre": "Microondas Toshiba digital 1.1 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TOSHIBA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/microondas-toshiba-digital-1-1-pc/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 139.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "74880": {
+   "nombre": "Microondas Whirlpool digital modelo Wm1807B de 0.7 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "WM1807B",
+   "url": "https://www.walmart.com.sv/microondas-whirlpool-digital-color-negro/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 86.99,
+     "precio_lista": 86.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117326": {
+   "nombre": "Microondas Mainstays Digital de 30 L (1.1 CF)",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mainstays-microondas-digital-30l-1-1cf-2-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117247": {
+   "nombre": "Microondas Oster de 0.9 pies cúbicos y capacidad de 25 L",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/oster-microondas-07-pies-700-wats-20-l-sv6173-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 90.0,
+     "precio_lista": 90.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "102801": {
+   "nombre": "Microondas Whirlpool con acabado espejo 1.1 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "WHIRLPOOL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/whirlpool-microondas-1-1-pc-30lts-espejo-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 119.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "100840": {
+   "nombre": "Microondas Hamilton Beach acero inoxidable de 1.1 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HAMILTON BEACH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/hamilton-beach-microondas-1-1-pc-inox-s49/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 93.1,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117327": {
+   "nombre": "Microondas Mainstays Digital 25 L 0.9 CF",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mainstays-microondas-digital-25l-0-9cf-8-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 90.0,
+     "precio_lista": 90.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "54202": {
+   "nombre": "Microondas Hamilton Beach acero inoxidable 0.9 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HAMILTON BEACH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/microondas-hamilton-beach-0-9-pies-cubicos-acero-inoxidable/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 94.0,
+     "precio_lista": 94.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "109176": {
+   "nombre": "Microondas Oster negro 0.7 pies cúbicos 20 L",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/hornos-de-microondas-y-tostadores-oster-oster-microondas-07-plateado-espejo-sv8874-5-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "80883": {
+   "nombre": "Microondas Oster análogo de 0.7 pies cúbicos negro",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "OSTER",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/horno-microondas-oster-mod-ogm3702-capacidad-20-litros-0-7-pies-cubicos-color-negro-control-manual-funcion-de-descongelado-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 75.0,
+     "precio_lista": 75.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "117325": {
+   "nombre": "Microondas Mainstays Digital capacidad de 20 L de 0.7 pies cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/durabrand-microondas-digital-20l-0-7cf-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 68.0,
+     "precio_lista": 68.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "100845": {
+   "nombre": "MicroondasDurabrand Digital Negro de 1.1 Pies Cúbicos",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/durabrand-microondas-dig-1-1-negro-s237/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 50.0,
+     "precio_lista": 80.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "126837": {
+   "nombre": "Freidora De Aire Cuisinart 7 2l",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CUISINART",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/freidora-de-aire-cuisinart-7-2l-sv6502-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 122.5,
+     "precio_lista": 142.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "126546": {
+   "nombre": "Freidora De Aire Xiaomi Smart 65l",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/freidora-de-aire-xiaomi-smart-65l-sv4836-5-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 130.0,
+     "precio_lista": 130.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "60999": {
+   "nombre": "Freidora de aire RCA capacidad 5 L",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/rca-freidora-de-aire-5-litros/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 71.1,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "106700": {
+   "nombre": "Freidora De Aire Hamilton Beach 5.5 L digital",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HAMILTON BEACH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/hb-freidora-de-aire-digital-5-5-litros-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 129.0,
+     "precio_lista": 129.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "125104": {
+   "nombre": "Freidora de aire Cuisinart AIR370 - 4.2 L",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CUISINART",
+   "modelo": "AIR370",
+   "url": "https://www.walmart.com.sv/freidora-de-aire-cuisinart-4-2l-air370-sv8881-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 131.0,
+     "precio_lista": 131.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "102873": {
+   "nombre": "Freidora de Aire MainStays digital 7 L",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mainstays-freidora-aire-digital-de-7lts-3-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 50.0,
+     "precio_lista": 50.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99894": {
+   "nombre": "Freidora de Aire Mainstays 4 L con controles manuales",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mainstays-freidora-d-aire-mecanica-4lts-s640-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 60.0,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "106483": {
+   "nombre": "Freidora de aire Black & Decker Digital capacidad 5.5 L",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "BLACK+DECKER",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/freidora-de-aire-black-decker-digital-capacidad-5-5-l-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 89.0,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "99901": {
+   "nombre": "Freidora Aire MainStays Digital capacidad 4.2 L",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/freidora-aire-mainstays-digital-de-4-latas-5-6-5-0-7-8-6/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 60.0,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "115653": {
+   "nombre": "Freidora Black and Decker digital de 8 L",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "BLACK+DECKER",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/black-a-decker-freidora-digital-8-litros-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T12:51:51-06:00",
+     "precio": 134.0,
+     "precio_lista": 134.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  }
+ }
+}

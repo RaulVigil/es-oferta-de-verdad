@@ -1,0 +1,86 @@
+{
+  "version": 2,
+  "actualizado": "2026-10-20",
+  "comerciales": [
+    {
+      "id": "siman",
+      "nombre": "Simán",
+      "url": "https://sv.siman.com",
+      "tipo": "multimarca",
+      "captura": "auto (VTEX: catalogo publico por SKU)",
+      "notas": "Las camas tienen una variante por medida; el sku es el de la variante (matrimonial, queen...)."
+    },
+    {
+      "id": "curacao",
+      "nombre": "La Curacao",
+      "url": "https://www.lacuracaonline.com/elsalvador/",
+      "tipo": "multimarca",
+      "captura": "auto (Magento GraphQL por SKU)",
+      "notas": "El precio publicado es de contado; el de credito es otro."
+    },
+    {
+      "id": "radioshack",
+      "nombre": "RadioShack",
+      "url": "https://www.radioshackla.com/elsalvador/",
+      "tipo": "electronica",
+      "captura": "auto (Magento GraphQL, mismo catalogo que La Curacao)",
+      "notas": "Grupo Unicomer: usa los mismos SKU que La Curacao pero a veces con otro precio. Solo TV."
+    },
+    {
+      "id": "walmart",
+      "nombre": "Walmart",
+      "url": "https://www.walmart.com.sv",
+      "tipo": "supermercado",
+      "captura": "auto (VTEX: catalogo publico por SKU)",
+      "notas": "Algunos productos quedan publicados en $0.00 cuando no hay existencias."
+    },
+    {
+      "id": "prado",
+      "nombre": "Prado",
+      "url": "https://www.prado.com.sv",
+      "tipo": "muebles y electro",
+      "captura": "auto (indice de busqueda Algolia del sitio)",
+      "notas": "Su 'precio anterior' suele ser casi el doble del precio real: no lo uses para medir descuentos. La captura anota hasta cuando dura la promo vigente."
+    },
+    {
+      "id": "omnisport",
+      "nombre": "Omnisport",
+      "url": "https://omnisport.com",
+      "tipo": "especializada",
+      "captura": "auto (pagina del producto)",
+      "notas": "Vende camas Indufoam/Capri y TV. Las camas usan medidas en metros: 1.40 m = matrimonial, 1.60 m = queen."
+    },
+    {
+      "id": "samsung",
+      "nombre": "Samsung",
+      "url": "https://www.samsung.com/sv/",
+      "tipo": "marca",
+      "captura": "manual",
+      "notas": "El 20-oct-2026 no se pudieron consultar precios: la seccion de TV de samsung.com/sv respondio 404. Capturar a mano si interesa."
+    },
+    {
+      "id": "zonadigital",
+      "nombre": "Zona Digital",
+      "url": "https://zonadigitalsv.com",
+      "tipo": "computacion y gaming",
+      "captura": "auto (API JSON de su pagina)",
+      "notas": "El precio final se calcula como su pagina: precio general menos la promo vigente. Las promos tienen fecha de fin (queda en la nota)."
+    },
+    {
+      "id": "aeon",
+      "nombre": "AEON",
+      "url": "https://aeon.com.sv",
+      "tipo": "computacion y gaming",
+      "captura": "auto (tienda Odoo, busqueda /shop?search=)",
+      "notas": "No publica existencias en el listado: se asume disponible."
+    },
+    {
+      "id": "epa",
+      "nombre": "EPA",
+      "url": "https://sv.epaenlinea.com",
+      "tipo": "ferretería y hogar",
+      "captura": "auto (indice Algolia del sitio)",
+      "notas": "Precios de la sucursal Soyapango, que es la que muestra el sitio."
+    }
+  ]
+}

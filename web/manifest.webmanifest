@@ -1,0 +1,17 @@
+{
+  "name": "¿Es oferta de verdad?",
+  "short_name": "¿Es oferta?",
+  "description": "Historial de precios de tiendas de El Salvador para saber si una oferta es real.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f5f9",
+  "theme_color": "#f2f5f9",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

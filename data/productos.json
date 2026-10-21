@@ -1,0 +1,1057 @@
+{
+  "version": 4,
+  "moneda": "USD",
+  "pais": "El Salvador",
+  "creado": "2026-10-20",
+  "actualizado": "2026-10-20",
+  "corte_linea_base": "2026-11-01",
+  "evento": {
+    "nombre": "Black Friday / Cyber Monday 2026",
+    "inicio_ofertas": "2026-11-20",
+    "black_friday": "2026-11-27",
+    "cyber_monday": "2026-11-30"
+  },
+  "reglas": [
+    "Un producto del catalogo = un modelo/SKU exacto. Cada comercial tiene su propio codigo (sku) para el mismo modelo.",
+    "El precio es el que publica la tienda en linea, con IVA incluido y sin envio ni instalacion.",
+    "Se guarda tambien el 'precio de lista' (tachado): sirve para detectar inflado, no para medir el descuento.",
+    "La linea base se calcula solo con lo capturado antes del 2026-11-01.",
+    "Medidas en El Salvador: matrimonial = 1.40 m (Full), queen = 1.60 m. No compares medidas distintas.",
+    "'2 en 1' / '3 en 1' es otro tipo de base: es otro producto aunque el colchon se llame igual.",
+    "Los comerciales se referencian por id; el nombre y el sitio viven en comerciales.json."
+  ],
+  "barrido": {
+    "tv": {
+      "nombre": "TV",
+      "pulgadas_min": 40,
+      "pulgadas_max": 60,
+      "buscar": [
+        "smart tv",
+        "televisor"
+      ]
+    },
+    "cama": {
+      "nombre": "Camas 1.40 m",
+      "medidas": [
+        "matrimonial"
+      ]
+    },
+    "teclado": {
+      "nombre": "Teclados",
+      "buscar": [
+        "teclado"
+      ],
+      "incluir": "teclado",
+      "excluir": "musical|piano|[oó]rgano|yamaha|casio|winfun|juguete|infantil|adaptador|escritorio|porta ?teclado|\\bpc\\b|computadora|laptop|funda|protector|cubierta|tablet|ipad|keycap|repuesto|sticker|calcoman|limpiador|soporte|reposamu[nñ]ecas|alfombrilla|mouse ?pad",
+      "pistas": [
+        "teclados"
+      ]
+    },
+    "monitor": {
+      "nombre": "Monitores",
+      "buscar": [
+        "monitor"
+      ],
+      "incluir": "monitor",
+      "excluir": "beb[eé]|presi[oó]n|glucosa|card[ií]ac|signos|oximetro|ox[ií]metro|soporte|brazo|base para|cable|limpiador|protector|funda|lampara|l[aá]mpara|light ?bar|filtro|adaptador|signage|comercial|est[uú]dio|parlante|audifono",
+      "pulgadas_min": 15,
+      "pulgadas_max": 49,
+      "omnisport": [
+        "monitores"
+      ],
+      "pistas": [
+        "monitores"
+      ]
+    },
+    "silla": {
+      "nombre": "Sillas de escritorio",
+      "buscar": [
+        "silla de oficina",
+        "silla de escritorio",
+        "silla gamer",
+        "silla ergonomica",
+        "silla ejecutiva",
+        "silla gaming"
+      ],
+      "pistas": [
+        "sillas"
+      ],
+      "incluir": "^\\s*(silla|combo de oficina)",
+      "excluir": "ruedas para silla|silla de ruedas|beb[eé]|comedor|playa|camping|infantil|ni[nñ][oa]|mesa|coj[ií]n|funda|alfombra|repuesto|pist[oó]n|rodaja|base para|reposapies|bar\\b|banco|taburete|mecedora|plegable|exterior|jard[ií]n|terraza|auto|carro|ducha|ba[nñ]o"
+    },
+    "control": {
+      "nombre": "Controles de consola",
+      "buscar": [
+        "control ps5",
+        "dualsense",
+        "control xbox",
+        "control nintendo switch",
+        "joy-con",
+        "gamepad"
+      ],
+      "pistas": [
+        "controles",
+        "mando",
+        "mandos",
+        "dualsense",
+        "joycon",
+        "gamepad"
+      ],
+      "incluir": "^\\s*(control(es)?|mando|gamepad|joy-?con|dualsense|pro controller)\\b",
+      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|cable|bater[ií]a|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n"
+    },
+    "consola": {
+      "nombre": "Consolas",
+      "buscar": [
+        "nintendo switch",
+        "consola nintendo",
+        "playstation 5",
+        "consola ps5",
+        "xbox series"
+      ],
+      "pistas": [
+        "switch",
+        "nintendo",
+        "ps5",
+        "playstation",
+        "xbox"
+      ],
+      "incluir": "^\\s*(consola|(combo|bundle)\\s+(consola\\s+)?(nintendo|playstation|ps5|xbox)|nintendo switch|playstation ?5|ps5|xbox series)",
+      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick",
+      "omnisport": [
+        "consolas"
+      ]
+    },
+    "laptop": {
+      "nombre": "Laptops",
+      "buscar": [
+        "laptop",
+        "notebook"
+      ],
+      "pistas": [
+        "laptops",
+        "computadora portatil"
+      ],
+      "incluir": "^\\s*((combo|bundle)\\s+(gam\\w+\\s+)?)?(\\S+\\s+)?(laptop|notebook|chromebook|macbook|omnibook|ideapad|vivobook|victus|loq)\\b",
+      "excluir": "juguete|fisher|para laptop|para notebook|mochila para|funda|cover|sleeve"
+    },
+    "ram": {
+      "nombre": "Memorias RAM",
+      "buscar": [
+        "memoria ram",
+        "ddr4",
+        "ddr5"
+      ],
+      "pistas": [
+        "ram",
+        "memorias",
+        "memoria ram"
+      ],
+      "incluir": "^\\s*((kit\\s+(de\\s+)?)?memorias?(\\s+ram)?|ram|sodimm|ddr[345])\\b",
+      "excluir": "micro ?sd|\\bsd\\b|usb|flash|tarjeta|celular|tel[eé]fono|smartphone|tablet|externa|lector|ventilador|disipador|enfriamiento"
+    },
+    "ssd": {
+      "nombre": "SSD y M.2",
+      "buscar": [
+        "ssd",
+        "nvme",
+        "m.2",
+        "unidad de estado solido"
+      ],
+      "pistas": [
+        "ssd",
+        "nvme",
+        "m2",
+        "m.2",
+        "solido",
+        "disco solido"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,4}?(ssd|nvme|m\\.2\\b|unidad de estado s[oó]lido|disco s[oó]lido|estado s[oó]lido)",
+      "excluir": "enclosure|carcasa|\\bcase\\b|caja para|adaptador|cable|disipador|heatsink|bracket|caddy|lector|docking|\\bpc\\b|computadora|desktop|all in one|consola|playstation|laptop|notebook|placa|tarjeta madre|motherboard"
+    },
+    "repisa": {
+      "nombre": "Repisas y estantes",
+      "buscar": [
+        "repisa",
+        "estante",
+        "librero",
+        "estanteria"
+      ],
+      "pistas": [
+        "repisas",
+        "estantes",
+        "libreros",
+        "estanteria"
+      ],
+      "incluir": "^\\s*(repisas?|estantes?|librero|librera|estanter[ií]a|anaquel|organizador de pared)\\b",
+      "excluir": "soporte para repisa|m[eé]nsula|escuadra|bracket|tornillo|taquete|clavo|herraje|riel|juguete|infantil de juguete"
+    },
+    "escritorio": {
+      "nombre": "Escritorios",
+      "buscar": [
+        "escritorio",
+        "mesa para computadora",
+        "escritorio gamer"
+      ],
+      "pistas": [
+        "escritorios"
+      ],
+      "incluir": "^\\s*(escritorio|mesa (de|para) (computadora|computo|c[oó]mputo|pc|oficina)|mesa gamer)",
+      "excluir": "organizador|l[aá]mpara|alfombra|silla|combo|accesorio|brazo|soporte|ventilador|calendario|tapete|cojin|bandeja|portapapeles|juguete|infantil|regazo|actividades"
+    },
+    "ropero": {
+      "nombre": "Roperos y clósets",
+      "buscar": [
+        "ropero",
+        "closet",
+        "armario",
+        "guardarropa"
+      ],
+      "pistas": [
+        "closet",
+        "closets",
+        "clóset",
+        "armario",
+        "armarios",
+        "guardarropa"
+      ],
+      "incluir": "ropero|cl[oó]set|armario|guardarropa",
+      "excluir": "mu[nñ]eca|juguete|peppa|disfraz|barbie|lil tots|castillo|libro|inmunitario|alacena|organizador|gancho|perchero|bolsa|funda|cortina|zapatera|ambientador|antihumedad|desodorante|absorbe|l[aá]mpara|luz|\\bled\\b|barra|tubo|caja|cubo|canasta|cesta|colgador|aroma|polilla|repelente|sensor|bisagra|jaladera|manija|botiqu[ií]n|de cocina|de ba[nñ]o|met[aá]lico de oficina|archivo"
+    },
+    "audifono": {
+      "nombre": "Audífonos",
+      "buscar": [
+        "audifonos",
+        "headset",
+        "auriculares"
+      ],
+      "pistas": [
+        "audifonos",
+        "headset",
+        "auriculares",
+        "earbuds"
+      ],
+      "incluir": "^\\s*(aud[ií]fonos?|headset|auriculares?|earbuds|diadema)\\b",
+      "excluir": "adaptador|cable|estuche|funda|soporte|stand|almohadillas|repuesto|splitter|protector|gancho|base"
+    },
+    "mouse": {
+      "nombre": "Mouse",
+      "buscar": [
+        "mouse"
+      ],
+      "pistas": [
+        "mouse",
+        "raton"
+      ],
+      "incluir": "^\\s*(mouse|rat[oó]n)\\b",
+      "excluir": "\\bpad\\b|mousepad|mouse ?pad|alfombrilla|combo|kit|teclado|bungee|grip|skates|pies|repuesto"
+    },
+    "ceramica": {
+      "nombre": "Cerámica y porcelanato",
+      "buscar": [
+        "ceramica",
+        "porcelanato",
+        "azulejo",
+        "ceramica de pared",
+        "piso ceramico"
+      ],
+      "pistas": [
+        "ceramica",
+        "ceramicas",
+        "porcelanato",
+        "azulejo",
+        "azulejos",
+        "piso",
+        "pared"
+      ],
+      "incluir": "^\\s*(cer[aá]mica|cer[aá]mico|porcelanato|azulejo|piso cer[aá]mico|piso de cer[aá]mica|revestimiento|mosaico)",
+      "excluir": "pegamento|pegazulejo|adhesivo|cortador|cortadora|disco|broca|fragua|boquilla|separador|nivelador|limpiador|sellador|pintura|lija|cruceta|esp[aá]tula|llana|taza|plato|olla|sart[eé]n|vaso|maceta|figura|adorno|pintura"
+    },
+    "inodoro": {
+      "nombre": "Inodoros",
+      "buscar": [
+        "inodoro",
+        "sanitario"
+      ],
+      "pistas": [
+        "inodoros",
+        "sanitario",
+        "sanitarios",
+        "taza"
+      ],
+      "incluir": "^\\s*(inodoro|sanitario|taza (de ba[nñ]o|sanitaria))",
+      "excluir": "asiento|tapa|accesorio|v[aá]lvula|kit|flapper|herraje|empaque|tornillo|anillo|cera|limpiador|cepillo|destapa|manguera|palanca|repuesto|ambientador|tableta|pastilla|ventosa|bomba|desodorante|port[aá]til de camping|para mascota|juguete|bid[eé]t? port"
+    },
+    "lavamanos": {
+      "nombre": "Lavamanos",
+      "buscar": [
+        "lavamanos",
+        "lavabo",
+        "ovalin"
+      ],
+      "pistas": [
+        "lavamanos",
+        "lavabo",
+        "lavabos",
+        "ovalin"
+      ],
+      "incluir": "^\\s*(lavamanos|lavabo|lavatorio|oval[ií]n)",
+      "excluir": "accesorio|desag[uü]e|sif[oó]n|grifo|llave|mezcladora|v[aá]lvula|tap[oó]n|manguera|kit de inst|sellador|soporte|tornillo|empaque|organizador|toallero"
+    },
+    "ducha": {
+      "nombre": "Duchas y grifería",
+      "buscar": [
+        "ducha",
+        "regadera",
+        "mezcladora",
+        "grifo lavamanos",
+        "monomando"
+      ],
+      "pistas": [
+        "duchas",
+        "regadera",
+        "grifo",
+        "griferia",
+        "mezcladora",
+        "monomando"
+      ],
+      "incluir": "^\\s*(ducha|regadera|mezcladora|grifo|llave (de|para) lavamanos|monomando|columna de ducha|set de ducha)",
+      "excluir": "manguera|soporte|brazo|filtro|cortina|tapete|alfombra|repuesto|cartucho|empaque|tefl[oó]n|adaptador|v[aá]lvula de paso|chorro|llave de paso|accesorio|organizador|jabonera|toallero|silla|banco|juguete|gorro"
+    },
+    "refrigeradora": {
+      "nombre": "Refrigeradoras",
+      "buscar": [
+        "refrigeradora",
+        "refrigerador"
+      ],
+      "pistas": [
+        "refrigeradoras",
+        "refri",
+        "refris",
+        "refrigerador",
+        "nevera"
+      ],
+      "incluir": "^\\s*(refrigeradora|refrigerador|refri|nevera|frigobar|minibar)",
+      "excluir": "filtro|organizador|im[aá]n|term[oó]metro|repuesto|empaque|bandeja|limpiador|desodorante|juguete|protector de voltaje|regulador|recipiente|contenedor",
+      "omnisport": [
+        "refrigeradores"
+      ]
+    },
+    "lavadora": {
+      "nombre": "Lavadoras",
+      "buscar": [
+        "lavadora",
+        "centro de lavado"
+      ],
+      "pistas": [
+        "lavadoras",
+        "centro de lavado",
+        "lavasecadora"
+      ],
+      "incluir": "^\\s*(lavadora|centro de lavado|lavasecadora)",
+      "excluir": "pedestal|base|cubierta|funda|detergente|filtro|manguera|limpiador|repuesto|juguete|presi[oó]n|platos|vajilla|hidrolavadora|protector",
+      "omnisport": [
+        "lavadoras"
+      ]
+    },
+    "microondas": {
+      "nombre": "Microondas",
+      "buscar": [
+        "microondas"
+      ],
+      "pistas": [
+        "microondas",
+        "micro"
+      ],
+      "incluir": "^\\s*(horno (de )?)?microondas",
+      "excluir": "soporte|bandeja|plato|tapa|cubierta|limpiador|recipiente|olla|juguete|para microondas",
+      "omnisport": [
+        "microondas"
+      ]
+    },
+    "freidora": {
+      "nombre": "Freidoras de aire",
+      "buscar": [
+        "freidora de aire",
+        "air fryer"
+      ],
+      "pistas": [
+        "freidoras",
+        "airfryer",
+        "fryer"
+      ],
+      "incluir": "^\\s*(freidora|air ?fryer)",
+      "excluir": "papel|bandeja|molde|accesorio|liner|forro|kit|rejilla|parrilla de|repuesto|canasta para|protector",
+      "omnisport": [
+        "freidores-de-alimentos"
+      ]
+    }
+  },
+  "categorias": {
+    "tv": {
+      "nombre": "TV para el cuarto",
+      "presupuesto_max": 450.0,
+      "precio_objetivo": 380.0,
+      "notas": "50 o 55 pulgadas, 4K, Smart TV."
+    },
+    "cama": {
+      "nombre": "Cama para el cuarto",
+      "presupuesto_max": 550.0,
+      "precio_objetivo": 430.0,
+      "notas": "Set completo (base + colchon). Matrimonial 1.40 m salvo que diga queen."
+    }
+  },
+  "productos": [
+    {
+      "id": "tv-samsung-55-u8000h",
+      "categoria": "tv",
+      "nombre": "Samsung 55\" Crystal UHD 4K U8000H (2026)",
+      "nombre_corto": "Samsung 55 U8000H",
+      "modelo_exacto": "UN55U8000HPXPA",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "9011667",
+          "url": "https://sv.siman.com/tv-led-smart-139-7-cm-55-crystal-uhd-4k-105282578/p",
+          "nota": ""
+        },
+        {
+          "id": "curacao",
+          "sku": "472797100018",
+          "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-55-led-4k-uhd-un55u8000hpx-472797100018/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "201338",
+          "url": "https://www.prado.com.sv/pantalla-led-uhd-4k-samsung-55-pulgadas-un55u8000hpxpa-201338",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00000012110",
+          "url": "https://omnisport.com/productos/4k-tv-un55u8000-55",
+          "nota": "Omnisport lo publica como 'UN55U8000' sin sufijo: confirmar si es H (2026) o F (2025)."
+        }
+      ]
+    },
+    {
+      "id": "tv-samsung-55-u8000f",
+      "categoria": "tv",
+      "nombre": "Samsung 55\" Crystal UHD 4K U8000F (2025)",
+      "nombre_corto": "Samsung 55 U8000F",
+      "modelo_exacto": "UN55U8000FPXPA",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "469266300017",
+          "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un55u8000fpx-tizentm-smart-tv-led-55-4k-uhd-469266300017/p",
+          "nota": ""
+        },
+        {
+          "id": "walmart",
+          "sku": "111042",
+          "url": "https://www.walmart.com.sv/tratamiento-elvive-loreal-paris-serum-anticaida-con-aminexil-102-ml-8-5/p",
+          "nota": "El enlace de Walmart tiene el nombre de otro producto (un serum), pero el SKU 111042 si es esta TV."
+        }
+      ]
+    },
+    {
+      "id": "tv-samsung-55-m70h",
+      "categoria": "tv",
+      "nombre": "Samsung 55\" Mini LED 4K M70H",
+      "nombre_corto": "Samsung 55 M70H",
+      "modelo_exacto": "UN55M70HAPXPA",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "8899075",
+          "url": "https://sv.siman.com/pantalla-samsung-55---139-7-cm--mini-led-uhd-4k-hdr10--un55m70hapxpa/p",
+          "nota": ""
+        },
+        {
+          "id": "curacao",
+          "sku": "472358800012",
+          "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-55-qd-miniled-4k-un55m70hapxp-472358800012/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-hisense-55-q6q",
+      "categoria": "tv",
+      "nombre": "Hisense 55\" QLED 4K Q6Q",
+      "nombre_corto": "Hisense 55 Q6Q",
+      "modelo_exacto": "55Q6Q",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "8608336",
+          "url": "https://sv.siman.com/tv-qled-smart-55-4k-vidaa-104987881/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-tcl-55-v6c",
+      "categoria": "tv",
+      "nombre": "TCL 55\" LED 4K Google TV V6C",
+      "nombre_corto": "TCL 55 V6C",
+      "modelo_exacto": "55V6C",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "468955800012",
+          "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-led-55-4k-uhd-55v6c-468955800012/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-lg-55-nu850",
+      "categoria": "tv",
+      "nombre": "LG 55\" 4K UHD NU850",
+      "nombre_corto": "LG 55 NU850",
+      "modelo_exacto": "55NU850BPSA",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "472395700016",
+          "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-55-lcd-4k-uhd-55nu850bpsa-472395700016/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-xiaomi-55-led",
+      "categoria": "tv",
+      "nombre": "Xiaomi 55\" LED Smart 4K",
+      "nombre_corto": "Xiaomi 55 LED",
+      "modelo_exacto": "Xiaomi LED Smart 4K 55 (Walmart no publica el modelo)",
+      "comerciales": [
+        {
+          "id": "walmart",
+          "sku": "111836",
+          "url": "https://www.walmart.com.sv/pantalla-xiaomi-led-smart-4k-55-pulgadas-1-in-2-54-cm-7/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-samsung-50-u8000h",
+      "categoria": "tv",
+      "nombre": "Samsung 50\" Crystal UHD 4K U8000H (2026)",
+      "nombre_corto": "Samsung 50 U8000H",
+      "modelo_exacto": "UN50U8000HPXPA",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "9011669",
+          "url": "https://sv.siman.com/tv-led-smart-127-0-cm-50-crystal-uhd-4k-105282579/p",
+          "nota": ""
+        },
+        {
+          "id": "curacao",
+          "sku": "472357700016",
+          "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-50-led-4k-uhd-un50u8000hpx-472357700016/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "201337",
+          "url": "https://www.prado.com.sv/pantalla-led-uhd-4k-samsung-50-pulgadas-un50u8000hpxpa-201337",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00000012109",
+          "url": "https://omnisport.com/productos/4k-tv-un50u8000-50",
+          "nota": "Omnisport lo publica como 'UN50U8000' sin sufijo: confirmar si es H (2026) o F (2025)."
+        }
+      ]
+    },
+    {
+      "id": "tv-samsung-50-m70h",
+      "categoria": "tv",
+      "nombre": "Samsung 50\" Mini LED 4K M70H",
+      "nombre_corto": "Samsung 50 M70H",
+      "modelo_exacto": "UN50M70HAPXPA",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "8899073",
+          "url": "https://sv.siman.com/pantalla-samsung-50---127-cm--mini-led-uhd-4k-hdr10--un50m70hapxpa/p",
+          "nota": ""
+        },
+        {
+          "id": "curacao",
+          "sku": "472358700015",
+          "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-50-qd-miniled-4k-un50m70hapxp-472358700015/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "201334",
+          "url": "https://www.prado.com.sv/pantalla-mini-led-4k-samsung-50-pulgadas-un50m70hapxp-201334",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-lg-50-nu850",
+      "categoria": "tv",
+      "nombre": "LG 50\" 4K UHD NU850",
+      "nombre_corto": "LG 50 NU850",
+      "modelo_exacto": "50NU850BPSA",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "472395600019",
+          "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-50-lcd-4k-uhd-50nu850bpsa-472395600019/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "201347",
+          "url": "https://www.prado.com.sv/pantalla-smart-uhd-4k-lg-50-pulgadas-50nu850bpsa-201347",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "tv-hisense-50-q6q",
+      "categoria": "tv",
+      "nombre": "Hisense 50\" QLED 4K Q6Q",
+      "nombre_corto": "Hisense 50 Q6Q",
+      "modelo_exacto": "50Q6Q / 50Q6QV",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "8811271",
+          "url": "https://sv.siman.com/pantalla-hisense-50---127-cm--qled-uhd-4k-hdr10--50q6qv-1/p",
+          "nota": "Simán lo lista como 50Q6QV."
+        },
+        {
+          "id": "omnisport",
+          "sku": "00000012142",
+          "url": "https://omnisport.com/productos/4k-tv-qled-50q6q-50",
+          "nota": "Omnisport lo lista como 50Q6Q."
+        }
+      ]
+    },
+    {
+      "id": "tv-rca-50-rc50ql",
+      "categoria": "tv",
+      "nombre": "RCA 50\" QLED 4K Roku TV",
+      "nombre_corto": "RCA 50 QLED",
+      "modelo_exacto": "RC50QL",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "8953935",
+          "url": "https://sv.siman.com/pantalla-rca-50---127-cm--qled-roku-uhd-4k-rc50ql/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "200689",
+          "url": "https://www.prado.com.sv/pantalla-qled-4k-rca-50-pulgadas-rc50ql-200689",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-capri-exclusiva-mat",
+      "categoria": "cama",
+      "nombre": "Cama Capri Exclusiva matrimonial (1.40 m)",
+      "nombre_corto": "Capri Exclusiva mat.",
+      "modelo_exacto": "Capri Exclusiva, matrimonial",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "448603200005",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-exclusiva-matrimonial-448603200005/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "115353",
+          "url": "https://www.prado.com.sv/cama-matrimonial-capri-exclusiva-115353",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401031839",
+          "url": "https://omnisport.com/productos/cama-exclusiva-140-m",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-capri-exclusiva-3en1-mat",
+      "categoria": "cama",
+      "nombre": "Cama Capri Exclusiva 3 en 1 matrimonial (1.40 m)",
+      "nombre_corto": "Capri Exclusiva 3en1 mat.",
+      "modelo_exacto": "Capri Exclusiva 3 en 1 / 2 en 1, matrimonial",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "2067036",
+          "url": "https://sv.siman.com/set-2-en-1-651222/p",
+          "nota": "Simán: 'Cama Exclusiva dos en una matrimonial' dentro del producto 3 en 1."
+        },
+        {
+          "id": "curacao",
+          "sku": "465123300008",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-exclusiva-2-en-1-matrimonial-465123300008/p",
+          "nota": "La Curacao lo llama '2 en 1': confirmar que es el mismo set."
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401034161",
+          "url": "https://omnisport.com/productos/cama-exclusiva-3-en-1-140-m",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-capri-rest-master-mat",
+      "categoria": "cama",
+      "nombre": "Cama Capri Rest Master matrimonial (1.40 m)",
+      "nombre_corto": "Capri Rest Master mat.",
+      "modelo_exacto": "Capri Rest Master, matrimonial",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "414351700104",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-rest-master-matrimonial-414351700104/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401030115",
+          "url": "https://omnisport.com/productos/cama-rest-master-140-m",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-capri-rest-master-queen",
+      "categoria": "cama",
+      "nombre": "Cama Capri Rest Master queen (1.60 m)",
+      "nombre_corto": "Capri Rest Master queen",
+      "modelo_exacto": "Capri Rest Master, queen",
+      "comerciales": [
+        {
+          "id": "prado",
+          "sku": "115355",
+          "url": "https://www.prado.com.sv/cama-queen-capri-restmaster",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401030123",
+          "url": "https://omnisport.com/productos/cama-rest-master-160-m",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-capri-master-tech-mat",
+      "categoria": "cama",
+      "nombre": "Cama Capri Master Technology matrimonial (1.40 m)",
+      "nombre_corto": "Capri Master Tech mat.",
+      "modelo_exacto": "Capri Master Technology, matrimonial",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "477123200004",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-master-technology-matrimonial-477123200004/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401033084",
+          "url": "https://omnisport.com/productos/cama-master-technology-140-m",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-wonder-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Wonder matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Wonder mat.",
+      "modelo_exacto": "Indufoam Wonder, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "439802400006",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-wonder-matrimonial-439802400006/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "158028",
+          "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-wonder-158028",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401033904",
+          "url": "https://omnisport.com/productos/cama-wonder-full",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-wonder-2en1-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Wonder 2 en 1 matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Wonder 2en1 mat.",
+      "modelo_exacto": "Indufoam Wonder 2 en 1, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "461697600001",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-wonder-2-en-1-matrimonial-461697600001/p",
+          "nota": ""
+        },
+        {
+          "id": "prado",
+          "sku": "115472",
+          "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-wonder",
+          "nota": "Prado no dice '2 en 1' en el nombre; coincide en precio: confirmar en tienda."
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401034072",
+          "url": "https://omnisport.com/productos/cama-wonder-full-2-en-1",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-deluxe-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Deluxe matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Deluxe mat.",
+      "modelo_exacto": "Indufoam Deluxe, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "420765600169",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-deluxe-matrimonial-420765600169/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401031464",
+          "url": "https://omnisport.com/productos/cama-deluxe-full",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-deluxe-adv-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Deluxe Advanced matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Deluxe Adv. mat.",
+      "modelo_exacto": "Indufoam Deluxe Advanced, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "450879200009",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-advance-matrimonial-450879200009/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401033955",
+          "url": "https://omnisport.com/productos/cama-deluxe-advanced-full",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-dream-sleeper-2en1-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Dream Sleeper 2 en 1 matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Dream Sleeper mat.",
+      "modelo_exacto": "Indufoam Dream Sleeper base 2 en 1, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "416399100007",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-dream-sleeper-matrimonial-416399100007/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401090150",
+          "url": "https://omnisport.com/productos/cama-dream-sleeper-2-en-1-full",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-luxurious-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Luxurious Comfort matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Luxurious mat.",
+      "modelo_exacto": "Indufoam Luxurious Comfort, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "402678100103",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-luxurious-comfort-matrimonial-402678100103/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401031553",
+          "url": "https://omnisport.com/productos/cama-luxurious-comfort-full",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-triple-crown-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Triple Crown ortopédica matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Triple Crown mat.",
+      "modelo_exacto": "Indufoam Triple Crown, matrimonial / Full",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "400890400193",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-ortopedico-matrimonial/p",
+          "nota": ""
+        },
+        {
+          "id": "omnisport",
+          "sku": "00401031952",
+          "url": "https://omnisport.com/productos/cama-triple-crown-full",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-indufoam-limited-mat",
+      "categoria": "cama",
+      "nombre": "Cama Indufoam Limited Edition matrimonial (1.40 m)",
+      "nombre_corto": "Indufoam Limited mat.",
+      "modelo_exacto": "Indufoam Limited Edition, matrimonial",
+      "comerciales": [
+        {
+          "id": "prado",
+          "sku": "195382",
+          "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-limited-edition-195382",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-therapedic-sf-firm-mat",
+      "categoria": "cama",
+      "nombre": "Cama Therapedic Sleep Fitness Firm matrimonial (1.40 m)",
+      "nombre_corto": "Therapedic SF Firm mat.",
+      "modelo_exacto": "Therapedic Sleep Fitness Firme, matrimonial",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "6479689",
+          "url": "https://sv.siman.com/cama-therapedic-sf-comfort-103293212/p",
+          "nota": ""
+        },
+        {
+          "id": "curacao",
+          "sku": "472791100014",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-therapedic-matrimonial-sleep-fitness-firme-472791100014/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-therapedic-sf-comfort-mat",
+      "categoria": "cama",
+      "nombre": "Cama Therapedic Sleep Fitness Comfort matrimonial (1.40 m)",
+      "nombre_corto": "Therapedic SF Comfort mat.",
+      "modelo_exacto": "Therapedic Sleep Fitness Comfort (Pillow Top), matrimonial",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "6479682",
+          "url": "https://sv.siman.com/cama-therapedic-sf-comfort-103293213/p",
+          "nota": ""
+        },
+        {
+          "id": "curacao",
+          "sku": "472790700017",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-therapedic-matrimonial-sleep-fitness-comfort-pillow-top-472790700017/p",
+          "nota": "La Curacao: 'Comfort Pillow Top'. Mismo precio de lista que Simán ($970): probablemente el mismo."
+        }
+      ]
+    },
+    {
+      "id": "cama-serta-sleep-true-mat",
+      "categoria": "cama",
+      "nombre": "Set de cama Serta Sleep True firme matrimonial (1.40 m)",
+      "nombre_corto": "Serta Sleep True mat.",
+      "modelo_exacto": "Serta Sleep True firme, matrimonial",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "457989000017",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-serta-sleep-true-matrimonial-457989000017/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-serta-perfect-balance-mat",
+      "categoria": "cama",
+      "nombre": "Cama Serta Perfect Balance firme matrimonial (1.40 m)",
+      "nombre_corto": "Serta Perfect Balance mat.",
+      "modelo_exacto": "Serta Perfect Balance firme, matrimonial",
+      "comerciales": [
+        {
+          "id": "walmart",
+          "sku": "102975",
+          "url": "https://www.walmart.com.sv/cama-serta-perfect-balance-firme-matrimonial-7/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-simmons-beauty-sleep-mat",
+      "categoria": "cama",
+      "nombre": "Set de cama Simmons Beauty Sleep Pillow Top matrimonial (1.40 m)",
+      "nombre_corto": "Simmons Beauty Sleep mat.",
+      "modelo_exacto": "Simmons Beauty Sleep Pillow Top, matrimonial",
+      "comerciales": [
+        {
+          "id": "curacao",
+          "sku": "422162200003",
+          "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-simmons-beautysleep-pillow-top-matrimonial-422162200003/p",
+          "nota": ""
+        }
+      ]
+    },
+    {
+      "id": "cama-facenco-sweet-relax-mat",
+      "categoria": "cama",
+      "nombre": "Cama Facenco Sweet Relax doble pillow top matrimonial (1.40 m)",
+      "nombre_corto": "Facenco Sweet Relax mat.",
+      "modelo_exacto": "Facenco Sweet Relax doble pillow top, matrimonial",
+      "comerciales": [
+        {
+          "id": "siman",
+          "sku": "5504301",
+          "url": "https://sv.siman.com/cama-sweet-relax-facenco-102087175/p",
+          "nota": ""
+        }
+      ]
+    }
+  ]
+}

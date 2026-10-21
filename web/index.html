@@ -1,0 +1,92 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>¿Es oferta de verdad? — precios de El Salvador</title>
+<meta name="description" content="Historial diario de precios de 9 tiendas de El Salvador para saber si una oferta de Black Friday es real.">
+<meta name="theme-color" content="#f2f5f9" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#011222" media="(prefers-color-scheme: dark)">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<link rel="preload" href="fonts/geist-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="fonts/instrument-serif-italic.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="app.css">
+</head>
+<body>
+<div class="app">
+
+  <header class="cabecera">
+    <a href="./" class="logo" aria-label="¿Es oferta de verdad?, inicio">
+      <svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="8" fill="currentColor"/><path d="M7 11h6v5h6v5h6" fill="none" stroke="var(--papel)" stroke-width="2.6"/><circle cx="25" cy="21" r="2.6" fill="var(--marca)"/></svg>
+      <span>¿es oferta<em>?</em></span>
+    </a>
+    <div class="cabecera-der">
+      <span class="cuenta" id="cuenta"></span>
+      <button class="enlace" id="btn-actualizar" type="button" hidden>actualizar precios</button>
+    </div>
+  </header>
+
+  <section class="heroe">
+    <h1>¿Es oferta <em>de verdad?</em></h1>
+    <p class="bajada">Lo comparamos contra lo que <strong>costaba antes</strong>, no contra el precio tachado.</p>
+    <dl class="datos" id="datos" aria-live="polite"></dl>
+  </section>
+
+  <div class="log" id="log" hidden></div>
+
+  <section class="buscador" role="search">
+    <div class="campo-busqueda">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="2"/><path d="M15.5 15.5 21 21" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></svg>
+      <label class="oculto-visual" for="q">Buscar producto</label>
+      <input id="q" type="search" autocomplete="off" spellcheck="false"
+             placeholder="switch oled, cama wonder, ssd 1tb, inodoro…" enterkeyhint="search">
+      <kbd aria-hidden="true">/</kbd>
+    </div>
+    <nav class="categorias" id="categorias" aria-label="Categorías"></nav>
+    <div class="filtros">
+      <label>tienda <select id="f-tienda"><option value="">todas</option></select></label>
+      <label>orden
+        <select id="f-orden">
+          <option value="relevancia">relevancia</option>
+          <option value="precio">precio ↑</option>
+          <option value="baja">mayor baja</option>
+          <option value="nombre">nombre</option>
+        </select>
+      </label>
+      <label>hasta $ <input id="f-max" inputmode="decimal" size="5" placeholder="—"></label>
+      <label class="interruptor"><input type="checkbox" id="f-bajas"><span></span> solo bajas</label>
+    </div>
+  </section>
+
+  <main class="cuerpo sin-detalle">
+    <section class="resultados" aria-live="polite">
+      <p class="conteo" id="conteo"></p>
+      <ol class="lista" id="lista"></ol>
+      <button class="mas" id="mas" type="button" hidden>mostrar más</button>
+    </section>
+    <div class="velo" id="velo" hidden></div>
+    <aside class="detalle" id="detalle" aria-label="Detalle del producto" hidden>
+      <div id="detalle-contenido"></div>
+    </aside>
+  </main>
+
+  <footer class="pie">
+    <p><strong>Línea base</strong>: mediana de los precios capturados antes del <span id="pie-corte">1 nov</span>.
+       <strong>Oferta real</strong>: 10&nbsp;% o más por debajo. Precios en línea, de contado, sin envío.</p>
+    <p>Datos de Simán, La Curacao, RadioShack, Walmart, Prado, EPA, Omnisport, Zona Digital y AEON, capturados a diario.</p>
+  </footer>
+</div>
+
+<template id="t-fila">
+  <li><button class="fila" type="button">
+    <span class="monograma"></span>
+    <span class="fila-texto"><span class="fila-nombre"></span><span class="fila-meta"></span></span>
+    <span class="fila-fin"><span class="fila-precio"></span><span class="fila-var"></span></span>
+  </button></li>
+</template>
+
+<script src="app.js" defer></script>
+</body>
+</html>
