@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-21T10:47:05-06:00",
+ "actualizado": "2026-10-21T16:58:11-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -12813,6 +12813,28 @@
     {
      "fecha": "2026-10-21T10:47:05-06:00",
      "precio": 5.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "13802": {
+   "nombre": "Consola nintendo switch oled 64gb pantalla 7p con super mario wonder",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/consola-nintendo-switch-oled-64gb-pantalla-7p-con-super-mario-wonder",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:58:11-06:00",
+     "precio": 449.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",

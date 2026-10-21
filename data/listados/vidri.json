@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-10-21T10:49:31-06:00",
+ "actualizado": "2026-10-21T17:01:00-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -8297,14 +8297,14 @@
    ]
   },
   "432341": {
-   "nombre": "Estante organizador para baño de 3 Repisas blanco",
+   "nombre": "Estante organizador para baño de 3 Repisas blanco - 171.8 X 25.2 X 61.5 Cm",
    "categoria": "repisa",
    "tipo": "repisa",
    "pulgadas": null,
    "medida": null,
    "marca": "Rimax",
    "modelo": "",
-   "url": "https://www.vidri.com.sv/producto/432341/estante-organizador-para-ba%C3%B1o-de-3-repisas-blanco.html",
+   "url": "https://www.vidri.com.sv/producto/432341/estante-organizador-para-ba%C3%B1o-de-3-repisas-blanco---1718-x-252-x-615-cm.html",
    "primera_vez": "2026-10-21",
    "ultima_vez": "2026-10-21",
    "observaciones": [
@@ -11413,6 +11413,50 @@
     {
      "fecha": "2026-10-21T10:49:31-06:00",
      "precio": 195.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "486114": {
+   "nombre": "Ceramica de piso 33x33 Cm argelia verde caja 1.33 M2",
+   "categoria": "ceramica",
+   "tipo": "ceramica",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Hispacensa",
+   "modelo": "33X33",
+   "url": "https://www.vidri.com.sv/producto/486114/ceramica-de-piso-33x33-cm-argelia-verde-caja-133-m2.html",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T17:01:00-06:00",
+     "precio": 13.2,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "33123": {
+   "nombre": "Repisa para closet 12 Pulg x 6 Pies (30.48 Cm x 1.82 M)",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Closetmaid",
+   "modelo": "",
+   "url": "https://www.vidri.com.sv/producto/33123/repisa-para-closet-12-pulg-x-6-pies-3048-cm-x-182-m.html",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T17:01:00-06:00",
+     "precio": 22.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",

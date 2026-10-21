@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-21T10:37:25-06:00",
+ "actualizado": "2026-10-21T16:48:03-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -14161,11 +14161,19 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-dualsense-death-stranding-105163183/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
      "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 79.99,
      "precio_lista": 99.0,
      "disponible": true,
      "fuente": "auto",
@@ -18953,10 +18961,18 @@
    "modelo": "FMDZ203GSZW",
    "url": "https://sv.siman.com/microondas-20-l-0-6-pcu-blanco-105368818/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 89.0,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 89.0,
      "precio_lista": 89.0,
      "disponible": true,
@@ -32143,10 +32159,18 @@
    "modelo": "PAW2395",
    "url": "https://sv.siman.com/mouse-redragon-fyzu-blanco-m995w-50-26000-dpi-6-botones-51grms-sensorpaw2395-usb-823476047/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 44.99,
+     "precio_lista": 44.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 44.99,
      "precio_lista": 44.99,
      "disponible": true,
@@ -32165,10 +32189,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-cableado-1000-negro-105318139/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 9.9,
+     "precio_lista": 9.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 9.9,
      "precio_lista": 9.9,
      "disponible": true,
@@ -32209,10 +32241,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-gaming-ergonomico-basilisk-v3-35k-nasa-negro-104836593/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -32231,10 +32271,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-con-cable-sensor-optico-preciso-100-104827160/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 7.9,
+     "precio_lista": 7.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 7.9,
      "precio_lista": 7.9,
      "disponible": true,
@@ -33603,10 +33651,18 @@
    "modelo": "36X50",
    "url": "https://sv.siman.com/cartagena-blanco-34-x-50-823490921/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 25.26,
+     "precio_lista": 25.26,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 25.26,
      "precio_lista": 25.26,
      "disponible": true,
@@ -33625,10 +33681,18 @@
    "modelo": "62X93",
    "url": "https://sv.siman.com/compostela-gris-62-x-93-823490916/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 35.88,
+     "precio_lista": 35.88,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 35.88,
      "precio_lista": 35.88,
      "disponible": true,
@@ -33647,10 +33711,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-61-x-61-pizarra-negra-caja-823471308/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 27.04,
+     "precio_lista": 27.04,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 27.04,
      "precio_lista": 27.04,
      "disponible": true,
@@ -33669,10 +33741,18 @@
    "modelo": "60X120",
    "url": "https://sv.siman.com/ceramica-para-interiores-60x120-galaxy-ambra-caja-823464539/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 30.5,
+     "precio_lista": 30.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 30.5,
      "precio_lista": 30.5,
      "disponible": true,
@@ -33691,10 +33771,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-exteriores-31-6x31-6-812-marron-gra-caja-823464535/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 17.9,
+     "precio_lista": 17.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 17.9,
      "precio_lista": 17.9,
      "disponible": true,
@@ -33713,10 +33801,18 @@
    "modelo": "45X45",
    "url": "https://sv.siman.com/ceramica-para-interiores-45x45-pisa-blanco-ext-caja-823464521/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.33,
+     "precio_lista": 23.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.33,
      "precio_lista": 23.33,
      "disponible": true,
@@ -33735,10 +33831,18 @@
    "modelo": "45X45",
    "url": "https://sv.siman.com/ceramica-para-interiores-45x45-ventura-natural-ext-caja-823464509/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.33,
+     "precio_lista": 23.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.33,
      "precio_lista": 23.33,
      "disponible": true,
@@ -33757,10 +33861,18 @@
    "modelo": "45X45",
    "url": "https://sv.siman.com/ceramica-para-interiores-45x45-iguazu-ext-caja-823464493/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.33,
+     "precio_lista": 23.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.33,
      "precio_lista": 23.33,
      "disponible": true,
@@ -33779,10 +33891,18 @@
    "modelo": "30X30",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-30x30-piedra-beige-ext-caja-823464491/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.0,
      "precio_lista": 23.0,
      "disponible": true,
@@ -33801,10 +33921,18 @@
    "modelo": "20X60",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-20x60-cipres-beige-ext-caja-823464483/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 18.3,
+     "precio_lista": 18.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 18.3,
      "precio_lista": 18.3,
      "disponible": true,
@@ -33823,10 +33951,18 @@
    "modelo": "45X45",
    "url": "https://sv.siman.com/ceramica-para-interiores-45x45-ipanema-cuero-ext-caja-823464474/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.33,
+     "precio_lista": 23.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.33,
      "precio_lista": 23.33,
      "disponible": true,
@@ -33845,10 +33981,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-interiores-7x21-subway-gris-mate-caja-823464470/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 21.4,
+     "precio_lista": 21.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 21.4,
      "precio_lista": 21.4,
      "disponible": true,
@@ -33867,10 +34011,18 @@
    "modelo": "60X60",
    "url": "https://sv.siman.com/ceramica-para-interiores-60x60-padua-beige-ext-caja-823464468/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 20.5,
+     "precio_lista": 20.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 20.5,
      "precio_lista": 20.5,
      "disponible": true,
@@ -33889,10 +34041,18 @@
    "modelo": "60X60",
    "url": "https://sv.siman.com/ceramica-para-interiores-60x60-colonia-gris-ext-caja-823464466/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 20.5,
+     "precio_lista": 20.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 20.5,
      "precio_lista": 20.5,
      "disponible": true,
@@ -33911,10 +34071,18 @@
    "modelo": "45X45",
    "url": "https://sv.siman.com/ceramica-para-interiores-45x45-delta-natural-ext-caja-823464461/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.33,
+     "precio_lista": 23.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.33,
      "precio_lista": 23.33,
      "disponible": true,
@@ -33933,10 +34101,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-20-5x66-5-bali-roble-caja-823464460/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 16.63,
+     "precio_lista": 16.63,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 16.63,
      "precio_lista": 16.63,
      "disponible": true,
@@ -33955,10 +34131,18 @@
    "modelo": "30X60",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-30x60-filetti-granito-beige-ext-caja-823464458/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 25.35,
+     "precio_lista": 25.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 25.35,
      "precio_lista": 25.35,
      "disponible": true,
@@ -33977,10 +34161,18 @@
    "modelo": "30X60",
    "url": "https://sv.siman.com/ceramica-para-interiores-30x60-wood-satinado-brill-caja-823464455/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 25.35,
+     "precio_lista": 25.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 25.35,
      "precio_lista": 25.35,
      "disponible": true,
@@ -33999,10 +34191,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-20-5x66-5-sydney-roble-caja-823464451/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 16.63,
+     "precio_lista": 16.63,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 16.63,
      "precio_lista": 16.63,
      "disponible": true,
@@ -34021,10 +34221,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-interiores-7x21-subway-blanco-brill-caja-823464450/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 21.4,
+     "precio_lista": 21.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 21.4,
      "precio_lista": 21.4,
      "disponible": true,
@@ -34043,10 +34251,18 @@
    "modelo": "20X60",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-20x60-fresno-perla-ext-caja-823464447/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 18.3,
+     "precio_lista": 18.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 18.3,
      "precio_lista": 18.3,
      "disponible": true,
@@ -34065,10 +34281,18 @@
    "modelo": "45X45",
    "url": "https://sv.siman.com/ceramica-para-interiores-45x45-perlado-negro-ext-caja-823464440/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 23.33,
+     "precio_lista": 23.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 23.33,
      "precio_lista": 23.33,
      "disponible": true,
@@ -34087,10 +34311,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-exteriores-31-6x31-6-cantera-beige-caja-823464428/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 24.5,
+     "precio_lista": 24.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 24.5,
      "precio_lista": 24.5,
      "disponible": true,
@@ -34109,10 +34341,18 @@
    "modelo": "18X122",
    "url": "https://sv.siman.com/ceramica-para-interiores-18x122-marbella-oak-grey-caja-823464394/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 79.05,
+     "precio_lista": 79.05,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 79.05,
      "precio_lista": 79.05,
      "disponible": true,
@@ -34131,10 +34371,18 @@
    "modelo": "30X93",
    "url": "https://sv.siman.com/ceramica-para-interiores-30x93-wood-marble-grey-rectificado-caja-823464390/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 37.82,
+     "precio_lista": 37.82,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 37.82,
      "precio_lista": 37.82,
      "disponible": true,
@@ -34153,10 +34401,18 @@
    "modelo": "36X50",
    "url": "https://sv.siman.com/ceramica-para-exteriores-36x50-elda-mix-brillante-caja-823464388/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 19.5,
+     "precio_lista": 19.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 19.5,
      "precio_lista": 19.5,
      "disponible": true,
@@ -34175,10 +34431,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/ceramica-para-interiores-exteriores-31-6x31-6-222-marfil-caja-823464366/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
+     "precio": 17.9,
+     "precio_lista": 17.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 17.9,
      "precio_lista": 17.9,
      "disponible": true,
@@ -40613,10 +40877,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-black-nsw2-105377243/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40635,10 +40907,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-rosalina-nsw2-105377244/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40657,10 +40937,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-afterglow-white-nsw2-105377250/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40679,10 +40967,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-afterglow-nsw2-105377249/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40701,10 +40997,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-koopa-troop-nsw2-105377242/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40723,10 +41027,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-afterglow-purple-nsw2-105377251/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40745,10 +41057,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-super-mario-jump-nsw2-105377241/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40767,10 +41087,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-afterglow-black-nsw2-105377248/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40789,10 +41117,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-mario-kart-world-nsw2-105377240/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -40811,10 +41147,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/control-inalambrico-afterglow-blue-nsw2-105377252/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-21",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -41566,6 +41910,402 @@
      "precio": 149.9,
      "precio_lista": 149.9,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "8731833": {
+   "nombre": "Pantalla LG 55\" (139.7 cm) UHD AI 4K HDR10 Pro 55UA8000PSB — TV LED SMART 55\" UHD AI 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "55UA8000PSB",
+   "url": "https://sv.siman.com/pantalla-lg-55---139-7-cm--uhd-ai-4k-hdr10-pro-55ua8000psb/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 489.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6625928": {
+   "nombre": "Teclado compacto bluetooth en español negro",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Microsoft",
+   "modelo": "",
+   "url": "https://sv.siman.com/teclado-compacto-bluetooth-en-espaol-negro-103392921/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.01,
+     "precio_lista": 85.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7567518": {
+   "nombre": "Laptop Lenovo Legion gaming 16\" (40.64 cm) AMD Ryzen 5-5600h 16GB + 512GB SSD + Nvidia  RTX  3060 // 82JQ00SQGJ — LAPTOP DE 16\" (40.64 cm) GAMING LEGION 5 PRO R5-5600H 16GB - 512 SSD RTX 3060",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Lenovo",
+   "modelo": "82JQ00SQGJ",
+   "url": "https://sv.siman.com/laptop-de-16-gaming-legion-5-pro-r5-5600h-16gb-512-ssd-rtx-3060-104111996/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 189.0,
+     "precio_lista": 1899.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7589307": {
+   "nombre": "Laptop gaming Acer Nitro 5 Intel core i5-11400h 8GB RAM + 512GB SSD + Nvidia RTX 3050 // AN515-57-5833-AR — LAPTOP GAMING DE 15\" (38.1 cm) NITRO 15 INTEL Ci5-11400H 8GB - 512SSD RTX3050 4GB",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Acer",
+   "modelo": "CI511400H",
+   "url": "https://sv.siman.com/laptop-gaming-de-15-nitro-15-intel-ci5-11400h-8gb-512ssd-rtx3050-4gb-104129937/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 119.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7097913": {
+   "nombre": "Laptop HP Intel Core i3-1115G4 8GB RAM + 256GB SSD ROM //15-DW3500LA — Laptop de 15\" (38.1 cm) intel ci3-1115g4 8gb - 256sdd",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15DW3500LA",
+   "url": "https://sv.siman.com/laptop-de-15-intel-ci3-1115g4-8gb-256sdd-103740434/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 69.0,
+     "precio_lista": 629.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6972633": {
+   "nombre": "Laptop gaming HP Intel Core i7-11800H 16GB RAM + 512GB SSD ROM //16-D0510LA — Laptop de 16\" (40.64 cm) gaming victus intecl ci7-11800h 16gb - 512gb ssd rtx 6gb",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "16D0510LA",
+   "url": "https://sv.siman.com/laptop-de-16-gaming-victus-intecl-ci7-11800h-16gb-512gb-ssd-rtx-6gb-103633279/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 189.0,
+     "precio_lista": 1899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7268537": {
+   "nombre": "Laptop gaming Dell 15.6\" (39.62 cm) AMD Ryzen 7-5800H 8GB RAM + 512GB SSD ROM //G15RE-A975GRY-PUS — Laptop de 15\" (38.1 cm) gaming g15 amd r7-5800h 8gb - 512 ssd rtx-3050ti gris sg",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Dell",
+   "modelo": "G15REA975GRY",
+   "url": "https://sv.siman.com/laptop-de-15-gaming-g15-amd-r7-5800h-8gb-512-ssd-rtx-3050ti-gris-sg-103856951/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 149.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7098780": {
+   "nombre": "Laptop HP Intel Core i5-1240P 16GB RAM + 512GB SSD ROM //15-EW0100LA — Laptop de 15 envy 2 en 1 intel ci5-1240p 16gb - 512ssd",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15EW0100LA",
+   "url": "https://sv.siman.com/laptop-de-15-envy-2-en-1-intel-ci5-1240p-16gb-512ssd-103741069/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 139.0,
+     "precio_lista": 1319.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7097915": {
+   "nombre": "Laptop HP 15.6\" (39.62 cm) AMD Ryzen 7-5700U 16GB RAM + 512GB SSD ROM //15-EH1021LA — Laptop de 15\" (38.1 cm) pavilion amd r7-5700u 16gb - 512ssd",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15EH1021LA",
+   "url": "https://sv.siman.com/laptop-de-15-pavilion-amd-r7-5700u-16gb-512ssd-103740432/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 109.0,
+     "precio_lista": 1089.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7125187": {
+   "nombre": "Laptop Lenovo 15.6\" (39.62 cm) AMD Ryzen 3 3250U 8GB RAM + 256GB SSD ROM //82C700C3SP — Laptop de 15\" (38.1 cm) amd r3-3250u 8gb - 256ssd gris",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Lenovo",
+   "modelo": "82C700C3SP",
+   "url": "https://sv.siman.com/laptop-de-15-amd-r3-3250u-8gb-256ssd-gris-103756316/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 49.0,
+     "precio_lista": 459.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7068985": {
+   "nombre": "Audífono gaming stereo gh-709 negros iluminados",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xtrike me",
+   "modelo": "GH709",
+   "url": "https://sv.siman.com/audifono-gaming-stereo-gh-709-negros-iluminados-103723419/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 1.59,
+     "precio_lista": 15.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6176488": {
+   "nombre": "Audífonos inalámbricos blancos",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Belkin",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifonos-inalambricos-blancos-103082758/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.01,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7135525": {
+   "nombre": "Audífonos bluetooth street to go negros — Audífonos bt street to go negros",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2go",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifonos-bt-street-to-go-negros-103761017/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.99,
+     "precio_lista": 16.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7224977": {
+   "nombre": "Audífono in ear bluetooth tws noise cancelling tune 130 blanco — Audífono in ear bt tws noise cancelling tune 130 blanco",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-tws-noise-cancelling-tune-130-blanco-103822542/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 3.99,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6098683": {
+   "nombre": "Auriculares inalámbricos con cancelación de ruido Sony",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifonos-bt-in-ear-true-wireless-con-noise-cancelling-gris-103013331/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 39.99,
+     "precio_lista": 61.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6442811": {
+   "nombre": "Audifono gaming on the ear brave usb con mic",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Unno",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-gaming-on-the-ear-brave-usb-con-mic-103262964/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.01,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6274479": {
+   "nombre": "Laptop Dell 15.6\" (39.62 cm) Intel Celeron 4205U 4GB RAM + 500GB ROM //MKFK3 — Laptop Dell Intel Celeron 4205U de 15\" (38.1 cm)",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Dell",
+   "modelo": "4205U",
+   "url": "https://sv.siman.com/laptop-de-15-celeron-4gb-500gb-103147575/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 39.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6510054": {
+   "nombre": "Audífono true wirelless freebuds 4i blanco (ct)",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Huawei",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-true-wirelless-freebuds-4i-blanco-ct-103316280/p",
+   "primera_vez": "2026-10-21",
+   "ultima_vez": "2026-10-21",
+   "observaciones": [
+    {
+     "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 9.9,
+     "precio_lista": 99.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
