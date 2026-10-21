@@ -17,13 +17,14 @@ concurrency:
 jobs:
   capturar:
     runs-on: ubuntu-latest
-    timeout-minutes: 40
+    timeout-minutes: 90        # 8 min maximo por tienda (ver LIMITE_POR_TIENDA)
     env:
       TZ: America/El_Salvador   # las fechas de captura quedan en hora local
+      PYTHONUNBUFFERED: "1"     # el avance ("Barriendo Siman...") se ve en vivo en el log
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 

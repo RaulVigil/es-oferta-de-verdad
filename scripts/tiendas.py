@@ -30,7 +30,8 @@ import urllib.request
 from datetime import datetime, timedelta, timezone
 
 AGENTE = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36"
-TIEMPO = 30
+TIEMPO = 20
+_LIMITE: float | None = None  # hora limite del barrido de la tienda actual (ver fijar_limite)
 ZONA_SV = timezone(timedelta(hours=-6))
 
 VTEX = {
@@ -85,7 +86,16 @@ def soportado(comercial: str) -> bool:
 COMERCIALES_BARRIDO = list(VTEX) + list(MAGENTO) + ["prado", "epa", "omnisport", "zonadigital", "aeon"]
 
 
+def fijar_limite(segundos: float | None) -> None:
+    """Tiempo maximo para el barrido de una tienda: si una tienda no responde (o bloquea
+    al servidor que captura), se corta y se sigue con las demas. None quita el limite."""
+    global _LIMITE
+    _LIMITE = time.time() + segundos if segundos else None
+
+
 def _pedir(url: str, datos: dict | None = None, cabeceras: dict | None = None):
+    if _LIMITE and time.time() > _LIMITE:
+        raise ErrorTienda("se agoto el tiempo de la tienda")
     h = {"User-Agent": AGENTE, "Accept": "application/json, text/html"}
     h.update(cabeceras or {})
     cuerpo = None

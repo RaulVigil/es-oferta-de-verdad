@@ -50,6 +50,7 @@ ARCHIVO_COMERCIALES = DIR_DATOS / "comerciales.json"
 DIR_REPORTES = RAIZ / "reportes"
 
 CORTE_POR_DEFECTO = "2026-11-01"
+LIMITE_POR_TIENDA = 8 * 60  # segundos; Omnisport, la mas lenta, tarda ~4 min
 FILTROS_POR_DEFECTO = {"tv": {"pulgadas_min": 40, "pulgadas_max": 60}, "cama": {"medidas": ["matrimonial"]}}
 
 
@@ -401,12 +402,15 @@ def capturar(categoria: str | None = None, comercial: str | None = None, product
             tienda = nombre_comercial(cid, catalogo)
             avisar(f"Barriendo {tienda}...")
             inicio = time.time()
+            tiendas.fijar_limite(LIMITE_POR_TIENDA)
             try:
                 items = tiendas.barrer(cid, filtros)
             except Exception as e:  # una tienda caida no detiene el barrido de las demas
                 total["errores"] += 1
                 avisar(f"  ERROR {tienda}: {type(e).__name__}: {e}")
                 continue
+            finally:
+                tiendas.fijar_limite(None)
             ahora = ahora_iso()
             cuenta = {c: 0 for c in filtros}
             nuevas = 0
