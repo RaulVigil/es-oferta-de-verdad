@@ -4,7 +4,11 @@ name: Capturar precios
 
 on:
   schedule:
-    - cron: "0 13 * * *"   # 7:00 a. m. en El Salvador (UTC-6)
+    # GitHub retrasa o salta las tareas a la hora en punto (todo el mundo las usa):
+    # minutos "raros" y una segunda corrida de respaldo. Si las dos corren el mismo dia,
+    # la segunda solo agrega los precios que cambiaron.
+    - cron: "17 12 * * *"  # 6:17 a. m. en El Salvador (UTC-6)
+    - cron: "47 19 * * *"  # 1:47 p. m., respaldo
   workflow_dispatch:        # boton "Run workflow" para correrlo a mano
 
 permissions:
