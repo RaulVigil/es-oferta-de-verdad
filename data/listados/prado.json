@@ -1,6 +1,6 @@
 {
  "comercial": "prado",
- "actualizado": "2026-10-20T12:56:26-06:00",
+ "actualizado": "2026-10-20T21:12:06-06:00",
  "listados": {
   "115353": {
    "nombre": "Cama Matrimonial Capri EXCLUSIVA",
@@ -113,7 +113,7 @@
    ]
   },
   "201347": {
-   "nombre": "Pantalla Smart UHD 4K LG 50 Pulgadas 50NU850BPSA",
+   "nombre": "Pantalla LED 4K UHD LG 50 Pulgadas 50NU850BPSA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 50,
@@ -135,7 +135,7 @@
    ]
   },
   "200689": {
-   "nombre": "Pantalla QLED 4K RCA 50 Pulgadas RC50QL",
+   "nombre": "Pantalla QLED 4K UHD RCA 50 Pulgadas RC50QL",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 50,
@@ -157,7 +157,7 @@
    ]
   },
   "201334": {
-   "nombre": "Pantalla MINI LED UHD 4K Samsung 50 Pulgadas UN50M70HAPXPA",
+   "nombre": "Pantalla MINI LED 4K UHD Samsung 50 Pulgadas UN50M70HAPXPA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 50,
@@ -179,7 +179,7 @@
    ]
   },
   "201337": {
-   "nombre": "Pantalla LED UHD 4K Samsung 50 Pulgadas UN50U8000HPXPA",
+   "nombre": "Pantalla LED 4K UHD Samsung 50 Pulgadas UN50U8000HPXPA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 50,
@@ -201,7 +201,7 @@
    ]
   },
   "201338": {
-   "nombre": "Pantalla LED UHD 4K Samsung 55 Pulgadas UN55U8000HPXPA",
+   "nombre": "Pantalla LED 4K UHD Samsung 55 Pulgadas UN55U8000HPXPA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 55,
@@ -263,11 +263,19 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo de Prado vigente hasta 2026-10-17"
+    },
+    {
+     "fecha": "2026-10-20T21:12:06-06:00",
+     "precio": 299.0,
+     "precio_lista": 479.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
   "197407": {
-   "nombre": "Pantalla Smart Full HD Samsung 40 pulgadas UN40F6000FPXPA",
+   "nombre": "Pantalla LED Full HD Samsung 40 Pulgadas UN40F6000FPXPA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 40,
@@ -307,6 +315,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo de Prado vigente hasta 2026-10-17"
+    },
+    {
+     "fecha": "2026-10-20T21:12:06-06:00",
+     "precio": 379.0,
+     "precio_lista": 519.51,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -465,7 +481,7 @@
    ]
   },
   "201144": {
-   "nombre": "Pantalla QLED Full HD Hisense 50 Pulgadas 50Q4SV",
+   "nombre": "Pantalla QLED 4K UHD Hisense 50 Pulgadas 50Q4SV",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 50,
@@ -597,7 +613,7 @@
    ]
   },
   "200690": {
-   "nombre": "Pantalla QLED FHD RCA 43 Pulgadas RC43QL",
+   "nombre": "Pantalla QLED Full HD RCA 43 Pulgadas RC43QL",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 43,
@@ -619,7 +635,7 @@
    ]
   },
   "201336": {
-   "nombre": "Pantalla Smart UHD 4K Samsung 43 Pulgadas UN43U8000HPXPA",
+   "nombre": "Pantalla LED 4K UHD Samsung 43 Pulgadas UN43U8000HPXPA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 43,
@@ -663,7 +679,7 @@
    ]
   },
   "200665": {
-   "nombre": "Pantalla Smart Full HD Aiwa 40 Pulgadas AW40B2RK",
+   "nombre": "Pantalla LED Full HD Aiwa 40 Pulgadas AW40B2RK",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 40,
@@ -707,7 +723,7 @@
    ]
   },
   "200688": {
-   "nombre": "Pantalla QLED FHD RCA 40 Pulgadas RC40QL",
+   "nombre": "Pantalla QLED Full HD RCA 40 Pulgadas RC40QL",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 40,
@@ -817,7 +833,7 @@
    ]
   },
   "191343": {
-   "nombre": "Pantalla Neo QLED 4K Samsung 55 Pulgadas QN55QN85DBPXPA | Tizen | SmartThings | Wi-Fi | Dolby Atmos | HDR10+ | NQ4 AI Gen2 Processor",
+   "nombre": "Pantalla Neo QLED 4K UHD Samsung 55 Pulgadas QN55QN85DBPXPA",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 55,
@@ -949,7 +965,7 @@
    ]
   },
   "200667": {
-   "nombre": "Pantalla Smart Full HD Aiwa 43 Pulgadas AW43B2RK",
+   "nombre": "Pantalla LED Full HD Aiwa 43 Pulgadas AW43B2RK",
    "categoria": "tv",
    "tipo": "tv",
    "pulgadas": 43,
@@ -1539,6 +1555,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo de Prado vigente hasta 2026-10-15"
+    },
+    {
+     "fecha": "2026-10-20T21:12:06-06:00",
+     "precio": 639.0,
+     "precio_lista": 952.31,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -1561,6 +1585,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo de Prado vigente hasta 2026-10-15"
+    },
+    {
+     "fecha": "2026-10-20T21:12:06-06:00",
+     "precio": 759.0,
+     "precio_lista": 1076.52,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -1847,6 +1879,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-10-17"
+    },
+    {
+     "fecha": "2026-10-20T21:12:06-06:00",
+     "precio": 379.0,
+     "precio_lista": 739.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },

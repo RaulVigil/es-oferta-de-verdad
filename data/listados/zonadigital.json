@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-20T13:01:47-06:00",
+ "actualizado": "2026-10-20T21:16:08-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -9173,6 +9173,28 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    }
+   ]
+  },
+  "14693": {
+   "nombre": "Monitor xiaomi g24i (2026)pantalla fast ips fhd 24p 200hz 1ms gtg hdmi  dp vesa 68366",
+   "categoria": "monitor",
+   "tipo": "monitor",
+   "pulgadas": 24,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/monitor-xiaomi-g24i-2026pantalla-fast-ips-fhd-24p-200hz-1ms-gtg-hdmi-dp-vesa-68366",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:16:08-06:00",
+     "precio": 129.95,
+     "precio_lista": 149.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'Spooky Deals Monitores' hasta 2026-10-25"
     }
    ]
   }

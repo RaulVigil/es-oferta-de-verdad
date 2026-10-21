@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-10-20T12:51:51-06:00",
+ "actualizado": "2026-10-20T21:08:26-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -4638,6 +4638,512 @@
      "fecha": "2026-10-20T12:51:51-06:00",
      "precio": 134.0,
      "precio_lista": 134.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43234": {
+   "nombre": "Teclado Argom Usb Multimedia Espa — Teclado Argom Multimedia En Español USB",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/teclado-argom-usb-multimedia-espa-sv2411-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 7.92,
+     "precio_lista": 10.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "122148": {
+   "nombre": "Kit De Teclado y Mouse Xtech Inalabrico",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XTECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/kit-de-teclado-y-mouse-xtech-inalabrico-sv8863-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 30.0,
+     "precio_lista": 39.54,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "47952": {
+   "nombre": "Teclado Mouse Durabra Inala Int 072509bl — Teclado Y Mouse Durabrand inalámbricos",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "072509BL",
+   "url": "https://www.walmart.com.sv/teclado-mouse-durabra-inala-int-072509bl-sv2097-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 12.0,
+     "precio_lista": 12.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "45402": {
+   "nombre": "Kit Teclado y Mouse Gaming Argom Usb — Teclado y Mouse gamer ArgomTech ARGKB2051BK",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "ARGKB2051BK",
+   "url": "https://www.walmart.com.sv/kit-teclado-y-mouse-gaming-argom-usb-sv4730-5-8/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 19.0,
+     "precio_lista": 21.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "71852": {
+   "nombre": "Teclado y Mouse Inala Revolution Kck270s — Dúo inalámbrico Klip Xtreme, teclado y mouse",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KCK270S",
+   "url": "https://www.walmart.com.sv/teclado-y-mouse-inala-revolution-kck270s-sv9947-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 23.35,
+     "precio_lista": 23.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43221": {
+   "nombre": "Ventilador Laptop Ajustable Argom Led — Base Ajustable Para Portátil Argom Con 1 Ventilador LED Y 2-Puertos USB 2.0",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/ventilador-laptop-ajustable-argom-led-sv390-5-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 16.0,
+     "precio_lista": 16.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "71855": {
+   "nombre": "Audifonos Alamb Diadema Klearcom Kch510 — Audífonos Klip Xtreme estéreo con interfaz USB KlearCom",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KCH510",
+   "url": "https://www.walmart.com.sv/audifonos-alamb-diadema-klearcom-kch510-sv1181-5-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 17.59,
+     "precio_lista": 17.59,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "126466": {
+   "nombre": "Audifonos Con Microfono Xtech Usb",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XTECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-con-microfono-xtech-usb-sv3446-5-1/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 10.0,
+     "precio_lista": 10.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "126460": {
+   "nombre": "Audifonos Con Microfono Xtech Usb c",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XTECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-con-microfono-xtech-usb-c-sv4744-5-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 12.0,
+     "precio_lista": 12.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43215": {
+   "nombre": "Mouse Wireless Argom Azul — Mouse Argom Inalámbrico Wireless Azul",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-wireless-argom-azul-sv1128-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 7.42,
+     "precio_lista": 7.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43214": {
+   "nombre": "Mouse Wireless Argom Negro — Mouse Argom Inalámbrico Wireless Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-wireless-argom-negro-sv413-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 7.42,
+     "precio_lista": 7.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "40521": {
+   "nombre": "Mouse Logitech M170 Azul — Mouse Inalámbrico Logitech Azul M170",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-logitech-m170-azul-sv9760-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 14.15,
+     "precio_lista": 14.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "47961": {
+   "nombre": "Mouse Durabrand Inalambrico Int 122005w — Mouse Durabrand inalámbrico Int-122005W",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "INT122005W",
+   "url": "https://www.walmart.com.sv/mouse-durabrand-inalambrico-int-122005w-sv7587-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 5.5,
+     "precio_lista": 5.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "47959": {
+   "nombre": "Mouse Blanco Durabrand Int 211201w — Mouse Durabrand Alámbrico Blanco",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "211201W",
+   "url": "https://www.walmart.com.sv/mouse-blanco-durabrand-int-211201w-sv712-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 2.99,
+     "precio_lista": 2.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43218": {
+   "nombre": "Mouse Optico Usb Argom Rojo — Mouse Argom Inalámbrico Usb Rojo",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-optico-usb-argom-rojo-sv7865-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 4.95,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "49781": {
+   "nombre": "Mouse Klip Inalambrico Optico 3d — Mouse Klip Xtreme Inalambrico Óptico 3D",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-klip-inalambrico-optico-3d-sv8392-5-3/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 9.4,
+     "precio_lista": 9.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "47975": {
+   "nombre": "Mouse Durabrand Inalambrico Int 122005b — Mouse Durabrand inalámbrico",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "122005B",
+   "url": "https://www.walmart.com.sv/mouse-durabrand-inalambrico-int-122005b-sv2182-5-2/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 3.99,
+     "precio_lista": 3.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "43216": {
+   "nombre": "Mouse Optico Usb Argom Negro — Mouse Argom Inalámbrico Optico Usb Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-optico-usb-argom-negro-sv9943-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 4.95,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "70255": {
+   "nombre": "Mouse Xtech Inalambrico Xtm 310bl Azul — Mouse Xtech Inalámbrico Xtm 310Bl colores surtido",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XTECH",
+   "modelo": "310BL",
+   "url": "https://www.walmart.com.sv/mouse-xtech-inalambrico-xtm-310bl-azul-sv4649-5-0/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 6.35,
+     "precio_lista": 6.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "68431": {
+   "nombre": "Mouse Klip Kmw340bl Bluetooh Nano — Mouse Klip Xtreme Kmw340Bl Bluetooh Nano",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KMW340BL",
+   "url": "https://www.walmart.com.sv/mouse-klip-kmw340bl-bluetooh-nano-sv9318-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 8.9,
+     "precio_lista": 8.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "49776": {
+   "nombre": "Mouse Klip Optico Usb Kmo120bk — Mouse Klip Xtreme Óptico Usb Kmo120Bk",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KMO120BK",
+   "url": "https://www.walmart.com.sv/mouse-klip-optico-usb-kmo120bk-sv919-5-5/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 7.5,
+     "precio_lista": 7.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "47958": {
+   "nombre": "Mouse Purpu Con Luz Durabrand Int Wdm2bp — Mouse Durabrand Inalambrico",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "WDM2BP",
+   "url": "https://www.walmart.com.sv/mouse-purpu-con-luz-durabrand-int-wdm2bp-sv3567-5-4/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 1.99,
+     "precio_lista": 1.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "47974": {
+   "nombre": "Mouse Azul Con Luz Durabrand Int Wdm2bb — Mouse Durabrand Alámbrico color Azul",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "WDM2BB",
+   "url": "https://www.walmart.com.sv/mouse-azul-con-luz-durabrand-int-wdm2bb-sv9778-5-7/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:08:26-06:00",
+     "precio": 1.49,
+     "precio_lista": 2.5,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

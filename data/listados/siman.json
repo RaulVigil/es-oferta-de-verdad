@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-20T12:50:41-06:00",
+ "actualizado": "2026-10-20T21:07:44-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -1870,6 +1870,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 179.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1888,6 +1896,14 @@
     {
      "fecha": "2026-10-20T11:36:43-06:00",
      "precio": 329.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 299.0,
      "precio_lista": 599.0,
      "disponible": true,
      "fuente": "auto",
@@ -2108,6 +2124,14 @@
     {
      "fecha": "2026-10-20T11:36:43-06:00",
      "precio": 459.0,
+     "precio_lista": 629.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 399.0,
      "precio_lista": 629.0,
      "disponible": true,
      "fuente": "auto",
@@ -30093,6 +30117,226 @@
      "fecha": "2026-10-20T12:50:41-06:00",
      "precio": 152.01,
      "precio_lista": 168.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127549": {
+   "nombre": "Control inalámbrico Turtle Beach REMATCH negro para Nintendo Switch 2 — CONTROL INALÁMBRICO BLACK NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-black-nsw2-105377243/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127548": {
+   "nombre": "Control inalámbrico Turtle Beach Rematch Rosalina para Nintendo Switch 2 — CONTROL INALÁMBRICO ROSALINA NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-rosalina-nsw2-105377244/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127542": {
+   "nombre": "Control inalámbrico Turtle Beach Afterglow Wave para Nintendo Switch 2 — CONTROL INALÁMBRICO AFTERGLOW WHITE NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-afterglow-white-nsw2-105377250/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127543": {
+   "nombre": "Control inalámbrico Turtle Beach Afterglow RGB transparente para Nintendo Switch 2 — CONTROL INALÁMBRICO AFTERGLOW NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-afterglow-nsw2-105377249/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127550": {
+   "nombre": "Control Inalámbrico Turtle Beach Rematch Koopa Troop para Nintendo Switch 2 — CONTROL INALÁMBRICO KOOPA TROOP NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-koopa-troop-nsw2-105377242/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127541": {
+   "nombre": "Control inalámbrico Turtle Beach Afterglow Wave RGB para Nintendo Switch Violeta — CONTROL INALÁMBRICO AFTERGLOW PURPLE NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-afterglow-purple-nsw2-105377251/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127551": {
+   "nombre": "Control inalámbrico Turtle Beach REMATCH Super Mario Jump para Nintendo Switch 2 — CONTROL INALÁMBRICO SUPER MARIO JUMP NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-super-mario-jump-nsw2-105377241/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127544": {
+   "nombre": "Control inalámbrico Turtle Beach Afterglow Wave RGB para Nintendo Switch 2 Negro — CONTROL INALÁMBRICO AFTERGLOW BLACK NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-afterglow-black-nsw2-105377248/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127552": {
+   "nombre": "Control Inalámbrico Turtle Beach Rematch Mario Kart World para Nintendo Switch 2 — CONTROL INALÁMBRICO MARIO KART WORLD NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-mario-kart-world-nsw2-105377240/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9127540": {
+   "nombre": "Control inalámbrico Turtle Beach Afterglow Wave RGB para Nintendo Switch 2 Azul — CONTROL INALÁMBRICO AFTERGLOW BLUE NSW2",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Turtle Beach",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-inalambrico-afterglow-blue-nsw2-105377252/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:07:44-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

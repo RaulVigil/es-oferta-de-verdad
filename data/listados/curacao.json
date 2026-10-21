@@ -1,6 +1,6 @@
 {
  "comercial": "curacao",
- "actualizado": "2026-10-20T12:53:46-06:00",
+ "actualizado": "2026-10-20T21:09:59-06:00",
  "listados": {
   "465123300008": {
    "nombre": "Set de Cama Capri Matrimonial Exclusiva 2 en 1",
@@ -61,6 +61,14 @@
     {
      "fecha": "2026-10-20T11:20:55-06:00",
      "precio": 397.0,
+     "precio_lista": 520.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 387.0,
      "precio_lista": 520.0,
      "disponible": true,
      "fuente": "auto",
@@ -1232,6 +1240,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 207.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1250,6 +1266,14 @@
     {
      "fecha": "2026-10-20T11:36:58-06:00",
      "precio": 457.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 447.0,
      "precio_lista": 649.0,
      "disponible": true,
      "fuente": "auto",
@@ -3212,6 +3236,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 347.0,
+     "precio_lista": 680.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -3538,6 +3570,14 @@
     {
      "fecha": "2026-10-20T11:54:28-06:00",
      "precio": 227.0,
+     "precio_lista": 420.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 217.0,
      "precio_lista": 420.0,
      "disponible": true,
      "fuente": "auto",
@@ -11877,6 +11917,72 @@
      "fecha": "2026-10-20T12:53:46-06:00",
      "precio": 92.99,
      "precio_lista": 98.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "465337000015": {
+   "nombre": "Centro de Lavado Samsung 22 kg y 22 kg WH22DBH570EV",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "WH22DBH570EV",
+   "url": "https://www.lacuracaonline.com/elsalvador/centro-de-lavado-samsung-frontal-22-kg-lavado-y-22-kg-secado-wh22dbh570ev-465337000015/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "441816800000": {
+   "nombre": "Refrigeradora Mabe  19 Pies 2 Puertas Top Mount RMS510IXMRX0",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "RMS510IXMRX0",
+   "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-mabe-top-mont-rms510ixmrx0-no-frost-19-pies-441816800000/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 639.0,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "464262800011": {
+   "nombre": "Centro de Lavado LG 20 kg y 11 kg WD20VV2S6R",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "WD20VV2S6R",
+   "url": "https://www.lacuracaonline.com/elsalvador/centro-de-lavado-lg-wd20vv2s6r-frontal-20-kg-11-kg-464262800011/p",
+   "primera_vez": "2026-10-20",
+   "ultima_vez": "2026-10-20",
+   "observaciones": [
+    {
+     "fecha": "2026-10-20T21:09:59-06:00",
+     "precio": 1179.0,
+     "precio_lista": 1299.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
