@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-22T11:26:12-06:00",
+ "actualizado": "2026-10-22T16:57:51-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -15792,10 +15792,18 @@
    "modelo": "DC16255",
    "url": "https://zonadigitalsv.com/product/laptop-dell-dc16255-proc-amd-ryzen-7-250-ram-16gb-almacenamiento-ssd-512gb-pantalla-tactil-16p-fhd-w11h-wifi6bt",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:47:05-06:00",
+     "precio": 849.95,
+     "precio_lista": 949.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SpooKy Deals Laptops' hasta 2026-10-31"
+    },
+    {
+     "fecha": "2026-10-22T16:57:51-06:00",
      "precio": 849.95,
      "precio_lista": 949.95,
      "disponible": true,
@@ -16187,6 +16195,94 @@
     {
      "fecha": "2026-10-22T11:26:12-06:00",
      "precio": 449.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16092": {
+   "nombre": "Laptop hp victus 15-fa2010la proc. intel core i5 13420h ram ddr4 16gb  almacenamiento ssd 512gb  rtx4050 pantalla fhd ips 15.6p w11h  rosado ba1u2la",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15FA2010LA",
+   "url": "https://zonadigitalsv.com/product/laptop-hp-victus-15-fa2010la-proc-intel-core-i5-13420h-ram-ddr4-16gb-almacenamiento-ssd-512gb-rtx4050-pantalla-fhd-ips-156p-w11h-rosado-ba1u2la",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:57:51-06:00",
+     "precio": 1199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16091": {
+   "nombre": "Mouse inalambrico 2.4ghz y bt logitech g305 x superlight hero 44k recargable hasta 130h 910-007746 blanco",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/mouse-inalambrico-24ghz-y-bt-logitech-g305-x-superlight-hero-44k-recargable-hasta-130h-910-007746-blanco",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:57:51-06:00",
+     "precio": 84.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16090": {
+   "nombre": "Kit 2 microfono inalambrico de solapa para smartphone belkin cta003fqsa",
+   "categoria": "microfono",
+   "tipo": "microfono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "BELKIN",
+   "modelo": "CTA003FQSA",
+   "url": "https://zonadigitalsv.com/product/kit-2-microfono-inalambrico-de-solapa-para-smartphone-belkin-cta003fqsa",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:57:51-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "11157": {
+   "nombre": "Kit teclado y mouse inalambrico dell km3322w-r-ltn",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DELL",
+   "modelo": "KM3322WR",
+   "url": "https://zonadigitalsv.com/product/kit-teclado-y-mouse-inalambrico-dell-km3322w-r-ltn",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:57:51-06:00",
+     "precio": 29.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",

@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-10-22T11:30:07-06:00",
+ "actualizado": "2026-10-22T17:00:17-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -149,6 +149,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 52.46,
+     "precio_lista": 69.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -179,6 +187,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 97.5,
+     "precio_lista": 130.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -206,6 +222,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 130.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 97.5,
+     "precio_lista": 130.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -261,6 +285,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 52.46,
+     "precio_lista": 69.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -288,6 +320,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 150.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 120.0,
+     "precio_lista": 150.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -378,6 +418,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 110.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 82.5,
+     "precio_lista": 110.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -995,6 +1043,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 97.5,
+     "precio_lista": 130.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1022,6 +1078,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 130.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 97.5,
+     "precio_lista": 130.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -1205,6 +1269,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 127.5,
+     "precio_lista": 150.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1355,6 +1427,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 78.63,
+     "precio_lista": 92.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1382,6 +1462,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 89.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 71.96,
+     "precio_lista": 89.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -10661,6 +10749,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 11.96,
+     "precio_lista": 14.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -10871,6 +10967,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 16.96,
+     "precio_lista": 19.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -10898,6 +11002,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 18.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 13.27,
+     "precio_lista": 18.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -11531,6 +11643,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 71.96,
+     "precio_lista": 89.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -11588,6 +11708,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 29.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 25.46,
+     "precio_lista": 29.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -11708,6 +11836,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 99.5,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 84.58,
+     "precio_lista": 99.5,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -12183,6 +12319,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 78.63,
+     "precio_lista": 92.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -12210,6 +12354,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 125.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 106.25,
+     "precio_lista": 125.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -12325,6 +12477,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 87.96,
+     "precio_lista": 99.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -12355,6 +12515,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 152.96,
+     "precio_lista": 179.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -12382,6 +12550,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 164.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 145.16,
+     "precio_lista": 164.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -12505,6 +12681,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 189.2,
+     "precio_lista": 215.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -12532,6 +12716,14 @@
      "fecha": "2026-10-22T11:30:07-06:00",
      "precio": 235.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T17:00:17-06:00",
+     "precio": 188.0,
+     "precio_lista": 235.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

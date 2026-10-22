@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-10-22T11:15:38-06:00",
+ "actualizado": "2026-10-22T16:49:21-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -721,6 +721,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 409.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -984,6 +992,14 @@
      "fecha": "2026-10-22T11:15:38-06:00",
      "precio": 459.0,
      "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 498.0,
+     "precio_lista": 498.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -2892,7 +2908,7 @@
    "modelo": "CHAMPION2",
    "url": "https://www.walmart.com.sv/marley-audifono-tws-champion2-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -2904,6 +2920,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 74.0,
+     "precio_lista": 74.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 74.0,
      "precio_lista": 74.0,
      "disponible": true,
@@ -2922,7 +2946,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-durabrand-s438/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -2935,6 +2959,14 @@
     {
      "fecha": "2026-10-21T16:48:59-06:00",
      "precio": 2.0,
+     "precio_lista": 2.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 1.5,
      "precio_lista": 2.0,
      "disponible": true,
      "fuente": "auto",
@@ -2952,7 +2984,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-durabrand-a1266/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -2965,6 +2997,14 @@
     {
      "fecha": "2026-10-21T16:48:59-06:00",
      "precio": 2.0,
+     "precio_lista": 2.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 1.5,
      "precio_lista": 2.0,
      "disponible": true,
      "fuente": "auto",
@@ -2982,7 +3022,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/durabrand-audifonos-inalambricos-s851/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -2994,6 +3034,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 14.5,
+     "precio_lista": 14.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 14.5,
      "precio_lista": 14.5,
      "disponible": true,
@@ -3012,7 +3060,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-durabrand-s437/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3024,6 +3072,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 2.0,
+     "precio_lista": 2.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 2.0,
      "precio_lista": 2.0,
      "disponible": true,
@@ -3042,7 +3098,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-durabrand-s17/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3054,6 +3110,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 3.5,
+     "precio_lista": 3.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 3.5,
      "precio_lista": 3.5,
      "disponible": true,
@@ -3072,7 +3136,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/xtech-bt-stich-tws-disney-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3084,6 +3148,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 19.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 19.0,
      "precio_lista": 19.0,
      "disponible": true,
@@ -3140,7 +3212,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/marley-audif-bt-frequency-rasta-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3152,6 +3224,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 79.0,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 79.0,
      "precio_lista": 79.0,
      "disponible": true,
@@ -3170,7 +3250,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-motorola-motobuds-plus-s99/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3182,6 +3262,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 79.0,
+     "precio_lista": 125.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 79.0,
      "precio_lista": 125.0,
      "disponible": true,
@@ -3200,7 +3288,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/klipxtreme-audif-diad-zoundtune-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3212,6 +3300,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 14.0,
+     "precio_lista": 14.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 14.0,
      "precio_lista": 14.0,
      "disponible": true,
@@ -3230,7 +3326,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/motobuds2-motorola-sv3496-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3242,6 +3338,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 29.0,
+     "precio_lista": 39.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 29.0,
      "precio_lista": 39.0,
      "disponible": true,
@@ -3260,7 +3364,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-maxell-entrada-tipo-c-s16/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3272,6 +3376,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 9.0,
+     "precio_lista": 9.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 9.0,
      "precio_lista": 9.0,
      "disponible": true,
@@ -3350,7 +3462,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/onn-auriculares-intrauditivos-s237/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3362,6 +3474,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 4.0,
+     "precio_lista": 4.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 4.0,
      "precio_lista": 4.0,
      "disponible": true,
@@ -3380,7 +3500,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/moto-loops-motorola-sv9326-5-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3392,6 +3512,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 89.0,
+     "precio_lista": 115.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 89.0,
      "precio_lista": 115.0,
      "disponible": true,
@@ -3448,7 +3576,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/marley-audif-bt-xl-anc-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3460,6 +3588,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 119.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 119.0,
      "precio_lista": 119.0,
      "disponible": true,
@@ -3478,7 +3614,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/onn-auriculares-intrauditivos-s236/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3490,6 +3626,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 4.0,
+     "precio_lista": 4.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 4.0,
      "precio_lista": 4.0,
      "disponible": true,
@@ -3508,7 +3652,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/samsung-buds-4-sv8148-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3525,6 +3669,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 145.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -3538,7 +3690,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-inalambricos-kte-500-xtrmebuds/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3550,6 +3702,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 36.0,
+     "precio_lista": 36.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 36.0,
      "precio_lista": 36.0,
      "disponible": true,
@@ -3568,7 +3728,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/airpods-4-apple-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3580,6 +3740,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 189.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 189.0,
      "precio_lista": 189.0,
      "disponible": true,
@@ -3598,7 +3766,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/onn-auriculares-inalambricos-intrauditiv-s434/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3610,6 +3778,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 8.5,
+     "precio_lista": 8.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 8.5,
      "precio_lista": 8.5,
      "disponible": true,
@@ -3666,7 +3842,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-apple-beasts-studio-buds/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3678,6 +3854,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 195.0,
+     "precio_lista": 195.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 195.0,
      "precio_lista": 195.0,
      "disponible": true,
@@ -3696,7 +3880,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-i2-go-multicolor/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3708,6 +3892,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 4.5,
+     "precio_lista": 4.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 4.5,
      "precio_lista": 4.5,
      "disponible": true,
@@ -3726,7 +3918,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/samsung-buds-4-pro-sv6686-5-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3738,6 +3930,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 263.62,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 263.62,
      "precio_lista": 269.0,
      "disponible": true,
@@ -3756,7 +3956,7 @@
    "modelo": "BUDS3",
    "url": "https://www.walmart.com.sv/audifonos-inalambricos-samsung-galaxy-buds3-pro-s869/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3768,6 +3968,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 129.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 129.0,
      "precio_lista": 225.0,
      "disponible": true,
@@ -3786,7 +3994,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/vibe-bean-2-jbl-audifonos-sv7280-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3798,6 +4006,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 54.0,
+     "precio_lista": 54.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 54.0,
      "precio_lista": 54.0,
      "disponible": true,
@@ -3816,7 +4032,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-apple-beats-solo-buts-nc-sv5122-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3829,6 +4045,14 @@
     {
      "fecha": "2026-10-21T16:48:59-06:00",
      "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 84.0,
      "precio_lista": 99.0,
      "disponible": true,
      "fuente": "auto",
@@ -3884,7 +4108,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/airpods-4-apple-nc-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3896,6 +4120,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 259.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 259.0,
      "precio_lista": 259.0,
      "disponible": true,
@@ -3914,7 +4146,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-argom-ultimate-sound-live-wire-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3926,6 +4158,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 24.99,
+     "precio_lista": 24.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 24.99,
      "precio_lista": 24.99,
      "disponible": true,
@@ -3944,7 +4184,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-samsung-galaxy-core-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3956,6 +4196,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 47.0,
+     "precio_lista": 54.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 47.0,
      "precio_lista": 54.0,
      "disponible": true,
@@ -4012,7 +4260,7 @@
    "modelo": "BUDS3",
    "url": "https://www.walmart.com.sv/audifonos-samsung-galaxy-buds3-inalambricos-colores-surtido-s868/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4024,6 +4272,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 134.0,
+     "precio_lista": 165.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 134.0,
      "precio_lista": 165.0,
      "disponible": true,
@@ -4118,7 +4374,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/jbl-live-buds-3-silver-sv1386-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4135,11 +4391,19 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 100.0,
+     "precio_lista": 209.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
   "101261": {
-   "nombre": "Audifonos Marley Diadema Bt Positiv Riddim Crem",
+   "nombre": "Audífonos Marley Diadema Bluetooth Positive Vibration Riddim",
    "categoria": "audifono",
    "tipo": "audifono",
    "pulgadas": null,
@@ -4148,7 +4412,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/marley-audif-bt-oreja-riddim-rasta-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4160,6 +4424,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 59.0,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 59.0,
      "precio_lista": 59.0,
      "disponible": true,
@@ -4178,7 +4450,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audi-skeipods-argom-e56-t-wire-stere-1ea-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4190,6 +4462,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 29.0,
      "precio_lista": 29.0,
      "disponible": true,
@@ -4246,7 +4526,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-alambricos-maxell-xc1-conector-usb-c-negro/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4258,6 +4538,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 10.99,
+     "precio_lista": 10.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 10.99,
      "precio_lista": 10.99,
      "disponible": true,
@@ -4276,7 +4564,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-xiaomi-redmi-buds-8-active-sv3341-5-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4288,6 +4576,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 20.0,
+     "precio_lista": 20.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 20.0,
      "precio_lista": 20.0,
      "disponible": true,
@@ -4344,7 +4640,7 @@
    "modelo": "25HRS",
    "url": "https://www.walmart.com.sv/argom-skeipods-clip-on-upto25hrs-ai-enc-sv4206-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4356,6 +4652,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 24.0,
+     "precio_lista": 24.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 24.0,
      "precio_lista": 24.0,
      "disponible": true,
@@ -4450,7 +4754,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/buds-xiaomi-redmi-8-lite-tws-sv6550-5-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4462,6 +4766,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 23.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 23.0,
      "precio_lista": 23.0,
      "disponible": true,
@@ -4556,7 +4868,7 @@
    "modelo": "KWH750CO",
    "url": "https://www.walmart.com.sv/audifonos-marca-klip-xtreme-premiun-v5-cuenta-con-bluetooth-40-h-de-carga-modelo-kwh750/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4568,6 +4880,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 43.0,
+     "precio_lista": 43.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 43.0,
      "precio_lista": 43.0,
      "disponible": true,
@@ -4586,7 +4906,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-urban-series-i2go/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4598,6 +4918,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 5.99,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 5.99,
      "precio_lista": 5.99,
      "disponible": true,
@@ -4616,7 +4944,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-maxell-dynamic-black/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4628,6 +4956,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 29.0,
      "precio_lista": 29.0,
      "disponible": true,
@@ -4646,7 +4982,7 @@
    "modelo": "KNH750",
    "url": "https://www.walmart.com.sv/audifono-klip-xtreme-hi-fi-anc-wls-az-bt-knh750-s1011/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4658,6 +4994,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 59.0,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 59.0,
      "precio_lista": 59.0,
      "disponible": true,
@@ -4714,7 +5058,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-trust-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4726,6 +5070,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 19.99,
+     "precio_lista": 19.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 19.99,
      "precio_lista": 19.99,
      "disponible": true,
@@ -4744,7 +5096,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ergonomico-ina-trust-sv5665-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4756,6 +5108,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 29.99,
+     "precio_lista": 29.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 29.99,
      "precio_lista": 29.99,
      "disponible": true,
@@ -4774,7 +5134,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ina-ergonomico-trust-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4786,6 +5146,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 24.99,
+     "precio_lista": 24.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 24.99,
      "precio_lista": 24.99,
      "disponible": true,
@@ -4804,7 +5172,7 @@
    "modelo": "MS2042",
    "url": "https://www.walmart.com.sv/mouse-gaming-argom-usb-7-botones-ms2042-3200-dpi-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4816,6 +5184,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 10.0,
+     "precio_lista": 12.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 10.0,
      "precio_lista": 12.49,
      "disponible": true,
@@ -4834,7 +5210,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-babaria-limpiador-facial-cremoso-150-ml/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4846,6 +5222,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 10.2,
+     "precio_lista": 10.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 10.2,
      "precio_lista": 10.2,
      "disponible": true,
@@ -4864,7 +5248,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-gaming-logitech-g305-lightspeed-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4877,6 +5261,14 @@
     {
      "fecha": "2026-10-21T10:38:17-06:00",
      "precio": 49.0,
+     "precio_lista": 49.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 30.0,
      "precio_lista": 49.0,
      "disponible": true,
      "fuente": "auto",
@@ -5067,6 +5459,14 @@
     {
      "fecha": "2026-10-22T11:15:38-06:00",
      "precio": 6.6,
+     "precio_lista": 6.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 2.0,
      "precio_lista": 6.6,
      "disponible": true,
      "fuente": "auto",
@@ -5600,6 +6000,14 @@
      "fecha": "2026-10-22T11:15:38-06:00",
      "precio": 184.5,
      "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 198.0,
+     "precio_lista": 200.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -7850,7 +8258,7 @@
    "modelo": "KCH510",
    "url": "https://www.walmart.com.sv/audifonos-alamb-diadema-klearcom-kch510-sv1181-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -7862,6 +8270,14 @@
     },
     {
      "fecha": "2026-10-21T16:48:59-06:00",
+     "precio": 17.59,
+     "precio_lista": 17.59,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 17.59,
      "precio_lista": 17.59,
      "disponible": true,
@@ -7956,7 +8372,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-wireless-argom-azul-sv1128-5-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -7968,6 +8384,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 7.42,
+     "precio_lista": 7.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 7.42,
      "precio_lista": 7.49,
      "disponible": true,
@@ -7986,7 +8410,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-wireless-argom-negro-sv413-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -7998,6 +8422,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 7.42,
+     "precio_lista": 7.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 7.42,
      "precio_lista": 7.49,
      "disponible": true,
@@ -8016,7 +8448,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-logitech-m170-azul-sv9760-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8028,6 +8460,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 14.15,
+     "precio_lista": 14.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 14.15,
      "precio_lista": 14.15,
      "disponible": true,
@@ -8046,7 +8486,7 @@
    "modelo": "INT122005W",
    "url": "https://www.walmart.com.sv/mouse-durabrand-inalambrico-int-122005w-sv7587-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8058,6 +8498,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 5.5,
+     "precio_lista": 5.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 5.5,
      "precio_lista": 5.5,
      "disponible": true,
@@ -8076,7 +8524,7 @@
    "modelo": "211201W",
    "url": "https://www.walmart.com.sv/mouse-blanco-durabrand-int-211201w-sv712-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8088,6 +8536,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 2.99,
+     "precio_lista": 2.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 2.99,
      "precio_lista": 2.99,
      "disponible": true,
@@ -8106,7 +8562,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-optico-usb-argom-rojo-sv7865-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8118,6 +8574,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 4.95,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 4.95,
      "precio_lista": 5.99,
      "disponible": true,
@@ -8136,7 +8600,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-klip-inalambrico-optico-3d-sv8392-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8148,6 +8612,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 9.4,
+     "precio_lista": 9.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 9.4,
      "precio_lista": 9.4,
      "disponible": true,
@@ -8166,7 +8638,7 @@
    "modelo": "122005B",
    "url": "https://www.walmart.com.sv/mouse-durabrand-inalambrico-int-122005b-sv2182-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8178,6 +8650,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 3.99,
+     "precio_lista": 3.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 3.99,
      "precio_lista": 3.99,
      "disponible": true,
@@ -8196,7 +8676,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-optico-usb-argom-negro-sv9943-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8208,6 +8688,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 4.95,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 4.95,
      "precio_lista": 5.99,
      "disponible": true,
@@ -8226,7 +8714,7 @@
    "modelo": "310BL",
    "url": "https://www.walmart.com.sv/mouse-xtech-inalambrico-xtm-310bl-azul-sv4649-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8238,6 +8726,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 6.35,
+     "precio_lista": 6.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 6.35,
      "precio_lista": 6.35,
      "disponible": true,
@@ -8256,7 +8752,7 @@
    "modelo": "KMW340BL",
    "url": "https://www.walmart.com.sv/mouse-klip-kmw340bl-bluetooh-nano-sv9318-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8268,6 +8764,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 8.9,
+     "precio_lista": 8.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 8.9,
      "precio_lista": 8.9,
      "disponible": true,
@@ -8286,7 +8790,7 @@
    "modelo": "KMO120BK",
    "url": "https://www.walmart.com.sv/mouse-klip-optico-usb-kmo120bk-sv919-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8298,6 +8802,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 7.5,
+     "precio_lista": 7.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 7.5,
      "precio_lista": 7.5,
      "disponible": true,
@@ -8316,7 +8828,7 @@
    "modelo": "WDM2BP",
    "url": "https://www.walmart.com.sv/mouse-purpu-con-luz-durabrand-int-wdm2bp-sv3567-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8328,6 +8840,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 1.99,
+     "precio_lista": 1.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 1.99,
      "precio_lista": 1.99,
      "disponible": true,
@@ -8346,7 +8866,7 @@
    "modelo": "WDM2BB",
    "url": "https://www.walmart.com.sv/mouse-azul-con-luz-durabrand-int-wdm2bb-sv9778-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-22",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -8358,6 +8878,14 @@
     },
     {
      "fecha": "2026-10-21T10:38:17-06:00",
+     "precio": 1.49,
+     "precio_lista": 2.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
      "precio": 1.49,
      "precio_lista": 2.5,
      "disponible": true,
@@ -8598,6 +9126,138 @@
      "fecha": "2026-10-22T11:15:38-06:00",
      "precio": 480.15,
      "precio_lista": 739.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "97324": {
+   "nombre": "Pantalla Xiaomi Qled Smart 4K A2025 43 pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "A2025",
+   "url": "https://www.walmart.com.sv/pantalla-xiaomi-qled-smart-4k-a2025-43-pulgadas-5/p",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 125.0,
+     "precio_lista": 355.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "73922": {
+   "nombre": "Audífonos JBL earbuds beam",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/earbuds-jbl-tune-beam-tw-noise-cancell/p",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 75.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "114171": {
+   "nombre": "Audífonos JBL Inalámbrico Buds 3 Black",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/jbl-live-buds-3-black-sv6862-5-7/p",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 100.0,
+     "precio_lista": 209.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "118103": {
+   "nombre": "Audífonos Apple Airpods Pro 3 Inalámbricos Blanco",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "APPLE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/audifonos-apple-airpods-pro-3-sv6837-5-2/p",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 338.0,
+     "precio_lista": 338.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "73981": {
+   "nombre": "Audífonos Logitech de diadema Headset USB color Blanco H390",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/h390-usb-computer-headset-off-white-samr/p",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 34.95,
+     "precio_lista": 34.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "114660": {
+   "nombre": "Mouse Primus Gladius Darkside 12400T",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "PRIMUS",
+   "modelo": "12400T",
+   "url": "https://www.walmart.com.sv/gladius-primus-dark-side-sv4902-5-5/p",
+   "primera_vez": "2026-10-22",
+   "ultima_vez": "2026-10-22",
+   "observaciones": [
+    {
+     "fecha": "2026-10-22T16:49:21-06:00",
+     "precio": 30.0,
+     "precio_lista": 45.99,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
