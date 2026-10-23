@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-10-23T11:21:52-06:00",
+ "actualizado": "2026-10-23T16:47:33-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -5986,7 +5986,7 @@
    "medida": null,
    "marca": "Corsair",
    "modelo": "CA9011202",
-   "url": "https://aeon.com.sv/shop/20306-headset-corsair-void-rgb-elite-inalambrico-blanco-pc-ps5-ps4-driver-50-mm-frecuencia-de-20-hz-a-30-000-hz-ca-9011202-na-107455",
+   "url": "https://aeon.com.sv/shop/voidrgbelite-107455",
    "primera_vez": "2026-10-23",
    "ultima_vez": "2026-10-23",
    "observaciones": [
@@ -6015,6 +6015,50 @@
     {
      "fecha": "2026-10-23T11:21:52-06:00",
      "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "107459": {
+   "nombre": "Teclado Logitech G515 TKL Black, LIGHTSPEED Wireless Bluetooth 5.1 USB-C para carga y uso cableado, RGB, teclas PBT doble inyeccion",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/20310-teclado-logitech-g515-tkl-black-lightspeed-wireless-bluetooth-5-1-usb-c-para-carga-y-uso-cableado-rgb-teclas-pbt-doble-inyeccion-107459",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:47:33-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "107463": {
+   "nombre": "Teclado Numerico Argom Rectractil conexion USB- ARG-KB-1076",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Argom",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/20314-teclado-numerico-argom-rectractil-conexion-usb-arg-kb-1076-107463",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:47:33-06:00",
+     "precio": 9.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",

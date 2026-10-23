@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-23T11:10:08-06:00",
+ "actualizado": "2026-10-23T16:40:38-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -18241,7 +18241,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/nintendo-switch-oled-blanca-64gb-super-mario-wonder-104988206/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:36-06:00",
@@ -18253,6 +18253,14 @@
     },
     {
      "fecha": "2026-10-21T10:37:25-06:00",
+     "precio": 479.0,
+     "precio_lista": 549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 479.0,
      "precio_lista": 549.0,
      "disponible": true,
@@ -32681,7 +32689,7 @@
    "modelo": "WF1000XM6",
    "url": "https://sv.siman.com/audifonos-inalambricos-con-cancelacion-de-ruido-negro-105169522/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32702,6 +32710,14 @@
     {
      "fecha": "2026-10-22T11:13:47-06:00",
      "precio": 349.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
+     "precio": 269.9,
      "precio_lista": 349.0,
      "disponible": true,
      "fuente": "auto",
@@ -32719,7 +32735,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-gaming-bt-on-ear-ps5-pulse-elite-negro-104861374/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32739,6 +32755,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 155.0,
+     "precio_lista": 189.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 155.0,
      "precio_lista": 189.0,
      "disponible": false,
@@ -32757,7 +32781,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-gaming-bt-on-ear-ps5-pulse-elite-negro-104861374/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32777,6 +32801,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 189.0,
+     "precio_lista": 189.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 189.0,
      "precio_lista": 189.0,
      "disponible": false,
@@ -32795,7 +32827,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-gaming-bt-on-ear-ps5-pulse-elite-negro-104861374/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32815,6 +32847,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 189.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 189.0,
      "precio_lista": 189.0,
      "disponible": true,
@@ -32833,7 +32873,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-oper-ear-free-arc-negro-105105806/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32853,6 +32893,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 75.0,
+     "precio_lista": 95.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 75.0,
      "precio_lista": 95.9,
      "disponible": true,
@@ -32871,7 +32919,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-oper-ear-free-arc-negro-105105806/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32891,6 +32939,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 75.0,
+     "precio_lista": 95.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 75.0,
      "precio_lista": 95.9,
      "disponible": true,
@@ -32909,7 +32965,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-oper-ear-free-arc-negro-105105806/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32929,6 +32985,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 75.0,
+     "precio_lista": 95.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 75.0,
      "precio_lista": 95.9,
      "disponible": true,
@@ -32947,7 +33011,7 @@
    "modelo": "M1202",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-freestyle-m1201-negro-105141881/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -32968,6 +33032,14 @@
     {
      "fecha": "2026-10-22T11:13:47-06:00",
      "precio": 69.0,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
+     "precio": 54.9,
      "precio_lista": 69.0,
      "disponible": true,
      "fuente": "auto",
@@ -32985,7 +33057,7 @@
    "modelo": "M1204",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-freestyle-m1201-negro-105141881/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -33006,6 +33078,14 @@
     {
      "fecha": "2026-10-22T11:13:47-06:00",
      "precio": 69.0,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
+     "precio": 54.9,
      "precio_lista": 69.0,
      "disponible": true,
      "fuente": "auto",
@@ -33023,7 +33103,7 @@
    "modelo": "M1201",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-freestyle-m1201-negro-105141881/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -33044,6 +33124,14 @@
     {
      "fecha": "2026-10-22T11:13:47-06:00",
      "precio": 69.0,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
+     "precio": 54.9,
      "precio_lista": 69.0,
      "disponible": true,
      "fuente": "auto",
@@ -33061,7 +33149,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-over-ear-bt-aerofit-2-105044149/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -33081,6 +33169,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 101.9,
+     "precio_lista": 101.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 101.9,
      "precio_lista": 101.9,
      "disponible": true,
@@ -33099,7 +33195,7 @@
    "modelo": "RZB110WDE",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-negro-105030992/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -33119,6 +33215,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 29.99,
+     "precio_lista": 35.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 29.99,
      "precio_lista": 35.9,
      "disponible": false,
@@ -33137,7 +33241,7 @@
    "modelo": "RZB110WDE",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-negro-105030992/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -33157,6 +33261,14 @@
     },
     {
      "fecha": "2026-10-22T11:13:47-06:00",
+     "precio": 35.9,
+     "precio_lista": 35.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
      "precio": 35.9,
      "precio_lista": 35.9,
      "disponible": true,
@@ -64325,6 +64437,50 @@
      "fecha": "2026-10-23T11:10:08-06:00",
      "precio": 31.9,
      "precio_lista": 31.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "9133513": {
+   "nombre": "Nintendo Switch 2 con Joy-Con 256GB — CONSOLA NINTENDO SWITCH 2 256 GB",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Nintendo",
+   "modelo": "",
+   "url": "https://sv.siman.com/consola-nintendo-switch-2-256-gb-105381650/p",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
+     "precio": 849.0,
+     "precio_lista": 849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7721216": {
+   "nombre": "Apple Macbook Air Apple M2 8GB RAM + 256GB SSD ventura space grey — MacBook Air 15\" (38.1 cm) Chip M2 8Core8GPU 8GBRam 256GBSSD Ventura Space Grey",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Apple",
+   "modelo": "8CORE8GPU",
+   "url": "https://sv.siman.com/macbook-air-15-chip-m2-8core8gpu-8gbram-256gbssd-ventura-space-grey-104238146/p",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:40:38-06:00",
+     "precio": 1639.0,
+     "precio_lista": 1639.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

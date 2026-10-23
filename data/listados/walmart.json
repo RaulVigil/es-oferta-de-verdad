@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-10-23T11:11:49-06:00",
+ "actualizado": "2026-10-23T16:41:36-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -11186,6 +11186,28 @@
      "fecha": "2026-10-23T11:11:49-06:00",
      "precio": 30.0,
      "precio_lista": 45.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "128133": {
+   "nombre": "Laptop Acer Aspirelite I3 8GB RAM 128GB almacenamiento - 15.6 pulgadas — Acer Aspirelite I38ram128ssd 15.6",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ACER",
+   "modelo": "I38RAM128SSD",
+   "url": "https://www.walmart.com.sv/acer-aspirelite-i38ram128ssd-156-sv1412-5-4/p",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:41:36-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

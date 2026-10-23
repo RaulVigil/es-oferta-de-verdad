@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-23T11:20:43-06:00",
+ "actualizado": "2026-10-23T16:46:30-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -5104,7 +5104,7 @@
    "modelo": "",
    "url": "https://zonadigitalsv.com/product/monitor-xiaomi-g27i-2026pantalla-fast-ips-fhd-27p-200hz-1ms-gtg-hdmi-dp-vesa-68561",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:32:04-06:00",
@@ -5124,6 +5124,14 @@
     },
     {
      "fecha": "2026-10-22T11:26:12-06:00",
+     "precio": 169.95,
+     "precio_lista": 199.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'Spooky Deals Monitores' hasta 2026-10-25"
+    },
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
      "precio": 169.95,
      "precio_lista": 199.95,
      "disponible": true,
@@ -18968,7 +18976,7 @@
    "modelo": "DC16255",
    "url": "https://zonadigitalsv.com/product/laptop-dell-dc16255-proc-amd-ryzen-7-250-ram-16gb-almacenamiento-ssd-512gb-pantalla-tactil-16p-fhd-w11h-wifi6bt",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:47:05-06:00",
@@ -18980,6 +18988,14 @@
     },
     {
      "fecha": "2026-10-22T16:57:51-06:00",
+     "precio": 849.95,
+     "precio_lista": 949.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SpooKy Deals Laptops' hasta 2026-10-31"
+    },
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
      "precio": 849.95,
      "precio_lista": 949.95,
      "disponible": true,
@@ -19621,6 +19637,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 1999.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -19639,6 +19663,160 @@
     {
      "fecha": "2026-10-23T11:20:43-06:00",
      "precio": 149.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16148": {
+   "nombre": "Consola sony playstation 5 slim edicion digital 4k hdr astro bot y gran turismo 7 ( latam) 825gb + control dualsense negro medianoche",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/consola-sony-playstation-5-slim-edicion-digital-4k-hdr-astro-bot-y-gran-turismo-7-latam-825gb-control-dualsense-negro-medianoche",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 799.95,
+     "precio_lista": 889.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'Spooky Deals Consolas.' hasta 2026-10-31"
+    }
+   ]
+  },
+  "16109": {
+   "nombre": "Teclado mecanico razer huntsman v3 he magnetic mini 65% rz03-05930200-r3u1 negro",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ0305930200",
+   "url": "https://zonadigitalsv.com/product/teclado-mecanico-razer-huntsman-v3-he-magnetic-mini-65-rz03-05930200-r3u1-negro",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 139.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "16107": {
+   "nombre": "Teclado mecanico razer huntsman v3 he magnetic tkl rz03-05920200-r311 negro",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ0305920200",
+   "url": "https://zonadigitalsv.com/product/teclado-mecanico-razer-huntsman-v3-he-magnetic-tkl-rz03-05920200-r311-negro",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 159.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15899": {
+   "nombre": "Consola nintendo switch oled 64gb pantalla 7p con super mario wonder + estuche universal para nintendo  switch (varios modelos)",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/consola-nintendo-switch-oled-64gb-pantalla-7p-con-super-mario-wonder-estuche-universal-para-nintendo-switch-varios-modelos",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 399.95,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'Spooky Deals Consolas.' hasta 2026-10-31"
+    }
+   ]
+  },
+  "15498": {
+   "nombre": "Mouse inalambrico bt y logi bolt logitech mx master 4 negro 910-007565",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/mouse-inalambrico-bt-y-logi-bolt-logitech-mx-master-4-negro-910-007565",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 149.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15351": {
+   "nombre": "Headset multiplataforma inalambrico 2.4hz y bluetooth razer barracuda phanton blanco chroma rz04-05220400-r3u1",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ0405220400",
+   "url": "https://zonadigitalsv.com/product/headset-multiplataforma-inalambrico-24hz-y-bluetooth-razer-barracuda-phanton-blanco-chroma-rz04-05220400-r3u1",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 139.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "15350": {
+   "nombre": "Headset multiplataforma inalambrico 2.4hz y bluetooth razer barracuda phanton verde chroma rz04-05220300-r3u1",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ0405220300",
+   "url": "https://zonadigitalsv.com/product/headset-multiplataforma-inalambrico-24hz-y-bluetooth-razer-barracuda-phanton-verde-chroma-rz04-05220300-r3u1",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T16:46:30-06:00",
+     "precio": 139.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
