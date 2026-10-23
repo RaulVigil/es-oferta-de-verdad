@@ -1,6 +1,6 @@
 {
  "comercial": "coopesa",
- "actualizado": "2026-10-22T11:30:25-06:00",
+ "actualizado": "2026-10-23T11:24:43-06:00",
  "listados": {
   "42540": {
    "nombre": "GUITARRA ELECTROACUSTICA TAGIMA KANSAS",
@@ -12,7 +12,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-tagima-kansas/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -24,6 +24,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 475.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 475.0,
      "precio_lista": null,
      "disponible": true,
@@ -42,7 +50,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-jbl-quantum-stream-usb-c/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -54,6 +62,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -72,7 +88,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfonos-inalambricos-jbl-partybox/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -84,6 +100,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 149.0,
      "precio_lista": null,
      "disponible": true,
@@ -102,7 +126,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-tagima-tw66/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -114,6 +138,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 449.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 449.0,
      "precio_lista": null,
      "disponible": true,
@@ -132,7 +164,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-tagima-juninho/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -144,6 +176,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 759.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 759.0,
      "precio_lista": null,
      "disponible": true,
@@ -162,7 +202,7 @@
    "modelo": "SOLARIS12",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-12-cuerdas-tagima-solaris12/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -174,6 +214,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 675.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 675.0,
      "precio_lista": null,
      "disponible": true,
@@ -192,7 +240,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-tagima-solaris/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -204,6 +252,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 649.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 649.0,
      "precio_lista": null,
      "disponible": true,
@@ -222,7 +278,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-tagima-mirach-tr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -234,6 +290,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 890.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 890.0,
      "precio_lista": null,
      "disponible": true,
@@ -252,7 +316,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-tagima-alamach/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -264,6 +328,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 550.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 550.0,
      "precio_lista": null,
      "disponible": true,
@@ -282,7 +354,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-tagima-mirach/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -294,6 +366,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 850.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 850.0,
      "precio_lista": null,
      "disponible": true,
@@ -312,7 +392,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/set-de-4-microfonos-inalambrico-uhf-fu-4-200/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -324,6 +404,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 329.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 329.0,
      "precio_lista": null,
      "disponible": true,
@@ -342,7 +430,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-palmer-pb5/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -354,6 +442,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 205.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 205.95,
      "precio_lista": null,
      "disponible": true,
@@ -372,7 +468,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-palmer-eclipse-5d/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -384,6 +480,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 275.0,
      "precio_lista": null,
      "disponible": true,
@@ -402,7 +506,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e383/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -414,6 +518,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 420.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 420.0,
      "precio_lista": null,
      "disponible": true,
@@ -432,7 +544,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e283/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -444,6 +556,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 240.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 240.0,
      "precio_lista": null,
      "disponible": true,
@@ -462,7 +582,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-guitarra-bandit-112/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -474,6 +594,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 590.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 590.0,
      "precio_lista": null,
      "disponible": true,
@@ -492,7 +620,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-mini-lavalier-conector-3-5-mm/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -504,6 +632,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 11.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 11.0,
      "precio_lista": null,
      "disponible": true,
@@ -522,7 +658,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-eclipse-4d/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -534,6 +670,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 249.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 249.95,
      "precio_lista": null,
      "disponible": true,
@@ -552,7 +696,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/gabinete-para-amplificador-de-bajo-megabass-410/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -564,6 +708,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 950.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 950.0,
      "precio_lista": null,
      "disponible": true,
@@ -582,7 +734,7 @@
    "modelo": "MILES5",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-peavey-miles-5/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -594,6 +746,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 345.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 345.0,
      "precio_lista": null,
      "disponible": true,
@@ -612,7 +772,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-palmer-pb4/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -624,6 +784,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 179.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 179.95,
      "precio_lista": null,
      "disponible": true,
@@ -642,7 +810,7 @@
    "modelo": "SAB400",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-strinberg-sab400/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -654,6 +822,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 415.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 415.0,
      "precio_lista": null,
      "disponible": true,
@@ -672,7 +848,7 @@
    "modelo": "ROL719",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-rollins-rol-719/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -684,6 +860,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 485.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 485.0,
      "precio_lista": null,
      "disponible": true,
@@ -702,7 +886,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/sintetizador-korg-krome-ex-61/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -714,6 +898,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1849.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1849.0,
      "precio_lista": null,
      "disponible": true,
@@ -732,7 +924,7 @@
    "modelo": "TMW8000L",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-8000l/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -744,6 +936,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 167.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 167.0,
      "precio_lista": null,
      "disponible": true,
@@ -762,7 +962,7 @@
    "modelo": "FU800",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-fu-800/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -774,6 +974,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -792,7 +1000,7 @@
    "modelo": "FU658SW",
    "url": "https://www.coopesa.com.sv/producto/microfono-fu-658/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -804,6 +1012,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 27.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 27.0,
      "precio_lista": null,
      "disponible": true,
@@ -822,7 +1038,7 @@
    "modelo": "FU603",
    "url": "https://www.coopesa.com.sv/producto/microfono-fu-603/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -834,6 +1050,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 30.0,
      "precio_lista": null,
      "disponible": true,
@@ -852,7 +1076,7 @@
    "modelo": "FU929",
    "url": "https://www.coopesa.com.sv/producto/microfono-fu-929/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -864,6 +1088,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -882,7 +1114,7 @@
    "modelo": "FU629",
    "url": "https://www.coopesa.com.sv/producto/microfono-fu-629/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -894,6 +1126,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -912,7 +1152,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pv7-xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -924,6 +1164,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -942,7 +1190,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/cabezal-miniamplificador-de-bajo-minimega-de-1000-watts/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -954,6 +1202,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 825.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 825.0,
      "precio_lista": null,
      "disponible": true,
@@ -972,7 +1228,7 @@
    "modelo": "MAX250",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-max250/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -984,6 +1240,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 559.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 559.0,
      "precio_lista": null,
      "disponible": true,
@@ -1002,7 +1266,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-teclado-kb1/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1014,6 +1278,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 155.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 155.0,
      "precio_lista": null,
      "disponible": true,
@@ -1032,7 +1304,7 @@
    "modelo": "MAX208",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-max208/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1044,6 +1316,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 475.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 475.0,
      "precio_lista": null,
      "disponible": true,
@@ -1062,7 +1342,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfonos-condensador-behringer/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1074,6 +1354,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 75.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 75.0,
      "precio_lista": null,
      "disponible": true,
@@ -1092,7 +1380,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/teclado-rollins-con-pedestal-incluido/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1104,6 +1392,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 185.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 185.0,
      "precio_lista": null,
      "disponible": true,
@@ -1122,7 +1418,7 @@
    "modelo": "SB78A",
    "url": "https://www.coopesa.com.sv/producto/microfono-condensador-sb78a/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1134,6 +1430,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 65.0,
      "precio_lista": null,
      "disponible": true,
@@ -1152,7 +1456,7 @@
    "modelo": "XM8500",
    "url": "https://www.coopesa.com.sv/producto/microfono-dinamico-behringer-xm8500/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1164,6 +1468,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 45.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 45.0,
      "precio_lista": null,
      "disponible": true,
@@ -1182,7 +1494,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-guitarra-champion-100/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1194,6 +1506,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 900.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 900.0,
      "precio_lista": null,
      "disponible": true,
@@ -1212,7 +1532,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-rumble-100/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1224,6 +1544,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 700.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 700.0,
      "precio_lista": null,
      "disponible": true,
@@ -1242,7 +1570,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-rumble-40/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1254,6 +1582,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 470.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 470.0,
      "precio_lista": null,
      "disponible": true,
@@ -1272,7 +1608,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfonos-inalambricos-uhf-sdm-420/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1284,6 +1620,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 85.0,
      "precio_lista": null,
      "disponible": true,
@@ -1302,7 +1646,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/sistema-de-microfono-inalambrico-uhf-gw-2001/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1314,6 +1658,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 79.95,
      "precio_lista": null,
      "disponible": true,
@@ -1332,7 +1684,7 @@
    "modelo": "GW850",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-uhf-gw-850/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1344,6 +1696,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -1362,7 +1722,7 @@
    "modelo": "R2000",
    "url": "https://www.coopesa.com.sv/producto/sistema-de-microfono-inalambrico-gw-r200/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1374,6 +1734,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 169.0,
      "precio_lista": null,
      "disponible": true,
@@ -1392,7 +1760,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-uhf/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1404,6 +1772,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 65.0,
      "precio_lista": null,
      "disponible": true,
@@ -1422,7 +1798,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/teclado-jean-paul-psx-e393/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1434,6 +1810,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 470.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 470.0,
      "precio_lista": null,
      "disponible": true,
@@ -1452,7 +1836,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/teclado-jean-paul-psx-e283/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1464,6 +1848,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 360.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 360.0,
      "precio_lista": null,
      "disponible": true,
@@ -1482,7 +1874,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/piano-digital-roland-fp30-bk/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1494,6 +1886,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1799.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1799.0,
      "precio_lista": null,
      "disponible": true,
@@ -1512,7 +1912,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-color-natural-sd-200c/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1524,6 +1924,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 385.0,
      "precio_lista": null,
      "disponible": true,
@@ -1542,7 +1950,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-strinberg-sa-200c/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1554,6 +1962,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 385.0,
      "precio_lista": null,
      "disponible": true,
@@ -1572,7 +1988,7 @@
    "modelo": "STS150",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-stratocaster-strinbeg-sts150/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1584,6 +2000,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 425.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 425.0,
      "precio_lista": null,
      "disponible": true,
@@ -1602,7 +2026,7 @@
    "modelo": "SD201HCR",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-strinberg-sd201hcr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1614,6 +2038,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 495.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 495.0,
      "precio_lista": null,
      "disponible": true,
@@ -1632,7 +2064,7 @@
    "modelo": "SD301HCR",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-galaxy-sd301hcr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1644,6 +2076,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 690.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 690.0,
      "precio_lista": null,
      "disponible": true,
@@ -1662,7 +2102,7 @@
    "modelo": "SL85S",
    "url": "https://www.coopesa.com.sv/producto/microfono-dinamico-behringer-sl85s/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1674,6 +2114,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 40.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 40.0,
      "precio_lista": null,
      "disponible": true,
@@ -1692,7 +2140,7 @@
    "modelo": "BLX188",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-shure-blx188-cvlh/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1704,6 +2152,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1155.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1155.0,
      "precio_lista": null,
      "disponible": true,
@@ -1722,7 +2178,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-para-instrumentos-sm57/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1734,6 +2190,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 175.0,
      "precio_lista": null,
      "disponible": true,
@@ -1752,7 +2216,7 @@
    "modelo": "DMK5752",
    "url": "https://www.coopesa.com.sv/producto/22546/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1764,6 +2228,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 871.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 871.95,
      "precio_lista": null,
      "disponible": true,
@@ -1782,7 +2254,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-rol-711/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1794,6 +2266,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 259.0,
      "precio_lista": null,
      "disponible": true,
@@ -1812,7 +2292,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-squier-bullet-telecaster-sunbrust/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1824,6 +2304,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 416.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 416.0,
      "precio_lista": null,
      "disponible": true,
@@ -1842,7 +2330,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-squier-bullet-stratocaster-hss/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1854,6 +2342,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 416.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 416.0,
      "precio_lista": null,
      "disponible": true,
@@ -1872,7 +2368,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-fender-squire-bullet-stratocaster/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1884,6 +2380,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 416.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 416.0,
      "precio_lista": null,
      "disponible": true,
@@ -1902,7 +2406,7 @@
    "modelo": "GSRM25",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-ibanez-gsrm25/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1914,6 +2418,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 559.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 559.0,
      "precio_lista": null,
      "disponible": true,
@@ -1932,7 +2444,7 @@
    "modelo": "GSR105",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-ibanez-gsr105/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1944,6 +2456,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 410.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 410.0,
      "precio_lista": null,
      "disponible": true,
@@ -1962,7 +2482,7 @@
    "modelo": "MODX6",
    "url": "https://www.coopesa.com.sv/producto/sintetizador-yamaha-modx6/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -1974,6 +2494,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 2234.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 2234.0,
      "precio_lista": null,
      "disponible": true,
@@ -1992,7 +2520,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/sintetizador-yamaha-mx61/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2004,6 +2532,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1299.0,
      "precio_lista": null,
      "disponible": true,
@@ -2022,7 +2558,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/sintetizador-yamaha-mx88/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2034,6 +2570,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1869.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1869.0,
      "precio_lista": null,
      "disponible": true,
@@ -2052,7 +2596,7 @@
    "modelo": "PDCE2215K",
    "url": "https://www.coopesa.com.sv/producto/bateria-acustica-de-5-piezas-pdce2215k/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2064,6 +2608,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1259.0,
      "precio_lista": null,
      "disponible": true,
@@ -2082,7 +2634,7 @@
    "modelo": "SX600",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-sx600/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2094,6 +2646,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 1428.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 1428.0,
      "precio_lista": null,
      "disponible": true,
@@ -2112,7 +2672,7 @@
    "modelo": "SM48LC",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm48-lc/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2124,6 +2684,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 97.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 97.0,
      "precio_lista": null,
      "disponible": true,
@@ -2142,7 +2710,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-peavey-con-estuche-2w-c/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2154,6 +2722,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 399.0,
      "precio_lista": null,
      "disponible": true,
@@ -2172,7 +2748,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/ukele-student-peavey/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2184,6 +2760,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 95.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 95.0,
      "precio_lista": null,
      "disponible": true,
@@ -2202,7 +2786,7 @@
    "modelo": "DB6V2",
    "url": "https://www.coopesa.com.sv/producto/bateria-electrica-db6v2-fold/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2214,6 +2798,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 325.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 325.0,
      "precio_lista": null,
      "disponible": true,
@@ -2232,7 +2824,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-clasica-yamaha-c70/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2244,6 +2836,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -2262,7 +2862,7 @@
    "modelo": "DW2GTR",
    "url": "https://www.coopesa.com.sv/producto/guitarra-acustica-peavey-dw-2gtr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2274,6 +2874,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 320.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 320.0,
      "precio_lista": null,
      "disponible": true,
@@ -2292,7 +2900,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-voyz-lb33/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2304,6 +2912,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -2322,7 +2938,7 @@
    "modelo": "PF25CEQ",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-palmer-pf25ceq/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2334,6 +2950,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 339.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 339.0,
      "precio_lista": null,
      "disponible": true,
@@ -2352,7 +2976,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/requinto-acustico-palmer-marina-vp/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2364,6 +2988,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 175.0,
      "precio_lista": null,
      "disponible": true,
@@ -2382,7 +3014,7 @@
    "modelo": "ROL712",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-rollins-rol712/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2394,6 +3026,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 265.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 265.0,
      "precio_lista": null,
      "disponible": true,
@@ -2412,7 +3052,7 @@
    "modelo": "UKE21",
    "url": "https://www.coopesa.com.sv/producto/ukulele-palmer-uke-21/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2424,6 +3064,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 30.0,
      "precio_lista": null,
      "disponible": true,
@@ -2442,7 +3090,7 @@
    "modelo": "INS10107",
    "url": "https://www.coopesa.com.sv/producto/ukulele-vivaldi-ins10105/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2454,6 +3102,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 86.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 86.0,
      "precio_lista": null,
      "disponible": true,
@@ -2472,7 +3128,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-squier-by-fender/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2484,6 +3140,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 359.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 359.0,
      "precio_lista": null,
      "disponible": true,
@@ -2502,7 +3166,7 @@
    "modelo": "PS568340",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-peavey-ps568340/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2514,6 +3178,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 240.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 240.0,
      "precio_lista": null,
      "disponible": true,
@@ -2532,7 +3204,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-spec/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2544,6 +3216,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 259.0,
      "precio_lista": null,
      "disponible": true,
@@ -2562,7 +3242,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electrica-palmer-lps/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2574,6 +3254,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -2592,7 +3280,7 @@
    "modelo": "404BT",
    "url": "https://www.coopesa.com.sv/producto/microfono-con-bluetooth-y-usb-vz-404bt/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2604,6 +3292,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 30.0,
      "precio_lista": null,
      "disponible": true,
@@ -2622,7 +3318,7 @@
    "modelo": "PVMSP2XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pv-msp2xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2634,6 +3330,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 85.0,
      "precio_lista": null,
      "disponible": true,
@@ -2652,7 +3356,7 @@
    "modelo": "PVI3XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pvi3xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2664,6 +3368,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 52.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 52.0,
      "precio_lista": null,
      "disponible": true,
@@ -2682,7 +3394,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-guitarra-peavey-solo-d-c/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2694,6 +3406,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -2712,7 +3432,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/nanovypyr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2724,6 +3444,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 137.57,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 137.57,
      "precio_lista": null,
      "disponible": true,
@@ -2742,7 +3470,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-toppro-tmw-u1-100l/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2754,6 +3482,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 215.0,
      "precio_lista": null,
      "disponible": true,
@@ -2772,7 +3508,7 @@
    "modelo": "SDM663A",
    "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm-663a/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2784,6 +3520,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 37.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 37.0,
      "precio_lista": null,
      "disponible": true,
@@ -2802,7 +3546,7 @@
    "modelo": "SDM7702A",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-sky-sdm-7702a/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2814,6 +3558,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 295.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 295.0,
      "precio_lista": null,
      "disponible": true,
@@ -2832,7 +3584,7 @@
    "modelo": "SDM1400",
    "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm-1400/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2844,6 +3596,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -2862,7 +3622,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-de-oido-sky-mh-04/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2874,6 +3634,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 69.0,
      "precio_lista": null,
      "disponible": true,
@@ -2892,7 +3660,7 @@
    "modelo": "PM660",
    "url": "https://www.coopesa.com.sv/producto/microfono-toa-de-escritorio-pm-660/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2904,6 +3672,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -2922,7 +3698,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bajo-electrico-peavey-milestone-4-cuerdas/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2934,6 +3710,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -2952,7 +3736,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bateria-acustica-pv-5pc-azul/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2964,6 +3748,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 669.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 669.0,
      "precio_lista": null,
      "disponible": true,
@@ -2982,7 +3774,7 @@
    "modelo": "MAX300",
    "url": "https://www.coopesa.com.sv/producto/combo-amplificado-para-bajo-max300/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -2994,6 +3786,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 615.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 615.0,
      "precio_lista": null,
      "disponible": true,
@@ -3012,7 +3812,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-electroacustica-fina-ceq/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3024,6 +3824,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 175.0,
      "precio_lista": null,
      "disponible": true,
@@ -3042,7 +3850,7 @@
    "modelo": "SDM400",
    "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm400/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3054,6 +3862,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 43.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 43.0,
      "precio_lista": null,
      "disponible": true,
@@ -3072,7 +3888,7 @@
    "modelo": "SDM305",
    "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm305/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3084,6 +3900,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 8.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 8.0,
      "precio_lista": null,
      "disponible": true,
@@ -3102,7 +3926,7 @@
    "modelo": "SDM288",
    "url": "https://www.coopesa.com.sv/producto/microfono-sky-sdm288/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3114,6 +3938,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 16.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 16.5,
      "precio_lista": null,
      "disponible": true,
@@ -3132,7 +3964,7 @@
    "modelo": "SDM5504",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-sdm-5504/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3144,6 +3976,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 190.0,
      "precio_lista": null,
      "disponible": true,
@@ -3162,7 +4002,7 @@
    "modelo": "SDM3500",
    "url": "https://www.coopesa.com.sv/producto/microfono-inalambrico-sdm-3500/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3174,6 +4014,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 130.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 130.0,
      "precio_lista": null,
      "disponible": true,
@@ -3192,7 +4040,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/requinto-electroacustico-palmer-sandra-ceqf/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3204,6 +4052,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 265.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 265.0,
      "precio_lista": null,
      "disponible": true,
@@ -3222,7 +4078,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-acustica-palmer-sofia-para-nino/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3234,6 +4090,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 86.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 86.0,
      "precio_lista": null,
      "disponible": true,
@@ -3252,7 +4116,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-electroacustica-palmer-michelle-ceq/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3264,6 +4128,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 365.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 365.0,
      "precio_lista": null,
      "disponible": true,
@@ -3282,7 +4154,7 @@
    "modelo": "PC13P",
    "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-acustica-pc13/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3294,6 +4166,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -3312,7 +4192,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-palmer-amanda-clasica-39/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3324,6 +4204,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -3342,7 +4230,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/bateria-electrica-yamaha-dd-75/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3354,6 +4242,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 598.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 598.0,
      "precio_lista": null,
      "disponible": true,
@@ -3372,7 +4268,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/guitarra-yamaha-c40/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3384,6 +4280,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 175.0,
      "precio_lista": null,
      "disponible": true,
@@ -3402,7 +4306,7 @@
    "modelo": "TXL935",
    "url": "https://www.coopesa.com.sv/producto/microfono-topp-pro-txl935/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3414,6 +4318,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -3432,7 +4344,7 @@
    "modelo": "TXL235",
    "url": "https://www.coopesa.com.sv/producto/microfono-topp-pro-txl235/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3444,6 +4356,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -3462,7 +4382,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-topp-pro-tmw-u1-100l/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3474,6 +4394,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 205.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 205.0,
      "precio_lista": null,
      "disponible": true,
@@ -3492,7 +4420,7 @@
    "modelo": "PSRE273",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e273-2/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3504,6 +4432,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 231.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 231.0,
      "precio_lista": null,
      "disponible": true,
@@ -3522,7 +4458,7 @@
    "modelo": "PSRE473",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e473/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3534,6 +4470,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 591.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 591.0,
      "precio_lista": null,
      "disponible": true,
@@ -3552,7 +4496,7 @@
    "modelo": "PSRF52",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-f52/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3564,6 +4508,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 228.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 228.0,
      "precio_lista": null,
      "disponible": true,
@@ -3582,7 +4534,7 @@
    "modelo": "PSRE373",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-e373-2/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3594,6 +4546,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 366.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 366.0,
      "precio_lista": null,
      "disponible": true,
@@ -3612,7 +4572,7 @@
    "modelo": "PSRSX700",
    "url": "https://www.coopesa.com.sv/producto/teclado-yamaha-psr-sx700/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3624,6 +4584,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 2128.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 2128.0,
      "precio_lista": null,
      "disponible": true,
@@ -3642,7 +4610,7 @@
    "modelo": "SV200",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-sv200/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3654,6 +4622,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 41.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 41.0,
      "precio_lista": null,
      "disponible": true,
@@ -3672,7 +4648,7 @@
    "modelo": "SV100",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-sv100/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3684,6 +4660,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -3702,7 +4686,7 @@
    "modelo": "PGADRUMKIT5",
    "url": "https://www.coopesa.com.sv/producto/microfono-pgadrumkit5/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3714,6 +4698,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 475.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 475.0,
      "precio_lista": null,
      "disponible": true,
@@ -3732,7 +4724,7 @@
    "modelo": "SM58S",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm58s/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3744,6 +4736,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 195.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 195.0,
      "precio_lista": null,
      "disponible": true,
@@ -3762,7 +4762,7 @@
    "modelo": "SM58LC",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm58-lc/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3774,6 +4774,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 190.0,
      "precio_lista": null,
      "disponible": true,
@@ -3792,7 +4800,7 @@
    "modelo": "SM48SLC",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-sm48s-lc/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3804,6 +4812,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -3822,7 +4838,7 @@
    "modelo": "SLX24BETA87A",
    "url": "https://www.coopesa.com.sv/producto/microfono-slx24-beta87a/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3834,6 +4850,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 979.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 979.0,
      "precio_lista": null,
      "disponible": true,
@@ -3852,7 +4876,7 @@
    "modelo": "PGXD24SM86",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-pgxd24-sm86/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3864,6 +4888,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 650.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 650.0,
      "precio_lista": null,
      "disponible": true,
@@ -3882,7 +4914,7 @@
    "modelo": "PGA81XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga81-xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3894,6 +4926,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -3912,7 +4952,7 @@
    "modelo": "PGA58QTR",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga58-qtr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3924,6 +4964,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 85.0,
      "precio_lista": null,
      "disponible": true,
@@ -3942,7 +4990,7 @@
    "modelo": "PGA58XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga58-xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3954,6 +5002,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 87.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 87.0,
      "precio_lista": null,
      "disponible": true,
@@ -3972,7 +5028,7 @@
    "modelo": "PGA57XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-pga57-xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -3984,6 +5040,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 85.0,
      "precio_lista": null,
      "disponible": true,
@@ -4002,7 +5066,7 @@
    "modelo": "PGA48QTR",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga48-qtr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4014,6 +5078,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -4032,7 +5104,7 @@
    "modelo": "PGA48XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-pga48-xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4044,6 +5116,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -4062,7 +5142,7 @@
    "modelo": "PVI100XLR",
    "url": "https://www.coopesa.com.sv/producto/microfono-peavey-pvi100xlr/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4074,6 +5154,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -4092,7 +5180,7 @@
    "modelo": "MX418S",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-mx418s-s/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4104,6 +5192,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 385.0,
      "precio_lista": null,
      "disponible": true,
@@ -4122,7 +5218,7 @@
    "modelo": "MX418D",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-mx418d-s/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4134,6 +5230,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 499.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 499.0,
      "precio_lista": null,
      "disponible": true,
@@ -4152,7 +5256,7 @@
    "modelo": "MX418D",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-mx418d-c/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4164,6 +5268,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 499.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 499.0,
      "precio_lista": null,
      "disponible": true,
@@ -4182,7 +5294,7 @@
    "modelo": "GLXD24",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-glxd24-sm58/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4194,6 +5306,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 899.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 899.0,
      "precio_lista": null,
      "disponible": true,
@@ -4212,7 +5332,7 @@
    "modelo": "BLX24",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-blx24-sm58j/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4224,6 +5344,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 580.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 580.0,
      "precio_lista": null,
      "disponible": true,
@@ -4242,7 +5370,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-vypyr-vip3-para-guitarra-electrica/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4254,6 +5382,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 385.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 385.0,
      "precio_lista": null,
      "disponible": true,
@@ -4272,7 +5408,7 @@
    "modelo": "RAGE258",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-rage258-para-guitarra-electrica/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4284,6 +5420,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -4302,7 +5446,7 @@
    "modelo": "RAGE158",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-rage158-para-guitarra-electrica/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4314,6 +5458,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 140.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 140.0,
      "precio_lista": null,
      "disponible": true,
@@ -4332,7 +5484,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-beta-58a/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4344,6 +5496,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 275.0,
      "precio_lista": null,
      "disponible": true,
@@ -4362,7 +5522,7 @@
    "modelo": "BLX14",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-blx14-p31/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4374,6 +5534,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 550.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 550.0,
      "precio_lista": null,
      "disponible": true,
@@ -4392,7 +5560,7 @@
    "modelo": "SRH240A",
    "url": "https://www.coopesa.com.sv/producto/audifono-shure-srh240a/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4404,6 +5572,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 95.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 95.0,
      "precio_lista": null,
      "disponible": true,
@@ -4422,7 +5598,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-backstage-para-guitarra-electrica/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4434,6 +5610,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 105.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 105.0,
      "precio_lista": null,
      "disponible": true,
@@ -4452,7 +5636,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-audition-para-guitarra-electrica/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4464,6 +5648,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -4482,7 +5674,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb5-para-teclado/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4494,6 +5686,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 755.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 755.0,
      "precio_lista": null,
      "disponible": true,
@@ -4512,7 +5712,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb4-para-teclado/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4524,6 +5724,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 585.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 585.0,
      "precio_lista": null,
      "disponible": true,
@@ -4542,7 +5750,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb3-para-teclado/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4554,6 +5762,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 415.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 415.0,
      "precio_lista": null,
      "disponible": true,
@@ -4572,7 +5788,7 @@
    "modelo": "",
    "url": "https://www.coopesa.com.sv/producto/amplificador-peavey-kb2-para-teclado/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4584,6 +5800,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 340.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 340.0,
      "precio_lista": null,
      "disponible": true,
@@ -4602,7 +5826,7 @@
    "modelo": "MAX158",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-electrico-peavey-max158/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4614,6 +5838,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 160.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 160.0,
      "precio_lista": null,
      "disponible": true,
@@ -4632,7 +5864,7 @@
    "modelo": "BLX1288P31J",
    "url": "https://www.coopesa.com.sv/producto/microfono-shure-blx128831j/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4644,6 +5876,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 975.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 975.0,
      "precio_lista": null,
      "disponible": true,
@@ -4662,7 +5902,7 @@
    "modelo": "MAX150",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-electrico-peavey-max150/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4674,6 +5914,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 445.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 445.0,
      "precio_lista": null,
      "disponible": true,
@@ -4692,7 +5940,7 @@
    "modelo": "MAX126",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-peavey-max126/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4704,6 +5952,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 109.0,
      "precio_lista": null,
      "disponible": true,
@@ -4722,7 +5978,7 @@
    "modelo": "MAX100",
    "url": "https://www.coopesa.com.sv/producto/amplificador-para-bajo-electrico-peavey-max100/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4734,6 +5990,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -4752,7 +6016,7 @@
    "modelo": "WS5225",
    "url": "https://www.coopesa.com.sv/producto/microfono-toa-ws5225/",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:50-06:00",
@@ -4764,6 +6028,14 @@
     },
     {
      "fecha": "2026-10-22T11:30:25-06:00",
+     "precio": 675.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:24:43-06:00",
      "precio": 675.0,
      "precio_lista": null,
      "disponible": true,

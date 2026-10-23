@@ -1,6 +1,6 @@
 {
  "comercial": "omnisport",
- "actualizado": "2026-10-22T11:32:40-06:00",
+ "actualizado": "2026-10-23T11:26:44-06:00",
  "listados": {
   "00401034161": {
    "nombre": "Cama Exclusiva 3 en 1 (1.40 m)",
@@ -12,7 +12,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-exclusiva-3-en-1-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:48-06:00",
@@ -37,6 +37,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 259.0,
+     "precio_lista": 320.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -50,7 +58,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-exclusiva-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:44-06:00",
@@ -75,6 +83,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 219.0,
+     "precio_lista": 270.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -88,7 +104,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-master-technology-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:56-06:00",
@@ -113,6 +129,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 399.0,
+     "precio_lista": 510.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -126,7 +150,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-rest-master-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:51-06:00",
@@ -151,6 +175,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 249.0,
+     "precio_lista": 310.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -164,7 +196,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-rest-master-160-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:53-06:00",
@@ -189,6 +221,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:26:44-06:00",
+     "precio": 319.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -202,7 +242,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-deluxe-advanced-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:10-06:00",
@@ -227,6 +267,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 299.0,
+     "precio_lista": 410.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -240,7 +288,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-deluxe-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:07-06:00",
@@ -265,6 +313,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 269.0,
+     "precio_lista": 365.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -278,7 +334,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-dream-sleeper-2-en-1-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:12-06:00",
@@ -303,6 +359,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 359.0,
+     "precio_lista": 535.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -316,7 +380,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-luxurious-comfort-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:15-06:00",
@@ -341,6 +405,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 469.0,
+     "precio_lista": 660.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -354,7 +426,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-triple-crown-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:18-06:00",
@@ -379,6 +451,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 499.0,
+     "precio_lista": 655.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -392,7 +472,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-wonder-full-2-en-1",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:04-06:00",
@@ -417,6 +497,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 289.0,
+     "precio_lista": 373.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -430,7 +518,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-wonder-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:00-06:00",
@@ -455,6 +543,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 239.0,
+     "precio_lista": 327.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -468,7 +564,7 @@
    "modelo": "50Q6Q",
    "url": "https://omnisport.com/productos/4k-tv-qled-50q6q-50",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:38-06:00",
@@ -493,6 +589,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 379.0,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -506,7 +610,7 @@
    "modelo": "UN50U8000",
    "url": "https://omnisport.com/productos/4k-tv-un50u8000-50",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:30-06:00",
@@ -531,6 +635,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 349.0,
+     "precio_lista": 555.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -544,7 +656,7 @@
    "modelo": "UN55U8000",
    "url": "https://omnisport.com/productos/4k-tv-un55u8000-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:00:00-06:00",
@@ -570,6 +682,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 399.0,
+     "precio_lista": 645.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -583,7 +703,7 @@
    "modelo": "43LM6370",
    "url": "https://omnisport.com/productos/smart-tv-43lm6370-43",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -603,6 +723,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 299.0,
+     "precio_lista": 385.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 299.0,
      "precio_lista": 385.0,
      "disponible": true,
@@ -621,7 +749,7 @@
    "modelo": "43V35R",
    "url": "https://omnisport.com/productos/smart-tv-43v35r-43",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -641,6 +769,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 259.0,
+     "precio_lista": 320.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 259.0,
      "precio_lista": 320.0,
      "disponible": true,
@@ -659,7 +795,7 @@
    "modelo": "50C350R",
    "url": "https://omnisport.com/productos/4k-tv-50c350r-50",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -679,6 +815,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 349.0,
+     "precio_lista": 400.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 349.0,
      "precio_lista": 400.0,
      "disponible": true,
@@ -697,7 +841,7 @@
    "modelo": "50UA7300",
    "url": "https://omnisport.com/productos/4k-tv-50ua7300-50",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -717,6 +861,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 349.0,
+     "precio_lista": 575.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 349.0,
      "precio_lista": 575.0,
      "disponible": true,
@@ -735,7 +887,7 @@
    "modelo": "55C350R",
    "url": "https://omnisport.com/productos/4k-tv-55c350r-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -755,6 +907,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 399.0,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 399.0,
      "precio_lista": 585.0,
      "disponible": true,
@@ -773,7 +933,7 @@
    "modelo": "55NU850",
    "url": "https://omnisport.com/productos/4k-tv-55nu850-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -793,6 +953,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 419.0,
+     "precio_lista": 660.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 419.0,
      "precio_lista": 660.0,
      "disponible": true,
@@ -811,7 +979,7 @@
    "modelo": "K55XR30M",
    "url": "https://omnisport.com/productos/4k-tv-bravia-3-ii-k-55xr30m-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -831,6 +999,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 869.0,
+     "precio_lista": 1310.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 869.0,
      "precio_lista": 1310.0,
      "disponible": true,
@@ -849,7 +1025,7 @@
    "modelo": "55S7N",
    "url": "https://omnisport.com/productos/4k-tv-qled-55s7n-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -869,6 +1045,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 709.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 709.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -887,7 +1071,7 @@
    "modelo": "40Q4S",
    "url": "https://omnisport.com/productos/2k-tv-qled-40q4s-40",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -907,6 +1091,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 209.0,
+     "precio_lista": 315.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 209.0,
      "precio_lista": 315.0,
      "disponible": true,
@@ -925,7 +1117,7 @@
    "modelo": "50Q4S",
    "url": "https://omnisport.com/productos/2k-tv-qled-50q4s-50",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -945,6 +1137,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 339.0,
+     "precio_lista": 385.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 339.0,
      "precio_lista": 385.0,
      "disponible": true,
@@ -963,7 +1163,7 @@
    "modelo": "58Q6Q",
    "url": "https://omnisport.com/productos/4k-tv-qled-58q6q-58",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -983,6 +1183,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 469.0,
+     "precio_lista": 635.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 469.0,
      "precio_lista": 635.0,
      "disponible": true,
@@ -1001,7 +1209,7 @@
    "modelo": "43QD5",
    "url": "https://omnisport.com/productos/smart-tv-qled-43qd5-43",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1021,6 +1229,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 279.0,
+     "precio_lista": 370.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 279.0,
      "precio_lista": 370.0,
      "disponible": true,
@@ -1039,7 +1255,7 @@
    "modelo": "50QD5",
    "url": "https://omnisport.com/productos/smart-tv-qled-50qd5-50",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1059,6 +1275,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 369.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 369.0,
      "precio_lista": 455.0,
      "disponible": true,
@@ -1077,7 +1301,7 @@
    "modelo": "UN55M70H",
    "url": "https://omnisport.com/productos/4k-tv-miniled-un55m70h-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1097,6 +1321,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 449.0,
+     "precio_lista": 654.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 449.0,
      "precio_lista": 654.0,
      "disponible": true,
@@ -1115,7 +1347,7 @@
    "modelo": "55QNED65",
    "url": "https://omnisport.com/productos/4k-tv-qned-55qned65-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1135,6 +1367,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 499.0,
+     "precio_lista": 680.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 499.0,
      "precio_lista": 680.0,
      "disponible": true,
@@ -1153,7 +1393,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-super-rest-master-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1173,6 +1413,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 359.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 359.0,
      "precio_lista": 455.0,
      "disponible": true,
@@ -1191,7 +1439,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-back-care-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1211,6 +1459,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 599.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 599.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -1229,7 +1485,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-dream-sleeper-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1249,6 +1505,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 359.0,
+     "precio_lista": 506.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 359.0,
      "precio_lista": 506.0,
      "disponible": true,
@@ -1267,7 +1531,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-frescofoam-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1287,6 +1551,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 239.0,
+     "precio_lista": 335.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 239.0,
      "precio_lista": 335.0,
      "disponible": true,
@@ -1305,7 +1577,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-natural-sleep-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1325,6 +1597,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 399.0,
+     "precio_lista": 557.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 399.0,
      "precio_lista": 557.0,
      "disponible": true,
@@ -1343,7 +1623,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-rest-master-3-en-1-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1363,6 +1643,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 299.0,
+     "precio_lista": 370.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 299.0,
      "precio_lista": 370.0,
      "disponible": true,
@@ -1381,7 +1669,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-simmons-beauty-sleep-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1401,6 +1689,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 499.0,
+     "precio_lista": 785.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 499.0,
      "precio_lista": 785.0,
      "disponible": true,
@@ -1419,7 +1715,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-simmons-beauty-sleep-super-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1439,6 +1735,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 529.0,
+     "precio_lista": 835.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 529.0,
      "precio_lista": 835.0,
      "disponible": true,
@@ -1457,7 +1761,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-space-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1477,6 +1781,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 719.0,
+     "precio_lista": 890.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 719.0,
      "precio_lista": 890.0,
      "disponible": true,
@@ -1495,7 +1807,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-super-master-technology-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1515,6 +1827,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 469.0,
+     "precio_lista": 590.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 469.0,
      "precio_lista": 590.0,
      "disponible": true,
@@ -1533,7 +1853,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-super-master-technology-3-en-1-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1554,6 +1874,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 459.0,
+     "precio_lista": 620.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 449.0,
      "precio_lista": 620.0,
      "disponible": true,
      "fuente": "auto",
@@ -1571,7 +1899,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-super-rest-master-3-en-1-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1591,6 +1919,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 379.0,
+     "precio_lista": 480.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 379.0,
      "precio_lista": 480.0,
      "disponible": true,
@@ -1609,7 +1945,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-beauty-rest-firm-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1629,6 +1965,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 649.0,
+     "precio_lista": 1225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 649.0,
      "precio_lista": 1225.0,
      "disponible": true,
@@ -1647,7 +1991,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-beauty-rest-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1667,6 +2011,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 689.0,
+     "precio_lista": 1270.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 689.0,
      "precio_lista": 1270.0,
      "disponible": true,
@@ -1685,7 +2037,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-br-world-class-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1705,6 +2057,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 879.0,
+     "precio_lista": 1545.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 879.0,
      "precio_lista": 1545.0,
      "disponible": true,
@@ -1723,7 +2083,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-diamond-es-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1743,6 +2103,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 519.0,
+     "precio_lista": 670.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 519.0,
      "precio_lista": 670.0,
      "disponible": true,
@@ -1761,7 +2129,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-ortho-advanced-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1781,6 +2149,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 329.0,
+     "precio_lista": 425.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 329.0,
      "precio_lista": 425.0,
      "disponible": true,
@@ -1799,7 +2175,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-ortho-rest-es-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1819,6 +2195,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 429.0,
+     "precio_lista": 520.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 429.0,
      "precio_lista": 520.0,
      "disponible": true,
@@ -1837,7 +2221,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-rest-master-duo-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1857,6 +2241,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 279.0,
+     "precio_lista": 360.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 279.0,
      "precio_lista": 360.0,
      "disponible": true,
@@ -1875,7 +2267,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-smart-rest-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1895,6 +2287,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 539.0,
+     "precio_lista": 890.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 539.0,
      "precio_lista": 890.0,
      "disponible": true,
@@ -1913,7 +2313,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-br-world-class-firm-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -1938,6 +2338,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 789.0,
+     "precio_lista": 1390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1951,7 +2359,7 @@
    "modelo": "RMU210FANU",
    "url": "https://omnisport.com/productos/refrigeradora-frio-humedo-rmu210fanu-8",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -1971,6 +2379,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 289.0,
+     "precio_lista": 410.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 289.0,
      "precio_lista": 410.0,
      "disponible": true,
@@ -1989,7 +2405,7 @@
    "modelo": "RR43D6ACX1",
    "url": "https://omnisport.com/productos/refrigeradora-frio-humedo-rr43d6acx1-4",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2009,6 +2425,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 169.0,
+     "precio_lista": 280.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 169.0,
      "precio_lista": 280.0,
      "disponible": true,
@@ -2027,7 +2451,7 @@
    "modelo": "RR63D6WGX1",
    "url": "https://omnisport.com/productos/refrigeradora-frio-humedo-rr63d6wgx1-6",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2047,6 +2471,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 229.0,
+     "precio_lista": 340.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 229.0,
      "precio_lista": 340.0,
      "disponible": true,
@@ -2065,7 +2497,7 @@
    "modelo": "RT80D6WGX",
    "url": "https://omnisport.com/productos/refrigeradora-frio-humedo-rt80d6wgx-7",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2085,6 +2517,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 269.0,
+     "precio_lista": 425.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 269.0,
      "precio_lista": 425.0,
      "disponible": true,
@@ -2103,7 +2543,7 @@
    "modelo": "GT57BPSX",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-gt57bpsx-21",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2123,6 +2563,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 719.0,
+     "precio_lista": 1215.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 719.0,
      "precio_lista": 1215.0,
      "disponible": true,
@@ -2141,7 +2589,7 @@
    "modelo": "GU21WPP",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-gu21wpp-7",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2161,6 +2609,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 289.0,
+     "precio_lista": 500.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 289.0,
      "precio_lista": 500.0,
      "disponible": true,
@@ -2179,7 +2635,7 @@
    "modelo": "GM22BGPK",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-gm22bgpk-22",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2199,6 +2655,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1600.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 1149.0,
      "precio_lista": 1600.0,
      "disponible": true,
@@ -2217,7 +2681,7 @@
    "modelo": "GS51BPP",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-gs51bpp-18",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2237,6 +2701,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 799.0,
+     "precio_lista": 1120.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 799.0,
      "precio_lista": 1120.0,
      "disponible": true,
@@ -2255,7 +2727,7 @@
    "modelo": "RS27T5200S9",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-rs27t5200s9ap-27",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2275,6 +2747,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1950.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 1199.0,
      "precio_lista": 1950.0,
      "disponible": true,
@@ -2293,7 +2773,7 @@
    "modelo": "RS27T5561B1",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-rs27t5561b1-27",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2313,6 +2793,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2925.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 1999.0,
      "precio_lista": 2925.0,
      "disponible": true,
@@ -2331,7 +2819,7 @@
    "modelo": "VT38BPK",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vt38bpk-14",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2351,6 +2839,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 559.0,
+     "precio_lista": 855.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 559.0,
      "precio_lista": 855.0,
      "disponible": true,
@@ -2369,7 +2865,7 @@
    "modelo": "VT38WPP",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vt38wpp-14",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2390,6 +2886,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 509.0,
+     "precio_lista": 850.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 489.0,
      "precio_lista": 850.0,
      "disponible": true,
      "fuente": "auto",
@@ -2407,7 +2911,7 @@
    "modelo": "RT55D6AAE",
    "url": "https://omnisport.com/productos/refrigeradora-frio-humedo-rt55d6aae-55",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2427,6 +2931,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 259.0,
+     "precio_lista": 360.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 259.0,
      "precio_lista": 360.0,
      "disponible": true,
@@ -2445,7 +2957,7 @@
    "modelo": "WRW25DKTWW",
    "url": "https://omnisport.com/productos/refrigeradora-frio-seco-wrw25dktww-9",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2465,6 +2977,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 429.0,
+     "precio_lista": 590.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 429.0,
      "precio_lista": 590.0,
      "disponible": true,
@@ -2483,7 +3003,7 @@
    "modelo": "MDRT489MTM46W",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-mdrt489mtm46wd-13",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2503,6 +3023,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 459.0,
+     "precio_lista": 580.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 459.0,
      "precio_lista": 580.0,
      "disponible": true,
@@ -2521,7 +3049,7 @@
    "modelo": "RT35DG5224S9AP",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-rt35dg5224s9ap-13",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2541,6 +3069,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 479.0,
+     "precio_lista": 640.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 479.0,
      "precio_lista": 640.0,
      "disponible": true,
@@ -2559,7 +3095,7 @@
    "modelo": "RT42DG6734S9AP",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-rt42dg6734s9ap-15",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2580,6 +3116,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 549.0,
+     "precio_lista": 790.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 519.0,
      "precio_lista": 790.0,
      "disponible": true,
      "fuente": "auto",
@@ -2597,7 +3141,7 @@
    "modelo": "VS25GMIW",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-vs25gmiw-24",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2617,6 +3161,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 1749.0,
+     "precio_lista": 2350.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 1749.0,
      "precio_lista": 2350.0,
      "disponible": true,
@@ -2635,7 +3187,7 @@
    "modelo": "VS25XHWC",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-vs25xhwc-24",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2655,6 +3207,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 2679.0,
+     "precio_lista": 3000.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 2679.0,
      "precio_lista": 3000.0,
      "disponible": true,
@@ -2673,7 +3233,7 @@
    "modelo": "VF25LNIBB",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vf25lnibb-25",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2694,6 +3254,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 1499.0,
+     "precio_lista": 2400.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 1479.0,
      "precio_lista": 2400.0,
      "disponible": true,
      "fuente": "auto",
@@ -2711,7 +3279,7 @@
    "modelo": "VT34WPP",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vt34wpp-13",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2731,6 +3299,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 479.0,
+     "precio_lista": 855.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 479.0,
      "precio_lista": 855.0,
      "disponible": true,
@@ -2749,7 +3325,7 @@
    "modelo": "VT48BPY",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vt48bpy-17",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2769,6 +3345,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 679.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 679.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -2787,7 +3371,7 @@
    "modelo": "RMC400FVCAE",
    "url": "https://omnisport.com/productos/refrigeradora-frio-humedo-rmc400fvcae-14",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2807,6 +3391,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 559.0,
+     "precio_lista": 750.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 559.0,
      "precio_lista": 750.0,
      "disponible": true,
@@ -2825,7 +3417,7 @@
    "modelo": "RMA1230PVCAE",
    "url": "https://omnisport.com/productos/refrigeradora-frio-seco-rma1230pvcae-8",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2845,6 +3437,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 379.0,
+     "precio_lista": 450.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 379.0,
      "precio_lista": 450.0,
      "disponible": true,
@@ -2863,7 +3463,7 @@
    "modelo": "RT3N375NACA",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-rt3n375naca-135",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2883,6 +3483,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 479.0,
+     "precio_lista": 590.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 479.0,
      "precio_lista": 590.0,
      "disponible": true,
@@ -2901,7 +3509,7 @@
    "modelo": "RS3P428NEDA2",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-rs3p428neda2-16",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2921,6 +3529,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 599.0,
+     "precio_lista": 710.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 599.0,
      "precio_lista": 710.0,
      "disponible": true,
@@ -2939,7 +3555,7 @@
    "modelo": "RS3P558NMCB",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-rs3p558nmcb-193",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2959,6 +3575,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 699.0,
+     "precio_lista": 1010.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 699.0,
      "precio_lista": 1010.0,
      "disponible": true,
@@ -2977,7 +3601,7 @@
    "modelo": "VT29BPY",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vt29bpy-10",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -2997,6 +3621,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 429.0,
+     "precio_lista": 715.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 429.0,
      "precio_lista": 715.0,
      "disponible": true,
@@ -3015,7 +3647,7 @@
    "modelo": "VT29WPY",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-vt29wpy-10",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3036,6 +3668,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 449.0,
+     "precio_lista": 775.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 439.0,
      "precio_lista": 775.0,
      "disponible": true,
      "fuente": "auto",
@@ -3053,7 +3693,7 @@
    "modelo": "RR16D6AGX1",
    "url": "https://omnisport.com/productos/refrigeradora-rr16d6agx1-16",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3073,6 +3713,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 129.0,
+     "precio_lista": 170.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 129.0,
      "precio_lista": 170.0,
      "disponible": true,
@@ -3091,7 +3739,7 @@
    "modelo": "WD1600S",
    "url": "https://omnisport.com/productos/refrigeradora-inverter-side-by-side-wd1600s-18",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3111,6 +3759,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 739.0,
+     "precio_lista": 940.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 739.0,
      "precio_lista": 940.0,
      "disponible": true,
@@ -3129,7 +3785,7 @@
    "modelo": "WA19CG6442BWAP",
    "url": "https://omnisport.com/productos/lavadora-inverter-wa19cg6442bwap-42-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3149,6 +3805,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 379.0,
+     "precio_lista": 560.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 379.0,
      "precio_lista": 560.0,
      "disponible": true,
@@ -3167,7 +3831,7 @@
    "modelo": "WM22WV26R",
    "url": "https://omnisport.com/productos/lavadora-inverter-wm22wv26r-48-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3187,6 +3851,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 749.0,
+     "precio_lista": 1000.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 749.0,
      "precio_lista": 1000.0,
      "disponible": true,
@@ -3205,7 +3877,7 @@
    "modelo": "WM25WV2S6W",
    "url": "https://omnisport.com/productos/lavadora-inverter-wm25wv2s6w-55-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3226,6 +3898,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 799.0,
+     "precio_lista": 1340.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 779.0,
      "precio_lista": 1340.0,
      "disponible": true,
      "fuente": "auto",
@@ -3243,7 +3923,7 @@
    "modelo": "WT13MPBPK",
    "url": "https://omnisport.com/productos/lavadora-inverter-wt13mpbpk-29-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3263,6 +3943,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 409.0,
+     "precio_lista": 500.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 409.0,
      "precio_lista": 500.0,
      "disponible": true,
@@ -3281,7 +3969,7 @@
    "modelo": "WT16WVTM",
    "url": "https://omnisport.com/productos/lavadora-inverter-wt16wvtm-36-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3301,6 +3989,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 359.0,
+     "precio_lista": 600.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 359.0,
      "precio_lista": 600.0,
      "disponible": true,
@@ -3319,7 +4015,7 @@
    "modelo": "WT18WVTM",
    "url": "https://omnisport.com/productos/lavadora-inverter-wt18wvtm-40-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3339,6 +4035,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 369.0,
+     "precio_lista": 620.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 369.0,
      "precio_lista": 620.0,
      "disponible": true,
@@ -3357,7 +4061,7 @@
    "modelo": "WT19WVTM",
    "url": "https://omnisport.com/productos/lavadora-inverter-wt19wvtm-42-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3377,6 +4081,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 389.0,
+     "precio_lista": 610.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 389.0,
      "precio_lista": 610.0,
      "disponible": true,
@@ -3395,7 +4107,7 @@
    "modelo": "LMA79113VBABO",
    "url": "https://omnisport.com/productos/lavadora-lma79113vbabo-42-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3415,6 +4127,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 419.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 419.0,
      "precio_lista": 700.0,
      "disponible": true,
@@ -3433,7 +4153,7 @@
    "modelo": "WWI14ASHLS",
    "url": "https://omnisport.com/productos/lavadora-wwi14ashls-30-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3453,6 +4173,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 319.0,
+     "precio_lista": 450.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 319.0,
      "precio_lista": 450.0,
      "disponible": true,
@@ -3471,7 +4199,7 @@
    "modelo": "7MWET4027HW",
    "url": "https://omnisport.com/productos/centro-de-lavado-7mwet4027hw-44-lb-lavado-22-lb-secado",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3492,6 +4220,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 1179.0,
+     "precio_lista": 1450.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 1149.0,
      "precio_lista": 1450.0,
      "disponible": true,
      "fuente": "auto",
@@ -3509,7 +4245,7 @@
    "modelo": "8MWTW1812WPM",
    "url": "https://omnisport.com/productos/lavadora-8mwtw1812wpm-40-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3529,6 +4265,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 419.0,
+     "precio_lista": 570.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 419.0,
      "precio_lista": 570.0,
      "disponible": true,
@@ -3547,7 +4291,7 @@
    "modelo": "8MWTW2423WPM",
    "url": "https://omnisport.com/productos/lavadora-8mwtw2423wpm-53-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3567,6 +4311,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 469.0,
+     "precio_lista": 590.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 469.0,
      "precio_lista": 590.0,
      "disponible": true,
@@ -3585,7 +4337,7 @@
    "modelo": "8MWTW2654WRM",
    "url": "https://omnisport.com/productos/lavadora-8mwtw2654wrm-57-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3605,6 +4357,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 539.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 539.0,
      "precio_lista": 700.0,
      "disponible": true,
@@ -3623,7 +4383,7 @@
    "modelo": "WM20EGNT6PC",
    "url": "https://omnisport.com/productos/lavadora-inverter-wm20egnt6pc-44-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3643,6 +4403,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 769.0,
+     "precio_lista": 1000.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 769.0,
      "precio_lista": 1000.0,
      "disponible": true,
@@ -3661,7 +4429,7 @@
    "modelo": "WM20EWNT6PC",
    "url": "https://omnisport.com/productos/lavadora-inverter-wm20ewnt6pc-44-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3682,6 +4450,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 659.0,
+     "precio_lista": 1050.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 639.0,
      "precio_lista": 1050.0,
      "disponible": true,
      "fuente": "auto",
@@ -3699,7 +4475,7 @@
    "modelo": "LMA6120WDGAB0",
    "url": "https://omnisport.com/productos/lavadora-lma6120wdgab0-36-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3719,6 +4495,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 349.0,
+     "precio_lista": 440.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 349.0,
      "precio_lista": 440.0,
      "disponible": true,
@@ -3737,7 +4521,7 @@
    "modelo": "WD16EGNT6PC",
    "url": "https://omnisport.com/productos/lavadora-secadora-inverter-wd16egnt6pc-35-lb-lavado-18-lb-secado",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3757,6 +4541,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 899.0,
+     "precio_lista": 1070.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 899.0,
      "precio_lista": 1070.0,
      "disponible": true,
@@ -3775,7 +4567,7 @@
    "modelo": "WD3S1543BT",
    "url": "https://omnisport.com/productos/lavadora-secadora-wd3s1543bt-33-lb-lavado-22-lb-secado",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3795,6 +4587,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 509.0,
+     "precio_lista": 640.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 509.0,
      "precio_lista": 640.0,
      "disponible": true,
@@ -3813,7 +4613,7 @@
    "modelo": "WT25PBTX6",
    "url": "https://omnisport.com/productos/lavadora-wt25pbtx6-55-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3833,6 +4633,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 639.0,
+     "precio_lista": 1035.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 639.0,
      "precio_lista": 1035.0,
      "disponible": true,
@@ -3851,7 +4659,7 @@
    "modelo": "WWG18CSHLA",
    "url": "https://omnisport.com/productos/lavadora-wwg18cshla-40-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3871,6 +4679,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 419.0,
+     "precio_lista": 530.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 419.0,
      "precio_lista": 530.0,
      "disponible": true,
@@ -3889,7 +4705,7 @@
    "modelo": "WM23VFXS6",
    "url": "https://omnisport.com/productos/lavadora-inverter-wm23vfxs6-51-lb-lg",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3909,6 +4725,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 779.0,
+     "precio_lista": 1050.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 779.0,
      "precio_lista": 1050.0,
      "disponible": true,
@@ -3927,7 +4751,7 @@
    "modelo": "WT20OBTX6T",
    "url": "https://omnisport.com/productos/lavadora-inverter-wt20obtx6t-44-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3947,6 +4771,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 419.0,
+     "precio_lista": 640.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 419.0,
      "precio_lista": 640.0,
      "disponible": true,
@@ -3965,7 +4797,7 @@
    "modelo": "WT22OBTX6",
    "url": "https://omnisport.com/productos/lavadora-inverter-wt22obtx6-48-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -3985,6 +4817,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 609.0,
+     "precio_lista": 740.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 609.0,
      "precio_lista": 740.0,
      "disponible": true,
@@ -4003,7 +4843,7 @@
    "modelo": "WD16EWNT6PC",
    "url": "https://omnisport.com/productos/lavadora-secadora-inverter-wd16ewnt6pc-35-lb-lavado-18-lb-secado",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -4024,6 +4864,14 @@
     {
      "fecha": "2026-10-22T11:25:54-06:00",
      "precio": 799.0,
+     "precio_lista": 1070.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 759.0,
      "precio_lista": 1070.0,
      "disponible": true,
      "fuente": "auto",
@@ -4041,7 +4889,7 @@
    "modelo": "MS0936GIS",
    "url": "https://omnisport.com/productos/microondas-inverter-ms-0936gis",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -4061,6 +4909,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 129.0,
+     "precio_lista": 180.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 129.0,
      "precio_lista": 180.0,
      "disponible": true,
@@ -4079,7 +4935,7 @@
    "modelo": "MS1536GIR",
    "url": "https://omnisport.com/productos/microondas-inverter-ms-1536gir",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -4099,6 +4955,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 159.0,
+     "precio_lista": 245.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 159.0,
      "precio_lista": 245.0,
      "disponible": true,
@@ -4117,7 +4981,7 @@
    "modelo": "MS1596CIR",
    "url": "https://omnisport.com/productos/microondas-inverter-ms-1596cir",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -4137,6 +5001,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 209.0,
+     "precio_lista": 285.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 209.0,
      "precio_lista": 285.0,
      "disponible": true,
@@ -4155,7 +5027,7 @@
    "modelo": "MMDP07S2BM",
    "url": "https://omnisport.com/productos/microondas-mmdp07s2bm",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -4175,6 +5047,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 59.0,
+     "precio_lista": 100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 59.0,
      "precio_lista": 100.0,
      "disponible": true,
@@ -4193,7 +5073,7 @@
    "modelo": "MMDT11S2MG",
    "url": "https://omnisport.com/productos/microondas-mmdt11s2mg",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -4218,6 +5098,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 89.0,
+     "precio_lista": 130.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -4231,7 +5119,7 @@
    "modelo": "UN43U8000",
    "url": "https://omnisport.com/productos/4k-tv-un43u8000-43",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-23",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:46:47-06:00",
@@ -4243,6 +5131,14 @@
     },
     {
      "fecha": "2026-10-22T11:25:54-06:00",
+     "precio": 289.0,
+     "precio_lista": 445.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
      "precio": 289.0,
      "precio_lista": 445.0,
      "disponible": true,
@@ -4267,6 +5163,138 @@
      "fecha": "2026-10-21T10:46:47-06:00",
      "precio": 649.0,
      "precio_lista": 1140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "00000014287": {
+   "nombre": "OLED TV OLED55B6| 55\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED55B6",
+   "url": "https://omnisport.com/productos/oled-tv-oled55b6-55",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 1029.0,
+     "precio_lista": 1620.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "00000012269": {
+   "nombre": "Refrigeradora INVERTER VT22BPY | 8'",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "VT22BPY",
+   "url": "https://omnisport.com/productos/refrigeradora-inverter-vt22bpy-8",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 379.0,
+     "precio_lista": 590.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "00000014816": {
+   "nombre": "Refrigeradora Frío Seco MDRT385MTM46WD | '10",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MDRT385MTM46WD",
+   "url": "https://omnisport.com/productos/refrigeradora-frio-seco-mdrt385mtm46wd-10",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 349.0,
+     "precio_lista": 410.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "00000014146": {
+   "nombre": "Lavadora Inverter WA26DG5500AW/AP | 57 lb",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "WA26DG5500AW",
+   "url": "https://omnisport.com/productos/lavadora-inverter-wa26dg5500awap-57-lb",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 529.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "00000013913": {
+   "nombre": "Lavadora Inverter WT23EWTX6 | 51 lb",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "WT23EWTX6",
+   "url": "https://omnisport.com/productos/lavadora-inverter-wt23ewtx6-51-lb",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 579.0,
+     "precio_lista": 770.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "00000014422": {
+   "nombre": "Microondas MS2082F",
+   "categoria": "microondas",
+   "tipo": "microondas",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MS2082F",
+   "url": "https://omnisport.com/productos/microondas-ms2082f",
+   "primera_vez": "2026-10-23",
+   "ultima_vez": "2026-10-23",
+   "observaciones": [
+    {
+     "fecha": "2026-10-23T11:20:27-06:00",
+     "precio": 79.0,
+     "precio_lista": 110.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
