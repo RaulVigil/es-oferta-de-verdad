@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-24T10:05:44-06:00",
+ "actualizado": "2026-10-24T16:02:34-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -11189,6 +11189,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T16:02:34-06:00",
+     "precio": 89.95,
+     "precio_lista": 99.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'Spooky Deals Headset' hasta 2026-10-31"
     }
    ]
   },

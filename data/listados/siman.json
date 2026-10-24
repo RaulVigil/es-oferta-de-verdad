@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-24T09:59:07-06:00",
+ "actualizado": "2026-10-24T15:55:58-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -12849,7 +12849,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/teclado-mecanico-huntsman-v3-104928303/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -12877,6 +12877,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 141.0,
+     "precio_lista": 141.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 141.0,
      "precio_lista": 141.0,
      "disponible": true,
@@ -39935,7 +39943,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/auriculares-inalambricos-tws-inear-22hrs-enc-mic-negro-105063266/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -39963,6 +39971,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 32.9,
+     "precio_lista": 32.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 32.9,
      "precio_lista": 32.9,
      "disponible": true,
@@ -42223,7 +42239,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-in-ear-tws-edgebuds-pro-blanco-103916232/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42256,6 +42272,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 19.99,
+     "precio_lista": 35.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42269,7 +42293,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-in-ear-tws-edgebuds-pro-blanco-103916232/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42302,6 +42326,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 35.9,
+     "precio_lista": 35.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42315,7 +42347,7 @@
    "modelo": "RBEB170",
    "url": "https://sv.siman.com/audifonos-in-ear-red-bull-racing-rb-eb170-negro-104874585/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42348,6 +42380,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 24.9,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42361,7 +42401,7 @@
    "modelo": "BUDS4",
    "url": "https://sv.siman.com/buds4-105173291/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42389,6 +42429,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 159.0,
+     "precio_lista": 179.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 159.0,
      "precio_lista": 179.0,
      "disponible": false,
@@ -42407,7 +42455,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/buds4-105173291/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42435,6 +42483,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 159.0,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 159.0,
      "precio_lista": 179.0,
      "disponible": true,
@@ -42453,7 +42509,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-tws-skeipods-e21-cancelacion-ruido-28h-negros-105104516/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42481,6 +42537,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 23.9,
+     "precio_lista": 23.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 23.9,
      "precio_lista": 23.9,
      "disponible": false,
@@ -42499,7 +42563,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-tws-skeipods-e21-cancelacion-ruido-28h-negros-105104516/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42527,6 +42591,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 23.9,
+     "precio_lista": 23.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 23.9,
      "precio_lista": 23.9,
      "disponible": true,
@@ -42545,7 +42617,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-tws-true-wireless-stereo-earbuds-bluetooth-20hrs-negro-105063259/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42573,6 +42645,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 30.9,
+     "precio_lista": 30.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 30.9,
      "precio_lista": 30.9,
      "disponible": true,
@@ -42591,7 +42671,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-buds-loop-open-ear-swarovski-104999346/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42619,6 +42699,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 169.0,
+     "precio_lista": 169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 169.0,
      "precio_lista": 169.0,
      "disponible": true,
@@ -42637,7 +42725,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-buds-loop-open-ear-swarovski-104999346/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42665,6 +42753,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 169.0,
+     "precio_lista": 169.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 169.0,
      "precio_lista": 169.0,
      "disponible": false,
@@ -42683,7 +42779,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-buds-loop-open-ear-swarovski-104999346/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42716,6 +42812,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 120.0,
+     "precio_lista": 120.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42729,7 +42833,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-tws-go-air-pop-rosa-104924342/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42762,6 +42866,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 34.9,
+     "precio_lista": 34.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42775,7 +42887,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-tws-go-air-pop-rosa-104924342/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42808,6 +42920,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 27.96,
+     "precio_lista": 32.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42821,7 +42941,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-tws-go-air-pop-rosa-104924342/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42854,6 +42974,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42867,7 +42995,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-tws-go-air-pop-rosa-104924342/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42900,6 +43028,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 29.66,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -42913,7 +43049,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-tws-go-air-pop-rosa-104924342/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42941,6 +43077,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 34.9,
+     "precio_lista": 34.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 34.9,
      "precio_lista": 34.9,
      "disponible": false,
@@ -42959,7 +43103,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-tws-go-air-pop-rosa-104924342/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -42987,6 +43131,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 29.66,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 29.66,
      "precio_lista": 34.9,
      "disponible": true,
@@ -43283,7 +43435,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-free-buds-pro-5-negro-105285431/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43311,6 +43463,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 190.0,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 190.0,
      "precio_lista": 190.0,
      "disponible": true,
@@ -43329,7 +43489,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-free-buds-pro-5-negro-105285431/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43357,6 +43517,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 190.0,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 190.0,
      "precio_lista": 190.0,
      "disponible": true,
@@ -43375,7 +43543,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-free-buds-pro-5-negro-105285431/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43403,6 +43571,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 190.0,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 190.0,
      "precio_lista": 190.0,
      "disponible": true,
@@ -43421,7 +43597,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-free-buds-pro-5-negro-105285431/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43449,6 +43625,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 190.0,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 190.0,
      "precio_lista": 190.0,
      "disponible": true,
@@ -43467,7 +43651,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/galaxy-buds-3-fe-negro-105067553/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43495,6 +43679,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 114.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 114.0,
      "precio_lista": 159.0,
      "disponible": true,
@@ -43513,7 +43705,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/galaxy-buds-3-fe-negro-105067553/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43541,6 +43733,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 114.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 114.0,
      "precio_lista": 159.0,
      "disponible": true,
@@ -43559,7 +43759,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-gaming-black-shark-v3-inalambricos-negros-105196961/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43587,6 +43787,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 179.0,
+     "precio_lista": 179.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 179.0,
      "precio_lista": 179.0,
      "disponible": false,
@@ -43605,7 +43813,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-gaming-black-shark-v3-inalambricos-negros-105196961/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -43633,6 +43841,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 183.0,
+     "precio_lista": 183.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 183.0,
      "precio_lista": 183.0,
      "disponible": true,
@@ -44985,7 +45201,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-ultimate-sound-negro-104995621/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -45013,6 +45229,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 31.9,
+     "precio_lista": 31.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 31.9,
      "precio_lista": 31.9,
      "disponible": true,
@@ -45031,7 +45255,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-ultimate-sound-negro-104995621/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -45059,6 +45283,14 @@
     },
     {
      "fecha": "2026-10-23T11:10:08-06:00",
+     "precio": 31.9,
+     "precio_lista": 31.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 31.9,
      "precio_lista": 31.9,
      "disponible": true,
@@ -73939,10 +74171,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/teclado-compacto-bluetooth-en-espaol-negro-103392921/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.01,
+     "precio_lista": 85.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 0.01,
      "precio_lista": 85.0,
      "disponible": true,
@@ -73961,13 +74201,21 @@
    "modelo": "82JQ00SQGJ",
    "url": "https://sv.siman.com/laptop-de-16-gaming-legion-5-pro-r5-5600h-16gb-512-ssd-rtx-3060-104111996/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 189.0,
      "precio_lista": 1899.0,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 189.0,
+     "precio_lista": 1899.0,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -73983,10 +74231,18 @@
    "modelo": "CI511400H",
    "url": "https://sv.siman.com/laptop-gaming-de-15-nitro-15-intel-ci5-11400h-8gb-512ssd-rtx3050-4gb-104129937/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 119.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 119.0,
      "precio_lista": 1199.0,
      "disponible": true,
@@ -74005,13 +74261,21 @@
    "modelo": "15DW3500LA",
    "url": "https://sv.siman.com/laptop-de-15-intel-ci3-1115g4-8gb-256sdd-103740434/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 69.0,
      "precio_lista": 629.0,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 69.0,
+     "precio_lista": 629.0,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -74027,10 +74291,18 @@
    "modelo": "16D0510LA",
    "url": "https://sv.siman.com/laptop-de-16-gaming-victus-intecl-ci7-11800h-16gb-512gb-ssd-rtx-6gb-103633279/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 189.0,
+     "precio_lista": 1899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 189.0,
      "precio_lista": 1899.0,
      "disponible": true,
@@ -74049,10 +74321,18 @@
    "modelo": "G15REA975GRY",
    "url": "https://sv.siman.com/laptop-de-15-gaming-g15-amd-r7-5800h-8gb-512-ssd-rtx-3050ti-gris-sg-103856951/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 149.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 149.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -74071,13 +74351,21 @@
    "modelo": "15EW0100LA",
    "url": "https://sv.siman.com/laptop-de-15-envy-2-en-1-intel-ci5-1240p-16gb-512ssd-103741069/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 139.0,
      "precio_lista": 1319.0,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 139.0,
+     "precio_lista": 1319.0,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -74093,13 +74381,21 @@
    "modelo": "15EH1021LA",
    "url": "https://sv.siman.com/laptop-de-15-pavilion-amd-r7-5700u-16gb-512ssd-103740432/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 109.0,
      "precio_lista": 1089.0,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 109.0,
+     "precio_lista": 1089.0,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -74115,13 +74411,21 @@
    "modelo": "82C700C3SP",
    "url": "https://sv.siman.com/laptop-de-15-amd-r3-3250u-8gb-256ssd-gris-103756316/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 49.0,
      "precio_lista": 459.0,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 49.0,
+     "precio_lista": 459.0,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -74137,10 +74441,18 @@
    "modelo": "GH709",
    "url": "https://sv.siman.com/audifono-gaming-stereo-gh-709-negros-iluminados-103723419/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 1.59,
+     "precio_lista": 15.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 1.59,
      "precio_lista": 15.9,
      "disponible": true,
@@ -74159,10 +74471,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-inalambricos-blancos-103082758/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.01,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 0.01,
      "precio_lista": 59.0,
      "disponible": true,
@@ -74181,10 +74501,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-street-to-go-negros-103761017/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 0.99,
+     "precio_lista": 16.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 0.99,
      "precio_lista": 16.99,
      "disponible": true,
@@ -74203,11 +74531,19 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-in-ear-bt-tws-noise-cancelling-tune-130-blanco-103822542/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 3.99,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 0.99,
      "precio_lista": 89.0,
      "disponible": true,
      "fuente": "auto",
@@ -74225,13 +74561,21 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-in-ear-true-wireless-con-noise-cancelling-gris-103013331/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 39.99,
      "precio_lista": 61.0,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 6.1,
+     "precio_lista": 61.0,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -74247,13 +74591,21 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-gaming-on-the-ear-brave-usb-con-mic-103262964/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
      "precio": 0.01,
      "precio_lista": 22.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 0.01,
+     "precio_lista": 22.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -74269,10 +74621,18 @@
    "modelo": "4205U",
    "url": "https://sv.siman.com/laptop-de-15-celeron-4gb-500gb-103147575/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:03-06:00",
+     "precio": 39.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
      "precio": 39.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -74967,6 +75327,160 @@
      "fecha": "2026-10-24T09:59:07-06:00",
      "precio": 65.9,
      "precio_lista": 65.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "8916517": {
+   "nombre": "Laptop Apple MacBook Air 13\" (33.02 cm) M5 Chip 16GB RAM 512GB SSD Azúl - ESP — MACBOOK AIR 33.02 cm (13\") M5 10CPU 8GPU 16GB 512GB BLUE ESP",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Apple",
+   "modelo": "10CPU",
+   "url": "https://sv.siman.com/laptop-apple-macbook-air-13---33-02-cm--m5-chip-16gb-ram-512gb-ssd-azul---esp/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 1759.0,
+     "precio_lista": 1759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7101294": {
+   "nombre": "Laptop ASUS 15.6\" (39.62 cm) Intel Core i3-1115G4 4GB RAM + 256GB SSD ROM //X515EA-BQ868W — Laptop 15\" (38.1 cm) intel ci3-1115g4 4gb - 256ssd gris",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ASUS",
+   "modelo": "X515EABQ868W",
+   "url": "https://sv.siman.com/laptop-15-intel-ci3-1115g4-4gb-256ssd-gris-103743258/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 59.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7668261": {
+   "nombre": "Audífonos TWS bluetooth Soundform Freedom PRO blancos — AUDIFONOS TWS BT SOUNDFORM FREEDOM PRO BLANCOS",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Belkin",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifonos-tws-bt-soundform-freedom-pro-blancos-104192989/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 4.99,
+     "precio_lista": 110.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "4767384": {
+   "nombre": "Audífono klip xtreme inalámbricos grises",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Klip Xtreme",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-klip-xtreme-inalambricos-grises-101234797/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 0.01,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "7033230": {
+   "nombre": "Audífono in ear tws push active gris/celeste",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Skullcandy",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-push-active-gris-celeste-103695548/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 4.99,
+     "precio_lista": 104.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6608329": {
+   "nombre": "Mouse gaming hyperx pulsefire haste global gaming",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HyperX",
+   "modelo": "",
+   "url": "https://sv.siman.com/mouse-gaming-hyperx-pulsefire-haste-global-gaming-103380202/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 4.99,
+     "precio_lista": 64.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "6871818": {
+   "nombre": "Freidora de aire 7.2l",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "",
+   "url": "https://sv.siman.com/freidora-de-aire-7-2l-103550248/p",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T15:55:58-06:00",
+     "precio": 98.91,
+     "precio_lista": 109.9,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

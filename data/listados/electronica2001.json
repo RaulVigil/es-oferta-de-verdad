@@ -1,6 +1,6 @@
 {
  "comercial": "electronica2001",
- "actualizado": "2026-10-24T10:10:59-06:00",
+ "actualizado": "2026-10-24T16:07:58-06:00",
  "listados": {
   "001-131BK": {
    "nombre": "RS39C-BK GUITARRA CLASICA C/ RECORTE 39 C/ESTUCHE TJ- SEVILLA",
@@ -36977,6 +36977,72 @@
     {
      "fecha": "2026-10-24T10:10:59-06:00",
      "precio": 375.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "001-814CAB": {
+   "nombre": "GUIT. ELECT. SONIC STRATOCASTER TREMOLO CAB SQUIER FENDER",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://electronica2001es.com/search2.php?js=001-814CAB",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T16:07:58-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "001-132BK": {
+   "nombre": "RS39CEQ-BK GUITARRA ELECTROACUSTICA C/ RECORTE 39 C/ESTUCHE TJ- SEVILLA",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "RS39CEQBK",
+   "url": "https://electronica2001es.com/search2.php?js=001-132BK",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T16:07:58-06:00",
+     "precio": 125.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ]
+  },
+  "001-201SB": {
+   "nombre": "CC-140SCE GUIT. ELECTROACUST. CONCERT SB. C/ESTUCHE FENDER",
+   "categoria": "guitarra",
+   "tipo": "guitarra",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "CC140SCE",
+   "url": "https://electronica2001es.com/search2.php?js=001-201SB",
+   "primera_vez": "2026-10-24",
+   "ultima_vez": "2026-10-24",
+   "observaciones": [
+    {
+     "fecha": "2026-10-24T16:07:58-06:00",
+     "precio": 525.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
