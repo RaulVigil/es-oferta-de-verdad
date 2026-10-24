@@ -1,6 +1,6 @@
 {
  "comercial": "prado",
- "actualizado": "2026-10-23T11:26:43-06:00",
+ "actualizado": "2026-10-24T10:11:07-06:00",
  "listados": {
   "115353": {
    "nombre": "Cama Matrimonial Capri EXCLUSIVA",
@@ -12,7 +12,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-exclusiva-115353",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:43-06:00",
@@ -45,6 +45,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 219.01,
+     "precio_lista": 309.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -58,7 +66,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-queen-capri-restmaster",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:52-06:00",
@@ -91,6 +99,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:11:07-06:00",
+     "precio": 329.0,
+     "precio_lista": 459.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -104,7 +120,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-limited-edition-195382",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:19-06:00",
@@ -137,6 +153,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 339.0,
+     "precio_lista": 450.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -150,7 +174,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-wonder",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:03-06:00",
@@ -183,6 +207,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 289.0,
+     "precio_lista": 418.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -196,7 +228,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-wonder-158028",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:59-06:00",
@@ -229,6 +261,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 239.0,
+     "precio_lista": 379.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -242,7 +282,7 @@
    "modelo": "50NU850BPSA",
    "url": "https://www.prado.com.sv/pantalla-smart-uhd-4k-lg-50-pulgadas-50nu850bpsa-201347",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:36-06:00",
@@ -275,6 +315,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 369.0,
+     "precio_lista": 649.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -288,7 +336,7 @@
    "modelo": "RC50QL",
    "url": "https://www.prado.com.sv/pantalla-qled-4k-rca-50-pulgadas-rc50ql-200689",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:40-06:00",
@@ -321,6 +369,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 299.0,
+     "precio_lista": 595.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -334,7 +390,7 @@
    "modelo": "UN50M70HAPXPA",
    "url": "https://www.prado.com.sv/pantalla-mini-led-4k-samsung-50-pulgadas-un50m70hapxp-201334",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:33-06:00",
@@ -367,6 +423,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 409.0,
+     "precio_lista": 949.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -380,7 +444,7 @@
    "modelo": "UN50U8000HPXPA",
    "url": "https://www.prado.com.sv/pantalla-led-uhd-4k-samsung-50-pulgadas-un50u8000hpxpa-201337",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:29-06:00",
@@ -413,6 +477,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 359.0,
+     "precio_lista": 649.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -426,7 +498,7 @@
    "modelo": "UN55U8000HPXPA",
    "url": "https://www.prado.com.sv/pantalla-led-uhd-4k-samsung-55-pulgadas-un55u8000hpxpa-201338",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:14-06:00",
@@ -459,6 +531,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 429.0,
+     "precio_lista": 839.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -472,7 +552,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-matrimonial-indufoam-frescofoam-nm-103408",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -505,6 +585,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 239.0,
+     "precio_lista": 369.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -518,7 +606,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-matrimonial-indufoam-deluxe-advance-115473",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -559,6 +647,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 299.0,
+     "precio_lista": 479.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -572,7 +668,7 @@
    "modelo": "UN40F6000FPXPA",
    "url": "https://www.prado.com.sv/pantalla-smart-full-hd-samsung-40-un40f6000fpx-197407",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -605,6 +701,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 199.0,
+     "precio_lista": 389.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -618,7 +722,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-capri-super-rest-master-3en1-matrimonial-165088",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -659,6 +763,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 379.0,
+     "precio_lista": 519.51,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -672,7 +784,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-super-rest-master-131375-131375",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -700,6 +812,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 359.0,
+     "precio_lista": 539.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 359.0,
      "precio_lista": 539.95,
      "disponible": true,
@@ -718,7 +838,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-master-3-en-1",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -746,6 +866,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 304.0,
+     "precio_lista": 429.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 304.0,
      "precio_lista": 429.95,
      "disponible": true,
@@ -764,7 +892,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-restmast-103413",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -792,6 +920,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 265.0,
+     "precio_lista": 369.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 265.0,
      "precio_lista": 369.95,
      "disponible": true,
@@ -810,7 +946,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/colchon-matrimonial-capri-rest-master-10026",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -838,6 +974,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 209.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 209.0,
      "precio_lista": 259.0,
      "disponible": true,
@@ -856,7 +1000,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-facenco-sue-a-box-top-173913",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -884,6 +1028,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 279.0,
+     "precio_lista": 369.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 279.0,
      "precio_lista": 369.95,
      "disponible": true,
@@ -902,7 +1054,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-matrimonial-indufoam-deluxe-nm-126645",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -930,6 +1082,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 269.0,
+     "precio_lista": 419.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 269.0,
      "precio_lista": 419.95,
      "disponible": true,
@@ -948,7 +1108,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-master-technology",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -976,6 +1136,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 405.0,
+     "precio_lista": 599.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 405.0,
      "precio_lista": 599.95,
      "disponible": true,
@@ -994,7 +1162,7 @@
    "modelo": "50Q4SV",
    "url": "https://www.prado.com.sv/pantalla-qled-full-hd-hisense-50-pulgadas-50q4sv-201144",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1022,6 +1190,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 319.0,
+     "precio_lista": 512.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 319.0,
      "precio_lista": 512.95,
      "disponible": true,
@@ -1040,7 +1216,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/colchon-matrimonial-capri-11019-100671",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1068,6 +1244,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 359.0,
+     "precio_lista": 479.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 359.0,
      "precio_lista": 479.94,
      "disponible": true,
@@ -1086,7 +1270,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-facenco-sue-a-ortopedica-173896",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1114,6 +1298,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 319.0,
+     "precio_lista": 572.98,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 319.0,
      "precio_lista": 572.98,
      "disponible": true,
@@ -1132,7 +1324,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-supermastertec",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1160,6 +1352,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 459.01,
+     "precio_lista": 699.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 459.01,
      "precio_lista": 699.94,
      "disponible": true,
@@ -1178,7 +1378,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-dream-sleeper-158023",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1206,6 +1406,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 359.0,
+     "precio_lista": 559.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 359.0,
      "precio_lista": 559.95,
      "disponible": true,
@@ -1224,7 +1432,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-dreamsleeper",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1252,6 +1460,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 359.0,
+     "precio_lista": 589.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 359.0,
      "precio_lista": 589.95,
      "disponible": true,
@@ -1270,7 +1486,7 @@
    "modelo": "RC43QL",
    "url": "https://www.prado.com.sv/pantalla-qled-fhd-rca-43-pulgadas-rc43ql-200690",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1298,6 +1514,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 239.0,
+     "precio_lista": 403.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 239.0,
      "precio_lista": 403.95,
      "disponible": true,
@@ -1316,7 +1540,7 @@
    "modelo": "UN43U8000HPXPA",
    "url": "https://www.prado.com.sv/pantalla-smart-uhd-4k-samsung-43-pulgadas-un43u8000hpxp-201336",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1344,6 +1568,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 279.0,
+     "precio_lista": 509.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 279.0,
      "precio_lista": 509.95,
      "disponible": true,
@@ -1362,7 +1594,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/capri-cama-matrimonial-exclusiva",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1390,6 +1622,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 169.0,
+     "precio_lista": 209.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 169.0,
      "precio_lista": 209.95,
      "disponible": true,
@@ -1408,7 +1648,7 @@
    "modelo": "AW40B2RK",
    "url": "https://www.prado.com.sv/pantalla-smart-full-hd-aiwa-40-pulgadas-aw40b2rk-200665",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1436,6 +1676,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 199.0,
+     "precio_lista": 348.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 199.0,
      "precio_lista": 348.96,
      "disponible": true,
@@ -1454,7 +1702,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-capri-exclusiva-3en1",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1482,6 +1730,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 259.0,
+     "precio_lista": 379.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 259.0,
      "precio_lista": 379.95,
      "disponible": true,
@@ -1500,7 +1756,7 @@
    "modelo": "RC40QL",
    "url": "https://www.prado.com.sv/pantalla-qled-fhd-rca-40-pulgadas-rc40ql-200688",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1528,6 +1784,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 195.0,
+     "precio_lista": 371.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 195.0,
      "precio_lista": 371.95,
      "disponible": true,
@@ -1546,7 +1810,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-facenco-edicion-especial-vida-3-en-1-matrimonial-170063",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1574,6 +1838,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 319.0,
+     "precio_lista": 520.98,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 319.0,
      "precio_lista": 520.98,
      "disponible": true,
@@ -1592,7 +1864,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-indufoam-ortho-advance-matrimonial-181833",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1620,6 +1892,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 329.0,
+     "precio_lista": 470.83,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 329.0,
      "precio_lista": 470.83,
      "disponible": true,
@@ -1660,7 +1940,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-simmons-beautysleep-159920",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1688,6 +1968,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 499.0,
+     "precio_lista": 679.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 499.0,
      "precio_lista": 679.95,
      "disponible": true,
@@ -1706,7 +1994,7 @@
    "modelo": "QN55QN85DBPXPA",
    "url": "https://www.prado.com.sv/pantalla-neo-qled-4k-samsung-55-pulgadas-qn55qn85dbpxpa-191343",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1734,6 +2022,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 877.0,
+     "precio_lista": 1563.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 877.0,
      "precio_lista": 1563.45,
      "disponible": true,
@@ -1752,7 +2048,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-facenco-sue-a-doble-euro-173893",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1780,6 +2076,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 349.0,
+     "precio_lista": 586.87,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 349.0,
      "precio_lista": 586.87,
      "disponible": true,
@@ -1798,7 +2102,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/colchon-matrimonial-indufoam-d54-otros-103302",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1826,6 +2130,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 214.0,
+     "precio_lista": 259.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 214.0,
      "precio_lista": 259.95,
      "disponible": true,
@@ -1844,7 +2156,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/colchon-matrimonial-indufoam-wonder-119987",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1872,6 +2184,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 171.0,
+     "precio_lista": 239.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 171.0,
      "precio_lista": 239.96,
      "disponible": true,
@@ -1890,7 +2210,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-facenco-matrimonial-duna-pillow-197381",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1918,6 +2238,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 199.0,
+     "precio_lista": 329.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 199.0,
      "precio_lista": 329.0,
      "disponible": true,
@@ -1936,7 +2264,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-matrimonial-indufoam-triple-crown-104939",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -1964,6 +2292,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 499.0,
+     "precio_lista": 739.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 499.0,
      "precio_lista": 739.95,
      "disponible": true,
@@ -1982,7 +2318,7 @@
    "modelo": "AW43B2RK",
    "url": "https://www.prado.com.sv/pantalla-smart-full-hd-aiwa-43-pulgadas-aw43b2rk-200667",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2010,6 +2346,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 229.01,
+     "precio_lista": 309.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 229.01,
      "precio_lista": 309.95,
      "disponible": true,
@@ -2028,7 +2372,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-matrimonial-indufoam-luxurious-115342",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2056,6 +2400,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 469.0,
+     "precio_lista": 719.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 469.0,
      "precio_lista": 719.95,
      "disponible": true,
@@ -2074,7 +2426,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-indufoam-matrimonial-dura-plus-203582",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2102,6 +2454,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 219.01,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 219.01,
      "precio_lista": 299.0,
      "disponible": true,
@@ -2120,7 +2480,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/cama-capri-space-matrimonial-131376",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2148,6 +2508,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 719.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 719.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -2166,7 +2534,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-facenco-matrimonial-edicion-especial-plus-201286",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2194,6 +2562,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 289.0,
+     "precio_lista": 500.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 289.0,
      "precio_lista": 500.0,
      "disponible": true,
@@ -2212,7 +2588,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-indufoam-beautysleep-super-pillow-top-matrimonial-192076",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2240,6 +2616,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 529.0,
+     "precio_lista": 750.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 529.0,
      "precio_lista": 750.0,
      "disponible": true,
@@ -2258,7 +2642,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-matrimonial-indufoam-smart-rest-181809",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2286,6 +2670,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 539.0,
+     "precio_lista": 847.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 539.0,
      "precio_lista": 847.5,
      "disponible": true,
@@ -2304,7 +2696,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-indufoam-matrimonial-dura-foam-199570",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2332,6 +2724,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 209.0,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 209.0,
      "precio_lista": 279.0,
      "disponible": true,
@@ -2350,7 +2750,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/set-colchon-matrimonial-indufoam-natural-sleep-192072",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:37:01-06:00",
@@ -2383,6 +2783,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 399.0,
+     "precio_lista": 560.01,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -2396,7 +2804,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/ropero-satisa-espa-ol",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:44-06:00",
@@ -2424,6 +2832,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 469.0,
+     "precio_lista": 849.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 469.0,
      "precio_lista": 849.95,
      "disponible": true,
@@ -2442,7 +2858,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/ropero-poquema-milao-197914",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:44-06:00",
@@ -2470,6 +2886,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 99.0,
+     "precio_lista": 278.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 99.0,
      "precio_lista": 278.0,
      "disponible": true,
@@ -2488,7 +2912,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/ropero-satisa-atenas",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:44-06:00",
@@ -2516,6 +2940,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 349.0,
+     "precio_lista": 609.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 349.0,
      "precio_lista": 609.95,
      "disponible": true,
@@ -2534,7 +2966,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/ropero-la-muebleria-new-brasil-151774",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:44-06:00",
@@ -2562,6 +2994,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 329.0,
+     "precio_lista": 600.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 329.0,
      "precio_lista": 600.0,
      "disponible": true,
@@ -2580,7 +3020,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/ropero-caemmun-santiago-194191",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:44-06:00",
@@ -2608,6 +3048,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 269.0,
+     "precio_lista": 400.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 269.0,
      "precio_lista": 400.0,
      "disponible": true,
@@ -2626,7 +3074,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/ropero-satisa-real-189216",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:44-06:00",
@@ -2659,6 +3107,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 389.0,
+     "precio_lista": 909.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -2672,7 +3128,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/combo-nintendo-switch-oled-consola-videojuego-super-mario-bros-wonder-199719",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2700,6 +3156,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 479.0,
+     "precio_lista": 879.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 479.0,
      "precio_lista": 879.95,
      "disponible": true,
@@ -2718,7 +3182,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/consola-nintendo-switch-2-core-negro-198241",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2746,6 +3210,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 769.0,
+     "precio_lista": 1129.01,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 769.0,
      "precio_lista": 1129.01,
      "disponible": true,
@@ -2764,7 +3236,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/combo-nintendo-switch-2-consola-videojuego-mario-kart-world-198796",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2792,6 +3264,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 919.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 919.0,
      "precio_lista": 1199.0,
      "disponible": true,
@@ -2810,7 +3290,7 @@
    "modelo": "",
    "url": "https://www.prado.com.sv/combo-playstation-5-estandar-juegos-astro-bot-gt7-consola-sony-1tb-198775",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2838,6 +3318,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 949.0,
+     "precio_lista": 1109.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 949.0,
      "precio_lista": 1109.95,
      "disponible": true,
@@ -2856,7 +3344,7 @@
    "modelo": "15FC0250LA",
    "url": "https://www.prado.com.sv/laptop-hp-ryzen-5-7520u-15-fc0250la-b9tp1la-197242",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2884,6 +3372,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 699.0,
+     "precio_lista": 929.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 699.0,
      "precio_lista": 929.0,
      "disponible": true,
@@ -2902,7 +3398,7 @@
    "modelo": "82X700GCGJ",
    "url": "https://www.prado.com.sv/laptop-lenovo-core-i3-1315u-ideapad-slim-3-82x700gcgj-199275",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2930,6 +3426,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 659.0,
+     "precio_lista": 1115.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 659.0,
      "precio_lista": 1115.0,
      "disponible": true,
@@ -2970,7 +3474,7 @@
    "modelo": "83J3003RGJ",
    "url": "https://www.prado.com.sv/laptop-lenovo-ryzen-7-7735hs-ideapad-slim-5-83j3003rgj-199276",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -2998,6 +3502,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1292.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1099.0,
      "precio_lista": 1292.95,
      "disponible": true,
@@ -3016,7 +3528,7 @@
    "modelo": "15FB3018LA",
    "url": "https://www.prado.com.sv/laptop-victus-gaming-hp-ryzen-7-7445hs-15-fb3018la-bt4f5la-199698",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3044,6 +3556,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1319.0,
+     "precio_lista": 2147.11,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1319.0,
      "precio_lista": 2147.11,
      "disponible": true,
@@ -3062,7 +3582,7 @@
    "modelo": "82XM016KGJ",
    "url": "https://www.prado.com.sv/laptop-lenovo-ryzen-5-5625u-ideapad-slim-3-82xm016kgj-201268",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3090,6 +3610,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 889.0,
+     "precio_lista": 1481.67,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 889.0,
      "precio_lista": 1481.67,
      "disponible": true,
@@ -3108,7 +3636,7 @@
    "modelo": "I513420H",
    "url": "https://www.prado.com.sv/laptop-acer-core-i5-13420h-nitrov-anv15-51-204122",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3141,6 +3669,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 1199.0,
+     "precio_lista": 2125.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -3154,7 +3690,7 @@
    "modelo": "15FD1340LA",
    "url": "https://www.prado.com.sv/laptop-hp-core-3-100u-15-fd1340la-d87zzla-204552",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3195,6 +3731,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 639.0,
+     "precio_lista": 952.31,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -3208,7 +3752,7 @@
    "modelo": "14HU0052LA",
    "url": "https://www.prado.com.sv/laptop-hp-core-5-120u-14-hu0052la-d70rtla-204553",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3249,6 +3793,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 759.0,
+     "precio_lista": 1076.52,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -3262,7 +3814,7 @@
    "modelo": "15FC0372LA",
    "url": "https://www.prado.com.sv/laptop-hp-ryzen-7-7730u-15-fc0372la-d5mn2la-201545",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3290,6 +3842,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 959.0,
+     "precio_lista": 1348.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 959.0,
      "precio_lista": 1348.33,
      "disponible": true,
@@ -3308,7 +3868,7 @@
    "modelo": "14HY0030LA",
    "url": "https://www.prado.com.sv/laptop-hp-ryzen-3-30-14-hy0030la-d6zg1la-201557",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3336,6 +3896,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 659.0,
+     "precio_lista": 1146.09,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 659.0,
      "precio_lista": 1146.09,
      "disponible": true,
@@ -3354,7 +3922,7 @@
    "modelo": "78840HS",
    "url": "https://www.prado.com.sv/laptop-acer-ryzen-7-8840hs-aspire3-a15-61m-204123",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:08:15-06:00",
@@ -3387,6 +3955,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 1199.0,
+     "precio_lista": 2250.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -3400,7 +3976,7 @@
    "modelo": "WT18WVTM",
    "url": "https://www.prado.com.sv/lavadora-automatica-lg-18kg-wt18wvtm-blanco-191006",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3428,6 +4004,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 369.0,
+     "precio_lista": 789.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 369.0,
      "precio_lista": 789.95,
      "disponible": true,
@@ -3446,7 +4030,7 @@
    "modelo": "FWAB17J4EBGUW",
    "url": "https://www.prado.com.sv/lavadora-automatica-frigidaire-17kg-fwab17j4ebguw-blanco-180109",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3474,6 +4058,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 379.0,
+     "precio_lista": 599.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 379.0,
      "precio_lista": 599.95,
      "disponible": true,
@@ -3492,7 +4084,7 @@
    "modelo": "FWAB20J4EBGUW",
    "url": "https://www.prado.com.sv/lavadora-automatica-frigidaire-20kg-fwab20j4ebguw-blanco-179841",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3520,6 +4112,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 449.01,
+     "precio_lista": 809.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 449.01,
      "precio_lista": 809.95,
      "disponible": true,
@@ -3560,7 +4160,7 @@
    "modelo": "WA21CG6746BWAP",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-21kg-wa21cg6746bwap-blanco-193061",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3588,6 +4188,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 389.0,
+     "precio_lista": 789.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 389.0,
      "precio_lista": 789.95,
      "disponible": true,
@@ -3606,7 +4214,7 @@
    "modelo": "WT19WVTM",
    "url": "https://www.prado.com.sv/lavadora-automatica-lg-19kg-wt19wvtm-blanco-191007",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3634,6 +4242,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 389.0,
+     "precio_lista": 809.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 389.0,
      "precio_lista": 809.95,
      "disponible": true,
@@ -3652,7 +4268,7 @@
    "modelo": "LMA46102VBAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-16kg-lma46102vbab0-blanco-151798",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3680,6 +4296,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 369.0,
+     "precio_lista": 669.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 369.0,
      "precio_lista": 669.95,
      "disponible": true,
@@ -3698,7 +4322,7 @@
    "modelo": "LMA72215CBAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-22kg-lma72215cbab0",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3726,6 +4350,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 479.0,
+     "precio_lista": 869.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 479.0,
      "precio_lista": 869.95,
      "disponible": true,
@@ -3744,7 +4376,7 @@
    "modelo": "FWIB22J4EBGUW",
    "url": "https://www.prado.com.sv/lavadora-automatica-frigidaire-22kg-fwib22j4ebguw-blanco-178412",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3777,6 +4409,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 469.0,
+     "precio_lista": 859.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -3790,7 +4430,7 @@
    "modelo": "WA19CG6442BWA",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-19kg-wa19cg6442bwa-blanco-negro-192922",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3831,6 +4471,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 379.0,
+     "precio_lista": 739.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -3844,7 +4492,7 @@
    "modelo": "8MWTW1713MJQ",
    "url": "https://www.prado.com.sv/lavadora-automatica-whirlpool-17kg-8mwtw1713mjq-blanco-165221",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3872,6 +4520,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 409.0,
+     "precio_lista": 729.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 409.0,
      "precio_lista": 729.95,
      "disponible": true,
@@ -3890,7 +4546,7 @@
    "modelo": "LMA76102CBAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-16kg-lma76102cbab0",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3918,6 +4574,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 429.0,
+     "precio_lista": 709.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 429.0,
      "precio_lista": 709.95,
      "disponible": true,
@@ -3936,7 +4600,7 @@
    "modelo": "LMH74201WDAB1",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-24kg-lmh74201wdab1-grafito-183742",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -3964,6 +4628,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 699.0,
+     "precio_lista": 1079.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 699.0,
      "precio_lista": 1079.95,
      "disponible": true,
@@ -3982,7 +4654,7 @@
    "modelo": "TLA018011MD",
    "url": "https://www.prado.com.sv/lavadora-automatica-telstar-18kg-tla018011md-grafito-196267",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4010,6 +4682,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 349.0,
+     "precio_lista": 619.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 349.0,
      "precio_lista": 619.95,
      "disponible": true,
@@ -4028,7 +4708,7 @@
    "modelo": "WF22C6400AW",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-22-wf22c6400aw-blanco-187714",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4056,6 +4736,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 669.01,
+     "precio_lista": 1279.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 669.01,
      "precio_lista": 1279.95,
      "disponible": true,
@@ -4074,7 +4762,7 @@
    "modelo": "WF26DG8250AV",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-26kg-wf26dg8250av-negro-196263",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4102,6 +4790,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 799.0,
+     "precio_lista": 1139.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 799.0,
      "precio_lista": 1139.96,
      "disponible": true,
@@ -4120,7 +4816,7 @@
    "modelo": "LMA8120WDGAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-18kg-lma8120wdgab0-negro-197749",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4148,6 +4844,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 379.0,
+     "precio_lista": 569.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 379.0,
      "precio_lista": 569.95,
      "disponible": true,
@@ -4166,7 +4870,7 @@
    "modelo": "8MWTW2054WRM",
    "url": "https://www.prado.com.sv/lavadora-automatica-whirlpool-20kg-8mwtw2054wrm-blanco-196111",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4194,6 +4898,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 459.01,
+     "precio_lista": 899.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 459.01,
      "precio_lista": 899.95,
      "disponible": true,
@@ -4212,7 +4924,7 @@
    "modelo": "8MWTW2423WPM",
    "url": "https://www.prado.com.sv/lavadora-automatica-whirlpool-24kg-8mwtw2423wpm-blanco-196323",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4240,6 +4952,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 469.0,
+     "precio_lista": 799.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 469.0,
      "precio_lista": 799.95,
      "disponible": true,
@@ -4258,7 +4978,7 @@
    "modelo": "WF20T6000AW",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-20kg-wf20t6000aw-ax-blanco-167651",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4286,6 +5006,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 579.0,
+     "precio_lista": 1259.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 579.0,
      "precio_lista": 1259.95,
      "disponible": true,
@@ -4304,7 +5032,7 @@
    "modelo": "LMA4120WDGAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-14kg-lma4120wdgab0-grafito-198902",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4332,6 +5060,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 309.0,
+     "precio_lista": 499.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 309.0,
      "precio_lista": 499.95,
      "disponible": true,
@@ -4350,7 +5086,7 @@
    "modelo": "LMA74215WBAB1",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-24kg-lma74215wbab1-blanco-183610",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4378,6 +5114,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 509.0,
+     "precio_lista": 1049.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 509.0,
      "precio_lista": 1049.95,
      "disponible": true,
@@ -4396,7 +5140,7 @@
    "modelo": "8MWTW2654WRM",
    "url": "https://www.prado.com.sv/lavadora-automatica-whirlpool-26kg-8mwtw2654wrm-197589",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4424,6 +5168,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 539.0,
+     "precio_lista": 939.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 539.0,
      "precio_lista": 939.95,
      "disponible": true,
@@ -4442,7 +5194,7 @@
    "modelo": "LGA74215WBAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-general-electric-24kg-lga74215wbab0-blanco-196511",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4470,6 +5222,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 529.0,
+     "precio_lista": 839.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 529.0,
      "precio_lista": 839.95,
      "disponible": true,
@@ -4488,7 +5248,7 @@
    "modelo": "WA26DG5500AWAP",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-26kg-wa26dg5500awap-blanco-196116",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4516,6 +5276,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 529.0,
+     "precio_lista": 807.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 529.0,
      "precio_lista": 807.95,
      "disponible": true,
@@ -4534,7 +5302,7 @@
    "modelo": "FLVW7523BW",
    "url": "https://www.prado.com.sv/lavadora-automatica-frigidaire-25kg-flvw7523bw-blanco-197403",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4562,6 +5330,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 499.0,
+     "precio_lista": 749.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 499.0,
      "precio_lista": 749.95,
      "disponible": true,
@@ -4580,7 +5356,7 @@
    "modelo": "8MWTW2654WSG",
    "url": "https://www.prado.com.sv/lavadora-automatica-whirlpool-26kg-8mwtw2654wsg-blanco-198852",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4608,6 +5384,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 549.0,
+     "precio_lista": 829.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 549.0,
      "precio_lista": 829.95,
      "disponible": true,
@@ -4626,7 +5410,7 @@
    "modelo": "8MWTW1812WPM",
    "url": "https://www.prado.com.sv/lavadora-automatica-whirlpool-18kg-8mwtw1812wpm-blanco-198307",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4654,6 +5438,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 429.0,
+     "precio_lista": 779.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 429.0,
      "precio_lista": 779.95,
      "disponible": true,
@@ -4672,7 +5464,7 @@
    "modelo": "MCL2440ESDG0",
    "url": "https://www.prado.com.sv/centro-de-lavado-electrico-mabe-24kg-mcl2440esdg0-grafito-193782",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4700,6 +5492,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1979.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1399.0,
      "precio_lista": 1979.95,
      "disponible": true,
@@ -4718,7 +5518,7 @@
    "modelo": "WA26DG5500AV",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-26kg-wa26dg5500av-negro-196264",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4746,6 +5546,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 549.0,
+     "precio_lista": 860.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 549.0,
      "precio_lista": 860.95,
      "disponible": true,
@@ -4764,7 +5572,7 @@
    "modelo": "LMA6120WDGAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-mabe-16kg-lma6120wdgab0-negro-197748",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4792,6 +5600,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 339.0,
+     "precio_lista": 499.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 339.0,
      "precio_lista": 499.95,
      "disponible": true,
@@ -4810,7 +5626,7 @@
    "modelo": "WA70F19E7CAP",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-19kg-wa70f19e7cap-negro-199306",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4838,6 +5654,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 389.0,
+     "precio_lista": 839.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 389.0,
      "precio_lista": 839.95,
      "disponible": true,
@@ -4856,7 +5680,7 @@
    "modelo": "LGA72214CBAB0",
    "url": "https://www.prado.com.sv/lavadora-automatica-general-electric-22kg-lga72214cbab0-blanco-196512",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4884,6 +5708,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 519.0,
+     "precio_lista": 799.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 519.0,
      "precio_lista": 799.95,
      "disponible": true,
@@ -4902,7 +5734,7 @@
    "modelo": "WA25DG5505AWAX",
    "url": "https://www.prado.com.sv/lavadora-automatica-samsung-25kg-wa25dg5505awax-blanco-198541",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4930,6 +5762,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 499.0,
+     "precio_lista": 699.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 499.0,
      "precio_lista": 699.94,
      "disponible": true,
@@ -4948,7 +5788,7 @@
    "modelo": "LAV21CSITVW1",
    "url": "https://www.prado.com.sv/lavadora-automatica-grs-21kg-lav21csitvw1-blanco-202338",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -4976,6 +5816,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 409.0,
+     "precio_lista": 599.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 409.0,
      "precio_lista": 599.95,
      "disponible": true,
@@ -4994,7 +5842,7 @@
    "modelo": "TLSE015520MD15K",
    "url": "https://www.prado.com.sv/lavasecadora-telstar-15kg-tlse015520md15k-190009",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5022,6 +5870,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 449.01,
+     "precio_lista": 799.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 449.01,
      "precio_lista": 799.95,
      "disponible": true,
@@ -5040,7 +5896,7 @@
    "modelo": "FRTM13G3HPS",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-frigidaire-5cp-frtm13g3hps",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5068,6 +5924,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 239.0,
+     "precio_lista": 379.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 239.0,
      "precio_lista": 379.95,
      "disponible": true,
@@ -5086,7 +5950,7 @@
    "modelo": "TRS113510MD",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-telstar-4cp-trs113510md-gris-155266",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5114,6 +5978,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 149.0,
+     "precio_lista": 309.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 149.0,
      "precio_lista": 309.95,
      "disponible": true,
@@ -5132,7 +6004,7 @@
    "modelo": "TRS090510MD",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-telstar-3cp-trs090510md",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5160,6 +6032,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 159.0,
+     "precio_lista": 349.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 159.0,
      "precio_lista": 349.95,
      "disponible": true,
@@ -5178,7 +6058,7 @@
    "modelo": "FRTY07G3HVS",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-frigidaire-7cp-frty07g3hvs-gris-182110",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5206,6 +6086,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 299.0,
+     "precio_lista": 479.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 299.0,
      "precio_lista": 479.94,
      "disponible": true,
@@ -5246,7 +6134,7 @@
    "modelo": "FRSA19K2HVG",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-frigidaire-19cp-frsa19k2hvg-con-dispensador-acero-inoxidable-183263",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5274,6 +6162,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 729.0,
+     "precio_lista": 1669.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 729.0,
      "precio_lista": 1669.95,
      "disponible": true,
@@ -5292,7 +6188,7 @@
    "modelo": "GU21WPP",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-lg-8cp-gu21wpp-gris-154634",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5320,6 +6216,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 289.0,
+     "precio_lista": 549.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 289.0,
      "precio_lista": 549.95,
      "disponible": true,
@@ -5338,7 +6242,7 @@
    "modelo": "RMU210FANU",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-mabe-8cp-rmu210fanu-acero-inoxidable-176707",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5366,6 +6270,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 289.0,
+     "precio_lista": 499.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 289.0,
      "precio_lista": 499.95,
      "disponible": true,
@@ -5384,7 +6296,7 @@
    "modelo": "RT31DG5224S9AP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-samsung-11cp-rt31dg5224s9ap-dispensador-silver-190637",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5412,6 +6324,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 439.01,
+     "precio_lista": 809.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 439.01,
      "precio_lista": 809.95,
      "disponible": true,
@@ -5430,7 +6350,7 @@
    "modelo": "TRA283541MD",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-telstar-10cp-264-litros-tra283541md-dispensador-192832",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5458,6 +6378,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 339.0,
+     "precio_lista": 599.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 339.0,
      "precio_lista": 599.95,
      "disponible": true,
@@ -5476,7 +6404,7 @@
    "modelo": "WT1818A",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-whirlpool-18cp-wt1818a-acero-inoxidable-162399",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5504,6 +6432,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 739.0,
+     "precio_lista": 1099.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 739.0,
      "precio_lista": 1099.95,
      "disponible": true,
@@ -5522,7 +6458,7 @@
    "modelo": "FRDM22F3HPS",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-frigidaire-8cp-frdm22f3hps-152654",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5550,6 +6486,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 299.0,
+     "precio_lista": 489.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 299.0,
      "precio_lista": 489.95,
      "disponible": true,
@@ -5568,7 +6512,7 @@
    "modelo": "RS27T5200S9",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-samsung-27cp-rs27t5200s9-silver-165750",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5596,6 +6540,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1179.0,
+     "precio_lista": 2079.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1179.0,
      "precio_lista": 2079.95,
      "disponible": true,
@@ -5614,7 +6566,7 @@
    "modelo": "GS51BPP",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-lg-18cp-gs51bpp-silver-183747",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5642,6 +6594,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 819.0,
+     "precio_lista": 1349.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 819.0,
      "precio_lista": 1349.95,
      "disponible": true,
@@ -5660,7 +6620,7 @@
    "modelo": "WRW25DKTWW",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-whirlpool-9cp-wrw25dktww-dispensador-196112",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5688,6 +6648,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 469.0,
+     "precio_lista": 599.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 469.0,
      "precio_lista": 599.95,
      "disponible": true,
@@ -5706,7 +6674,7 @@
    "modelo": "TRS190530MD",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-telstar-7cp-trs190530md-dispensador-silver-174796",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5734,6 +6702,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 249.0,
+     "precio_lista": 458.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 249.0,
      "precio_lista": 458.99,
      "disponible": true,
@@ -5752,7 +6728,7 @@
    "modelo": "VT34WPP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-lg-12cp-vt34wpp-dispensador-silver-184474",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5780,6 +6756,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 479.0,
+     "precio_lista": 939.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 479.0,
      "precio_lista": 939.95,
      "disponible": true,
@@ -5798,7 +6782,7 @@
    "modelo": "RMD165PVCRS0",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-6cp-rmd165pvcrs0-acero-inoxidable-184089",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5826,6 +6810,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 269.0,
+     "precio_lista": 429.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 269.0,
      "precio_lista": 429.95,
      "disponible": true,
@@ -5844,7 +6836,7 @@
    "modelo": "RMU1290FACAE",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-mabe-10cp-rmu1290facae-195365",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5872,6 +6864,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 339.0,
+     "precio_lista": 499.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 339.0,
      "precio_lista": 499.95,
      "disponible": true,
@@ -5890,7 +6890,7 @@
    "modelo": "RMA1230PVCAG1",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-8cp-rma1230pvcag1-negro-196469",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5918,6 +6918,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 399.0,
+     "precio_lista": 699.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 399.0,
      "precio_lista": 699.94,
      "disponible": true,
@@ -5936,7 +6944,7 @@
    "modelo": "RMS510IAMRX0",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-19cp-rms510iamrx0-162071",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -5964,6 +6972,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 649.0,
+     "precio_lista": 1169.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 649.0,
      "precio_lista": 1169.95,
      "disponible": true,
@@ -5982,7 +6998,7 @@
    "modelo": "FRT09F3N4BS",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-frigidaire-9cp-frt09f3n4bs-silver-192921",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6010,6 +7026,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 399.0,
+     "precio_lista": 578.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 399.0,
      "precio_lista": 578.96,
      "disponible": true,
@@ -6028,7 +7052,7 @@
    "modelo": "VT38WPP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-lg-14cp-vt38wpp-dispensador-silver-184475",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6056,6 +7080,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 509.0,
+     "precio_lista": 999.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 509.0,
      "precio_lista": 999.95,
      "disponible": true,
@@ -6074,7 +7106,7 @@
    "modelo": "RT53DG6224S9AP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-samsung-17cp-rt53dg6224s9ap-dispensador-190488",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6102,6 +7134,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 629.0,
+     "precio_lista": 1149.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 629.0,
      "precio_lista": 1149.94,
      "disponible": true,
@@ -6120,7 +7160,7 @@
    "modelo": "FRTS12K3HTS",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-frigidaire-12cp-frts12k3hts-inoxidable-167305",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6148,6 +7188,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 469.0,
+     "precio_lista": 660.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 469.0,
      "precio_lista": 660.95,
      "disponible": true,
@@ -6166,7 +7214,7 @@
    "modelo": "RS23T5B00S9",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-samsung-23cp-rs23t5b00s9-ap-acero-inoxidable-173501",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6194,6 +7242,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 949.0,
+     "precio_lista": 1699.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 949.0,
      "precio_lista": 1699.95,
      "disponible": true,
@@ -6212,7 +7268,7 @@
    "modelo": "FRD04G3HPI",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-frigidaire-4-5cp-frd04g3hpi-acero-inoxidable-150045",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6240,6 +7296,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 199.0,
+     "precio_lista": 339.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 199.0,
      "precio_lista": 339.95,
      "disponible": true,
@@ -6258,7 +7322,7 @@
    "modelo": "WRW32DKTWW",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-whirlpool-11cp-wrw32dktww-dispensador-196113",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6286,6 +7350,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 479.0,
+     "precio_lista": 789.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 479.0,
      "precio_lista": 789.95,
      "disponible": true,
@@ -6304,7 +7376,7 @@
    "modelo": "RT42DG6734S9AP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-samsung-14cp-rt42dg6734s9ap-dispensador-silver-190636",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6332,6 +7404,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 549.0,
+     "precio_lista": 999.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 549.0,
      "precio_lista": 999.95,
      "disponible": true,
@@ -6372,7 +7452,7 @@
    "modelo": "RMS510IXMRX0",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-19cp-rms510ixmrx0-acero-inoxidable-171777",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6400,6 +7480,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 639.0,
+     "precio_lista": 1149.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 639.0,
      "precio_lista": 1149.94,
      "disponible": true,
@@ -6418,7 +7506,7 @@
    "modelo": "GM22BGPK",
    "url": "https://www.prado.com.sv/refrigeradora-french-door-lg-22cp-gm22bgpk-acero-inoxidable-183746",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6446,6 +7534,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1179.0,
+     "precio_lista": 2049.96,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1179.0,
      "precio_lista": 2049.96,
      "disponible": true,
@@ -6464,7 +7560,7 @@
    "modelo": "TRA413541MD",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-telstar-15cp-tra413541md-dispensador-192831",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6492,6 +7588,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 489.0,
+     "precio_lista": 729.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 489.0,
      "precio_lista": 729.95,
      "disponible": true,
@@ -6510,7 +7614,7 @@
    "modelo": "WD5600S",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-whirlpool-25cp-wd5600s-acero-inoxidable-171603",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6538,6 +7642,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1049.0,
+     "precio_lista": 1799.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1049.0,
      "precio_lista": 1799.95,
      "disponible": true,
@@ -6556,7 +7668,7 @@
    "modelo": "FRTS12G3HTS",
    "url": "https://www.prado.com.sv/refrigeradora-frigidaire-12cp-frts12g3hts-silver-168346",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6584,6 +7696,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 429.0,
+     "precio_lista": 619.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 429.0,
      "precio_lista": 619.95,
      "disponible": true,
@@ -6602,7 +7722,7 @@
    "modelo": "TRX460340MD",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-telstar-17cp-trx460340md-183144",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6630,6 +7750,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 589.0,
+     "precio_lista": 949.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 589.0,
      "precio_lista": 949.95,
      "disponible": true,
@@ -6648,7 +7776,7 @@
    "modelo": "VT29BPY",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-lg-10cp-vt29bpy-silver-198095",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6676,6 +7804,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 429.0,
+     "precio_lista": 809.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 429.0,
      "precio_lista": 809.95,
      "disponible": true,
@@ -6694,7 +7830,7 @@
    "modelo": "WRJ43BKTWW",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-whirlpool-14cp-wrj43bktww-inoxidable-196436",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6722,6 +7858,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 559.0,
+     "precio_lista": 756.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 559.0,
      "precio_lista": 756.95,
      "disponible": true,
@@ -6740,7 +7884,7 @@
    "modelo": "TRS180410MD",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-telstar-6-5cp-trs180410md-silver-177258",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6768,6 +7912,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 229.01,
+     "precio_lista": 449.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 229.01,
      "precio_lista": 449.95,
      "disponible": true,
@@ -6786,7 +7938,7 @@
    "modelo": "RMA1300FYCAE",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-11cp-rma1300fycae-grafito-197039",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6814,6 +7966,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 459.01,
+     "precio_lista": 609.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 459.01,
      "precio_lista": 609.95,
      "disponible": true,
@@ -6832,7 +7992,7 @@
    "modelo": "RMA1250PJCAU",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-9cp-rma1250pjcau-inoxidable-196401",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6860,6 +8020,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 399.0,
+     "precio_lista": 649.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 399.0,
      "precio_lista": 649.95,
      "disponible": true,
@@ -6878,7 +8046,7 @@
    "modelo": "MSM544LMLSS0",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-mabe-18-5cp-msm544lmlss0-dispensador-acero-inoxidable-183928",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6906,6 +8074,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 789.0,
+     "precio_lista": 1199.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 789.0,
      "precio_lista": 1199.95,
      "disponible": true,
@@ -6924,7 +8100,7 @@
    "modelo": "RMP410HCAT",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-14cp-rmp410hcat-inoxidable-199750",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6952,6 +8128,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 489.0,
+     "precio_lista": 659.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 489.0,
      "precio_lista": 659.95,
      "disponible": true,
@@ -6970,7 +8154,7 @@
    "modelo": "RMA1250PVCAE",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-9cp-rma1250pvcae-198788",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -6998,6 +8182,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 399.0,
+     "precio_lista": 525.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 399.0,
      "precio_lista": 525.95,
      "disponible": true,
@@ -7016,7 +8208,7 @@
    "modelo": "PNF25FYRCFS",
    "url": "https://www.prado.com.sv/refrigeradora-french-door-general-electric-25cp-pnf25fyrcfs-acero-inoxidable-182105",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7044,6 +8236,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1349.01,
+     "precio_lista": 2169.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1349.01,
      "precio_lista": 2169.95,
      "disponible": true,
@@ -7062,7 +8262,7 @@
    "modelo": "MSM631LKLSS0",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-mabe-22cp-msm631lklss0-inoxidable-198791",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7090,6 +8290,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 869.0,
+     "precio_lista": 1249.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 869.0,
      "precio_lista": 1249.95,
      "disponible": true,
@@ -7108,7 +8316,7 @@
    "modelo": "GRD8TA",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-grs-8cp-grd8ta-inoxidable-195344",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7136,6 +8344,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 269.0,
+     "precio_lista": 599.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 269.0,
      "precio_lista": 599.95,
      "disponible": true,
@@ -7154,7 +8370,7 @@
    "modelo": "FRS16F7N5ES",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-frigidaire-15cp-frs16f7n5es-inoxidable-199261",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7182,6 +8398,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 629.0,
+     "precio_lista": 899.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 629.0,
      "precio_lista": 899.95,
      "disponible": true,
@@ -7200,7 +8424,7 @@
    "modelo": "RMP370JCAT",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-13cp-rmp370jcat-grafito-202458",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7228,6 +8452,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 489.0,
+     "precio_lista": 699.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 489.0,
      "precio_lista": 699.94,
      "disponible": true,
@@ -7246,7 +8478,7 @@
    "modelo": "FRSG2115AV",
    "url": "https://www.prado.com.sv/refrigeradora-side-by-side-frigidaire-21cp-frsg2115av-gris-197885",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7274,6 +8506,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 829.0,
+     "precio_lista": 1159.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 829.0,
      "precio_lista": 1159.95,
      "disponible": true,
@@ -7292,7 +8532,7 @@
    "modelo": "WUC2205D",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-whirlpool-5cp-wuc2205d-silver-184850",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7320,6 +8560,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 209.0,
+     "precio_lista": 389.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 209.0,
      "precio_lista": 389.95,
      "disponible": true,
@@ -7338,7 +8586,7 @@
    "modelo": "PRMC320FVCAE",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-mabe-11c-prmc320fvcae-grafito-195898",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7366,6 +8614,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 499.0,
+     "precio_lista": 719.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 499.0,
      "precio_lista": 719.95,
      "disponible": true,
@@ -7384,7 +8640,7 @@
    "modelo": "RF32CG5310S9AP",
    "url": "https://www.prado.com.sv/refrigeradora-french-door-samsung-31cp-rf32cg5310s9ap-silver-187717",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7412,6 +8668,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2299.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 1699.0,
      "precio_lista": 2299.95,
      "disponible": true,
@@ -7430,7 +8694,7 @@
    "modelo": "RCC390OVCAE",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-cetron-13cp-rcc390ovcae-grafito-196468",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7458,6 +8722,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 539.0,
+     "precio_lista": 959.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 539.0,
      "precio_lista": 959.95,
      "disponible": true,
@@ -7476,7 +8748,7 @@
    "modelo": "RMC400FVCAE",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-mabe-14cp-rmc400fvcae-196314",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7504,6 +8776,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 599.0,
+     "precio_lista": 939.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 599.0,
      "precio_lista": 939.95,
      "disponible": true,
@@ -7544,7 +8824,7 @@
    "modelo": "GRD11TAI",
    "url": "https://www.prado.com.sv/refrigeradora-semiautomatica-grs-11cp-grd11tai-inoxidable-195346",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7572,6 +8852,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 429.0,
+     "precio_lista": 688.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 429.0,
      "precio_lista": 688.95,
      "disponible": true,
@@ -7590,7 +8878,7 @@
    "modelo": "RMP410ZCAU",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-15cp-rmp410zcau-inoxidable-197888",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7618,6 +8906,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 559.0,
+     "precio_lista": 849.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 559.0,
      "precio_lista": 849.95,
      "disponible": true,
@@ -7636,7 +8932,7 @@
    "modelo": "RMP450ZCAU",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-15cp-rmp450zcau-inoxidable-198805",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7664,6 +8960,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 599.0,
+     "precio_lista": 929.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 599.0,
      "precio_lista": 929.94,
      "disponible": true,
@@ -7682,7 +8986,7 @@
    "modelo": "TMD007530MD",
    "url": "https://www.prado.com.sv/horno-microondas-telstar-0-7cp-tmd007530md-silver-183778",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7710,6 +9014,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 55.0,
+     "precio_lista": 119.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 55.0,
      "precio_lista": 119.95,
      "disponible": true,
@@ -7728,7 +9040,7 @@
    "modelo": "WM1211D",
    "url": "https://www.prado.com.sv/horno-microondas-whirlpool-1-1cp-wm1211d-silver-163602",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7756,6 +9068,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 109.0,
+     "precio_lista": 199.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 109.0,
      "precio_lista": 199.95,
      "disponible": true,
@@ -7774,7 +9094,7 @@
    "modelo": "WM1807D",
    "url": "https://www.prado.com.sv/horno-microondas-whirlpool-0-7-cp-wm1807d-silver-167783",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7802,6 +9122,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 89.0,
+     "precio_lista": 139.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 89.0,
      "precio_lista": 139.95,
      "disponible": true,
@@ -7820,7 +9148,7 @@
    "modelo": "MS32DG4504AGAX",
    "url": "https://www.prado.com.sv/horno-microondas-samsung-1-1cp-ms32dg4504agax-193092",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7848,6 +9176,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 109.0,
+     "precio_lista": 259.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 109.0,
      "precio_lista": 259.95,
      "disponible": true,
@@ -7866,7 +9202,7 @@
    "modelo": "MS32DG4504AT",
    "url": "https://www.prado.com.sv/horno-microondas-samsung-1-1cp-ms32dg4504at-inoxidable-192925",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7894,6 +9230,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 159.0,
+     "precio_lista": 189.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 159.0,
      "precio_lista": 189.95,
      "disponible": true,
@@ -7912,7 +9256,7 @@
    "modelo": "OGGE3702",
    "url": "https://www.prado.com.sv/horno-microondas-oster-0-7cp-ogge3702-negro-184561",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7940,6 +9284,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 129.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-08-30"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 129.95,
      "precio_lista": null,
      "disponible": true,
@@ -7958,7 +9310,7 @@
    "modelo": "WM1807W",
    "url": "https://www.prado.com.sv/horno-microondas-whirlpool-0-7-cp-wm1807w-blanco-167522",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -7986,6 +9338,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 79.0,
+     "precio_lista": 139.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 79.0,
      "precio_lista": 139.95,
      "disponible": true,
@@ -8004,7 +9364,7 @@
    "modelo": "FMDO17S3GSPW",
    "url": "https://www.prado.com.sv/horno-microondas-frigidaire-0-6cp-fmdo17s3gspw-blanco-153722",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -8032,6 +9392,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 85.0,
+     "precio_lista": 119.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 85.0,
      "precio_lista": 119.95,
      "disponible": true,
@@ -8050,7 +9418,7 @@
    "modelo": "GMD20LSG",
    "url": "https://www.prado.com.sv/horno-microondas-grs-0-7cp-gmd20lsg-gris-199319",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:56:26-06:00",
@@ -8083,6 +9451,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
+     "precio": 69.0,
+     "precio_lista": 93.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
     }
    ]
   },
@@ -8096,7 +9472,7 @@
    "modelo": "RT31DG5124S9AP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-samsung-11-cp-rt31dg5124s9ap-silver-190485",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:42:54-06:00",
@@ -8116,6 +9492,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 789.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-17"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 789.95,
      "precio_lista": null,
      "disponible": true,
@@ -8134,7 +9518,7 @@
    "modelo": "RT38DG6124S9AP",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-samsung-13-7cp-rt38dg6124s9ap-inoxidable-191490",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:42:54-06:00",
@@ -8154,6 +9538,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 519.0,
+     "precio_lista": 789.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 519.0,
      "precio_lista": 789.95,
      "disponible": true,
@@ -8172,7 +9564,7 @@
    "modelo": "RMP410JCAU",
    "url": "https://www.prado.com.sv/refrigeradora-automatica-mabe-14cp-rmp410jcau-inoxidable-198648",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-24",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:42:54-06:00",
@@ -8192,6 +9584,14 @@
     },
     {
      "fecha": "2026-10-23T11:15:24-06:00",
+     "precio": 539.0,
+     "precio_lista": 809.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    },
+    {
+     "fecha": "2026-10-24T10:01:13-06:00",
      "precio": 539.0,
      "precio_lista": 809.95,
      "disponible": true,
