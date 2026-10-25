@@ -295,7 +295,7 @@ kbd {
 .lista li + li .fila { border-top: 1px solid var(--linea); }
 .fila {
   display: grid;
-  grid-template-columns: 38px minmax(0, 1fr) auto;
+  grid-template-columns: 48px minmax(0, 1fr) auto;
   gap: 14px;
   align-items: center;
   width: calc(100% + 20px);
@@ -324,6 +324,24 @@ kbd {
 @media (prefers-color-scheme: dark) {
   .monograma { background: hsl(var(--h, 40) 22% 20%); color: hsl(var(--h, 40) 45% 78%); }
 }
+/* foto del producto (fondo blanco: asi vienen de las tiendas) con la tienda como insignia */
+.foto {
+  position: relative;
+  width: 48px; height: 48px;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: inset 0 0 0 1px var(--linea);
+}
+.foto img { display: block; width: 100%; height: 100%; object-fit: contain; padding: 4px; border-radius: inherit; }
+.foto .monograma {
+  position: absolute; right: -4px; bottom: -4px;
+  width: 20px; height: 20px;
+  border-radius: 6px;
+  font-size: 8px; letter-spacing: 0;
+  box-shadow: 0 0 0 2px var(--papel);
+}
+.foto.sin-foto { background: none; box-shadow: none; }
+.foto.sin-foto .monograma { position: static; width: 100%; height: 100%; border-radius: 10px; font-size: 11px; box-shadow: none; }
 .fila-texto { min-width: 0; display: flex; flex-direction: column; gap: 2px; }
 .fila-nombre {
   display: -webkit-box;
@@ -339,8 +357,9 @@ kbd {
 .fila-var { display: inline-flex; align-items: center; gap: 6px; font: 12px/1.2 var(--mono); white-space: nowrap; color: var(--gris); }
 .fila-var i { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
 @media (max-width: 480px) {
-  .fila { grid-template-columns: 32px minmax(0, 1fr) auto; gap: 12px; }
+  .fila { grid-template-columns: 42px minmax(0, 1fr) auto; gap: 12px; }
   .monograma { width: 32px; height: 32px; border-radius: 9px; font-size: 10px; }
+  .foto { width: 42px; height: 42px; }
 }
 
 .mas {
@@ -412,6 +431,18 @@ body.con-detalle { overflow: hidden; }
   color: var(--gris);
 }
 .d-sup a { text-transform: none; letter-spacing: 0; font: 13px var(--sans); color: var(--tinta); text-underline-offset: 3px; }
+.d-cabeza { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; align-items: start; }
+.d-foto {
+  width: 104px; height: 104px;
+  margin: 10px 0 20px;
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: inset 0 0 0 1px var(--linea);
+  overflow: hidden;
+}
+.d-foto img { display: block; width: 100%; height: 100%; object-fit: contain; padding: 8px; }
+.d-foto.sin-foto { display: none; }
+@media (max-width: 480px) { .d-foto { width: 84px; height: 84px; } }
 .d-titulo { font: 600 21px/1.28 var(--sans); letter-spacing: -.02em; margin: 8px 0 4px; }
 .d-meta { color: var(--gris); font-size: 13px; margin: 0 0 20px; }
 

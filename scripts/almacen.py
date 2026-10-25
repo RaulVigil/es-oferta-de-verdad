@@ -153,10 +153,11 @@ def agregar(comercial: str, sku: str, datos_ficha: dict, observacion: dict,
 # Texto
 # --------------------------------------------------------------------------- #
 def normalizar(texto: str) -> str:
-    t = unicodedata.normalize("NFKD", str(texto)).encode("ascii", "ignore").decode("ascii").lower()
+    # "”" antes de quitar lo que no es ASCII: si no, '55”' perderia las pulgadas
+    t = str(texto).replace("”", " pulg ")
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode("ascii").lower()
     t = re.sub(r"(\d)\s*(?:\"|''|pulgadas|pulg|in\b)", r"\1 pulg ", t)
     t = re.sub(r"\b(\d{2}(?:\.\d)?)p\b", r"\1 pulg ", t)  # Zona Digital: "27p", "24.5p"
-    t = t.replace("”", " pulg ")
     return re.sub(r"[^a-z0-9.]+", " ", t).strip()
 
 
@@ -223,8 +224,9 @@ def modelo_tv(nombre: str) -> str:
     candidatos = []
     for tok in re.findall(r"[A-Za-z0-9]+(?:-[A-Za-z0-9]+)?", nombre):
         limpio = tok.upper().replace("-", "")
+        # medidas y unidades no son modelos: 30X60 (ceramica), 1000DPI, 12000BTU, 4K, 32GB
         if (len(limpio) >= 5 and re.search(r"\d", limpio) and re.search(r"[A-Z]", limpio)
-                and not re.fullmatch(r"HDR10|\d+K|\d+GB|\d+HZ|\d+P|\d+PULG.*|HDMI\d*|\d{3,4}X\d{3,4}|\d+[A-Z]{4,}",
+                and not re.fullmatch(r"HDR10|\d+K|\d+GB|\d+HZ|\d+P|\d+PULG.*|HDMI\d*|\d+X\d+[A-Z]*|\d+[A-Z]{3,}",
                                      limpio)):
             candidatos.append(limpio)
     return max(candidatos, key=len) if candidatos else ""
@@ -346,8 +348,24 @@ def clasificar_variacion(pct_base):
     return ("SUBIO", "rojo")
 
 
+# Siman (VTEX) publica precios de relleno en SKU descontinuados que su buscador devuelve a
+# ratos ($0.01, una laptop de $399 a $39) y en algunos agotados (unos Beats de $71 a $7.10).
+# Ninguna rebaja real vista en las 12 tiendas pasa del 70 %.
+MINIMO_VS_LISTA = 0.2          # con existencias: menos del 20 % del tachado es un error
+MINIMO_VS_LISTA_AGOTADO = 0.5  # agotado: menos de la mitad del tachado es un precio de relleno
+
+
+def confiable(o: dict) -> bool:
+    """Precio publicado que no es de relleno (los agotados cuentan: en EPA son precios reales)."""
+    lista = o.get("precio_lista")
+    minimo = MINIMO_VS_LISTA if o.get("disponible", True) else MINIMO_VS_LISTA_AGOTADO
+    return not (lista and o["precio"] < lista * minimo)
+
+
 def estadisticas(observaciones: list, corte: str) -> dict:
-    obs = sorted(observaciones, key=lambda o: o["fecha"])
+    """Linea base, minimo y maximo solo con precios confiables; el ultimo registro dice si hay existencias."""
+    todas = sorted(observaciones, key=lambda o: o["fecha"])
+    obs = [o for o in todas if confiable(o)]
     previas = [o for o in obs if o["fecha"][:10] < corte]
     precios = [o["precio"] for o in obs]
     listas_previas = [o["precio_lista"] for o in previas if o.get("precio_lista")]
@@ -360,7 +378,7 @@ def estadisticas(observaciones: list, corte: str) -> dict:
         "ultimo": ultima["precio"] if ultima else None,
         "fecha": ultima["fecha"] if ultima else None,
         "lista": ultima.get("precio_lista") if ultima else None,
-        "disponible": ultima.get("disponible", True) if ultima else False,
+        "disponible": bool(todas) and todas[-1].get("disponible", True) and confiable(todas[-1]),
         "base": base,
         "n_base": len(previas),
         "pct_base": pct,

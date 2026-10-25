@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-25",
   "comerciales": [
     {
       "id": "siman",
@@ -15,7 +15,7 @@
       "nombre": "La Curacao",
       "url": "https://www.lacuracaonline.com/elsalvador/",
       "tipo": "multimarca",
-      "captura": "auto (Magento GraphQL por SKU)",
+      "captura": "auto (Adobe Live Search: el buscador del sitio, catalogo completo)",
       "notas": "El precio publicado es de contado; el de credito es otro."
     },
     {
@@ -23,8 +23,8 @@
       "nombre": "RadioShack",
       "url": "https://www.radioshackla.com/elsalvador/",
       "tipo": "electronica",
-      "captura": "auto (Magento GraphQL, mismo catalogo que La Curacao)",
-      "notas": "Grupo Unicomer: usa los mismos SKU que La Curacao pero a veces con otro precio. Solo TV."
+      "captura": "auto (Adobe Live Search, mismo catalogo que La Curacao)",
+      "notas": "Grupo Unicomer: usa los mismos SKU que La Curacao pero a veces con otro precio."
     },
     {
       "id": "walmart",
@@ -53,10 +53,10 @@
     {
       "id": "samsung",
       "nombre": "Samsung",
-      "url": "https://www.samsung.com/sv/",
-      "tipo": "marca",
-      "captura": "manual",
-      "notas": "El 20-oct-2026 no se pudieron consultar precios: la seccion de TV de samsung.com/sv respondio 404. Capturar a mano si interesa."
+      "url": "https://shop.samsung.com/latin/cac/sv/",
+      "tipo": "marca (tienda oficial)",
+      "captura": "auto (Magento GraphQL, vista 'sv' en USD)",
+      "notas": "Tienda en linea oficial para El Salvador; solo productos Samsung. samsung.com/sv no existe (404)."
     },
     {
       "id": "zonadigital",

@@ -49,6 +49,10 @@ function monograma(tiendaId) {
   return `<span class="monograma" style="--h:${t?.tono ?? 40}" aria-hidden="true">${esc(letras.toUpperCase())}</span>`;
 }
 
+// foto de la tienda con el monograma como insignia; sin foto (o si no carga) queda el monograma
+const foto = (it) => `<span class="foto${it.im ? "" : " sin-foto"}">${it.im
+  ? `<img src="${esc(it.im)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : ""}${monograma(it.t)}</span>`;
+
 const TITULOS = { verde: "Oferta real", amarillo: "Rebaja leve", gris: "No es oferta", rojo: "Más caro", "sin-base": "Sin historial" };
 const CORTOS = { "OFERTA REAL": "oferta", "DESCUENTO MENOR": "baja leve", "SIN CAMBIO": "sin cambio", "SUBIO": "subió", "SIN BASE": "sin base" };
 
@@ -116,7 +120,7 @@ function filtrar() {
       if (cat && it.c !== cat) continue;
       if (tienda && it.t !== tienda) continue;
       if (max && it.s.ultimo > max) continue;
-      if (bajas && !(it.s.pct_base != null && it.s.pct_base < -E.catalogo.umbral_cambio)) continue;
+      if (bajas && !(it.s.disponible && it.s.pct_base != null && it.s.pct_base < -E.catalogo.umbral_cambio)) continue;
       const [p, c] = puntaje(palabras, it);
       if (p >= minimo) salida.push({ it, p, c });
     }
@@ -127,9 +131,10 @@ function filtrar() {
 
   const orden = $("#f-orden").value;
   const ordenCat = new Map([...E.categorias.keys()].map((c, i) => [c, i]));
-  const porPrecio = (a, b) => a.it.s.ultimo - b.it.s.ultimo;
+  // lo agotado o que ya no aparece en la tienda va al final
+  const porPrecio = (a, b) => b.it.s.disponible - a.it.s.disponible || a.it.s.ultimo - b.it.s.ultimo;
   if (orden === "precio") res.sort(porPrecio);
-  else if (orden === "baja") res.sort((a, b) => (a.it.s.pct_base ?? 999) - (b.it.s.pct_base ?? 999) || porPrecio(a, b));
+  else if (orden === "baja") res.sort((a, b) => b.it.s.disponible - a.it.s.disponible || (a.it.s.pct_base ?? 999) - (b.it.s.pct_base ?? 999) || porPrecio(a, b));
   else if (orden === "nombre") res.sort((a, b) => a.it.n.localeCompare(b.it.n, "es"));
   else if (palabras.length) res.sort((a, b) => b.p - a.p || b.c - a.c || porPrecio(a, b));
   else res.sort((a, b) => ordenCat.get(a.it.c) - ordenCat.get(b.it.c) || porPrecio(a, b));
@@ -149,7 +154,7 @@ function filtrar() {
 /* ---------------- cabecera ---------------- */
 function pintarCabecera() {
   const c = E.catalogo;
-  const ofertas = E.items.filter((it) => it.s.nivel === "verde").length;
+  const ofertas = E.items.filter((it) => it.s.nivel === "verde" && it.s.disponible).length;
   $("#datos").innerHTML = [
     [E.items.length.toLocaleString("es-SV"), "productos"],
     [c.tiendas.length, "tiendas"],
@@ -210,11 +215,11 @@ function pintarLista() {
     const b = li.querySelector(".fila");
     b.dataset.id = it.id;
     if (E.abierto === it.id) b.setAttribute("aria-current", "true");
-    li.querySelector(".monograma").outerHTML = monograma(it.t);
+    li.querySelector(".monograma").outerHTML = foto(it);
     li.querySelector(".fila-nombre").textContent = it.n;
     li.querySelector(".fila-precio").textContent = dinero(it.s.ultimo);
     li.querySelector(".fila-meta").textContent =
-      [E.tiendas.get(it.t)?.nombre, tamano(it), it.ma, it.s.disponible ? "" : "agotado"].filter(Boolean).join(" · ");
+      [E.tiendas.get(it.t)?.nombre, tamano(it), it.ma, it.va ? "ya no aparece" : it.s.disponible ? "" : "agotado"].filter(Boolean).join(" · ");
     const v = li.querySelector(".fila-var");
     const debil = it.s.base != null && it.s.n_base < 2 ? "*" : "";
     const texto = it.s.pct_base && Math.abs(it.s.pct_base) >= 0.05
@@ -322,8 +327,13 @@ async function abrir(id, { empujar = true } = {}) {
     <button class="volver" type="button">← volver a la lista</button>
     <div class="d-sup"><span>${esc(tienda?.nombre)} · ${esc(E.categorias.get(it.c))}</span>
       ${it.u ? `<a href="${esc(it.u)}" target="_blank" rel="noopener">ver en la tienda ↗</a>` : ""}</div>
-    <h2 class="d-titulo">${esc(it.n)}</h2>
-    <p class="d-meta">${[tamano(it), it.ma, it.mo, s.disponible ? "" : "agotado al último registro"].filter(Boolean).map(esc).join(" · ")}</p>
+    <div class="d-cabeza">
+      <div>
+        <h2 class="d-titulo">${esc(it.n)}</h2>
+        <p class="d-meta">${[tamano(it), it.ma, it.mo, it.va ? `ya no aparece en la tienda desde el ${fecha(it.va + "T12:00")}` : s.disponible ? "" : "agotado al último registro"].filter(Boolean).map(esc).join(" · ")}</p>
+      </div>
+      ${it.im ? `<figure class="d-foto"><img src="${esc(it.im)}" alt="${esc(it.n)}" decoding="async" referrerpolicy="no-referrer"></figure>` : ""}
+    </div>
 
     <div class="etiqueta">
       <label>¿qué precio ves?<span class="campo"><span>$</span><input id="d-precio" inputmode="decimal" autocomplete="off" placeholder="${s.ultimo.toFixed(2)}" aria-label="Precio que ves"></span></label>
@@ -504,6 +514,7 @@ function seguirCaptura() {
 function expandir(c) {
   const campos = c.formato.s;
   const prefijos = new Map(c.tiendas.map((t) => [t.id, t.prefijo || ""]));
+  const prefijosIm = new Map(c.tiendas.map((t) => [t.id, t.prefijo_im || ""]));
   for (const it of c.items) {
     it.id = `${it.t}:${it.i}`;
     const s = Object.fromEntries(campos.map((k, i) => [k, it.s[i]]));
@@ -512,6 +523,7 @@ function expandir(c) {
     [s.veredicto, s.nivel] = clasificar(s.pct_base);
     it.s = s;
     if (it.u && !/^https?:/.test(it.u)) it.u = prefijos.get(it.t) + it.u;
+    if (it.im && !/^https:/.test(it.im)) it.im = prefijosIm.get(it.t) + it.im;
     it.ma ||= "";
     it.k = normalizar(`${it.n} ${it.ma} ${it.mo || ""}`);
   }
@@ -547,6 +559,11 @@ $("#f-max").addEventListener("input", () => { clearTimeout(espera); espera = set
 $("#mas").addEventListener("click", () => { E.visibles += PASO; pintarLista(); });
 $("#lista").addEventListener("click", (e) => { const b = e.target.closest(".fila"); if (b) abrir(b.dataset.id); });
 $("#velo").addEventListener("click", volver);
+// "error" no burbujea: se escucha en captura para todas las fotos de las tiendas
+document.addEventListener("error", (e) => {
+  const caja = e.target.tagName === "IMG" && e.target.closest(".foto, .d-foto");
+  if (caja) { caja.classList.add("sin-foto"); e.target.remove(); }
+}, true);
 window.addEventListener("popstate", () => { const id = idDelHash(); id ? abrir(id, { empujar: false }) : cerrar(); });
 document.addEventListener("keydown", (e) => {
   if (e.key === "/" && document.activeElement?.tagName !== "INPUT") { e.preventDefault(); $("#q").focus(); }

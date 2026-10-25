@@ -393,7 +393,7 @@ def capturar(categoria: str | None = None, comercial: str | None = None, product
     filtros = filtros_barrido(datos)
     solo = resolver_comercial(comercial, catalogo) if comercial else None
     tocados: set[tuple[str, str]] = set()
-    total = {"nuevas": 0, "repetidas": 0, "errores": 0}
+    total = {"nuevas": 0, "repetidas": 0, "errores": 0, "caidas": []}
 
     if not solo_modelos and not producto:
         for cid in tiendas.COMERCIALES_BARRIDO:
@@ -405,8 +405,11 @@ def capturar(categoria: str | None = None, comercial: str | None = None, product
             tiendas.fijar_limite(LIMITE_POR_TIENDA)
             try:
                 items = tiendas.barrer(cid, filtros)
+                if not items:
+                    raise tiendas.ErrorTienda("no devolvio ningun producto")
             except Exception as e:  # una tienda caida no detiene el barrido de las demas
                 total["errores"] += 1
+                total["caidas"].append(tienda)
                 avisar(f"  ERROR {tienda}: {type(e).__name__}: {e}")
                 continue
             finally:
@@ -419,7 +422,7 @@ def capturar(categoria: str | None = None, comercial: str | None = None, product
                 if not k or it["precio"] is None or (categoria and k["categoria"] != categoria):
                     continue
                 cuenta[k["categoria"]] = cuenta.get(k["categoria"], 0) + 1
-                datos_ficha = {**k, "nombre": it["nombre"], "url": it["url"],
+                datos_ficha = {**k, "nombre": it["nombre"], "url": it["url"], "imagen": it.get("imagen", ""),
                                "marca": almacen.marca_de(it["nombre"], it.get("marca", ""))}
                 obs = {"fecha": ahora, "precio": it["precio"], "precio_lista": it["precio_lista"],
                        "disponible": it["disponible"], "fuente": "auto", "nota": it.get("nota", "")}
@@ -483,6 +486,8 @@ def cmd_capturar(args) -> None:
     if not args.sin_exportar:
         import exportar
         exportar.exportar()
+    if args.estricto and total["caidas"]:
+        raise SystemExit(f"Tiendas sin datos hoy: {', '.join(total['caidas'])}")
 
 
 def cmd_exportar(args) -> None:
@@ -823,6 +828,8 @@ def main(argv=None) -> int:
     p_cap.add_argument("--comercial", "--tienda", dest="comercial", default=None, help="Solo esta tienda")
     p_cap.add_argument("--pausa", type=float, default=0.5, help="Segundos entre consultas (default 0.5)")
     p_cap.add_argument("--sin-exportar", action="store_true", help="No regenerar web/data al terminar")
+    p_cap.add_argument("--estricto", action="store_true",
+                       help="Terminar con error si alguna tienda no entrego datos (para que GitHub avise)")
     p_cap.set_defaults(func=cmd_capturar)
 
     p_exp = sub.add_parser("exportar", help="Regenera web/data/ (catalogo e historial para la web).")

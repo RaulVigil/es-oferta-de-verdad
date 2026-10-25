@@ -21,7 +21,7 @@ concurrency:
 jobs:
   capturar:
     runs-on: ubuntu-latest
-    timeout-minutes: 120       # 12 tiendas x 8 min maximo cada una (ver LIMITE_POR_TIENDA)
+    timeout-minutes: 120       # 13 tiendas x 8 min maximo cada una (ver LIMITE_POR_TIENDA)
     env:
       TZ: America/El_Salvador   # las fechas de captura quedan en hora local
       PYTHONUNBUFFERED: "1"     # el avance ("Barriendo Siman...") se ve en vivo en el log
@@ -32,8 +32,10 @@ jobs:
         with:
           python-version: "3.12"
 
+      # si una tienda no entrega datos, se suben las demas y el flujo termina en rojo (GitHub avisa por correo)
       - name: Capturar y exportar
-        run: python scripts/precios.py capturar
+        id: captura
+        run: python scripts/precios.py capturar --estricto || echo "fallo=1" >> "$GITHUB_OUTPUT"
 
       - name: Subir cambios
         run: |
@@ -44,5 +46,12 @@ jobs:
             echo "Sin cambios de precios hoy."
           else
             git commit -m "Precios del $(date +%F)"
+            git pull --rebase   # por si hubo un push mientras corria la captura
             git push
           fi
+
+      - name: Avisar si alguna tienda fallo
+        if: steps.captura.outputs.fallo == '1'
+        run: |
+          echo "::error::Alguna tienda no entrego datos hoy: revisa el paso 'Capturar y exportar'."
+          exit 1

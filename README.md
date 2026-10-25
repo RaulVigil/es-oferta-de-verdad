@@ -1,6 +1,6 @@
 # ¿Es oferta de verdad?
 
-**¿Esa oferta de Black Friday es real?** Historial de precios de 12 tiendas de El Salvador para
+**¿Esa oferta de Black Friday es real?** Historial de precios de 13 tiendas de El Salvador para
 comparar lo que anuncian en noviembre contra lo que costaba antes.
 
 **Sitio:** https://es-oferta-de-verdad.vercel.app
@@ -19,7 +19,7 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
 ```
  GitHub Actions (6:17 a. m. diario, respaldo a la 1:47 p. m.)
    └─ scripts/precios.py capturar
-        ├─ consulta 12 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
+        ├─ consulta 13 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
         └─ scripts/exportar.py ─────────► web/data/catalogo.json        (estadísticas ya calculadas)
                                           web/data/historial/<tienda>.json
    └─ git push ──► Vercel publica web/
@@ -29,7 +29,8 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
 ```
 
 Cada producto guarda todas sus observaciones de precio; una tienda caída no detiene a las
-demás, y cada tienda tiene un límite de 8 minutos. La corrida completa tarda unos 17 minutos.
+demás, y cada tienda tiene un límite de 8 minutos. Si alguna no entrega datos, se suben las
+demás y el flujo termina en rojo para que GitHub avise. La corrida completa tarda unos 17 minutos.
 
 ### Cómo se leen las tiendas
 
@@ -38,7 +39,8 @@ Cada tienda expone el mismo catálogo que usa su propio sitio web; no hay scrapi
 | Tienda | Fuente | Qué se toma |
 |---|---|---|
 | Simán, Walmart | API de catálogo VTEX | categorías de TV, camas + búsquedas de texto |
-| La Curacao, RadioShack | GraphQL de Magento | categorías + búsquedas |
+| La Curacao, RadioShack | Adobe Live Search (el buscador del sitio) | catálogo completo (~8,800 y ~3,600 productos) |
+| Samsung | GraphQL de Magento de la tienda oficial (vista de El Salvador, USD) | catálogo completo (~430 productos) |
 | Prado, EPA | índice público de Algolia del buscador | facetas + búsquedas |
 | Vidrí | API pública de su buscador (Doofinder) | búsquedas (máx. 1,000 resultados cada una) |
 | Zona Digital | API JSON de su página | catálogo completo (~1,400 productos) |
@@ -47,8 +49,10 @@ Cada tienda expone el mismo catálogo que usa su propio sitio web; no hay scrapi
 | COOPESA | WooCommerce Store API | catálogo completo (~600 productos) |
 | Electrónica 2001 | HTML de categorías + API por código | categorías de instrumentos y audio |
 
-Sin incluir: Freund (claves de búsqueda ofuscadas), Tropigas (desafío anti-bot),
-Samsung (no publica precios).
+Sin incluir: Freund (claves de búsqueda ofuscadas), Tropigas (desafío anti-bot).
+
+De cada producto se guarda también la foto que publica la tienda (reducida a ~300 px donde la
+tienda lo permite); la web la carga desde la tienda solo cuando la fila está a la vista.
 
 ### Qué se sigue
 
@@ -92,6 +96,9 @@ regla limpia también el historial.
 | Sin base | no hay precios capturados antes del 1 de noviembre |
 
 **Línea base** = mediana de los precios capturados antes del 1 de noviembre en esa tienda.
+Se descartan los precios de relleno: menos del 20 % del tachado (50 % si está agotado), como los
+que Simán publica en productos descontinuados ($0.01, una laptop de $399 a $39). Lo que no salió
+en la última captura de su tienda se marca como "ya no aparece" y va al final de la lista.
 Además avisa si el producto ya estuvo más barato, si el "antes" que anuncian es más alto que
 el tachado que se vio en octubre, y muestra **el mismo modelo en otras tiendas** (por código de
 modelo, o por las equivalencias de `productos.json → productos`).

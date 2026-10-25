@@ -48,7 +48,17 @@ CAMPOS_S = ("ultimo", "base", "n_base", "pct_base", "minimo", "maximo", "max_lis
             "disponible", "n", "fecha", "fecha_minimo")
 
 
-def _compacto(it: dict, prefijos: dict) -> dict:
+def _prefijo(textos: list[str]) -> str:
+    """Prefijo comun hasta la ultima '/': se guarda una vez por tienda en vez de en cada producto."""
+    comun = os.path.commonprefix(textos) if textos else ""
+    return comun[: comun.rfind("/") + 1]
+
+
+def _sin_prefijo(texto: str, prefijo: str) -> str:
+    return texto[len(prefijo):] if prefijo and texto.startswith(prefijo) else texto
+
+
+def _compacto(it: dict, prefijos: dict, prefijos_im: dict) -> dict:
     """
     Producto para la web sin lo que el navegador puede calcular: la clave de busqueda
     (normalizar) y el veredicto (clasificar). Fechas a minutos, campos vacios omitidos.
@@ -61,12 +71,13 @@ def _compacto(it: dict, prefijos: dict) -> dict:
                "pct_base": round(s["pct_base"], 1) if s["pct_base"] is not None else None}
     salida = {"i": it["id"].split(":", 1)[1], "t": it["t"], "n": it["n"], "c": it["c"],
               "s": [valores[k] for k in CAMPOS_S]}
-    for k in ("p", "me", "ma", "mo", "nt", "o"):
+    for k in ("p", "me", "ma", "mo", "nt", "o", "va"):
         if it.get(k):
             salida[k] = it[k]
-    u, prefijo = it.get("u") or "", prefijos.get(it["t"], "")
-    if u:
-        salida["u"] = u[len(prefijo):] if prefijo and u.startswith(prefijo) else u
+    if it.get("u"):
+        salida["u"] = _sin_prefijo(it["u"], prefijos.get(it["t"], ""))
+    if it.get("im"):
+        salida["im"] = _sin_prefijo(it["im"], prefijos_im.get(it["t"], ""))
     return salida
 
 
@@ -79,7 +90,9 @@ def _marca(texto: str) -> str:
 
 
 def _mismo_modelo(items: list[dict], grupos: list[list[str]]) -> dict[str, list[str]]:
-    """id -> ids del mismo modelo en otras tiendas (por codigo de modelo o por productos.json)."""
+    """id -> ids del mismo modelo en otras tiendas (por codigo de modelo o por productos.json).
+    Por codigo solo dentro de la misma categoria y, si las dos tiendas dicen la marca, la misma:
+    'GM300' es un mouse MSI y tambien un microfono Redragon."""
     otros: dict[str, set[str]] = defaultdict(set)
     for grupo in grupos:
         for a in grupo:
@@ -92,7 +105,8 @@ def _mismo_modelo(items: list[dict], grupos: list[list[str]]) -> dict[str, list[
     for lista in por_prefijo.values():
         for i, a in enumerate(lista):
             for b in lista[i + 1:]:
-                if a["t"] != b["t"] and almacen.mismo_modelo(a["mo"], b["mo"]):
+                if (a["t"] != b["t"] and a["c"] == b["c"] and almacen.mismo_modelo(a["mo"], b["mo"])
+                        and (not a["ma"] or not b["ma"] or a["ma"].lower() == b["ma"].lower())):
                     otros[a["id"]].add(b["id"])
                     otros[b["id"]].add(a["id"])
     return {k: sorted(v) for k, v in otros.items()}
@@ -107,6 +121,10 @@ def exportar(avisar=print) -> dict:
     grupos = [[f"{c['id']}:{c['sku']}" for c in p.get("comerciales", []) if c.get("sku")]
               for p in datos["productos"]]
     seguidos = {i for g in grupos for i in g}
+
+    # dia de la ultima captura de cada tienda: lo que no salio ese dia ya no esta publicado
+    ultima_captura = {c: max((f.get("ultima_vez") or "" for f in almacen.cargar(c)["listados"].values()), default="")
+                      for c in almacen.comerciales_guardados()}
 
     items: list[dict] = []
     historial: dict[str, dict] = defaultdict(dict)
@@ -126,9 +144,12 @@ def exportar(avisar=print) -> dict:
         if f.get("categoria") not in filtros:
             continue
         est = almacen.estadisticas(obs, corte)
-        if est["ultimo"] is None:
+        if est["ultimo"] is None:  # nunca tuvo un precio confiable
             continue
         ident = f"{cid}:{sku}"
+        ausente = not sku.startswith("manual-") and (f.get("ultima_vez") or "") < ultima_captura.get(cid, "")
+        if ausente:
+            est["disponible"] = False
         tiendas_usadas.add(cid)
         items.append({
             "id": ident,
@@ -140,12 +161,14 @@ def exportar(avisar=print) -> dict:
             "ma": _marca(f.get("marca", "")),
             "mo": f.get("modelo", ""),
             "u": f.get("url", ""),
+            "im": f.get("imagen", "") if (f.get("imagen") or "").startswith("https://") else "",
             "s": {k: _redondear(v) for k, v in est.items()},
             "nt": (obs[-1].get("nota") or "")[:120],
+            "va": f.get("ultima_vez") if ausente else None,
         })
         historial[cid][sku] = [
             [o["fecha"][:16], o["precio"], o.get("precio_lista"), 1 if o.get("disponible", True) else 0]
-            for o in obs
+            for o in obs if almacen.confiable(o)
         ]
 
     otros = _mismo_modelo(items, grupos)
@@ -155,12 +178,9 @@ def exportar(avisar=print) -> dict:
         if o:
             it["o"] = o
 
-    # las URLs de cada tienda comparten un prefijo: se guarda una vez por tienda
-    prefijos = {}
-    for c in tiendas_usadas:
-        urls = [it["u"] for it in items if it["t"] == c and it["u"]]
-        comun = os.path.commonprefix(urls) if urls else ""
-        prefijos[c] = comun[: comun.rfind("/") + 1]
+    # las URLs y las fotos de cada tienda comparten un prefijo: se guarda una vez por tienda
+    prefijos = {c: _prefijo([it["u"] for it in items if it["t"] == c and it["u"]]) for c in tiendas_usadas}
+    prefijos_im = {c: _prefijo([it["im"] for it in items if it["t"] == c and it["im"]]) for c in tiendas_usadas}
 
     catalogo = {
         "generado": datetime.now().astimezone().replace(microsecond=0).isoformat(),
@@ -170,11 +190,12 @@ def exportar(avisar=print) -> dict:
         "umbral_cambio": almacen.UMBRAL_CAMBIO,
         "formato": {"s": list(CAMPOS_S)},
         "tiendas": [{"id": c, "nombre": precios.nombre_comercial(c, catalogo_tiendas),
-                     "url": catalogo_tiendas.get(c, {}).get("url", ""), "prefijo": prefijos[c]}
+                     "url": catalogo_tiendas.get(c, {}).get("url", ""), "prefijo": prefijos[c],
+                     "prefijo_im": prefijos_im[c]}
                     for c in sorted(tiendas_usadas, key=lambda c: precios.nombre_comercial(c, catalogo_tiendas))],
         "categorias": [{"id": c, "nombre": cfg.get("nombre", c)} for c, cfg in filtros.items()],
         "pistas": almacen.pistas(filtros),
-        "items": [_compacto(it, prefijos) for it in items],
+        "items": [_compacto(it, prefijos, prefijos_im) for it in items],
     }
     _escribir(DIR_WEB_DATOS / "catalogo.json", catalogo)
     for cid, por_sku in historial.items():

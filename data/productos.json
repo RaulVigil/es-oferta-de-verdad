@@ -148,7 +148,7 @@
         "memoria ram"
       ],
       "incluir": "^\\s*((kit\\s+(de\\s+)?)?memorias?(\\s+ram)?|ram|sodimm|ddr[345])\\b",
-      "excluir": "micro ?sd|\\bsd\\b|usb|flash|tarjeta|celular|tel[eé]fono|smartphone|tablet|externa|lector|ventilador|disipador|enfriamiento"
+      "excluir": "micro ?sd|\\bsd\\b|usb|flash|tarjeta|celular|tel[eé]fono|smartphone|tablet|externa|lector|ventilador|disipador|enfriamiento|port[aá]til|radioshack"
     },
     "ssd": {
       "nombre": "SSD y M.2",
