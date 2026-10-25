@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-10-25T10:28:16-06:00",
+ "actualizado": "2026-10-25T16:14:12-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -28022,7 +28022,7 @@
    "modelo": "33X33",
    "url": "https://www.vidri.com.sv/producto/486114/ceramica-de-piso-33x33-cm-argelia-verde-caja-133-m2.html",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-21T17:01:00-06:00",
@@ -28050,6 +28050,14 @@
     },
     {
      "fecha": "2026-10-24T16:05:41-06:00",
+     "precio": 13.2,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T16:14:12-06:00",
      "precio": 13.2,
      "precio_lista": null,
      "disponible": true,
