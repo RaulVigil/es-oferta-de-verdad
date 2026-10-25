@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-10-24T10:00:09-06:00",
+ "actualizado": "2026-10-25T10:20:23-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -12,7 +12,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-serta-perfect-balance-firme-matrimonial-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:26-06:00",
@@ -53,6 +53,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 445.0,
+     "precio_lista": 680.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -66,7 +74,7 @@
    "modelo": "UN55U8000FPXPA",
    "url": "https://www.walmart.com.sv/tratamiento-elvive-loreal-paris-serum-anticaida-con-aminexil-102-ml-8-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:18-06:00",
@@ -107,6 +115,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 400.95,
+     "precio_lista": 469.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -120,7 +136,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-xiaomi-led-smart-4k-55-pulgadas-1-in-2-54-cm-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:26-06:00",
@@ -161,6 +177,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 381.22,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -174,7 +198,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-tv-2025-crystal-uhd-4k-43-pulgadas-1-in-2-54-cm-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -210,6 +234,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 272.25,
+     "precio_lista": 329.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 272.25,
      "precio_lista": 329.0,
      "disponible": true,
@@ -228,7 +260,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-rca-qled-50-roku-sv423-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -264,6 +296,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 292.05,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 292.05,
      "precio_lista": 399.0,
      "disponible": true,
@@ -282,7 +322,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/tv-43-xiaomi-2026-sv5454-5-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -318,6 +358,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 236.61,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 236.61,
      "precio_lista": 279.0,
      "disponible": true,
@@ -336,7 +384,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-xiaomi-qled-smart-4k-43-pulgadas-1-in-2-54-cm-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -372,6 +420,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 266.31,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 266.31,
      "precio_lista": 299.0,
      "disponible": true,
@@ -390,7 +446,7 @@
    "modelo": "RC40RK",
    "url": "https://www.walmart.com.sv/pantalla-rca-led-smart-rc40rk-hd-40-pulgadas-1-in-2-54-cm-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -426,6 +482,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 197.01,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 197.01,
      "precio_lista": 239.0,
      "disponible": true,
@@ -444,7 +508,7 @@
    "modelo": "RC43QL",
    "url": "https://www.walmart.com.sv/pantalla-rca-qled-43-roku-sv9121-5-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -480,6 +544,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 215.82,
+     "precio_lista": 289.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 215.82,
      "precio_lista": 289.0,
      "disponible": true,
@@ -498,7 +570,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-xiaomi-smart-qled-4k-55-pulgadas-1-in-2-54-cm-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -534,6 +606,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 459.0,
+     "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 459.0,
      "precio_lista": 459.0,
      "disponible": true,
@@ -552,7 +632,7 @@
    "modelo": "HL40RK",
    "url": "https://www.walmart.com.sv/pantalla-hotline-led-smart-roku-fhd-40-in-1-in-2-54-cm-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -588,6 +668,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 187.11,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 187.11,
      "precio_lista": 229.0,
      "disponible": true,
@@ -606,7 +694,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-xiaomi-led-smart-4k-50-pulgadas-1-in-2-54-cm-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -642,6 +730,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 331.65,
+     "precio_lista": 369.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 331.65,
      "precio_lista": 369.0,
      "disponible": true,
@@ -660,7 +756,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/samsung-smart-tv-mini-led-4k-50-sv6437-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -696,6 +792,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 409.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 409.0,
      "precio_lista": 409.0,
      "disponible": true,
@@ -714,7 +818,7 @@
    "modelo": "UN58U8000",
    "url": "https://www.walmart.com.sv/pantalla-samsung-un58u8000-led-smart-4k-58-pulgadas-1-in-2-54-cm-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -750,6 +854,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 464.31,
+     "precio_lista": 559.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 464.31,
      "precio_lista": 559.0,
      "disponible": true,
@@ -768,7 +880,7 @@
    "modelo": "QN55Q7FAA",
    "url": "https://www.walmart.com.sv/55-qled-q7fsamsung-ai-smart-tv-2025-sv2910-5-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -804,6 +916,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 435.0,
+     "precio_lista": 539.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 435.0,
      "precio_lista": 539.0,
      "disponible": true,
@@ -822,7 +942,7 @@
    "modelo": "HL43RK",
    "url": "https://www.walmart.com.sv/pantalla-hotline-negra-43-in-1-in-2-54-cm-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -858,6 +978,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 216.81,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 216.81,
      "precio_lista": 259.0,
      "disponible": true,
@@ -876,7 +1004,7 @@
    "modelo": "RC58QL",
    "url": "https://www.walmart.com.sv/pantalla-rca-qled-58-sv5320-5-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -912,6 +1040,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 434.61,
+     "precio_lista": 479.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 434.61,
      "precio_lista": 479.0,
      "disponible": true,
@@ -930,7 +1066,7 @@
    "modelo": "50UA800",
    "url": "https://www.walmart.com.sv/lg-led-ai-50-4k-50ua800-smart-2025-sv7485-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -966,6 +1102,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 449.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 449.0,
      "precio_lista": 449.0,
      "disponible": true,
@@ -984,7 +1128,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-led-smart-hotline-roku-4k-58-pulgadas-1-in-2-54-cm-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1028,6 +1172,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 409.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 409.0,
      "precio_lista": 409.0,
      "disponible": true,
@@ -1046,7 +1198,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/qled-smart-4k-55-durabrand-google-tv-sv5589-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1082,6 +1234,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 399.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 399.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -1100,7 +1260,7 @@
    "modelo": "HL50RK",
    "url": "https://www.walmart.com.sv/pantalla-hotline-led-smart-roku-hl50rk-4k-50-pulgadas-1-in-2-54-cm-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1136,6 +1296,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 309.0,
+     "precio_lista": 309.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 309.0,
      "precio_lista": 309.0,
      "disponible": true,
@@ -1154,7 +1322,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/samsung-smart-tv-mini-led-4k-55-sv783-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1190,6 +1358,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 430.65,
+     "precio_lista": 597.77,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 430.65,
      "precio_lista": 597.77,
      "disponible": true,
@@ -1208,7 +1384,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-hotline-qled-50-roku-sv1839-5-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1244,6 +1420,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 359.0,
+     "precio_lista": 359.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 359.0,
      "precio_lista": 359.0,
      "disponible": true,
@@ -1262,7 +1446,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-rca-qled-40-roku-sv1282-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1303,6 +1487,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 224.42,
+     "precio_lista": 249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1316,7 +1508,7 @@
    "modelo": "DURA50GFU",
    "url": "https://www.walmart.com.sv/led-smart-4k-50-durabrand-google-tv-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1357,6 +1549,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 325.71,
+     "precio_lista": 329.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1370,7 +1570,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/pantalla-durabrand-hqled-smart-tv-4k-55-pulgadas-1-in-2-54-cm-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1419,6 +1619,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 498.0,
+     "precio_lista": 498.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1432,7 +1640,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-masterbed-matrimonial-one-pillow-confort-firme-y-suave-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1452,6 +1660,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 166.6,
+     "precio_lista": 210.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 166.6,
      "precio_lista": 210.0,
      "disponible": true,
@@ -1470,7 +1686,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-olympia-matrimonial-duo-sense-confort-firme-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1506,6 +1722,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 175.0,
+     "precio_lista": 175.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 175.0,
      "precio_lista": 175.0,
      "disponible": true,
@@ -1524,7 +1748,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-espumar-tamano-matrimonial-floresta-plus-no-turn/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1560,6 +1784,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 208.55,
+     "precio_lista": 215.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 208.55,
      "precio_lista": 215.0,
      "disponible": true,
@@ -1578,7 +1810,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-master-bed-tamano-matrimonial-de-tecnologia-americana/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1614,6 +1846,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 249.9,
+     "precio_lista": 306.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 249.9,
      "precio_lista": 306.0,
      "disponible": true,
@@ -1632,7 +1872,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-masterbed-tamano-matrimonial-doble-pillow-confort-firme/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -1673,6 +1913,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 255.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -1686,7 +1934,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/teclado-trust-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -1722,6 +1970,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 44.99,
+     "precio_lista": 44.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 44.99,
      "precio_lista": 44.99,
      "disponible": true,
@@ -1740,7 +1996,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/teclado-numerico-ala-trust-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -1776,6 +2032,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 9.99,
+     "precio_lista": 9.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 9.99,
      "precio_lista": 9.99,
      "disponible": true,
@@ -1794,7 +2058,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/closet-armable-mainstays-con-niveles-unidad-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -1830,6 +2094,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 25.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 25.0,
      "precio_lista": 25.0,
      "disponible": true,
@@ -1848,7 +2120,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/closet-armable-mainstays-color-blanco-60-pulgadas/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -1884,6 +2156,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 29.0,
      "precio_lista": 29.0,
      "disponible": true,
@@ -1902,7 +2182,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/closet-mainstays-tradicional-eco-wengue-185x100x51cm-4-5-8-6-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -1938,6 +2218,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 225.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 225.0,
      "precio_lista": 225.0,
      "disponible": true,
@@ -1956,7 +2244,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/closet-mainstays-bariloche-wengue-1-78-x-1-47x-0-48-m/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -1992,6 +2280,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 250.0,
+     "precio_lista": 315.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 250.0,
      "precio_lista": 315.0,
      "disponible": true,
@@ -2010,7 +2306,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/armario-woman-con-espejo-mainstays/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:08-06:00",
@@ -2051,6 +2347,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 238.5,
+     "precio_lista": 265.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -2064,7 +2368,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/haus-silla-secretarial-sin-brazos/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2100,6 +2404,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 40.0,
+     "precio_lista": 40.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 40.0,
      "precio_lista": 40.0,
      "disponible": true,
@@ -2118,7 +2430,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/haus-silla-secretarial-con-brazos/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2154,6 +2466,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 61.9,
+     "precio_lista": 61.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 61.9,
      "precio_lista": 61.9,
      "disponible": true,
@@ -2172,7 +2492,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/silla-gamer-negracon-masajea-y-posa-pies-sv3537-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2208,6 +2528,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 120.0,
+     "precio_lista": 172.89,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 120.0,
      "precio_lista": 172.89,
      "disponible": true,
@@ -2226,7 +2554,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/silla-gamer-roja-con-masajea-y-posa-pies-sv2505-5-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2267,6 +2595,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 120.0,
+     "precio_lista": 172.89,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -2280,7 +2616,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/juego-nintendo-switch-oled-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2321,6 +2657,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 443.52,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -2334,7 +2678,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/consola-nintendo-switch-neon-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2370,6 +2714,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 460.35,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 460.35,
      "precio_lista": 499.0,
      "disponible": true,
@@ -2388,7 +2740,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/consolas-nintendo-nintendo-consola-nintendo-switch-2-sin-juego-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2424,6 +2776,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 777.15,
+     "precio_lista": 785.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 777.15,
      "precio_lista": 785.0,
      "disponible": true,
@@ -2442,7 +2802,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/consolas-nintendo-nintendo-consola-nintendo-switch-2-mario-kart-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2478,6 +2838,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 829.0,
+     "precio_lista": 839.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 829.0,
      "precio_lista": 839.0,
      "disponible": true,
@@ -2534,7 +2902,7 @@
    "modelo": "7560U",
    "url": "https://www.walmart.com.sv/laptop-hp-r5-7560u-8gb-512gb-sv4735-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2570,6 +2938,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 909.81,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 909.81,
      "precio_lista": 999.0,
      "disponible": true,
@@ -2588,7 +2964,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/laptop-hp-r5-7535hs-8gb-512gb-sv5684-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2624,6 +3000,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 1399.0,
      "precio_lista": 1399.0,
      "disponible": true,
@@ -2642,7 +3026,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/laptop-acer-nitro-v-15-6in-ci5-16gb-1tb-sv6778-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2678,6 +3062,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 1375.0,
+     "precio_lista": 1375.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 1375.0,
      "precio_lista": 1375.0,
      "disponible": true,
@@ -2696,7 +3088,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/laptop-hp-i5-120u-8gb-512gb-sv5292-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2732,6 +3124,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 731.61,
+     "precio_lista": 739.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 731.61,
      "precio_lista": 739.0,
      "disponible": true,
@@ -2750,7 +3150,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ideapad-lenovo-ci5-8gb-512gb-sv1994-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2786,6 +3186,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 795.0,
+     "precio_lista": 795.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 795.0,
      "precio_lista": 795.0,
      "disponible": true,
@@ -2804,7 +3212,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/laptop-hp-r7-730u-8gb-512gb-sv736-5-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:06:56-06:00",
@@ -2845,6 +3253,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 751.41,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -2858,7 +3274,7 @@
    "modelo": "I516RAM512SSD",
    "url": "https://www.walmart.com.sv/hp-victus-b5eq3uaaba-i516ram512ssd-156-sv8115-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:25:53-06:00",
@@ -2899,6 +3315,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -2912,7 +3336,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ergonomico-ala-trust-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -2948,6 +3372,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 22.99,
+     "precio_lista": 22.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 22.99,
      "precio_lista": 22.99,
      "disponible": true,
@@ -2966,7 +3398,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ina-recargable-trust-sv6154-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3002,6 +3434,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 34.99,
+     "precio_lista": 34.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 34.99,
      "precio_lista": 34.99,
      "disponible": true,
@@ -3020,7 +3460,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ina-recargable-trust-sv9795-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3056,6 +3496,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 34.99,
+     "precio_lista": 34.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 34.99,
      "precio_lista": 34.99,
      "disponible": true,
@@ -3074,7 +3522,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ergonomico-ina-trust-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3110,6 +3558,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 29.99,
+     "precio_lista": 29.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 29.99,
      "precio_lista": 29.99,
      "disponible": true,
@@ -3128,7 +3584,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-gaming-ina-trust-sv2872-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3164,6 +3620,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 21.99,
+     "precio_lista": 21.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 21.99,
      "precio_lista": 21.99,
      "disponible": true,
@@ -3182,7 +3646,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-gaming-ina-trust-3-3-2-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3218,6 +3682,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 21.99,
+     "precio_lista": 21.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 21.99,
      "precio_lista": 21.99,
      "disponible": true,
@@ -3236,7 +3708,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-gaming-ina-regargable-trust-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3272,6 +3744,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 31.99,
+     "precio_lista": 31.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 31.99,
      "precio_lista": 31.99,
      "disponible": true,
@@ -3290,7 +3770,7 @@
    "modelo": "JX18E211",
    "url": "https://www.walmart.com.sv/repisa-mainstays-para-pared-jx-18e211-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3326,6 +3806,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 17.5,
+     "precio_lista": 17.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 17.5,
      "precio_lista": 17.5,
      "disponible": true,
@@ -3344,7 +3832,7 @@
    "modelo": "JX18E254A",
    "url": "https://www.walmart.com.sv/repisa-mainstays-para-pared-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3380,6 +3868,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 11.5,
+     "precio_lista": 14.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 11.5,
      "precio_lista": 14.5,
      "disponible": true,
@@ -3398,7 +3894,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/estante-para-casco-de-motocicleta-montad-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3434,6 +3930,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 9.25,
+     "precio_lista": 9.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 9.25,
      "precio_lista": 9.25,
      "disponible": true,
@@ -3452,7 +3956,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/estante-mainstays-4-compartimentos-blanco-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3488,6 +3992,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 40.0,
+     "precio_lista": 50.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 40.0,
      "precio_lista": 50.0,
      "disponible": true,
@@ -3506,7 +4018,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/estante-seco-3-niveles-sobre-la-puerta-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3542,6 +4054,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 17.0,
+     "precio_lista": 17.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 17.0,
      "precio_lista": 17.0,
      "disponible": true,
@@ -3560,7 +4080,7 @@
    "modelo": "YS8180",
    "url": "https://www.walmart.com.sv/librera-mainstays-de-6-niveles-modelo-ys8177-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3596,6 +4116,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 42.3,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 42.3,
      "precio_lista": 60.0,
      "disponible": true,
@@ -3614,7 +4142,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ms-estante-para-bano-blanco-3-niv/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3650,6 +4178,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 12.25,
+     "precio_lista": 12.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 12.25,
      "precio_lista": 12.25,
      "disponible": true,
@@ -3668,7 +4204,7 @@
    "modelo": "190X45X90CM",
    "url": "https://www.walmart.com.sv/estanteria-de-plastico-praktiko-5-nivele-6-0-4-6-8-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3704,6 +4240,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 55.0,
+     "precio_lista": 55.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 55.0,
      "precio_lista": 55.0,
      "disponible": true,
@@ -3722,7 +4266,7 @@
    "modelo": "YS8176",
    "url": "https://www.walmart.com.sv/estante-de-esquina-mainstays-de-6-niveles-ys8176-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3758,6 +4302,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 40.0,
+     "precio_lista": 52.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 40.0,
      "precio_lista": 52.0,
      "disponible": true,
@@ -3776,7 +4328,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/estanteria-de-plastico-poly-4-niveles-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3812,6 +4364,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 41.4,
+     "precio_lista": 45.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 41.4,
      "precio_lista": 45.0,
      "disponible": true,
@@ -3830,7 +4390,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/estanteria-handi-works-de-acero-5-pisos-unidad/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3866,6 +4426,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 58.5,
+     "precio_lista": 65.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 58.5,
      "precio_lista": 65.0,
      "disponible": true,
@@ -3884,7 +4452,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/librero-mainstays-con-3-divisiones-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3920,6 +4488,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 35.0,
      "precio_lista": 35.0,
      "disponible": true,
@@ -3938,7 +4514,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/librero-mainstays-con-3-divisiones-color-negro-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -3974,6 +4550,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 33.0,
+     "precio_lista": 33.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 33.0,
      "precio_lista": 33.0,
      "disponible": true,
@@ -3992,7 +4576,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/escritorio-mainstays-para-computadora-color-variado-modelo-jx18b184b-s479/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4028,6 +4612,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 45.9,
+     "precio_lista": 45.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 45.9,
      "precio_lista": 45.9,
      "disponible": true,
@@ -4046,7 +4638,7 @@
    "modelo": "JX18B184A",
    "url": "https://www.walmart.com.sv/escritorio-mainstays-para-computadora-jx18b184a-s478/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4082,6 +4674,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 45.0,
+     "precio_lista": 45.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 45.0,
      "precio_lista": 45.0,
      "disponible": true,
@@ -4478,7 +5078,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-bluetooth-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4514,6 +5114,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 22.0,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 22.0,
      "precio_lista": 22.0,
      "disponible": true,
@@ -4824,7 +5432,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-bluetoot-led-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -4860,6 +5468,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 32.0,
+     "precio_lista": 32.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 32.0,
      "precio_lista": 32.0,
      "disponible": true,
@@ -4986,7 +5602,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-con-banda-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -5022,6 +5638,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 14.9,
+     "precio_lista": 14.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 14.9,
      "precio_lista": 14.9,
      "disponible": true,
@@ -5364,7 +5988,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-maxell-con-microfono-in-bax-s14/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -5400,6 +6024,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 1.99,
+     "precio_lista": 1.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 1.99,
      "precio_lista": 1.99,
      "disponible": true,
@@ -5742,7 +6374,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-maxell-con-microfono-hp-b52-s13/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -5778,6 +6410,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 20.0,
+     "precio_lista": 20.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 20.0,
      "precio_lista": 20.0,
      "disponible": true,
@@ -5958,7 +6598,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/db-auriculares-inalambricos-anc-con-lcd-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -5994,6 +6634,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 29.0,
      "precio_lista": 29.0,
      "disponible": true,
@@ -6066,7 +6714,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-maxell-in-ear-cable-trenzado-s15/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6102,6 +6750,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 9.99,
+     "precio_lista": 9.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 9.99,
      "precio_lista": 9.99,
      "disponible": true,
@@ -6120,7 +6776,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-alambricos-jbl-tune-110-con-microfono-incorporado-blancos/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6156,6 +6812,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 10.0,
+     "precio_lista": 10.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 10.0,
      "precio_lista": 10.0,
      "disponible": true,
@@ -6336,7 +7000,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-i2-go-con-microfono-city-go-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6372,6 +7036,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 4.0,
+     "precio_lista": 4.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 4.0,
      "precio_lista": 4.0,
      "disponible": true,
@@ -6498,7 +7170,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-alambricos-maxell-inbax-con-microfono-y-conector-usb-c/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6534,6 +7206,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 4.99,
+     "precio_lista": 4.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 4.99,
      "precio_lista": 4.99,
      "disponible": true,
@@ -6606,7 +7286,7 @@
    "modelo": "PROEAR023",
    "url": "https://www.walmart.com.sv/audifono-i2go-microfono-control-tipo-c/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6642,6 +7322,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 8.99,
+     "precio_lista": 8.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 8.99,
      "precio_lista": 8.99,
      "disponible": true,
@@ -6660,7 +7348,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-i2go-microfono-control-llamada/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6696,6 +7384,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 6.99,
+     "precio_lista": 6.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 6.99,
      "precio_lista": 6.99,
      "disponible": true,
@@ -6768,7 +7464,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-jbl-tune-770nc-diadema-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6804,6 +7500,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 95.0,
+     "precio_lista": 95.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 95.0,
      "precio_lista": 95.0,
      "disponible": true,
@@ -6822,7 +7526,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifono-i2go-c-microfono-gato-3-5mm/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -6858,6 +7562,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 19.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 19.0,
      "precio_lista": 19.0,
      "disponible": true,
@@ -7092,7 +7804,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/auriculares-marca-electronica-de-tela-1-2m/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7128,6 +7840,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 1.25,
+     "precio_lista": 1.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 1.25,
      "precio_lista": 1.25,
      "disponible": true,
@@ -7146,7 +7866,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-trust-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7182,6 +7902,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 19.99,
+     "precio_lista": 19.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 19.99,
      "precio_lista": 19.99,
      "disponible": true,
@@ -7200,7 +7928,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ergonomico-ina-trust-sv5665-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7236,6 +7964,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 29.99,
+     "precio_lista": 29.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 29.99,
      "precio_lista": 29.99,
      "disponible": true,
@@ -7254,7 +7990,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-ina-ergonomico-trust-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7290,6 +8026,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 24.99,
+     "precio_lista": 24.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 24.99,
      "precio_lista": 24.99,
      "disponible": true,
@@ -7308,7 +8052,7 @@
    "modelo": "MS2042",
    "url": "https://www.walmart.com.sv/mouse-gaming-argom-usb-7-botones-ms2042-3200-dpi-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7344,6 +8088,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 10.0,
+     "precio_lista": 12.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 10.0,
      "precio_lista": 12.49,
      "disponible": true,
@@ -7362,7 +8114,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-babaria-limpiador-facial-cremoso-150-ml/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7398,6 +8150,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 10.2,
+     "precio_lista": 10.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 10.2,
      "precio_lista": 10.2,
      "disponible": true,
@@ -7416,7 +8176,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-gaming-logitech-g305-lightspeed-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7452,6 +8212,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 30.0,
+     "precio_lista": 49.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 30.0,
      "precio_lista": 49.0,
      "disponible": true,
@@ -7470,7 +8238,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mezcladora-para-lavabo-mainstays-acero-inoxidable-cuello-curvo-4-pulgadas-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7506,6 +8274,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 24.0,
+     "precio_lista": 24.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 24.0,
      "precio_lista": 24.0,
      "disponible": true,
@@ -7524,7 +8300,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mezcladora-para-lavabo-mainstays-acero-inoxidable-cuello-bar-4-pulgadas-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7560,6 +8336,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 20.0,
+     "precio_lista": 24.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 20.0,
      "precio_lista": 24.0,
      "disponible": true,
@@ -7578,7 +8362,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ducha-electrica-3temperaturas/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7614,6 +8398,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 17.9,
+     "precio_lista": 17.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 17.9,
      "precio_lista": 17.9,
      "disponible": true,
@@ -7632,7 +8424,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ducha-electrica-4temperaturas-con-niple/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7673,6 +8465,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 26.5,
+     "precio_lista": 26.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -7686,7 +8486,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/regadera-redonda-mainstays-metalica-3-1-2-pulgadas/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7735,6 +8535,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 2.0,
+     "precio_lista": 6.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -7748,7 +8556,7 @@
    "modelo": "YD0148",
    "url": "https://www.walmart.com.sv/regadera-metalic-3-1-2plg-yd0148/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7784,6 +8592,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 9.65,
+     "precio_lista": 9.65,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 9.65,
      "precio_lista": 9.65,
      "disponible": true,
@@ -7802,7 +8618,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mezcladora-kidz-time-con-bloques-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7838,6 +8654,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 17.5,
+     "precio_lista": 17.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 17.5,
      "precio_lista": 17.5,
      "disponible": true,
@@ -7856,7 +8680,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mezcladora-para-fregadero-mainstays-acero-inoxidable-cuello-de-ganso-8-pulgadas-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7892,6 +8716,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 22.5,
+     "precio_lista": 30.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 22.5,
      "precio_lista": 30.0,
      "disponible": true,
@@ -7910,7 +8742,7 @@
    "modelo": "NFMI1502ESDI",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-os-nfmi1502esdi-gris-metalico-con-dispensador-de-agua-capacidad-409-l-14-pies-cubicos-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -7946,6 +8778,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 632.61,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 632.61,
      "precio_lista": 639.0,
      "disponible": true,
@@ -7964,7 +8804,7 @@
    "modelo": "DUCRF162CAM",
    "url": "https://www.walmart.com.sv/mini-frigobar-durabrand-color-gris-acero-inoxidable-1-ud-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8000,6 +8840,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 188.1,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 188.1,
      "precio_lista": 190.0,
      "disponible": true,
@@ -8018,7 +8866,7 @@
    "modelo": "OSFDNFS2002PVDI",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-mod-os-fdnfs2002pvdi-french-door-no-frost-575lts-20-3pc-inverter-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8054,6 +8902,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 989.0,
+     "precio_lista": 989.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 989.0,
      "precio_lista": 989.0,
      "disponible": true,
@@ -8072,7 +8928,7 @@
    "modelo": "WRJ43BKTWW",
    "url": "https://www.walmart.com.sv/refrigerador-whirlpool-tm-14pc-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8108,6 +8964,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 765.0,
+     "precio_lista": 765.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 765.0,
      "precio_lista": 765.0,
      "disponible": true,
@@ -8126,7 +8990,7 @@
    "modelo": "NFMI1202SDI",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-silver-os-nfmi1202sdi-12-pies-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8162,6 +9026,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 550.54,
+     "precio_lista": 550.54,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 550.54,
      "precio_lista": 550.54,
      "disponible": true,
@@ -8272,7 +9144,7 @@
    "modelo": "WT02409D",
    "url": "https://www.walmart.com.sv/refrigeradora-whirlpool-inverter-9-pies-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8308,6 +9180,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 449.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 449.0,
      "precio_lista": 449.0,
      "disponible": true,
@@ -8326,7 +9206,7 @@
    "modelo": "WRW45BKTWW",
    "url": "https://www.walmart.com.sv/whirlpool-refrigerad-tm-15pc-0-0-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8362,6 +9242,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 855.0,
+     "precio_lista": 855.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 855.0,
      "precio_lista": 855.0,
      "disponible": true,
@@ -8380,7 +9268,7 @@
    "modelo": "WT1756A",
    "url": "https://www.walmart.com.sv/refrigeradora-top-mount-whirlpool-wt1756a-17-pies-cubicos-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8421,6 +9309,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 692.01,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -8434,7 +9330,7 @@
    "modelo": "OSMBG93PBV",
    "url": "https://www.walmart.com.sv/minibar-oster-mod-os-mbg93pbv-cap-93-lts-3-2pc-color-negro-con-puerta-color-inox-luz-interior-puerta-reversible-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8483,6 +9379,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 198.0,
+     "precio_lista": 200.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -8496,7 +9400,7 @@
    "modelo": "RMA1300FHCAE",
    "url": "https://www.walmart.com.sv/refri-mabe-11ft-sindisp-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8532,6 +9436,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 409.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 409.0,
      "precio_lista": 429.0,
      "disponible": true,
@@ -8550,7 +9462,7 @@
    "modelo": "MNFT17SSEI",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-os-mnft17ssei-17-pies-cubicos-multidoor-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8586,6 +9498,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 919.71,
+     "precio_lista": 929.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 919.71,
      "precio_lista": 929.0,
      "disponible": true,
@@ -8604,7 +9524,7 @@
    "modelo": "WT32409D",
    "url": "https://www.walmart.com.sv/refrigeradora-whirlpool-acero-inoxidable-9-pies-cubicos-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8640,6 +9560,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 479.0,
+     "precio_lista": 479.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 479.0,
      "precio_lista": 479.0,
      "disponible": true,
@@ -8658,7 +9586,7 @@
    "modelo": "DUWTT302CAM",
    "url": "https://www.walmart.com.sv/refrigeradora-durabrand-inverter-10-5-pies-cubicos-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8694,6 +9622,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 444.51,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 444.51,
      "precio_lista": 449.0,
      "disponible": true,
@@ -8712,7 +9648,7 @@
    "modelo": "SBSH115BG",
    "url": "https://www.walmart.com.sv/refrigerador-side-by-side-oster-15-pc-color-negro-frente-de-vidrio-templado-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8748,6 +9684,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 989.0,
+     "precio_lista": 989.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 989.0,
      "precio_lista": 989.0,
      "disponible": true,
@@ -8766,7 +9710,7 @@
    "modelo": "RT53DG6124S9AP",
    "url": "https://www.walmart.com.sv/ref-rt53dg6124-samsung-18-ft-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8802,6 +9746,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 612.81,
+     "precio_lista": 679.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 612.81,
      "precio_lista": 679.0,
      "disponible": true,
@@ -8820,7 +9772,7 @@
    "modelo": "DFMI187VD",
    "url": "https://www.walmart.com.sv/refrigeradora-defrost-oster-os-dfmi187vd-plateada-con-dispensador-6-6-pies-cubicos-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8856,6 +9808,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 345.0,
+     "precio_lista": 345.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 345.0,
      "precio_lista": 345.0,
      "disponible": true,
@@ -8874,7 +9834,7 @@
    "modelo": "OSMDS1902IWW",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-os-mds1902iww-inverter-20-ft3-multidoor-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8910,6 +9870,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 876.15,
+     "precio_lista": 935.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 876.15,
      "precio_lista": 935.0,
      "disponible": true,
@@ -8958,7 +9926,7 @@
    "modelo": "DUSRF112CAM",
    "url": "https://www.walmart.com.sv/refrigerador-durabrand-sbs-inverter-2-puertas-y-15-pies-cubicos-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -8994,6 +9962,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 699.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 699.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -9012,7 +9988,7 @@
    "modelo": "WD5620S",
    "url": "https://www.walmart.com.sv/refrigerador-whirpool-side-by-side-xpert-energy-wd5620s-25-pies-cubicos-s133/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9053,6 +10029,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1195.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -9066,7 +10050,7 @@
    "modelo": "RT38DG6224S",
    "url": "https://www.walmart.com.sv/refrigeradora-samsung-13pc-rt38dg6224-s84/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9107,6 +10091,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 484.11,
+     "precio_lista": 579.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -9120,7 +10112,7 @@
    "modelo": "OSSBST1702SDI",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-sbs-os-sbst1702sdi-2-puertas-de-18-pies-cubicos-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9156,6 +10148,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 699.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 699.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -9174,7 +10174,7 @@
    "modelo": "SBSS1502EGBI",
    "url": "https://www.walmart.com.sv/refrigeradora-oster-os-sbss1502egbi-negra-capacidad-445-l-15-pies-cubicos-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9210,6 +10210,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 850.41,
+     "precio_lista": 859.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 850.41,
      "precio_lista": 859.0,
      "disponible": true,
@@ -9228,7 +10236,7 @@
    "modelo": "WRW32DKTWW",
    "url": "https://www.walmart.com.sv/refrigerador-whirlpool-tm-11-pies-cubicos-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9264,6 +10272,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 589.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 589.0,
      "precio_lista": 589.0,
      "disponible": true,
@@ -9282,7 +10298,7 @@
    "modelo": "WD1600S",
    "url": "https://www.walmart.com.sv/refrigerador-whirlpool-side-by-side-18-pies-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9318,6 +10334,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 741.51,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 741.51,
      "precio_lista": 899.0,
      "disponible": true,
@@ -9336,7 +10360,7 @@
    "modelo": "MSM544LMLSS0",
    "url": "https://www.walmart.com.sv/refrig-mabe-19ft-56-sbs-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9372,6 +10396,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 649.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 649.0,
      "precio_lista": 749.0,
      "disponible": true,
@@ -9390,7 +10422,7 @@
    "modelo": "WSMDW20W",
    "url": "https://www.walmart.com.sv/lavadora-digital-oster-os-wsmdw20w-blanca-con-capacidad-20-kg-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9426,6 +10458,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 475.0,
+     "precio_lista": 475.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 475.0,
      "precio_lista": 475.0,
      "disponible": true,
@@ -9444,7 +10484,7 @@
    "modelo": "WW20BTAHLA",
    "url": "https://www.walmart.com.sv/lavadora-whirlpool-wm20bthla-negra-automatica-digital-capacidad-20-kg-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9480,6 +10520,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 494.01,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 494.01,
      "precio_lista": 585.0,
      "disponible": true,
@@ -9498,7 +10546,7 @@
    "modelo": "WW17KBAHLA",
    "url": "https://www.walmart.com.sv/lavadora-whirpool-automatica-digital-capacidad-17-kg-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9534,6 +10582,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 449.0,
+     "precio_lista": 539.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 449.0,
      "precio_lista": 539.0,
      "disponible": true,
@@ -9552,7 +10608,7 @@
    "modelo": "8MWTW2054WRM",
    "url": "https://www.walmart.com.sv/whirlpool-lavadora-agitador-2en1-20kg-sv9937-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9588,6 +10644,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 434.61,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 434.61,
      "precio_lista": 499.0,
      "disponible": true,
@@ -9606,7 +10670,7 @@
    "modelo": "OSWSMDW172W",
    "url": "https://www.walmart.com.sv/lavadora-automatica-oster-os-wsmdw172w-capacidad-17-kg-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9642,6 +10706,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 410.62,
+     "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 410.62,
      "precio_lista": 459.0,
      "disponible": true,
@@ -9660,7 +10732,7 @@
    "modelo": "WWG15BSHLA",
    "url": "https://www.walmart.com.sv/lavadora-whirlpool-automatica-digital-capacidad-15-kg-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9696,6 +10768,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 499.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -9714,7 +10794,7 @@
    "modelo": "LMA46102VBAB0",
    "url": "https://www.walmart.com.sv/lavadora-mabe-lma-46102-vbab-blanca-capacidad-16-kg-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9750,6 +10830,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 449.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 449.0,
      "precio_lista": 449.0,
      "disponible": true,
@@ -9768,7 +10856,7 @@
    "modelo": "8MWTW2224WJM",
    "url": "https://www.walmart.com.sv/lavadora-whirlpool-8mwtw2224wjm-automatica-blanca-capacidad-22-kg-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9804,6 +10892,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 436.59,
+     "precio_lista": 615.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 436.59,
      "precio_lista": 615.0,
      "disponible": true,
@@ -9822,7 +10918,7 @@
    "modelo": "WWG18CSHLA",
    "url": "https://www.walmart.com.sv/lavadora-whirlpool-aut-18kg-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9858,6 +10954,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 550.0,
+     "precio_lista": 550.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 550.0,
      "precio_lista": 550.0,
      "disponible": true,
@@ -9922,7 +11026,7 @@
    "modelo": "DUAWM221CAM",
    "url": "https://www.walmart.com.sv/lavadora-durabrand-carga-frontal-blanca-con-capacidad-de-10-5-kg-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -9958,6 +11062,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 315.81,
+     "precio_lista": 439.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 315.81,
      "precio_lista": 439.0,
      "disponible": true,
@@ -9976,7 +11088,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/microondas-hamilton-beach-de-0-7-pies-cubicos-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10012,6 +11124,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 74.0,
+     "precio_lista": 74.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 74.0,
      "precio_lista": 74.0,
      "disponible": true,
@@ -10030,7 +11150,7 @@
    "modelo": "OGGME2701",
    "url": "https://www.walmart.com.sv/horno-microondas-oster-mod-oggme2701-cap-20-litros-0-7-pcs-color-blanco-control-digital-funcion-de-descongelado-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10066,6 +11186,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 67.62,
+     "precio_lista": 95.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 67.62,
      "precio_lista": 95.0,
      "disponible": true,
@@ -10084,7 +11212,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/hamilton-beach-microondas-0-9-pc-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10120,6 +11248,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 70.56,
+     "precio_lista": 80.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 70.56,
      "precio_lista": 80.0,
      "disponible": true,
@@ -10138,7 +11274,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/microondas-toshiba-digital-1-1-pc/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10174,6 +11310,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 139.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 139.0,
      "precio_lista": 139.0,
      "disponible": true,
@@ -10192,7 +11336,7 @@
    "modelo": "WM1807B",
    "url": "https://www.walmart.com.sv/microondas-whirlpool-digital-color-negro/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10228,6 +11372,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 86.99,
+     "precio_lista": 86.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 86.99,
      "precio_lista": 86.99,
      "disponible": true,
@@ -10246,7 +11398,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mainstays-microondas-digital-30l-1-1cf-2-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10282,6 +11434,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 99.0,
      "precio_lista": 99.0,
      "disponible": true,
@@ -10354,7 +11514,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/whirlpool-microondas-1-1-pc-30lts-espejo-2/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10390,6 +11550,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 119.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 119.0,
      "precio_lista": 119.0,
      "disponible": true,
@@ -10408,7 +11576,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/hamilton-beach-microondas-1-1-pc-inox-s49/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10444,6 +11612,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 93.1,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 93.1,
      "precio_lista": 109.0,
      "disponible": true,
@@ -10462,7 +11638,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mainstays-microondas-digital-25l-0-9cf-8-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10498,6 +11674,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 90.0,
+     "precio_lista": 90.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 90.0,
      "precio_lista": 90.0,
      "disponible": true,
@@ -10516,7 +11700,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/microondas-hamilton-beach-0-9-pies-cubicos-acero-inoxidable/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10552,6 +11736,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 94.0,
+     "precio_lista": 94.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 94.0,
      "precio_lista": 94.0,
      "disponible": true,
@@ -10570,7 +11762,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/hornos-de-microondas-y-tostadores-oster-oster-microondas-07-plateado-espejo-sv8874-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10606,6 +11798,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 99.0,
      "precio_lista": 99.0,
      "disponible": true,
@@ -10624,7 +11824,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/horno-microondas-oster-mod-ogm3702-capacidad-20-litros-0-7-pies-cubicos-color-negro-control-manual-funcion-de-descongelado-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10660,6 +11860,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 75.0,
+     "precio_lista": 75.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 75.0,
      "precio_lista": 75.0,
      "disponible": true,
@@ -10678,7 +11886,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/durabrand-microondas-digital-20l-0-7cf-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10714,6 +11922,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 68.0,
+     "precio_lista": 68.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 68.0,
      "precio_lista": 68.0,
      "disponible": true,
@@ -10732,7 +11948,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/durabrand-microondas-dig-1-1-negro-s237/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10768,6 +11984,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 50.0,
+     "precio_lista": 80.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 50.0,
      "precio_lista": 80.0,
      "disponible": true,
@@ -10786,7 +12010,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/freidora-de-aire-cuisinart-7-2l-sv6502-5-4/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10822,6 +12046,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 122.5,
+     "precio_lista": 142.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 122.5,
      "precio_lista": 142.0,
      "disponible": true,
@@ -10840,7 +12072,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/freidora-de-aire-xiaomi-smart-65l-sv4836-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10876,6 +12108,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 130.0,
+     "precio_lista": 130.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 130.0,
      "precio_lista": 130.0,
      "disponible": true,
@@ -10894,7 +12134,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/rca-freidora-de-aire-5-litros/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10930,6 +12170,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 71.1,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 71.1,
      "precio_lista": 79.0,
      "disponible": true,
@@ -10948,7 +12196,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/hb-freidora-de-aire-digital-5-5-litros-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -10984,6 +12232,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 129.0,
+     "precio_lista": 129.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 129.0,
      "precio_lista": 129.0,
      "disponible": true,
@@ -11002,7 +12258,7 @@
    "modelo": "AIR370",
    "url": "https://www.walmart.com.sv/freidora-de-aire-cuisinart-4-2l-air370-sv8881-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11038,6 +12294,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 131.0,
+     "precio_lista": 131.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 131.0,
      "precio_lista": 131.0,
      "disponible": true,
@@ -11056,7 +12320,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mainstays-freidora-aire-digital-de-7lts-3-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11084,6 +12348,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 50.0,
+     "precio_lista": 50.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 50.0,
      "precio_lista": 50.0,
      "disponible": true,
@@ -11102,7 +12374,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mainstays-freidora-d-aire-mecanica-4lts-s640-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11138,6 +12410,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 60.0,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 60.0,
      "precio_lista": 60.0,
      "disponible": true,
@@ -11156,7 +12436,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/freidora-de-aire-black-decker-digital-capacidad-5-5-l-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11192,6 +12472,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 89.0,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 89.0,
      "precio_lista": 89.0,
      "disponible": true,
@@ -11210,7 +12498,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/freidora-aire-mainstays-digital-de-4-latas-5-6-5-0-7-8-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11246,6 +12534,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 60.0,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 60.0,
      "precio_lista": 60.0,
      "disponible": true,
@@ -11264,7 +12560,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/black-a-decker-freidora-digital-8-litros-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11300,6 +12596,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 134.0,
+     "precio_lista": 134.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 134.0,
      "precio_lista": 134.0,
      "disponible": true,
@@ -11372,7 +12676,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/kit-de-teclado-y-mouse-xtech-inalabrico-sv8863-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11408,6 +12712,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 30.0,
+     "precio_lista": 39.54,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 30.0,
      "precio_lista": 39.54,
      "disponible": true,
@@ -11426,7 +12738,7 @@
    "modelo": "072509BL",
    "url": "https://www.walmart.com.sv/teclado-mouse-durabra-inala-int-072509bl-sv2097-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11462,6 +12774,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 12.0,
+     "precio_lista": 12.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 12.0,
      "precio_lista": 12.0,
      "disponible": true,
@@ -11480,7 +12800,7 @@
    "modelo": "ARGKB2051BK",
    "url": "https://www.walmart.com.sv/kit-teclado-y-mouse-gaming-argom-usb-sv4730-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11516,6 +12836,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 19.0,
+     "precio_lista": 21.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 19.0,
      "precio_lista": 21.0,
      "disponible": true,
@@ -11534,7 +12862,7 @@
    "modelo": "KCK270S",
    "url": "https://www.walmart.com.sv/teclado-y-mouse-inala-revolution-kck270s-sv9947-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11570,6 +12898,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 23.35,
+     "precio_lista": 23.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 23.35,
      "precio_lista": 23.35,
      "disponible": true,
@@ -11588,7 +12924,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ventilador-laptop-ajustable-argom-led-sv390-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11624,6 +12960,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 16.0,
+     "precio_lista": 16.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 16.0,
      "precio_lista": 16.0,
      "disponible": true,
@@ -11696,7 +13040,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-con-microfono-xtech-usb-sv3446-5-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11732,6 +13076,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 10.0,
+     "precio_lista": 10.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 10.0,
      "precio_lista": 10.0,
      "disponible": true,
@@ -11750,7 +13102,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/audifonos-con-microfono-xtech-usb-c-sv4744-5-5/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11791,6 +13143,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 12.0,
+     "precio_lista": 12.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -11804,7 +13164,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-wireless-argom-azul-sv1128-5-3/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11840,6 +13200,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 7.42,
+     "precio_lista": 7.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 7.42,
      "precio_lista": 7.49,
      "disponible": true,
@@ -11858,7 +13226,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-wireless-argom-negro-sv413-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11894,6 +13262,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 7.42,
+     "precio_lista": 7.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 7.42,
      "precio_lista": 7.49,
      "disponible": true,
@@ -11912,7 +13288,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-logitech-m170-azul-sv9760-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -11948,6 +13324,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 14.15,
+     "precio_lista": 14.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 14.15,
      "precio_lista": 14.15,
      "disponible": true,
@@ -11966,7 +13350,7 @@
    "modelo": "INT122005W",
    "url": "https://www.walmart.com.sv/mouse-durabrand-inalambrico-int-122005w-sv7587-5-1/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12002,6 +13386,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 5.5,
+     "precio_lista": 5.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 5.5,
      "precio_lista": 5.5,
      "disponible": true,
@@ -12020,7 +13412,7 @@
    "modelo": "211201W",
    "url": "https://www.walmart.com.sv/mouse-blanco-durabrand-int-211201w-sv712-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12056,6 +13448,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 2.99,
+     "precio_lista": 2.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 2.99,
      "precio_lista": 2.99,
      "disponible": true,
@@ -12074,7 +13474,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-optico-usb-argom-rojo-sv7865-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12110,6 +13510,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 4.95,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 4.95,
      "precio_lista": 5.99,
      "disponible": true,
@@ -12128,7 +13536,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-klip-inalambrico-optico-3d-sv8392-5-6/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12164,6 +13572,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 9.4,
+     "precio_lista": 9.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 9.4,
      "precio_lista": 9.4,
      "disponible": true,
@@ -12182,7 +13598,7 @@
    "modelo": "122005B",
    "url": "https://www.walmart.com.sv/mouse-durabrand-inalambrico-int-122005b-sv2182-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12218,6 +13634,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 3.99,
+     "precio_lista": 3.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 3.99,
      "precio_lista": 3.99,
      "disponible": true,
@@ -12236,7 +13660,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/mouse-optico-usb-argom-negro-sv9943-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12272,6 +13696,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 4.95,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 4.95,
      "precio_lista": 5.99,
      "disponible": true,
@@ -12290,7 +13722,7 @@
    "modelo": "310BL",
    "url": "https://www.walmart.com.sv/mouse-xtech-inalambrico-xtm-310bl-azul-sv4649-5-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12326,6 +13758,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 6.35,
+     "precio_lista": 6.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 6.35,
      "precio_lista": 6.35,
      "disponible": true,
@@ -12344,7 +13784,7 @@
    "modelo": "KMW340BL",
    "url": "https://www.walmart.com.sv/mouse-klip-kmw340bl-bluetooh-nano-sv9318-5-7/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12380,6 +13820,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 8.9,
+     "precio_lista": 8.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 8.9,
      "precio_lista": 8.9,
      "disponible": true,
@@ -12398,7 +13846,7 @@
    "modelo": "KMO120BK",
    "url": "https://www.walmart.com.sv/mouse-klip-optico-usb-kmo120bk-sv919-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12434,6 +13882,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 7.5,
+     "precio_lista": 7.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 7.5,
      "precio_lista": 7.5,
      "disponible": true,
@@ -12452,7 +13908,7 @@
    "modelo": "WDM2BP",
    "url": "https://www.walmart.com.sv/mouse-purpu-con-luz-durabrand-int-wdm2bp-sv3567-5-0/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:08:26-06:00",
@@ -12488,6 +13944,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 1.99,
+     "precio_lista": 1.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 1.99,
      "precio_lista": 1.99,
      "disponible": true,
@@ -12552,7 +14016,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/guitarra-electrica-marca-sky/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:38:17-06:00",
@@ -12580,6 +14044,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 1.25,
+     "precio_lista": 1.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 1.25,
      "precio_lista": 1.25,
      "disponible": true,
@@ -12598,7 +14070,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/microfono-durabrand-para-karaokeint-e103-sv829-5-2/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:38:17-06:00",
@@ -12626,6 +14098,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 14.85,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 14.85,
      "precio_lista": 22.0,
      "disponible": true,
@@ -12666,7 +14146,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/microfono-durab-inalambrico-con-adapta-i-sv2846-5-2/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:38:17-06:00",
@@ -12694,6 +14174,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 7.92,
+     "precio_lista": 11.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 7.92,
      "precio_lista": 11.0,
      "disponible": true,
@@ -12712,7 +14200,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/durabrand-microfono-mini-usb-c-0/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:38:17-06:00",
@@ -12745,6 +14233,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 4.9,
+     "precio_lista": 4.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -12758,7 +14254,7 @@
    "modelo": "UN50U8000",
    "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-4k-un50u8000-50-pulgadas-1-in-2-54-cm-7/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-21T16:48:59-06:00",
@@ -12791,6 +14287,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 341.55,
+     "precio_lista": 439.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -12804,7 +14308,7 @@
    "modelo": "JX18E207",
    "url": "https://www.walmart.com.sv/repisa-mainstays-para-pared-jx-18e207-1/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-22T11:15:38-06:00",
@@ -12824,6 +14328,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 10.0,
+     "precio_lista": 12.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 10.0,
      "precio_lista": 12.5,
      "disponible": true,
@@ -12842,7 +14354,7 @@
    "modelo": "RT31DG5124S9AP",
    "url": "https://www.walmart.com.sv/refrigeradora-samsung-rt31dg5124s9-colores-surtidos-2/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-22T11:15:38-06:00",
@@ -12862,6 +14374,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 414.81,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 414.81,
      "precio_lista": 499.0,
      "disponible": true,
@@ -12880,7 +14400,7 @@
    "modelo": "8MWTW2423WPM",
    "url": "https://www.walmart.com.sv/lavadora-whirpool-8mwtw2423wpm-automatica-capacidad-24-kg-8/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-22T11:15:38-06:00",
@@ -12900,6 +14420,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 480.15,
+     "precio_lista": 739.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 480.15,
      "precio_lista": 739.0,
      "disponible": true,
@@ -12940,7 +14468,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/earbuds-jbl-tune-beam-tw-noise-cancell/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-22T16:49:21-06:00",
@@ -12960,6 +14488,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 75.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 75.0,
      "precio_lista": 99.0,
      "disponible": true,
@@ -13054,7 +14590,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/h390-usb-computer-headset-off-white-samr/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-22T16:49:21-06:00",
@@ -13074,6 +14610,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 34.95,
+     "precio_lista": 34.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 34.95,
      "precio_lista": 34.95,
      "disponible": true,
@@ -13092,7 +14636,7 @@
    "modelo": "12400T",
    "url": "https://www.walmart.com.sv/gladius-primus-dark-side-sv4902-5-5/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-22T16:49:21-06:00",
@@ -13117,6 +14661,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
+     "precio": 30.0,
+     "precio_lista": 45.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ]
   },
@@ -13130,7 +14682,7 @@
    "modelo": "PULGADAS5",
    "url": "https://www.walmart.com.sv/acer-aspirelite-i38ram128ssd-156-sv1412-5-4/p",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-25",
    "observaciones": [
     {
      "fecha": "2026-10-23T16:41:36-06:00",
@@ -13142,6 +14694,14 @@
     },
     {
      "fecha": "2026-10-24T10:00:09-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-25T10:20:23-06:00",
      "precio": 499.0,
      "precio_lista": 499.0,
      "disponible": true,
