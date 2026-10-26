@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-26T12:52:03-06:00",
+ "actualizado": "2026-10-26T17:30:23-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -20101,7 +20101,7 @@
    "modelo": "",
    "url": "https://zonadigitalsv.com/product/auriculares-tws-bluetooth-motorola-buds-loop-sonido-bose-hasta-37h-audio-espacial-inmersivo",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:47-06:00",
@@ -20126,8 +20126,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:30:23-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada68dd50a3cb11a.jpg"
   },
   "14117": {
    "nombre": "Headset inalambrico anker souncore space one anc hi-res audio multipoint connection negro a3035z11",
@@ -22936,7 +22945,7 @@
    "modelo": "JBLVBUDS2BLKAM",
    "url": "https://zonadigitalsv.com/product/auriculares-tws-bluetooth-jbl-vibe-buds-2-negro-jblvbuds2blkam",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:47-06:00",
@@ -22985,8 +22994,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:30:23-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/rt6PwNvhxo3uyV8Y2SbqqgO5yEb7WYtnqCwRzfHK.png"
   },
   "12893": {
    "nombre": "Mouse inalambrico bluetooth y logi bolt ergonomico logitech ergo m575s negro 910-007031",

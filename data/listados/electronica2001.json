@@ -1,6 +1,6 @@
 {
  "comercial": "electronica2001",
- "actualizado": "2026-10-26T12:57:25-06:00",
+ "actualizado": "2026-10-26T17:35:13-06:00",
  "listados": {
   "001-131BK": {
    "nombre": "RS39C-BK GUITARRA CLASICA C/ RECORTE 39 C/ESTUCHE TJ- SEVILLA",
@@ -22881,7 +22881,7 @@
    "modelo": "NSPULSE4BCM",
    "url": "https://electronica2001es.com/search2.php?js=001-769BC",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:51:31-06:00",
@@ -22917,6 +22917,14 @@
     },
     {
      "fecha": "2026-10-25T10:30:23-06:00",
+     "precio": 1350.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:35:13-06:00",
      "precio": 1350.0,
      "precio_lista": null,
      "disponible": true,

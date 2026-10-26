@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-10-26T12:55:17-06:00",
+ "actualizado": "2026-10-26T17:33:10-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -23741,6 +23741,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 37.8,
+     "precio_lista": 42.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/432341_99.jpg?v=120261026"
@@ -24981,6 +24989,14 @@
      "fecha": "2026-10-26T12:55:17-06:00",
      "precio": 49.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 42.46,
+     "precio_lista": 49.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -27376,6 +27392,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 125.8,
+     "precio_lista": 142.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/119741_99.jpg?v=120261026"
@@ -29014,6 +29038,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 30.77,
+     "precio_lista": 43.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/148468_99.jpg?v=120261026"
@@ -29074,6 +29106,14 @@
      "fecha": "2026-10-26T12:55:17-06:00",
      "precio": 49.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 34.97,
+     "precio_lista": 49.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -29263,6 +29303,14 @@
      "fecha": "2026-10-26T12:55:17-06:00",
      "precio": 39.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 35.16,
+     "precio_lista": 39.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -30085,6 +30133,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 16.96,
+     "precio_lista": 19.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/115542_99.jpg?v=120261026"
@@ -30589,6 +30645,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 14.8,
+     "precio_lista": 18.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/84501.jpg?v=120261026"
@@ -30712,6 +30776,14 @@
      "fecha": "2026-10-26T12:55:17-06:00",
      "precio": 5.5,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 4.13,
+     "precio_lista": 5.5,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -31405,6 +31477,14 @@
      "fecha": "2026-10-26T12:55:17-06:00",
      "precio": 16.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 13.56,
+     "precio_lista": 16.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -32602,7 +32682,7 @@
    "modelo": "33X33",
    "url": "https://www.vidri.com.sv/producto/486114/ceramica-de-piso-33x33-cm-argelia-verde-caja-133-m2.html",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-21T17:01:00-06:00",
@@ -32643,9 +32723,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:33:10-06:00",
+     "precio": 13.2,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/486114.jpg?v=120261025"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/486114.jpg?v=120261026"
   },
   "33123": {
    "nombre": "Repisa para closet 12 Pulg x 6 Pies (30.48 Cm x 1.82 M)",

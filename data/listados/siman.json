@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-26T12:43:55-06:00",
+ "actualizado": "2026-10-26T17:23:45-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -15799,7 +15799,7 @@
    "modelo": "BALLISTA82T",
    "url": "https://sv.siman.com/teclado-gaming-ballista-3-mode-rgb-88-boba-fett-105091774/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -15843,6 +15843,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 69.9,
+     "precio_lista": 69.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 69.9,
      "precio_lista": 69.9,
      "disponible": true,
@@ -15862,7 +15870,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/teclado-gaming-blackwidow-v4-x-mecanico-edicion-de-pokemon-kanto-starters-105169839/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -15906,6 +15914,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 190.0,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 190.0,
      "precio_lista": 190.0,
      "disponible": true,
@@ -44294,6 +44310,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 59.0,
+     "precio_lista": 119.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5036136-300-300/104431348.jpg"
@@ -49197,7 +49221,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-buds-gaming-blancos-104876364/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49233,6 +49257,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 35.9,
+     "precio_lista": 35.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 35.9,
      "precio_lista": 35.9,
      "disponible": true,
@@ -49252,7 +49284,7 @@
    "modelo": "ARCUS300SBT",
    "url": "https://sv.siman.com/audifonos-buds-gaming-blancos-104876364/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49288,6 +49320,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 35.9,
+     "precio_lista": 35.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 35.9,
      "precio_lista": 35.9,
      "disponible": true,
@@ -49307,7 +49347,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-deportivos-skeipods-e95-negro-104888219/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49348,6 +49388,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6768499-300-300/104888219.jpg"
@@ -49362,7 +49410,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-tws-noise-cancelling-beats-studio-buds-gris-104385608/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49403,6 +49451,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 7.1,
+     "precio_lista": 71.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4680408-300-300/104212796.jpg"
@@ -49417,7 +49473,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-tws-noise-cancelling-beats-studio-buds-gris-104385608/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49453,6 +49509,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 214.0,
+     "precio_lista": 214.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 214.0,
      "precio_lista": 214.0,
      "disponible": true,
@@ -49472,7 +49536,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-in-ear-bt-tws-noise-cancelling-beats-studio-buds-gris-104385608/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49513,6 +49577,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 54.99,
+     "precio_lista": 214.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4883748-300-300/104385607.jpg"
@@ -49527,7 +49599,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-on-ear-bt-go-work-pop-negro-104924345/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49568,6 +49640,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6845085-300-300/104924347.jpg"
@@ -49582,7 +49662,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-on-ear-bt-go-work-pop-negro-104924345/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49623,6 +49703,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 26.0,
+     "precio_lista": 26.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6845078-300-300/104924346.jpg"
@@ -49637,7 +49725,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-on-ear-bt-go-work-pop-negro-104924345/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49673,6 +49761,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 50.91,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 50.91,
      "precio_lista": 59.9,
      "disponible": true,
@@ -49692,7 +49788,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-icon-anc-negro-104914503/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49728,6 +49824,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 119.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 119.0,
      "precio_lista": 119.0,
      "disponible": true,
@@ -49747,7 +49851,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-on-ear-bt-icon-anc-negro-104914503/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49788,6 +49892,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 54.99,
+     "precio_lista": 119.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787973-300-300/104914504.jpg"
@@ -49802,7 +49914,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifono-gaming-bt-in-ear-ps5-pulse-explorer-negro-104861373/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -49846,6 +49958,14 @@
     },
     {
      "fecha": "2026-10-25T10:19:27-06:00",
+     "precio": 269.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
      "precio": 269.0,
      "precio_lista": 269.0,
      "disponible": true,
@@ -55828,6 +55948,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 34.9,
+     "precio_lista": 34.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 3.49,
      "precio_lista": 34.9,
      "disponible": false,
      "fuente": "auto",
@@ -82886,7 +83014,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/grifo-led-para-lavabo-de-baño-con-iluminacion-multicolor-moderno-y-funcional-823475434/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-25",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -82935,8 +83063,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 79.95,
+     "precio_lista": 79.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6448797-300-300/image-6ef5f0bcc87c46d6aa294bdc958c392c.jpg"
   },
   "10031540": {
    "nombre": "Grifo LED para Lavabo de Baño con 3 Colores de Iluminación para Efecto Estético — Grifo para lavabo de baño, con iluminacion led 3 colores",
@@ -95484,7 +95621,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/airpods-4-with-active-noise-cancellation-104790672/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-21",
+   "ultima_vez": "2026-10-26",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -95493,8 +95630,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 259.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6371135-300-300/104790672.jpg"
   },
   "8414389": {
    "nombre": "Lavadora automática carga superior 26 kg agitador 2 en 1 8MWTW2654WRM Whirlpool — UPPER(U438)",
@@ -98489,6 +98635,305 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7866462-300-300/105158917-1.jpg"
+  },
+  "10049371": {
+   "nombre": "Teclado Logitech K250 920-013445 — Teclado Logitech K250 920-013446",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "",
+   "url": "https://sv.siman.com/teclado-logitech-k250-920-013445-823486349/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 25.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7544767-300-300/image-1ffb4d630cb24460a678025fbe9bb919.jpg"
+  },
+  "8890253": {
+   "nombre": "Silla para oficina secretarial — SILLA SECRETARIAL BLK",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Home Furniture",
+   "modelo": "",
+   "url": "https://sv.siman.com/silla-secretarial-105186404/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 169.0,
+     "precio_lista": 169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8087638-300-300/105186412-ia.jpg"
+  },
+  "8890258": {
+   "nombre": "Silla para oficina secretarial — SILLA SECRETARIAL BEIGE",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Home Furniture",
+   "modelo": "",
+   "url": "https://sv.siman.com/silla-secretarial-105186404/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 169.0,
+     "precio_lista": 169.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7863635-300-300/105186413_NDEF.jpg"
+  },
+  "8890793": {
+   "nombre": "Silla para oficina secretarial — SILLA SECRETARIAL GREYGE",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Home Furniture",
+   "modelo": "",
+   "url": "https://sv.siman.com/silla-secretarial-105186404/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 169.0,
+     "precio_lista": 169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8087649-300-300/105186720-ia.jpg"
+  },
+  "10071275": {
+   "nombre": "SILLA EJECUTIVA RAVENA MALLA PESO MAX 220 LBS FERRINI",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ferrini",
+   "modelo": "",
+   "url": "https://sv.siman.com/silla-ejecutiva-ravena-malla-peso-max-220-lbs-ferrini-823492867/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 59.0,
+     "precio_lista": 68.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8670928-300-300/image-74da9167c7514afaab18af2a1c76abe7.jpg"
+  },
+  "10071273": {
+   "nombre": "SILLA EJECUTIVA MODENA R-ALTO MALLA PESO MAX 265LB FERRINI",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ferrini",
+   "modelo": "265LB",
+   "url": "https://sv.siman.com/silla-ejecutiva-modena-r-alto-malla-peso-max-265lb-ferrini-823492865/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 89.0,
+     "precio_lista": 105.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8670926-300-300/image-722c598ae8bd48b693d081077a237504.jpg"
+  },
+  "10071270": {
+   "nombre": "SILLA EJECUTIVA VERONA BRAZO AJUSTABLE MALLA PESO MAX 220LB FERRINI NEGRO CLASE 3",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ferrini",
+   "modelo": "220LB",
+   "url": "https://sv.siman.com/silla-ejecutiva-verona-brazo-ajustable-malla-peso-max-220lb-ferrini-negro-clase-3-823492862/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 85.0,
+     "precio_lista": 98.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8670920-300-300/image-f7178af6b7334ab0a048237a5dc955b5.jpg"
+  },
+  "10071271": {
+   "nombre": "SILLA EJECUTIVA VERONA BRAZO AJUSTABLE MALLA PESO MAX 220LB REPOSA CABEZA FERRINI NEGRO CLASE 3",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ferrini",
+   "modelo": "220LB",
+   "url": "https://sv.siman.com/silla-ejecutiva-verona-brazo-ajustable-malla-peso-max-220lb-reposa-cabeza-ferrini-negro-clase-3-823492863/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 97.0,
+     "precio_lista": 116.93,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8670923-300-300/image-ced238849f62414f9d5563c36ff94504.jpg"
+  },
+  "10071269": {
+   "nombre": "SILLA EJECUTIVA VERONA BRAZO AJUSTABLE MALLA PESO MAX 220LB FERRINI GRIS BASE BLANCO CLASE 3",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ferrini",
+   "modelo": "220LB",
+   "url": "https://sv.siman.com/silla-ejecutiva-verona-brazo-ajustable-malla-peso-max-220lb-ferrini-gris-base-blanco-clase-3-823492861/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 85.0,
+     "precio_lista": 98.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8670919-300-300/image-c907dc3773354a459d777e451cbaeea9.jpg"
+  },
+  "10071268": {
+   "nombre": "SILLA EJECUTIVA VERONA BRAZO AJUSTABLE MALLA PESO MAX 220LB REPOSA CABEZA FERRINI GRIS BASE BLANCO C",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ferrini",
+   "modelo": "220LB",
+   "url": "https://sv.siman.com/silla-ejecutiva-verona-brazo-ajustable-malla-peso-max-220lb-reposa-cabeza-ferrini-gris-base-blanco-c-823492860/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 97.0,
+     "precio_lista": 116.93,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8670917-300-300/image-cb9594a4802e493fa88eea6aa6bdc393.jpg"
+  },
+  "9130607": {
+   "nombre": "Audífonos Gaming Inalámbricos on ear HyperX Cloud Jet — AUDIFONOS GAMING ALAMBRICOS CLOUD JET-NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HyperX",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifonos-gaming-alambricos-cloud-jet-negro-105379497/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 79.9,
+     "precio_lista": 79.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8545538-300-300/105379497.jpg"
+  },
+  "9130611": {
+   "nombre": "Mouse Gaming con cable HyperX Pulsefire Core RGB — MOUSE GAMING ALAMBRICO PULSEFIRE HASTE 2- NEGRO",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HyperX",
+   "modelo": "",
+   "url": "https://sv.siman.com/mouse-gaming-alambrico-pulsefire-haste-2-negro-105379499/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 74.9,
+     "precio_lista": 74.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8531319-300-300/105379499.jpg"
+  },
+  "9130609": {
+   "nombre": "Mouse Gaming HyperX Pulsefire Core RGB con cable — MOUSE GAMING USB CORE PULSEFIRE- NEGRO",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HyperX",
+   "modelo": "",
+   "url": "https://sv.siman.com/mouse-gaming-usb-core-pulsefire-negro-105379498/p",
+   "primera_vez": "2026-10-26",
+   "ultima_vez": "2026-10-26",
+   "observaciones": [
+    {
+     "fecha": "2026-10-26T17:23:45-06:00",
+     "precio": 44.9,
+     "precio_lista": 44.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8531310-300-300/105379498.jpg"
   }
  }
 }
