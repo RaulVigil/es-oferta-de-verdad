@@ -133,6 +133,23 @@ a { color: inherit; }
 .datos div { display: flex; flex-direction: column-reverse; }
 .datos dt { font-size: 12px; color: var(--gris); }
 .datos dd { margin: 0; font: 500 22px/1.15 var(--mono); letter-spacing: -.02em; }
+/* "ofertas reales hoy" filtra la lista: todo el dato es clicable */
+.dato-filtro { position: relative; }
+.dato-filtro dt { text-decoration: underline dotted; text-underline-offset: 3px; }
+.dato-filtro button {
+  font: inherit; letter-spacing: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0 4px;
+  margin: 0 -4px;
+  border-radius: 4px;
+  cursor: pointer;
+}
+.dato-filtro button::after { content: ""; position: absolute; inset: -4px -6px; }
+.dato-filtro:hover dt { color: var(--tinta); }
+.dato-filtro button[aria-pressed="true"] { background: var(--marca); color: #151514; }
+.interruptor small { font-size: 11px; color: var(--gris); }
 @media (prefers-color-scheme: dark) {
   /* en oscuro el marcatextos translucido se ve oliva: amarillo solido con tinta oscura */
   .heroe h1 em { background: var(--marca); color: #151514; padding: 0 .12em; border-radius: 4px; }
@@ -433,15 +450,69 @@ body.con-detalle { overflow: hidden; }
 .d-sup a { text-transform: none; letter-spacing: 0; font: 13px var(--sans); color: var(--tinta); text-underline-offset: 3px; }
 .d-cabeza { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 16px; align-items: start; }
 .d-foto {
+  position: relative;
+  display: block;
   width: 104px; height: 104px;
   margin: 10px 0 20px;
+  padding: 0;
+  border: 0;
   border-radius: 14px;
   background: #fff;
   box-shadow: inset 0 0 0 1px var(--linea);
   overflow: hidden;
+  cursor: zoom-in;
 }
-.d-foto img { display: block; width: 100%; height: 100%; object-fit: contain; padding: 8px; }
+.d-foto img { display: block; width: 100%; height: 100%; object-fit: contain; padding: 8px; transition: transform .2s; }
+.d-foto:hover img { transform: scale(1.05); }
 .d-foto.sin-foto { display: none; }
+.d-lupa {
+  position: absolute; right: 6px; bottom: 6px;
+  width: 24px; height: 24px;
+  display: grid; place-items: center;
+  border-radius: 7px;
+  background: rgba(1, 18, 34, .72);
+  color: #fff;
+}
+.d-lupa svg { width: 13px; height: 13px; }
+
+/* foto completa: <dialog> modal (Esc y el fondo los maneja el navegador) */
+.visor {
+  width: 100%; height: 100%;
+  max-width: none; max-height: none;
+  margin: 0; padding: 20px;
+  border: 0;
+  background: transparent;
+  color: #eef3fa;
+  cursor: zoom-out;
+}
+.visor[open] { display: grid; place-items: center; }
+.visor::backdrop { background: rgba(1, 18, 34, .92); }
+.visor figure { margin: 0; display: grid; justify-items: center; gap: 14px; }
+.visor img {
+  /* cuadro fijo: la reducida y la grande ocupan lo mismo, no "brinca" al cambiar */
+  width: min(92vw, 820px, calc(100vh - 150px));
+  aspect-ratio: 1;
+  object-fit: contain;
+  background: #fff;
+  border-radius: 18px;
+  padding: 18px;
+}
+.visor figcaption { font-size: 13px; text-align: center; max-width: 60ch; opacity: .85; }
+.visor-cerrar {
+  position: fixed; top: 14px; right: 14px;
+  width: 42px; height: 42px;
+  display: grid; place-items: center;
+  border: 0; border-radius: 50%;
+  background: rgba(255, 255, 255, .14);
+  color: #fff;
+  font-size: 17px;
+  cursor: pointer;
+}
+.visor-cerrar:hover { background: rgba(255, 255, 255, .26); }
+@media (prefers-reduced-motion: no-preference) {
+  .visor[open] img { animation: aparece .22s cubic-bezier(.2, .9, .3, 1); }
+  @keyframes aparece { from { transform: scale(.94); opacity: 0; } }
+}
 @media (max-width: 480px) { .d-foto { width: 84px; height: 84px; } }
 .d-titulo { font: 600 21px/1.28 var(--sans); letter-spacing: -.02em; margin: 8px 0 4px; }
 .d-meta { color: var(--gris); font-size: 13px; margin: 0 0 20px; }

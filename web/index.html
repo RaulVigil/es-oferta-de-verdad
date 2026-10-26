@@ -56,7 +56,7 @@
         </select>
       </label>
       <label>hasta $ <input id="f-max" inputmode="decimal" size="5" placeholder="—"></label>
-      <label class="interruptor"><input type="checkbox" id="f-bajas"><span></span> solo bajas</label>
+      <label class="interruptor"><input type="checkbox" id="f-bajas"><span></span> solo bajas <small>(3 % o más)</small></label>
     </div>
   </section>
 
@@ -71,6 +71,11 @@
       <div id="detalle-contenido"></div>
     </aside>
   </main>
+
+  <dialog class="visor" id="visor" aria-label="Foto del producto">
+    <button class="visor-cerrar" type="button" aria-label="Cerrar la foto">✕</button>
+    <figure><img id="visor-img" alt="" referrerpolicy="no-referrer"><figcaption id="visor-pie"></figcaption></figure>
+  </dialog>
 
   <footer class="pie">
     <p><strong>Línea base</strong>: mediana de los precios capturados antes del <span id="pie-corte">1 nov</span>.

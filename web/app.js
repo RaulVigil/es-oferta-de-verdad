@@ -49,11 +49,24 @@ function monograma(tiendaId) {
   return `<span class="monograma" style="--h:${t?.tono ?? 40}" aria-hidden="true">${esc(letras.toUpperCase())}</span>`;
 }
 
+// la foto guardada es la reducida (scripts/tiendas.py); para verla completa se pide la grande
+const fotoGrande = (u) => u
+  .replace(/\/ids\/(\d+)-300-300\//, "/ids/$1-1000-1000/")                     // VTEX: Simán, Walmart
+  .replace(/([?&](?:width|height)=)\d+/g, (_, p) => p + "1000")                // Fastly: Curacao, RadioShack, Prado
+  .replace(/([?&]canvas=)\d+(,\d+)?/, (_, p, alto) => p + "1000" + (alto ? ",1000" : ""))
+  .replace(/\/image_256$/, "/image_1024")                                       // Odoo: AEON
+  .replace("/products-thumbs/", "/products-images/")                            // Omnisport
+  .replace(/-\d+x\d+(\.\w+)$/, "$1")                                            // WordPress: COOPESA
+  .replace(/\/cache\/[0-9a-f]{32}\//, "/");                                     // Magento: EPA, Samsung
+const LUPA = `<svg viewBox="0 0 24 24"><path d="M14 4h6v6M10 20H4v-6M20 4l-7 7M4 20l7-7" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/></svg>`;
+
 // foto de la tienda con el monograma como insignia; sin foto (o si no carga) queda el monograma
 const foto = (it) => `<span class="foto${it.im ? "" : " sin-foto"}">${it.im
   ? `<img src="${esc(it.im)}" alt="" loading="lazy" decoding="async" referrerpolicy="no-referrer">` : ""}${monograma(it.t)}</span>`;
 
 const TITULOS = { verde: "Oferta real", amarillo: "Rebaja leve", gris: "No es oferta", rojo: "Más caro", "sin-base": "Sin historial" };
+// "ofertas reales hoy": 10 % o más bajo su linea base y que se pueda comprar ("solo bajas" es desde 3 %)
+const esOferta = (it) => it.s.disponible && it.s.nivel === "verde";
 const CORTOS = { "OFERTA REAL": "oferta", "DESCUENTO MENOR": "baja leve", "SIN CAMBIO": "sin cambio", "SUBIO": "subió", "SIN BASE": "sin base" };
 
 function clasificar(p) {
@@ -121,6 +134,7 @@ function filtrar() {
       if (tienda && it.t !== tienda) continue;
       if (max && it.s.ultimo > max) continue;
       if (bajas && !(it.s.disponible && it.s.pct_base != null && it.s.pct_base < -E.catalogo.umbral_cambio)) continue;
+      if (E.ofertas && !esOferta(it)) continue;
       const [p, c] = puntaje(palabras, it);
       if (p >= minimo) salida.push({ it, p, c });
     }
@@ -148,20 +162,31 @@ function filtrar() {
   const url = new URL(location.href);
   q ? url.searchParams.set("q", q) : url.searchParams.delete("q");
   E.cat ? url.searchParams.set("cat", E.cat) : url.searchParams.delete("cat");
+  E.ofertas ? url.searchParams.set("ofertas", "1") : url.searchParams.delete("ofertas");
   history.replaceState(history.state, "", url);
+}
+
+function alternarOfertas(si = !E.ofertas) {
+  E.ofertas = si;
+  $("#btn-ofertas")?.setAttribute("aria-pressed", String(si));
+  filtrar();
+  if (si) $(".resultados").scrollIntoView({ behavior: "smooth", block: "start" });
 }
 
 /* ---------------- cabecera ---------------- */
 function pintarCabecera() {
   const c = E.catalogo;
-  const ofertas = E.items.filter((it) => it.s.nivel === "verde" && it.s.disponible).length;
+  const ofertas = E.items.filter(esOferta).length.toLocaleString("es-SV");
+  const dato = (v, k) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`;
   $("#datos").innerHTML = [
-    [E.items.length.toLocaleString("es-SV"), "productos"],
-    [c.tiendas.length, "tiendas"],
-    [E.categorias.size, "categorías"],
-    [ofertas.toLocaleString("es-SV"), "ofertas reales hoy"],
-    [fechaHora(c.generado), "última captura"],
-  ].map(([v, k]) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`).join("");
+    dato(E.items.length.toLocaleString("es-SV"), "productos"),
+    dato(c.tiendas.length, "tiendas"),
+    dato(E.categorias.size, "categorías"),
+    // la cifra filtra la lista: el boton cubre todo el dato (::after)
+    `<div class="dato-filtro"><dt>ofertas reales hoy</dt><dd><button type="button" id="btn-ofertas"
+       aria-pressed="${!!E.ofertas}" aria-label="Ver solo las ${ofertas} ofertas reales de hoy">${esc(ofertas)}</button></dd></div>`,
+    dato(fechaHora(c.generado), "última captura"),
+  ].join("");
 
   const bf = c.evento?.black_friday;
   if (bf) {
@@ -200,11 +225,12 @@ function pintarCategorias() {
 function pintarLista() {
   const lista = $("#lista");
   const total = E.resultados.length;
+  const quitar = E.ofertas ? ` · solo ofertas reales <button class="enlace" type="button" data-quitar="ofertas">ver todo</button>` : "";
   $("#conteo").innerHTML = total
-    ? `<b>${total.toLocaleString("es-SV")}</b> ${total === 1 ? "producto" : "productos"}${E.parcial ? " parecidos — ninguno tiene todas las palabras" : ""}`
-    : "";
+    ? `<b>${total.toLocaleString("es-SV")}</b> ${total === 1 ? "producto" : "productos"}${E.parcial ? " parecidos — ninguno tiene todas las palabras" : ""}${quitar}`
+    : quitar.replace(" · ", "");
   if (!total) {
-    lista.innerHTML = `<li class="vacio"><b>Nada por aquí.</b>Prueba con menos palabras, otra tienda o quita “solo bajas”.</li>`;
+    lista.innerHTML = `<li class="vacio"><b>Nada por aquí.</b>Prueba con menos palabras, otra tienda o quita “solo bajas” y “ofertas reales”.</li>`;
     $("#mas").hidden = true;
     return;
   }
@@ -332,7 +358,7 @@ async function abrir(id, { empujar = true } = {}) {
         <h2 class="d-titulo">${esc(it.n)}</h2>
         <p class="d-meta">${[tamano(it), it.ma, it.mo, it.va ? `ya no aparece en la tienda desde el ${fecha(it.va + "T12:00")}` : s.disponible ? "" : "agotado al último registro"].filter(Boolean).map(esc).join(" · ")}</p>
       </div>
-      ${it.im ? `<figure class="d-foto"><img src="${esc(it.im)}" alt="${esc(it.n)}" decoding="async" referrerpolicy="no-referrer"></figure>` : ""}
+      ${it.im ? `<button class="d-foto" type="button" aria-label="Ver la foto completa"><img src="${esc(it.im)}" alt="${esc(it.n)}" decoding="async" referrerpolicy="no-referrer"><span class="d-lupa" aria-hidden="true">${LUPA}</span></button>` : ""}
     </div>
 
     <div class="etiqueta">
@@ -371,6 +397,7 @@ async function abrir(id, { empujar = true } = {}) {
   $("#d-precio").addEventListener("input", actualizar);
   $("#d-lista").addEventListener("input", actualizar);
   $(".volver").addEventListener("click", volver);
+  $(".d-foto")?.addEventListener("click", () => verFoto(it));
   $("#d-guardar").addEventListener("click", () => guardar(it));
   const inicial = new URLSearchParams(location.hash.split("?")[1] || "");
   if (inicial.get("precio")) $("#d-precio").value = inicial.get("precio");
@@ -457,6 +484,24 @@ async function guardar(it) {
   pintarMios(it);
 }
 
+/* ---------------- foto completa ---------------- */
+function verFoto(it) {
+  const visor = $("#visor"), img = $("#visor-img");
+  visor.dataset.id = it.id;
+  img.src = it.im;   // la reducida (ya descargada) mientras llega la grande
+  img.alt = it.n;
+  $("#visor-pie").textContent = `${it.n} · ${E.tiendas.get(it.t)?.nombre ?? ""}`;
+  const grande = fotoGrande(it.im);
+  if (grande !== it.im) {
+    const g = new Image();
+    g.referrerPolicy = "no-referrer";
+    g.onload = () => { if (visor.open && visor.dataset.id === it.id) img.src = grande; };
+    g.src = grande;
+  }
+  visor.showModal();
+  history.pushState({ ...history.state, foto: true }, "", location.href);  // "atrás" cierra la foto
+}
+
 // si se entro directo a un producto (enlace compartido), "volver" no debe salir del sitio
 function volver() {
   if (history.state?.interno) history.back();
@@ -474,6 +519,8 @@ function cerrar() {
 
 /* ---------------- modo local: actualizar precios ---------------- */
 async function detectarLocal() {
+  // scripts/servidor.py solo corre en la propia maquina: en el sitio publicado ni se pregunta (evita el 404)
+  if (!["127.0.0.1", "localhost"].includes(location.hostname)) return;
   try {
     const r = await fetch("api/estado", { cache: "no-store" });
     if (!r.ok) return;
@@ -557,6 +604,8 @@ $("#q").addEventListener("keydown", (e) => { if (e.key === "Enter" && E.resultad
 ["#f-tienda", "#f-orden", "#f-bajas"].forEach((s) => $(s).addEventListener("change", filtrar));
 $("#f-max").addEventListener("input", () => { clearTimeout(espera); espera = setTimeout(filtrar, 200); });
 $("#mas").addEventListener("click", () => { E.visibles += PASO; pintarLista(); });
+$("#datos").addEventListener("click", (e) => { if (e.target.closest("#btn-ofertas")) alternarOfertas(); });
+$("#conteo").addEventListener("click", (e) => { if (e.target.closest("[data-quitar]")) alternarOfertas(false); });
 $("#lista").addEventListener("click", (e) => { const b = e.target.closest(".fila"); if (b) abrir(b.dataset.id); });
 $("#velo").addEventListener("click", volver);
 // "error" no burbujea: se escucha en captura para todas las fotos de las tiendas
@@ -564,16 +613,25 @@ document.addEventListener("error", (e) => {
   const caja = e.target.tagName === "IMG" && e.target.closest(".foto, .d-foto");
   if (caja) { caja.classList.add("sin-foto"); e.target.remove(); }
 }, true);
-window.addEventListener("popstate", () => { const id = idDelHash(); id ? abrir(id, { empujar: false }) : cerrar(); });
+window.addEventListener("popstate", () => {
+  if ($("#visor").open) { $("#visor").close(); return; }   // "atrás" cierra primero la foto
+  const id = idDelHash();
+  if (!id) cerrar();
+  else if (id !== E.abierto) abrir(id, { empujar: false });
+});
+// la foto se cierra con la X, tocando en cualquier parte o con Esc; si se abrio con pushState, se regresa
+$("#visor").addEventListener("click", () => $("#visor").close());
+$("#visor").addEventListener("close", () => { if (history.state?.foto) history.back(); });
 document.addEventListener("keydown", (e) => {
   if (e.key === "/" && document.activeElement?.tagName !== "INPUT") { e.preventDefault(); $("#q").focus(); }
-  if (e.key === "Escape" && E.abierto) volver();
+  if (e.key === "Escape" && E.abierto && !$("#visor").open) volver();
 });
 
 (async () => {
   const params = new URLSearchParams(location.search);
   $("#q").value = params.get("q") || "";
   E.cat = params.get("cat") || "";
+  E.ofertas = params.get("ofertas") === "1";
   try {
     await cargarCatalogo();
   } catch (e) {
