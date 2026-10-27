@@ -1,6 +1,6 @@
 # ¿Es oferta de verdad?
 
-**¿Esa oferta de Black Friday es real?** Historial de precios de 13 tiendas de El Salvador para
+**¿Esa oferta de Black Friday es real?** Historial de precios de 15 tiendas de El Salvador para
 comparar lo que anuncian en noviembre contra lo que costaba antes.
 
 **Sitio:** https://es-oferta-de-verdad.vercel.app
@@ -19,7 +19,7 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
 ```
  GitHub Actions (6:17 a. m. diario, respaldo a la 1:47 p. m.)
    └─ scripts/precios.py capturar
-        ├─ consulta 13 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
+        ├─ consulta 15 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
         └─ scripts/exportar.py ─────────► web/data/catalogo.json        (estadísticas ya calculadas)
                                           web/data/historial/<tienda>.json
    └─ git push ──► Vercel publica web/
@@ -38,9 +38,10 @@ Cada tienda expone el mismo catálogo que usa su propio sitio web; no hay scrapi
 
 | Tienda | Fuente | Qué se toma |
 |---|---|---|
-| Simán, Walmart | API de catálogo VTEX | categorías de TV, camas + búsquedas de texto |
+| Simán, Walmart | API de catálogo VTEX | categorías de TV, computación, audio, camas + búsquedas de texto |
+| Office Depot | JSON del buscador (SAP Commerce) | categorías de tecnología, electrónica y muebles de oficina |
 | La Curacao, RadioShack | Adobe Live Search (el buscador del sitio) | catálogo completo (~8,800 y ~3,600 productos) |
-| Samsung | GraphQL de Magento de la tienda oficial (vista de El Salvador, USD) | catálogo completo (~430 productos) |
+| Samsung, Steren | GraphQL de Magento de cada tienda (vista de El Salvador, USD) | catálogo completo (~430 y ~2,000 productos) |
 | Prado, EPA | índice público de Algolia del buscador | facetas + búsquedas |
 | Vidrí | API pública de su buscador (Doofinder) | búsquedas (máx. 1,000 resultados cada una) |
 | Zona Digital | API JSON de su página | catálogo completo (~1,400 productos) |
@@ -56,7 +57,7 @@ tienda lo permite); la web la carga desde la tienda solo cuando la fila está a 
 
 ### Qué se sigue
 
-Las categorías se definen en `data/productos.json → barrido` sin tocar código: TV (40" a 60"),
+Las categorías se definen en `data/productos.json → barrido` sin tocar código: TV (32" a 85"),
 camas de 1.40 m, teclados, monitores, sillas de escritorio, controles, consolas, laptops,
 memorias RAM, SSD/M.2, repisas, escritorios, roperos, audífonos, mouse, cerámica, inodoros,
 lavamanos, duchas y grifería, refrigeradoras, lavadoras, microondas, freidoras de aire,

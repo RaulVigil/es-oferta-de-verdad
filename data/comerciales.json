@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "actualizado": "2026-10-25",
+  "actualizado": "2026-10-27",
   "comerciales": [
     {
       "id": "siman",
@@ -105,6 +105,22 @@
       "tipo": "instrumentos musicales y audio",
       "captura": "auto (páginas de categoría + API por código)",
       "notas": "No tiene página por producto: el enlace abre su buscador con el código. El listado no publica existencias: se asume disponible."
+    },
+    {
+      "id": "officedepot",
+      "nombre": "Office Depot",
+      "url": "https://www.officedepot.com.sv",
+      "tipo": "oficina y tecnologia",
+      "captura": "auto (SAP Commerce: JSON del buscador por categoria)",
+      "notas": "Se recorren las categorias de tecnologia, electronica y muebles (sillas, escritorios); la papeleria no."
+    },
+    {
+      "id": "steren",
+      "nombre": "Steren",
+      "url": "https://www.steren.com.sv",
+      "tipo": "electronica y accesorios",
+      "captura": "auto (Magento GraphQL, vista el_salvador_view)",
+      "notas": "Solo productos marca Steren; el nombre lleva el codigo del producto."
     }
   ]
 }

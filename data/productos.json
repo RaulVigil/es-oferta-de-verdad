@@ -23,8 +23,8 @@
   "barrido": {
     "tv": {
       "nombre": "TV",
-      "pulgadas_min": 40,
-      "pulgadas_max": 60,
+      "pulgadas_min": 32,
+      "pulgadas_max": 85,
       "buscar": [
         "smart tv",
         "televisor"
@@ -42,7 +42,7 @@
         "teclado"
       ],
       "incluir": "teclado",
-      "excluir": "musical|piano|korg|roland|alesis|kurzweil|medeli|kawai|nektar|arturia|novation|m-audio|tonos|ritmos|octavas|sintetiz|arranger|[oó]rgano|yamaha|casio|winfun|juguete|infantil|adaptador|escritorio|porta ?teclado|\\bpc\\b|computadora|laptop|funda|protector|cubierta|tablet|ipad|keycap|repuesto|sticker|calcoman|limpiador|soporte|reposamu[nñ]ecas|alfombrilla|mouse ?pad|amplificador|pedestal|asiento|banco|rollins|jean paul|cerradura|cerrojo|puerta|caja fuerte|estuche|pro lok",
+      "excluir": "musical|piano|korg|roland|alesis|kurzweil|medeli|kawai|nektar|arturia|novation|m-audio|tonos|ritmos|octavas|sintetiz|arranger|[oó]rgano|yamaha|casio|winfun|juguete|infantil|adaptador|escritorio|porta ?teclado|\\bpc\\b|computadora|laptop|funda|protector|cubierta|tablet|ipad|keycap|repuesto|sticker|calcoman|limpiador|soporte|reposamu[nñ]ecas|alfombrilla|mouse ?pad|amplificador|pedestal|asiento|banco|rollins|jean paul|cerradura|cerrojo|puerta|caja fuerte|estuche|pro lok|^\\s*(tel[eé]fono|radio)\\b|intercomunicador|control de acceso|rfid|matricial|\\block-",
       "pistas": [
         "teclados"
       ]
@@ -98,7 +98,7 @@
         "gamepad"
       ],
       "incluir": "^\\s*(control(es)?|mando|gamepad|joy-?con|dualsense|pro controller)\\b",
-      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|cable|bater[ií]a|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n|psi\\b|modulante|bomba"
+      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|cable|bater[ií]a|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n|psi\\b|modulante|bomba|diapositivas|apuntador|presentador|garage|puertas?\\b"
     },
     "consola": {
       "nombre": "Consolas",
@@ -117,7 +117,7 @@
         "xbox"
       ],
       "incluir": "^\\s*(consola|(combo|bundle)\\s+(consola\\s+)?(nintendo|playstation|ps5|xbox)|nintendo switch|playstation ?5|ps5|xbox series)",
-      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick|canales|\bch\b|mezcla|mixer|audio|amplificada|behringer|soundcraft|mackie|phonic|peavey|allen|presonus|voyz|topp ?pro|mdf|madera|mueble|melamina",
+      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick|canales|\bch\b|mezcla|mixer|audio|amplificada|behringer|soundcraft|mackie|phonic|peavey|allen|presonus|voyz|topp ?pro|mdf|madera|mueble|melamina|dmx|iluminaci",
       "omnisport": [
         "consolas"
       ]
@@ -147,7 +147,7 @@
         "memorias",
         "memoria ram"
       ],
-      "incluir": "^\\s*((kit\\s+(de\\s+)?)?memorias?(\\s+ram)?|ram|sodimm|ddr[345])\\b",
+      "incluir": "^(?=.*(ddr\\d|dimm|\\bram\\b))\\s*((kit\\s+(de\\s+)?)?memorias?(\\s+ram)?|ram|sodimm|ddr[345])\\b",
       "excluir": "micro ?sd|\\bsd\\b|usb|flash|tarjeta|celular|tel[eé]fono|smartphone|tablet|externa|lector|ventilador|disipador|enfriamiento|port[aá]til|radioshack"
     },
     "ssd": {
@@ -316,7 +316,7 @@
         "monomando"
       ],
       "incluir": "^\\s*(ducha|regadera|mezcladora|grifo|llave (de|para) lavamanos|monomando|columna de ducha|set de ducha)",
-      "excluir": "manguera|soporte|brazo|filtro|cortina|tapete|alfombra|repuesto|cartucho|empaque|tefl[oó]n|adaptador|v[aá]lvula de paso|chorro|llave de paso|accesorio|organizador|jabonera|toallero|silla|banco|juguete|gorro|litros|\\d+ ?l\\b|jard[ií]n"
+      "excluir": "manguera|soporte|brazo|filtro|cortina|tapete|alfombra|repuesto|cartucho|empaque|tefl[oó]n|adaptador|v[aá]lvula de paso|chorro|llave de paso|accesorio|organizador|jabonera|toallero|silla|banco|juguete|gorro|litros|\\d+ ?l\\b|jard[ií]n|canales|audio|\\bdj\\b|\\bmix-"
     },
     "refrigeradora": {
       "nombre": "Refrigeradoras",

@@ -2,7 +2,7 @@
    - Interfaz (html, css, js, iconos): primero cache, se actualiza en segundo plano.
    - Datos (data/*.json): primero red, y si no hay conexion, lo ultimo guardado.
    - /api/*: nunca se cachea (modo local). */
-const VERSION = "esoferta-v9";
+const VERSION = "esoferta-v10";
 const INTERFAZ = [
   "./", "index.html", "app.css", "app.js", "manifest.webmanifest",
   "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png",

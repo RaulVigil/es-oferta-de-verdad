@@ -5,7 +5,8 @@ Lectura de precios en cada comercial.
 Cada tienda expone el mismo catalogo que usa su propio sitio web:
     siman, walmart      VTEX         /api/catalog_system/pub/products/search
     curacao, radioshack Live Search  buscador de Adobe Commerce (Unicomer: comparten SKUs)
-    samsung             Magento      /graphql de la tienda oficial (vista "sv")
+    samsung, steren     Magento      /graphql de cada tienda (vista de El Salvador)
+    officedepot         SAP Commerce JSON del buscador (/search/results) filtrado por categoria
     prado, epa          Algolia      indice publico de busqueda del sitio
     omnisport           HTML         paginas de categoria y de producto
     zonadigital         API JSON     apizd.zonadigitalsv.com (la que usa su pagina Vue)
@@ -44,9 +45,12 @@ VTEX = {
 }
 # rutas de categoria (o busquedas de texto con "ft=") que cubren TV y camas
 VTEX_BARRIDO = {
-    "siman": ["tecnologia/pantallas?map=c,c", "muebles/camas?map=c,c", "muebles/colchones?map=c,c"],
+    "siman": ["tecnologia/pantallas?map=c,c", "tecnologia/computadoras?map=c,c", "tecnologia/audio-y-video?map=c,c",
+              "muebles/camas?map=c,c", "muebles/colchones?map=c,c"],
     "walmart": [
         "electronica/televisores/pantallas?map=c,c,c",
+        "electronica/computacion?map=c,c",
+        "electronica/videojuegos?map=c,c",
         "articulos-para-el-hogar/colchones-y-blancos/colchones?map=c,c,c",
         "?ft=cama%20matrimonial",
         "?ft=set%20de%20cama",
@@ -61,12 +65,19 @@ LIVESEARCH = {
     "curacao": ("https://www.lacuracaonline.com/elsalvador", "lco_el_salvador"),
     "radioshack": ("https://www.radioshackla.com/elsalvador", "rso_el_salvador"),
 }
-# Magento GraphQL: la tienda en linea de Samsung (shop.samsung.com/latin/cac) atiende a varios
-# paises; la cabecera "Store: sv" da la vista de El Salvador en USD (sin ella responde en quetzales)
+# Magento GraphQL con la cabecera "Store" de la vista de El Salvador. La tienda de Samsung
+# (shop.samsung.com/latin/cac) atiende a varios paises: sin "Store: sv" responde en quetzales.
+# Las dos venden solo su marca y el nombre no trae el codigo de modelo (va en el SKU).
 MAGENTO = {
     "samsung": {"base": "https://shop.samsung.com/latin/cac/sv", "tienda": "sv", "sufijo": ".html",
                 "marca": "Samsung"},
+    "steren": {"base": "https://www.steren.com.sv", "tienda": "el_salvador_view", "sufijo": ".html",
+               "marca": "Steren"},
 }
+OFFICEDEPOT_WEB = "https://www.officedepot.com.sv"
+# categorias de su buscador (SAP Commerce): 04 tecnologia, 05 electronica, 03 muebles (sillas,
+# escritorios); 01, 02 y 07 son papeleria
+OFFICEDEPOT_CATEGORIAS = ["04-0-0-0", "05-0-0-0", "03-0-0-0"]
 OMNISPORT_CATEGORIAS = ["smart-tv", "4k-tv-y-8k-tv", "oled-tv", "qled-tv-y-qned-tv", "camas", "colchones"]
 ZD_API = "https://apizd.zonadigitalsv.com/api/"
 ZD_WEB = "https://zonadigitalsv.com/product/"
@@ -104,11 +115,11 @@ class ErrorTienda(Exception):
 
 def soportado(comercial: str) -> bool:
     return comercial in VTEX or comercial in LIVESEARCH or comercial in MAGENTO or comercial in ALGOLIA or \
-        comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001")
+        comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001", "officedepot")
 
 
 COMERCIALES_BARRIDO = list(VTEX) + list(LIVESEARCH) + ["prado", "epa", "omnisport", "zonadigital", "aeon", "vidri",
-                                                       "coopesa", "electronica2001"] + list(MAGENTO)
+                                                       "coopesa", "electronica2001", "officedepot"] + list(MAGENTO)
 
 
 def fijar_limite(segundos: float | None) -> None:
@@ -133,6 +144,25 @@ def _pedir(url: str, datos: dict | None = None, cabeceras: dict | None = None):
             return r.read().decode("utf-8", "replace")
     except Exception as e:  # red, HTTP, timeout
         raise ErrorTienda(f"{type(e).__name__}: {e}") from None
+
+
+_MINUSCULAS = {"de", "del", "con", "sin", "y", "o", "para", "en", "la", "el", "los", "las", "por", "a", "al"}
+
+
+def _legible(nombre: str) -> str:
+    """'MOUSE LOGITECH M280 GRIS' -> 'Mouse Logitech M280 Gris'. Solo si viene casi todo en mayusculas
+    (un modelo como 'A27i' no cuenta); siglas y codigos (USB, HD, M280, 910-004285) quedan igual."""
+    letras = [c for c in nombre if c.isalpha()]
+    if not letras or sum(c.islower() for c in letras) > len(letras) * 0.2:
+        return nombre
+    palabras = []
+    for i, w in enumerate(nombre.split()):
+        if w.lower() in _MINUSCULAS and i:
+            w = w.lower()
+        elif w.isalpha() and len(w) > 3:
+            w = w.capitalize()
+        palabras.append(w)
+    return " ".join(palabras)
 
 
 def _numero(texto) -> float | None:
@@ -317,7 +347,7 @@ def _magento(comercial: str, sku: str) -> dict:
 
 
 def _magento_barrer(comercial: str) -> list:
-    """Catalogo completo (~430 productos en Samsung): todo lo que tiene precio."""
+    """Catalogo completo (~430 productos en Samsung, ~2,000 en Steren): todo lo que tiene precio."""
     consulta = ("query($p:Int!){ products(filter:{price:{from:\"0.01\"}}, pageSize:100, currentPage:$p)"
                 "{ total_count " + _CAMPOS_MAGENTO + " } }")
     vistos: dict[str, dict] = {}
@@ -801,6 +831,59 @@ def _e2001_barrer() -> list:
 
 
 # --------------------------------------------------------------------------- #
+# Office Depot (SAP Commerce: el JSON con que su buscador pinta los resultados)
+# --------------------------------------------------------------------------- #
+def _od_item(p: dict) -> dict:
+    precio = (p.get("discountedPrice") or p.get("price") or {}).get("value")
+    lista = (p.get("price") or {}).get("value")
+    fotos = [i["url"] for i in p.get("images") or [] if i.get("format") == "product" and i.get("url")]
+    existencias = ((p.get("stock") or {}).get("stockLevelStatus") or {}).get("code")
+    nombre = _legible(p.get("name", ""))
+    # "MONITOR XIAOMI A27i" no dice el tamano; la descripcion si ("PANTALLA DE 27 PULGADAS")
+    if not re.search(r"\d\s*(\"|”|''|pulg)", nombre, re.I):
+        m = re.search(r"\b(\d{2}(?:\.\d)?)\s*(?:pulgadas|pulg|\"|”)", p.get("description") or "", re.I)
+        if m:
+            nombre += f' {m.group(1)}"'
+    return {
+        "sku": str(p["code"]),
+        "nombre": nombre,
+        "marca": (p.get("brand") or "").strip(),
+        "url": OFFICEDEPOT_WEB + p.get("url", ""),
+        "imagen": OFFICEDEPOT_WEB + fotos[0] if fotos else "",  # ya viene a 300 px; sin ?context da 400
+        "precio": round(float(precio), 2) if precio else None,
+        "precio_lista": round(float(lista), 2) if lista and precio and float(lista) > float(precio) else None,
+        "disponible": existencias != "outOfStock",
+        "nota": "",
+    }
+
+
+def _od_buscar(consulta: str, pagina: int) -> dict:
+    params = urllib.parse.urlencode({"q": consulta, "page": pagina})
+    return json.loads(_pedir(f"{OFFICEDEPOT_WEB}/search/results?{params}"))
+
+
+def _officedepot(sku: str) -> dict:
+    for p in _od_buscar(sku, 0).get("results", []):
+        if str(p.get("code")) == str(sku):
+            return _od_item(p)
+    raise ErrorTienda(f"SKU {sku} no aparece en el buscador")
+
+
+def _officedepot_barrer() -> list:
+    """Categorias completas en paginas de 24 (el tamano lo fija la tienda)."""
+    vistos: dict[str, dict] = {}
+    for cat in OFFICEDEPOT_CATEGORIAS:
+        for pagina in range(0, 100):
+            datos = _od_buscar(f":relevance:category:{cat}", pagina)
+            for p in datos.get("results", []):
+                vistos.setdefault(str(p["code"]), _od_item(p))
+            time.sleep(PAUSA)
+            if pagina + 1 >= int((datos.get("pagination") or {}).get("numberOfPages") or 1):
+                break
+    return list(vistos.values())
+
+
+# --------------------------------------------------------------------------- #
 # Entrada publica
 # --------------------------------------------------------------------------- #
 def consultar(comercial: str, sku: str, url: str = "") -> dict:
@@ -824,6 +907,8 @@ def consultar(comercial: str, sku: str, url: str = "") -> dict:
         return _coopesa(sku)
     if comercial == "electronica2001":
         return _e2001(sku)
+    if comercial == "officedepot":
+        return _officedepot(sku)
     raise ErrorTienda(f"no se como consultar '{comercial}' automaticamente")
 
 
@@ -862,4 +947,6 @@ def barrer(comercial: str, filtros: dict | None = None) -> list:
         return _coopesa_barrer()
     if comercial == "electronica2001":
         return _e2001_barrer()
+    if comercial == "officedepot":
+        return _officedepot_barrer()
     raise ErrorTienda(f"no hay barrido para '{comercial}'")
