@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-27T17:02:21-06:00",
+ "actualizado": "2026-10-27T17:31:56-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -113622,6 +113622,52 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7954698-300-300/102677761.jpg"
+  },
+  "8723383": {
+   "nombre": "Estante para cocina — Estante para cocina 38*20*5CM",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Detalles",
+   "modelo": "",
+   "url": "https://sv.siman.com/estante-para-cocina-38-20-5cm-105071136/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:31:56-06:00",
+     "precio": 13.9,
+     "precio_lista": 13.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7743019-300-300/105071136--1-.jpg"
+  },
+  "7015689": {
+   "nombre": "Freidora de aire 4.5L negra — FREIDORA DE AIRE 4.5 LITROS NEGRA",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Black and Decker",
+   "modelo": "",
+   "url": "https://sv.siman.com/freidora-de-aire-4-l-negra-103679934/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:31:56-06:00",
+     "precio": 67.0,
+     "precio_lista": 98.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5942514-300-300/103679934_100.jpg"
   }
  }
 }
