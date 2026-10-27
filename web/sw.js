@@ -1,8 +1,9 @@
 /* Service worker: la app abre sin conexion con los ultimos datos descargados.
    - Interfaz (html, css, js, iconos): primero cache, se actualiza en segundo plano.
-   - Datos (data/*.json): primero red, y si no hay conexion, lo ultimo guardado.
+   - Datos (data/*.json) y paginas que se regeneran en cada captura (ofertas/, categoria/,
+     llms.txt, sitemap.xml): primero red, y si no hay conexion, lo ultimo guardado.
    - /api/*: nunca se cachea (modo local). */
-const VERSION = "esoferta-v10";
+const VERSION = "esoferta-v11";
 const INTERFAZ = [
   "./", "index.html", "app.css", "app.js", "manifest.webmanifest",
   "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png",
@@ -26,7 +27,7 @@ self.addEventListener("fetch", (e) => {
   const url = new URL(e.request.url);
   if (e.request.method !== "GET" || url.origin !== location.origin || url.pathname.includes("/api/")) return;
 
-  if (url.pathname.includes("/data/")) {
+  if (/\/(data|ofertas|categoria)\/|\.(txt|xml)$/.test(url.pathname)) {
     e.respondWith(
       fetch(e.request)
         .then((r) => {

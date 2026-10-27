@@ -22,6 +22,8 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
         ├─ consulta 15 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
         └─ scripts/exportar.py ─────────► web/data/catalogo.json        (estadísticas ya calculadas)
                                           web/data/historial/<tienda>.json
+           └─ scripts/paginas.py ───────► web/ofertas/, web/categoria/  (HTML para buscadores e IA)
+                                          web/llms.txt, web/sitemap.xml, web/data/ofertas.json
    └─ git push ──► Vercel publica web/
 
  Navegador (web/app.js)
@@ -107,6 +109,21 @@ modelo, o por las equivalencias de `productos.json → productos`).
 En la web también puedes escribir el precio que viste en una tienda para obtener el veredicto
 al instante; lo que guardas queda en tu dispositivo.
 
+## Para buscadores y asistentes de IA
+
+La app dibuja todo con JavaScript, y los bots de los buscadores con IA casi nunca lo ejecutan:
+sin más, solo verían el titular. Por eso cada captura genera también:
+
+| Archivo | Para qué |
+|---|---|
+| [`/ofertas/`](https://es-oferta-de-verdad.vercel.app/ofertas/) y `/categoria/<id>/` | HTML con cada producto, su precio de hoy, la línea base y el veredicto; datos estructurados de schema.org (`ItemList`, `Product`, `Offer`) |
+| [`/data/ofertas.json`](https://es-oferta-de-verdad.vercel.app/data/ofertas.json) | las ofertas de hoy con campos con nombre, para agentes y programas |
+| [`/llms.txt`](https://es-oferta-de-verdad.vercel.app/llms.txt) | qué es el sitio, cómo leer los datos y dónde están ([llmstxt.org](https://llmstxt.org)) |
+| `/sitemap.xml`, `/robots.txt` | el robots.txt admite a los buscadores y asistentes que citan la fuente y excluye a los bots que recopilan datos para entrenar modelos: los precios y las fotos son de las tiendas |
+
+La portada describe el conjunto de datos como `Dataset` de schema.org y lleva la vista previa
+(`og.png`) que muestran LinkedIn y otras redes al compartir el enlace.
+
 ## Correr en local
 
 Requiere Python 3.10 o más reciente. Sin dependencias.
@@ -137,6 +154,7 @@ scripts/
   almacen.py               almacenamiento, clasificación, estadísticas
   precios.py               línea de comandos y captura
   exportar.py              JSON compactos para la web
+  paginas.py               páginas estáticas, llms.txt y sitemap para buscadores e IA
   servidor.py              servidor local opcional
 web/                       PWA estática (index.html, app.js, app.css, sw.js)
 vercel.json                publica web/ sin paso de compilación

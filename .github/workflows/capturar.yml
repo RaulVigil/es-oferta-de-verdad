@@ -1,4 +1,5 @@
-# Captura diaria de precios: barre las tiendas, regenera web/data y sube los cambios.
+# Captura diaria de precios: barre las tiendas, regenera web/data y las paginas estaticas
+# (ofertas, categorias, llms.txt, sitemap) y sube los cambios.
 # Vercel publica de nuevo el sitio cada vez que este flujo hace push.
 name: Capturar precios
 
@@ -41,7 +42,8 @@ jobs:
         run: |
           git config user.name "captura-precios[bot]"
           git config user.email "captura-precios@users.noreply.github.com"
-          git add data/listados web/data
+          # en la captura solo cambian archivos generados: web/data, web/ofertas, web/categoria, llms.txt, sitemap.xml
+          git add data/listados web
           if git diff --cached --quiet; then
             echo "Sin cambios de precios hoy."
           else

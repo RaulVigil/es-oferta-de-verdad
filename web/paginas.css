@@ -1,0 +1,69 @@
+/* Paginas estaticas (ofertas de hoy y una por categoria) que genera scripts/paginas.py.
+   Usan los tokens, fuentes, cabecera y pie de app.css; aqui solo va lo propio: tablas legibles
+   sin JavaScript, para personas, buscadores y asistentes de IA. */
+
+.pagina { padding: 14px 0 0; }
+.miga { margin: 0; font-size: 13px; color: var(--gris); }
+.miga a { color: inherit; text-underline-offset: 3px; }
+.pagina h1 {
+  font: 400 clamp(38px, 6vw, 68px)/1 var(--serif);
+  letter-spacing: -.02em;
+  margin: 14px 0 0;
+}
+.pagina h1 em {
+  font-style: italic;
+  background: linear-gradient(transparent 58%, var(--marca-suave) 58%, var(--marca-suave) 88%, transparent 88%);
+  padding: 0 .06em;
+}
+@media (prefers-color-scheme: dark) {
+  /* igual que el titular de la app: en oscuro el marcatextos translucido se ve oliva */
+  .pagina h1 em { background: var(--marca); color: #151514; padding: 0 .12em; border-radius: 4px; }
+}
+.actualizado { margin: 14px 0 0; font: 500 12.5px/1.5 var(--mono); color: var(--gris); }
+.nota {
+  margin: 14px 0 0;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--superficie);
+  box-shadow: inset 3px 0 0 var(--marca);
+  font-size: 14px;
+  max-width: 60em;
+}
+
+/* categorias: los mismos "chips" subrayados que la app */
+.cats { display: flex; flex-wrap: wrap; gap: 4px 14px; }
+.cats a { font-size: 14.5px; color: var(--gris); text-decoration: none; padding: 3px 0; }
+.cats a:hover { color: var(--tinta); }
+.cats a small { font: 11px var(--mono); margin-left: 4px; opacity: .8; }
+.cats a[aria-current="page"] { color: var(--tinta); font-weight: 550; box-shadow: inset 0 -3px 0 var(--marca); }
+
+.pagina section { margin-top: 30px; }
+.pagina h2 { font: 600 19px/1.3 var(--sans); letter-spacing: -.01em; margin: 0 0 10px; }
+.pagina h2 small { font: 500 12px var(--mono); color: var(--gris); margin-left: 8px; }
+
+/* tablas: en pantallas angostas se desplazan dentro de su caja, no la pagina */
+.tabla { overflow-x: auto; -webkit-overflow-scrolling: touch; border-radius: 12px; background: var(--superficie); box-shadow: var(--sombra); }
+.tabla table { width: 100%; min-width: 720px; border-collapse: collapse; font-size: 14px; }
+.tabla th {
+  text-align: left;
+  font: 500 11px/1.2 var(--mono);
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--gris);
+  padding: 12px 14px;
+  border-bottom: 1px solid var(--linea);
+  white-space: nowrap;
+}
+.tabla td { padding: 10px 14px; border-bottom: 1px solid var(--linea); vertical-align: top; }
+.tabla tr:last-child td { border-bottom: 0; }
+.tabla td a { text-decoration: none; text-underline-offset: 3px; }
+.tabla td a:hover { text-decoration: underline; }
+.tabla td:first-child a { font-weight: 500; }
+.tabla td small { display: block; color: var(--gris); font-size: 12.5px; margin-top: 2px; }
+.tabla td:nth-child(2) { white-space: nowrap; color: var(--gris); }
+.tabla .n { text-align: right; font-family: var(--mono); white-space: nowrap; }
+.tabla td.n:nth-child(3) { font-weight: 600; color: var(--tinta); }
+.v { display: inline-flex; align-items: center; gap: 6px; font: 12.5px/1.2 var(--mono); white-space: nowrap; }
+.v i { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+
+.pie a { color: inherit; text-underline-offset: 3px; }

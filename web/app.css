@@ -652,6 +652,7 @@ body.con-detalle { overflow: hidden; }
 }
 .pie p { margin: 0; max-width: 60em; }
 .pie strong { color: var(--tinta); font-weight: 550; }
+.pie-enlaces a { color: inherit; text-underline-offset: 3px; }
 
 @media (prefers-reduced-motion: no-preference) {
   .detalle:not([hidden]) { animation: sube .28s cubic-bezier(.2, .9, .3, 1); }

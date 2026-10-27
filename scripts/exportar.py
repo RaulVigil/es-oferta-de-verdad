@@ -4,6 +4,7 @@ Exporta los listados a archivos estaticos para la web (web/data/).
 
     web/data/catalogo.json            todos los productos con sus estadisticas ya calculadas
     web/data/historial/<tienda>.json  historial de precios por SKU (se carga al abrir un producto)
+    + las paginas estaticas para buscadores e IA (ver paginas.py)
 
 La web no necesita servidor: la busqueda, el veredicto y la comparacion entre tiendas
 corren en el navegador con estos archivos. Se regenera despues de cada captura.
@@ -26,6 +27,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import almacen  # noqa: E402
+import paginas  # noqa: E402
 import precios  # noqa: E402
 
 DIR_WEB_DATOS = precios.RAIZ / "web" / "data"
@@ -200,9 +202,12 @@ def exportar(avisar=print) -> dict:
     _escribir(DIR_WEB_DATOS / "catalogo.json", catalogo)
     for cid, por_sku in historial.items():
         _escribir(DIR_WEB_DATOS / "historial" / f"{cid}.json", por_sku)
+    # paginas estaticas para buscadores e IA: web/ofertas, web/categoria, llms.txt, sitemap.xml
+    hechas = paginas.generar(items, catalogo, DIR_WEB_DATOS.parent)
     tam = (DIR_WEB_DATOS / "catalogo.json").stat().st_size / 1024
     avisar(f"Exportado: {len(items)} productos de {len(tiendas_usadas)} tiendas -> web/data ({tam:,.0f} KB)"
-           + (f" · {descartados} descartados por las reglas actuales" if descartados else ""))
+           + (f" · {descartados} descartados por las reglas actuales" if descartados else "")
+           + f" · {hechas['categorias'] + 1} páginas para buscadores")
     return {"productos": len(items), "tiendas": len(tiendas_usadas)}
 
 
