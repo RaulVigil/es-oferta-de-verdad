@@ -1,6 +1,6 @@
 {
  "comercial": "prado",
- "actualizado": "2026-10-27T12:18:19-06:00",
+ "actualizado": "2026-10-27T17:05:28-06:00",
  "listados": {
   "115353": {
    "nombre": "Cama Matrimonial Capri EXCLUSIVA",
@@ -13973,6 +13973,190 @@
     }
    ],
    "imagen": "https://www.prado.com.sv/media/catalog/product/r/e/refrigeradora-automatica-mabe-14cp-rmp410jcau-inoxidable-198648_2_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "196973": {
+   "nombre": "Pantalla LED HD Samsung 32 Pulgadas UN32H5000FPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN32H5000FPXPA",
+   "url": "https://www.prado.com.sv/pantalla-smart-hd-samsung-un32h5000fpxpa-32-pulgadas-196973",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 159.0,
+     "precio_lista": 289.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/p/a/pantalla-smart-hd-samsung-un32h5000fpxpa-32-pulgadas-196973_4_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "200687": {
+   "nombre": "Pantalla QLED HD RCA 32 Pulgadas RC32QL",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC32QL",
+   "url": "https://www.prado.com.sv/pantalla-qled-hd-rca-32-pulgadas-rc32ql-200687",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 145.0,
+     "precio_lista": 274.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/p/a/pantalla-qled-hd-rca-32-pulgadas-rc32ql-200687_2_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "200666": {
+   "nombre": "Pantalla LED HD Aiwa 32 Pulgadas AW32B2RK",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Aiwa",
+   "modelo": "AW32B2RK",
+   "url": "https://www.prado.com.sv/pantalla-smart-hd-aiwa-32-pulgadas-aw32b2rk-200666",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 139.0,
+     "precio_lista": 258.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/t/e/televisor-smart-hd-aiwa-32-pulgadas-aw32b2rk-200666_2_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "181603": {
+   "nombre": "Pantalla LED Full HD LG 32 Pulgadas 32LQ570BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "32LQ570BPSA",
+   "url": "https://www.prado.com.sv/pantalla-smart-full-hd-lg-32-32lq570bpsaproc-181603",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 189.0,
+     "precio_lista": 309.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/t/e/televisor-smart-full-hd-lg-32-32lq570bpsaproc-181603_2_.jpg?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds"
+  },
+  "201350": {
+   "nombre": "Pantalla LED 4K UHD LG 75 Pulgadas 75NU850BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75NU850BPSA",
+   "url": "https://www.prado.com.sv/pantalla-led-uhd-4k-lg-75-pulgadas-75nu850bpsa-201350",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 829.0,
+     "precio_lista": 1319.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/p/a/pantalla-led-uhd-4k-lg-75-pulgadas-75nu850bpsa-201350_2_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "201342": {
+   "nombre": "Pantalla LED 4K UHD Samsung 75 Pulgadas UN75U8000HPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75U8000HPXPA",
+   "url": "https://www.prado.com.sv/pantalla-smart-uhd-4k-samsung-75-pulgadas-un75u8000hpx-201342",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 809.0,
+     "precio_lista": 1229.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/t/e/televisor-smart-uhd-4k-samsung-75-pulgadas-un75u8000hpx-201342_5_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "199884": {
+   "nombre": "Pantalla QLED HD RCA 32 Pulgadas 32Q4SV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "32Q4SV",
+   "url": "https://www.prado.com.sv/pantalla-qled-hd-hisense-32-pulgadas-32q4sv-199884",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 155.0,
+     "precio_lista": 258.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/t/e/televisor-qled-hd-rca-32-pulgadas-32q4sv-199884_2_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
+  },
+  "201343": {
+   "nombre": "Pantalla LED 4K UHD Samsung 85 Pulgadas UN85U8000HPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN85U8000HPXPA",
+   "url": "https://www.prado.com.sv/pantalla-led-uhd-4k-samsung-85-pulgadas-un85u8000hpxpa-201343",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:05:28-06:00",
+     "precio": 1109.0,
+     "precio_lista": 1689.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://www.prado.com.sv/media/catalog/product/p/a/pantalla-led-uhd-4k-samsung-85-pulgadas-un85u8000hpxpa-201343_2_.png?width=265&height=265&canvas=265,265&optimize=medium&bg-color=255,255,255&fit=bounds&format=jpeg"
   }
  }
 }

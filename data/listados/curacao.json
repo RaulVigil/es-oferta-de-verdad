@@ -1,6 +1,6 @@
 {
  "comercial": "curacao",
- "actualizado": "2026-10-27T12:05:07-06:00",
+ "actualizado": "2026-10-27T17:04:07-06:00",
  "listados": {
   "465123300008": {
    "nombre": "Set de Cama Capri Matrimonial Exclusiva 2 en 1",
@@ -76329,6 +76329,2536 @@
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473657500016_1_.jpg?width=300&height=300&canvas=300"
+  },
+  "417273200004": {
+   "nombre": "Pantalla Sony 32\" LED HD KDL-32W605D",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "KDL32W605D",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-sony-kdl-32w605d-led-32-hd-417273200004/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 225.0,
+     "precio_lista": 225.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/1/417273200004_1.jpg?width=300&height=300&canvas=300"
+  },
+  "455750200017": {
+   "nombre": "Pantalla Samsung 32\" LED HD UN32T4300APX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN32T4300APX",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-samsung-un32t4300apx-led-32-hd-455750200017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 215.0,
+     "precio_lista": 249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/455750200017_1.jpg?width=300&height=300&canvas=300"
+  },
+  "457600700012": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65LS03AAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65LS03AAPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-qn65ls03aapxpa-qled-65-4k-uhd-457600700012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1999.0,
+     "precio_lista": 1999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/457600700012_1.jpg?width=300&height=300&canvas=300"
+  },
+  "457725400019": {
+   "nombre": "Pantalla Sony 65\" LED 4K XR65X90JLA8",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "XR65X90JLA8",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-xr65x90jla8-android-tv-led-65-4k-457725400019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1899.0,
+     "precio_lista": 1899.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/s/e/serie_x90j_1000x1000px_65inch_01_a_mainimage.jpg?width=300&height=300&canvas=300"
+  },
+  "457725500016": {
+   "nombre": "Pantalla Sony 65\" OLED 4K XR65A80JLA8",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "XR65A80JLA8",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-xr65a80jla8-android-tv-oled-65-4k-457725500016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 3199.0,
+     "precio_lista": 3199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/s/e/serie_x80j_1000x1000px_65inch_01_b_mainimage.jpg?width=300&height=300&canvas=300"
+  },
+  "457898100013": {
+   "nombre": "Pantalla Samsung 75\" LED 4K UHD UN75AU8000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75AU8000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un75au8000px-led-75-4k-uhd-457898100013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1799.0,
+     "precio_lista": 1799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/457898100013_1.jpg?width=300&height=300&canvas=300"
+  },
+  "458525500015": {
+   "nombre": "Pantalla LG 75\" LCD 4K UHD 75NANO75SPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75NANO75SPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-lg-thinq-ai-lcd-75-4k-nanocell-458525500015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1999.0,
+     "precio_lista": 1999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/458525500015_1.jpg?width=300&height=300&canvas=300"
+  },
+  "458527500013": {
+   "nombre": "Pantalla LG 65\" LCD 4K UHD 65QNED90SPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65QNED90SPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-lg-65qned90spa-lcd-65-4k-uhd-458527500013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 3229.0,
+     "precio_lista": 3229.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/6/5/65qned90spa_1_hctrvhxk5mbasfeb.jpg?width=300&height=300&canvas=300"
+  },
+  "459414400010": {
+   "nombre": "Pantalla LG 70\" OLED 4K UHD 70NANO75SPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "70NANO75SPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-70nano75spa-oled-70-4k-uhd-459414400010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1599.0,
+     "precio_lista": 1599.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/459414400010.jpg?width=300&height=300&canvas=300"
+  },
+  "460307700018": {
+   "nombre": "Pantalla LG 75\" LED 4K UHD UQ8050",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "UQ8050",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-lg-uq8050-led-75-4k-uhd-460307700018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1799.0,
+     "precio_lista": 1799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/1/0/109147_smarttv75u_base_f8wdlbsdqmrg08gn.jpg?width=300&height=300&canvas=300"
+  },
+  "460631600015": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65Q60BAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65Q60BAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-samsung-qn65q60bapxp-qled-65-4k-uhd-460631600015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/460631600015_1_0oqa4dz6ijywqzrf.jpg?width=300&height=300&canvas=300"
+  },
+  "460886700010": {
+   "nombre": "Pantalla LG 32\" LED HD 32LQ630BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "32LQ630BPSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-lg-32lq630bpsa-led-32-hd-460886700010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 215.0,
+     "precio_lista": 279.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/460886700010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "461269000017": {
+   "nombre": "Pantalla LG 75\" LCD 4K UHD 75NANO75SQA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75NANO75SQA",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-lg-75nano75sqa-nanocell-75-4k-uhd-461269000017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1999.0,
+     "precio_lista": 1999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/461269000017.jpg?width=300&height=300&canvas=300"
+  },
+  "461792600012": {
+   "nombre": "Pantalla LG 70\" LCD 4K UHD 70NANO75SQA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "70NANO75SQA",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-lg-thinq-al-lcd-70-4k-nanocell-461792600012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1699.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/461792600012_1__g85h2yspazla4rok.jpg?width=300&height=300&canvas=300"
+  },
+  "462473200019": {
+   "nombre": "Pantalla LG 32\" LED HD 32LQ570BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "32LQ570BPSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-smart-tv-led-32-hd-32lq570bpsa-462473200019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 175.0,
+     "precio_lista": 279.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462473200019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462750800017": {
+   "nombre": "Pantalla LG 65\" LED UHD 65UR7800PSB",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65UR7800PSB",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-smart-tv-uhd-4k-65-uhd-462750800017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 615.0,
+     "precio_lista": 799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462750800017_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462750900014": {
+   "nombre": "Pantalla LG 75\" LED UHD 75UR7800PSB",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75UR7800PSB",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-smart-tv-uhd-4k-75-uhd-462750900014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462750900014_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462751100017": {
+   "nombre": "Pantalla LG 70\" LED 4K UHD 70UR7800PSB",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "70UR7800PSB",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-70ur7800psb-led-70-4k-uhd-462751100017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 745.0,
+     "precio_lista": 899.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462751100017_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462752600011": {
+   "nombre": "Pantalla LG 77\" OLED 4K UHD OLED77C3PSA.AWP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 77,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED77C3PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-oled77c3psa-oled-77-4k-uhd-462752600011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 3999.0,
+     "precio_lista": 3999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462752600011_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462752700018": {
+   "nombre": "Pantalla LG 83\" OLED 4K UHD OLED83C3PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 83,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED83C3PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-oled83c3psa-oled-83-4k-uhd-462752700018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 7999.0,
+     "precio_lista": 7999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462752700018_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462813000019": {
+   "nombre": "Pantalla LG 65\" OLED 4K UHD OLED65C3PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED65C3PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-oled65c3psa-oled-65-4k-uhd-462813000019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2299.0,
+     "precio_lista": 2299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462813000019_1_2.jpg?width=300&height=300&canvas=300"
+  },
+  "462822700016": {
+   "nombre": "Pantalla TCL 32\" LED FHD 32S5400AFI",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "32S5400AFI",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-tcl-32s5400afi-android-led-de-32-full-hd-462822700016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 145.0,
+     "precio_lista": 219.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462822700016_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462822900010": {
+   "nombre": "Pantalla TCL 65\" QLED 4K UHD 65C845 Minil",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65C845",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-65c845-minil-google-tv-android-11-qled-65-4k-uhd-462822900010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2229.0,
+     "precio_lista": 2229.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462822900010.jpg?width=300&height=300&canvas=300"
+  },
+  "462880400019": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65QN85CAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65QN85CAPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-samsung-qn65qn85capxpa-qled-65-4k-uhd-462880400019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2499.0,
+     "precio_lista": 2499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462880400019_samsungtel_base_th0bebnzgga9kstn.jpg?width=300&height=300&canvas=300"
+  },
+  "462880900014": {
+   "nombre": "Pantalla Samsung 65\" LED 4K UHD UN65CU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65CU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un65cu7000px-led-65-4k-uhd-462880900014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 679.0,
+     "precio_lista": 679.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462880900014_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462881000010": {
+   "nombre": "Pantalla Samsung 75\" LED 4K UHD UN75CU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75CU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un75cu7000px-tizen-7-0-led-75-4k-uhd-462881000010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 999.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462881000010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "462881300011": {
+   "nombre": "Pantalla Samsung 85\" LED 4K UHD UN85CU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN85CU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un85cu7000px-led-85-4k-uhd-462881300011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1275.0,
+     "precio_lista": 1349.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/462880600013_1_1_1_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "463083400011": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65Q65CAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65Q65CAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-qn65q65capxp-tizen-6-5-qled-65-4k-ultra-hd-463083400011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1149.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/463083400011_1.jpg?width=300&height=300&canvas=300"
+  },
+  "463106800019": {
+   "nombre": "Pantalla Samsung 70\" LED 4K UHD UN70CU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN70CU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un70cu7000px-led-70-4k-uhd-463106800019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 999.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/463106800019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "465333900012": {
+   "nombre": "Pantalla TCL 65\" LED 4K UHD 65P755I",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65P755I",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-0-uhd-65-4k-uhd-65p755i-465333900012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 749.0,
+     "precio_lista": 749.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/d/i/dise_o_sin_t_tulo_4__5.jpg?width=300&height=300&canvas=300"
+  },
+  "465334300019": {
+   "nombre": "Pantalla TCL 65\" QLED 4K UHD 65C655I",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65C655I",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qled-65-4k-uhd-65c655i-465334300019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 505.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/465334300019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "465335700016": {
+   "nombre": "Pantalla TCL 75\" LED 4K UHD 75P755I",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75P755I",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-led-75-4k-uhd-75p755i-465335700016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 595.0,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/465335700016_1.jpg?width=300&height=300&canvas=300"
+  },
+  "465336100013": {
+   "nombre": "Pantalla TCL 75\" QLED 4K 75C655I",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75C655I",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-0-qled-75-qled-4k-75c655i-465336100013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 775.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/465336100013_1.jpg?width=300&height=300&canvas=300"
+  },
+  "465336700015": {
+   "nombre": "Pantalla TCL 85\" QD-MiniLed 4K UHD 85C755I",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "85C755I",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qd-mini-led-85-4k-uhd-85c755i-465336700015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 3199.0,
+     "precio_lista": 3199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/465336700015_6_.jpg?width=300&height=300&canvas=300"
+  },
+  "465336900019": {
+   "nombre": "Pantalla TCL 85\" QLED 4K 85C655I",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "85C655I",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-qled-85-qled-4k-85c655i-465336900019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1115.0,
+     "precio_lista": 1399.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/465336900019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "465370500015": {
+   "nombre": "Pantalla LG 32\" LED HD 32LR650BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "32LR650BPSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-led-32-hd-32lr650bpsa-465370500015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 205.0,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/1/9/195174060667_2_.jpg?width=300&height=300&canvas=300"
+  },
+  "465821100016": {
+   "nombre": "Pantalla LG 65\" OLED 4K UHD OLED65C4PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED65C4PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-24-oled-65-4k-uhd-oled65c4psa-465821100016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1865.0,
+     "precio_lista": 2099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/465821100016_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466016800018": {
+   "nombre": "Pantalla Samsung 65\" LED 4K UHD UN65DU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65DU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-smart-tv-tizen-led-65-crystal-uhd-4k-un65du7000px-466016800018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 555.0,
+     "precio_lista": 679.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466016800018_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466016900015": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65QN85DBPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65QN85DBPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-neo-qled-65-4k-uhd-qn65qn85dbpx-466016900015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1639.0,
+     "precio_lista": 1639.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466016900015_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466017000011": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K QN65Q60DAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65Q60DAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-qled-65-4k-qn65q60dapxp-466017000011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 725.0,
+     "precio_lista": 799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466017000011_1_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466017100018": {
+   "nombre": "Pantalla Samsung 75\" LED 4K UHD UN75DU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75DU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-smart-tv-tizen-led-75-4k-uhd-un75du7000px-466017100018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 825.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466017100018_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466017200015": {
+   "nombre": "Pantalla Samsung 75\" QLED 4K UHD QN75Q60DAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN75Q60DAPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizen-smart-tv-qled-75-4k-uhd-qn75q60dapxpa-466017200015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466017200015_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466017400019": {
+   "nombre": "Pantalla Samsung 75\" QLED 4K UHD QN75QN85DBPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN75QN85DBPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-neo-qled-75-4k-uhd-qn75qn85dbpx-466017400019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1829.0,
+     "precio_lista": 1829.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466017400019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466017500016": {
+   "nombre": "Pantalla Samsung 85\" LED 4K UHD UN85DU7000PX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN85DU7000PX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizen-smart-tv-led-85-4k-uhd-un85du7000px-466017500016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1349.0,
+     "precio_lista": 1349.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466017500016_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466495400013": {
+   "nombre": "Pantalla Sony 85\" LED 4K K85S30",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K85S30",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-android-tv-led-85-4k-k85s30-466495400013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1499.0,
+     "precio_lista": 2129.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466495400013_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466495700014": {
+   "nombre": "Pantalla Sony 65\" OLED 4K K65XR80",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65XR80",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-android-tv-oled-65-4k-k65xr80-466495700014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1955.0,
+     "precio_lista": 2799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/9/0/9008020175_26.jpg?width=300&height=300&canvas=300"
+  },
+  "466496000014": {
+   "nombre": "Pantalla Sony 65\" LED 4K K65S30",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65S30",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-android-tv-led-65-4k-k65s30-466496000014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 795.0,
+     "precio_lista": 1199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466496000014.jpg?width=300&height=300&canvas=300"
+  },
+  "466933900013": {
+   "nombre": "Pantalla Samsung 85\" QLED 4K UHD QN85QN85DBPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN85QN85DBPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-qled-85-neoqled-qn85qn85dbpxpa-466933900013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 4299.0,
+     "precio_lista": 4299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/9/0/9000000003-1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "466934000019": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65LS03DAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65LS03DAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-qled-65-4k-uhd-qn65ls03dapx-466934000019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1225.0,
+     "precio_lista": 1639.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466934000019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "467170300017": {
+   "nombre": "Pantalla Samsung 85\" QLED 4K UHD QN85LS03DAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN85LS03DAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-qled-85-4k-uhd-qn85ls03dapx-467170300017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2839.0,
+     "precio_lista": 2839.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/467170300017_1.jpg?width=300&height=300&canvas=300"
+  },
+  "467170400014": {
+   "nombre": "Pantalla Samsung 65\" OLED 4K QN65S90DAEXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65S90DAEXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-smart-tv-oled-65-4k-qn65s90daexp-467170400014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/467170400014_1.jpg?width=300&height=300&canvas=300"
+  },
+  "467173400011": {
+   "nombre": "Pantalla Samsung 77\" OLED 4K UHD QN77S90DAEXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 77,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN77S90DAEXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-oled-77-4k-uhd-qn77s90daexp-467173400011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2945.0,
+     "precio_lista": 3299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/467173400011_1.jpg?width=300&height=300&canvas=300"
+  },
+  "467183700019": {
+   "nombre": "Pantalla Westinghouse 32\" LED HD W32RK",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Westinghouse",
+   "modelo": "W32RK",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-westinghouse-roku-32-hd-w32rk-467183700019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 139.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/467183700019.jpg?width=300&height=300&canvas=300"
+  },
+  "467892400019": {
+   "nombre": "Pantalla Westinghouse 65\" LED 4K UHD W65RK",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Westinghouse",
+   "modelo": "W65RK",
+   "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-westinghouse-roku-65-4k-uhd-w65rk-467892400019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 479.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/467892400019.jpg?width=300&height=300&canvas=300"
+  },
+  "468283400014": {
+   "nombre": "Pantalla LG 65\" LCD 4K UHD 65UT8000PSB",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65UT8000PSB",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-24-lcd-65-4k-uhd-65ut8000psb-468283400014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 595.0,
+     "precio_lista": 799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468283400014_1_1_.jpg?width=300&height=300&canvas=300"
+  },
+  "468871900018": {
+   "nombre": "Pantalla LG 65\" QNED 4K UHD 65QNED80TSA.AWPZ",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65QNED80TSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-24-4k-qned-65-4k-uhd-65qned80tsa-awpz-468871900018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 815.0,
+     "precio_lista": 899.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/1/5/152837_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "468952300010": {
+   "nombre": "Pantalla TCL 85\" QD-MiniLed 4K 85C6K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "85C6K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qd-miniled-85-4k-85c6k-468952300010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468952300010_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "468952400017": {
+   "nombre": "Pantalla TCL 75\" QD-MiniLed 4K 75C6K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75C6K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qd-miniled-75-4k-75c6k-468952400017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 959.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468952400017_9.jpg?width=300&height=300&canvas=300"
+  },
+  "468952900012": {
+   "nombre": "Pantalla TCL 65\" QD-MiniLed 4K 65C6K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65C6K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qd-miniled-65-4k-65c6k-468952900012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 669.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/u/p/upc_468952900012_9008020193_65c6k_1_1_2.jpg?width=300&height=300&canvas=300"
+  },
+  "468954900010": {
+   "nombre": "Pantalla TCL 85\" QLED 4K UHD 85P8K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "85P8K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-85p8k-85-qled-4k-uhd-google-tv-468954900010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 999.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468954900010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "468955000016": {
+   "nombre": "Pantalla TCL 75\" QLED 4K UHD 75P8K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75P8K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-75p8k-75-qled-4k-uhd-google-tv-468955000016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 647.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468955000016_1.jpg?width=300&height=300&canvas=300"
+  },
+  "468955100013": {
+   "nombre": "Pantalla TCL 65\" QLED 4K 65P8K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65P8K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qled-65-4k-65p8k-468955100013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 559.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/u/p/upc__468955100013_65p8k_1.jpg?width=300&height=300&canvas=300"
+  },
+  "468955500011": {
+   "nombre": "Pantalla TCL 75\" LED 4K UHD 75V6C",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75V6C",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-75v6c-75-led-4k-uhd-google-tv-468955500011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 677.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468955500011.jpg?width=300&height=300&canvas=300"
+  },
+  "468956300016": {
+   "nombre": "Pantalla TCL 32\" QLED FHD 32S5K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "32S5K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qled-32-fhd-32s5k-468956300016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 169.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/468956300016_4.jpg?width=300&height=300&canvas=300"
+  },
+  "469266400014": {
+   "nombre": "Pantalla Samsung 65\" LED 4K UHD UN65U8000FPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65U8000FPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un65u8000fpx-tizentm-smart-tv-led-65-4k-uhd-469266400014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 559.0,
+     "precio_lista": 679.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469266400014_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469266600018": {
+   "nombre": "Pantalla Samsung 75\" LED 4K UHD UN75U8000FPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75U8000FPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizen-os-led-75-4k-uhd-un75u8000fpxpa-469266600018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 829.0,
+     "precio_lista": 939.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469266600018_9.jpg?width=300&height=300&canvas=300"
+  },
+  "469266800012": {
+   "nombre": "Pantalla Samsung 85\" LED 4K UHD UN85U8000FPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN85U8000FPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-led-85-4k-uhd-un85u8000fpx-469266800012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469266800012_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469267100012": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K QN65Q7FAAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65Q7FAAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-qled-65-4k-qn65q7faapxp-469267100012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 635.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469267100012_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469267600017": {
+   "nombre": "Pantalla Samsung 65\" Neo QLED 4K QN65QN80FAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65QN80FAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-neo-qled-65-4k-qn65qn80fapx-469267600017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1639.0,
+     "precio_lista": 1639.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469267600017_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469267700014": {
+   "nombre": "Pantalla Samsung 75\" Neo QLED 4K QN75QN70FAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN75QN70FAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-neo-qled-75-4k-qn75qn70fapx-469267700014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1829.0,
+     "precio_lista": 1829.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469267700014_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469267800011": {
+   "nombre": "Pantalla Samsung 85\" Neo QLED 4K QN85QN85FAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN85QN85FAPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-one-ui-tizen-neo-qled-85-4k-qn85qn85fapxpa-469267800011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2799.0,
+     "precio_lista": 2799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469267800011.jpg?width=300&height=300&canvas=300"
+  },
+  "469268300015": {
+   "nombre": "Pantalla Samsung 77\" OLED 4K UHD QN77S85FAEXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 77,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN77S85FAEXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-qn77s85faexpa-tizen-oled-77-4k-469268300015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2575.0,
+     "precio_lista": 3299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469268300015.jpg?width=300&height=300&canvas=300"
+  },
+  "469268500019": {
+   "nombre": "Pantalla Samsung 83\" OLED 4K UHD QN83S90FAEXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 83,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN83S90FAEXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-one-ui-tizen-oled-83-4k-qn83s90faexpa-469268500019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 4999.0,
+     "precio_lista": 4999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469268500019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469268700013": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K QN65LS03FAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65LS03FAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-the-frame-qled-65-4k-qn65ls03fapx-469268700013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1639.0,
+     "precio_lista": 1639.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469268700013_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469268900017": {
+   "nombre": "Pantalla Samsung 75\" QLED 4K QN75LS03FAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN75LS03FAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-the-frame-qled-75-4k-qn75ls03fapx-469268900017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1999.0,
+     "precio_lista": 1999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469268900017_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469437600014": {
+   "nombre": "Pantalla Sony 65\" LED 4K UHD BRAVIA 2 II",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-google-tv-led-65-4k-uhd-bravia-2-ii-469437600014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 899.0,
+     "precio_lista": 1189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/9/0/9008020200_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469438200015": {
+   "nombre": "Pantalla Sony 75\" LED 4K UHD BRAVIA 2 II",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-sony-google-tv-led-75-4k-uhd-bravia-2-ii-469438200015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1569.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/9/0/9008020201_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469496200019": {
+   "nombre": "Pantalla LG 65\" LED 4K UHD 65UA7500PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65UA7500PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-25-led-65-4k-uhd-65ua7500psa-469496200019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 585.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469496200019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469497400012": {
+   "nombre": "Pantalla LG 75\" QNED 4K UHD 75QNED82ASG",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75QNED82ASG",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-qned-75-4k-uhd75qned82asg-469497400012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469497400012_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469497800010": {
+   "nombre": "Pantalla LG 65\" OLED 4K UHD OLED65C5PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED65C5PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-25oled-65-4k-uhdoled65c5psa-469497800010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2299.0,
+     "precio_lista": 2299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469497800010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469497900017": {
+   "nombre": "Pantalla LG 77\" OLED 4K UHD OLED77C5PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 77,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED77C5PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-25oled-77-4k-uhdoled77c5psa-469497900017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 3299.0,
+     "precio_lista": 3299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469497900017_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469498000013": {
+   "nombre": "Pantalla LG 85\" OLED 4K UHD OLED83C5PSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED83C5PSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-25oled-85-4k-uhdoled83c5psa-469498000013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 4599.0,
+     "precio_lista": 4599.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469498000013_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469587300017": {
+   "nombre": "Pantalla LG 75\" QNED 4K UHD 75QNED80TSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75QNED80TSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-24-qned-75-4k-uhd-75qned80tsa-469587300017/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469587300017_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469595100012": {
+   "nombre": "Pantalla Samsung 75\" QLED 4K UHD QN75Q7FAAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN75Q7FAAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tvqled-75-4k-uhdqn75q7faapxp-469595100012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 885.0,
+     "precio_lista": 1099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469595100012_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469612300012": {
+   "nombre": "Pantalla TCL 65\" QLED 4K UHD 65P7K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65P7K",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-google-tv-qled-65-4k-uhd-65p7k-469612300012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 545.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469612300012_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469612900014": {
+   "nombre": "Pantalla TCL 65\" QLED 4K UHD 65A300PRO",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65A300PRO",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-65a300pro-65-qled-4k-uhd-google-tv-469612900014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 879.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/u/p/upc_469612900014_9008010095_65a300pro_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469613000010": {
+   "nombre": "Pantalla TCL 75\" QLED 4K UHD 75A300PRO",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75A300PRO",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-75a300pro-75-qled-4k-uhd-google-tv-469613000010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/u/p/upc_469613000010_9000000016_75a300pro_2.jpg?width=300&height=300&canvas=300"
+  },
+  "469697000012": {
+   "nombre": "Pantalla Samsung 65\" OLED UHD QN65S85FAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65S85FAPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-65-oled-uhd-qn65s85fapxpa-469697000012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2099.0,
+     "precio_lista": 2099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469697000012.jpg?width=300&height=300&canvas=300"
+  },
+  "469968100014": {
+   "nombre": "Pantalla LG 75\" LED 4K UHD 75QNED70ASC",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75QNED70ASC",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-75-led-4k-uhd-75qned70asc-469968100014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469968100014_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469968300018": {
+   "nombre": "Pantalla LG 65\" QNED 4K UHD 65QNED70ASAA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65QNED70ASAA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-qned-65-4k-uhd-65qned70asaa-469968300018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 595.0,
+     "precio_lista": 799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469968300018_1.jpg?width=300&height=300&canvas=300"
+  },
+  "469968500012": {
+   "nombre": "Pantalla LG 75\" LED 4K UHD 75UA8000PSBA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75UA8000PSBA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-webos-led-75-4k-uhd75ua8000psba-469968500012/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 799.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469968500012_5.jpg?width=300&height=300&canvas=300"
+  },
+  "469968600019": {
+   "nombre": "Pantalla LG 65\" LED 4K UHD 65UA8000PSBA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65UA8000PSBA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-65ua8000psba-65-led-4k-uhd-webos-25-469968600019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 579.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/469968600019.jpg?width=300&height=300&canvas=300"
+  },
+  "470909300011": {
+   "nombre": "Pantalla Samsung 75\" QLED 4K QN75Q6FAAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN75Q6FAAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-75-qled-4k-qn75q6faapxp-470909300011/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 999.0,
+     "precio_lista": 1099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/470909300011_1.jpg?width=300&height=300&canvas=300"
+  },
+  "471213300018": {
+   "nombre": "Pantalla Samsung 32\" LED HD UN32H5000FPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN32H5000FPXPA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-un32h5000fpxpa-32-led-hd-one-ui-tizen-471213300018/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 229.0,
+     "precio_lista": 229.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/471213300018_1.jpg?width=300&height=300&canvas=300"
+  },
+  "471998400019": {
+   "nombre": "Pantalla Samsung 65\" QLED 4K UHD QN65Q6FAAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65Q6FAAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-qn65q6faapxp-tizentm-qled-65-4k-uhd-471998400019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 659.0,
+     "precio_lista": 779.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/471998400019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472041500014": {
+   "nombre": "Pantalla LG 75\" QNED 4K UHD 75QNED73ASC",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75QNED73ASC",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-75qned73asc-webos-25-qned-75-4k-uhd-472041500014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 919.0,
+     "precio_lista": 1069.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/u/p/upc_472041500014_75qned73asc_2.jpg?width=300&height=300&canvas=300"
+  },
+  "472357800013": {
+   "nombre": "Pantalla Samsung 65\" LED 4K UHD UN65U8000HPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65U8000HPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-65-led-4k-uhd-un65u8000hpx-472357800013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 559.0,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472357800013_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472357900010": {
+   "nombre": "Pantalla Samsung 75\" LED 4K UHD UN75U8000HPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75U8000HPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-75-led-4k-uhd-un75u8000hpx-472357900010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 829.0,
+     "precio_lista": 989.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472357900010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472358000016": {
+   "nombre": "Pantalla Samsung 85\" LED 4K UHD UN85U8000HPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN85U8000HPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-85-led-4k-uhd-un85u8000hpx-472358000016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472358000016_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472358200010": {
+   "nombre": "Pantalla Samsung 77\" OLED 4K QN77S85HAEXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 77,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN77S85HAEXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-77-oled-4k-qn77s85haexp-472358200010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2399.0,
+     "precio_lista": 2799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472358200010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472358400014": {
+   "nombre": "Pantalla Samsung 75\" NeoQLED 4K QN85QN80HAPX",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN85QN80HAPX",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-75-neoqled-4k-qn85qn80hapx-472358400014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2599.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472358400014_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472358900019": {
+   "nombre": "Pantalla Samsung 65\" QD-MiniLed 4K UN65M70HAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65M70HAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-65-qd-miniled-4k-un65m70hapxp-472358900019/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 689.0,
+     "precio_lista": 829.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472358900019_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472359000015": {
+   "nombre": "Pantalla Samsung 75\" QD-MiniLed 4K UN75M70HAPXP",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75M70HAPXP",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-samsung-75-qd-miniled-4k-un75m70hapxp-472359000015/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 969.0,
+     "precio_lista": 1149.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472359000015_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472395800013": {
+   "nombre": "Pantalla LG 65\" LCD 4K UHD 65NU850BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65NU850BPSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-65-lcd-4k-uhd-65nu850bpsa-472395800013/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 569.0,
+     "precio_lista": 729.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472395800013_1_.jpg?width=300&height=300&canvas=300"
+  },
+  "472395900010": {
+   "nombre": "Pantalla LG 75\" LCD 4K UHD 75NU850BPSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75NU850BPSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-lg-75-lcd-4k-uhd-75nu850bpsa-472395900010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 849.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472395900010_1_.jpg?width=300&height=300&canvas=300"
+  },
+  "472396200010": {
+   "nombre": "Pantalla LG 65\" QNED 4K UHD 65QNED70BSA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65QNED70BSA",
+   "url": "https://www.lacuracaonline.com/elsalvador/pantalla-lg-65-qned-4k-uhd-65qned70bsa-472396200010/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 699.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472396200010_1.jpg?width=300&height=300&canvas=300"
+  },
+  "472540700014": {
+   "nombre": "Pantalla TCL 32\" QLED FHD 32S5LR",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "32S5LR",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-32-qled-fhd-32s5lr-472540700014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 149.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472540700014_1_.jpg?width=300&height=300&canvas=300"
+  },
+  "472541000014": {
+   "nombre": "Pantalla TCL 65\" QLED 4K UHD 65T6C",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "65T6C",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-65-qled-4k-uhd-65t6c-472541000014/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 589.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472541000014_10_.jpg?width=300&height=300&canvas=300"
+  },
+  "472542900016": {
+   "nombre": "Pantalla TCL 85\" QD-MiniLED 4K UHD 85C7L",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "85C7L",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-85-qd-miniled-4k-uhd-85c7l-472542900016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 1849.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472542900016_1_.jpg?width=300&height=300&canvas=300"
+  },
+  "472543200016": {
+   "nombre": "Pantalla TCL 75\" QLED 4K UHD 75P7L",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "75P7L",
+   "url": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-75-qled-4k-uhd-75p7l-472543200016/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:04:07-06:00",
+     "precio": 979.0,
+     "precio_lista": 979.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472543200016_10_.jpg?width=300&height=300&canvas=300"
   }
  }
 }

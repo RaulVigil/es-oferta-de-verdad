@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-27T12:03:03-06:00",
+ "actualizado": "2026-10-27T17:02:21-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -1018,6 +1018,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 199.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7331218-300-300/104970892-1.jpg"
@@ -1808,6 +1816,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 709.0,
+     "precio_lista": 929.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7987015-300-300/55.jpg"
@@ -1883,6 +1899,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 849.0,
      "precio_lista": 1199.0,
      "disponible": true,
      "fuente": "auto",
@@ -4978,6 +5002,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 639.0,
+     "precio_lista": 1160.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 609.0,
      "precio_lista": 1160.0,
      "disponible": true,
      "fuente": "auto",
@@ -8291,6 +8323,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 799.0,
+     "precio_lista": 1430.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7883666-300-300/104138501.jpg"
@@ -8603,6 +8643,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 759.0,
+     "precio_lista": 1390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 739.0,
      "precio_lista": 1390.0,
      "disponible": true,
      "fuente": "auto",
@@ -15511,7 +15559,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/razer-teclado-gaming-huntsman-mini-mercury-edition-103236073/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -15520,8 +15568,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.99,
+     "precio_lista": 135.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/1216693-300-300/103236073.jpg"
   },
   "8907620": {
    "nombre": "Teclado multimedia cableado en español Xtech — TECLADO MULTIMEDIA ALAMBRICO EN ESPANOL",
@@ -18375,6 +18432,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 229.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7943725-300-300/105201230.jpg"
@@ -18529,6 +18594,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 269.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 219.0,
      "precio_lista": 269.0,
      "disponible": true,
      "fuente": "auto",
@@ -30631,6 +30704,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 429.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4810579-300-300/104377078.jpg"
@@ -30706,6 +30787,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 849.0,
+     "precio_lista": 949.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 899.0,
      "precio_lista": 949.0,
      "disponible": true,
      "fuente": "auto",
@@ -30789,6 +30878,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 429.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5213034-300-300/104496391.jpg"
@@ -30868,6 +30965,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 429.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4410823-300-300/104214992.jpg"
@@ -30935,6 +31040,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 479.0,
+     "precio_lista": 549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 499.0,
      "precio_lista": 549.0,
      "disponible": true,
      "fuente": "auto",
@@ -31014,6 +31127,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 849.0,
+     "precio_lista": 949.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 899.0,
      "precio_lista": 949.0,
      "disponible": true,
      "fuente": "auto",
@@ -31176,6 +31297,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 799.0,
+     "precio_lista": 849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7027174-300-300/104973331.jpg"
@@ -31334,6 +31463,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 979.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8016510-300-300/105162514.jpg"
@@ -31409,6 +31546,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 849.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 899.0,
      "precio_lista": 999.0,
      "disponible": true,
      "fuente": "auto",
@@ -31492,6 +31637,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 999.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8176637-300-300/105021752_2.jpg"
@@ -31567,6 +31720,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 949.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 999.0,
      "precio_lista": 1049.0,
      "disponible": true,
      "fuente": "auto",
@@ -34605,8 +34766,8 @@
   },
   "8807310": {
    "nombre": "Memoria SSD Kingston NV3 M.2 NVMe PCIe 4.0 — 500GB NV3 M.2 2280 PCIe 4.0 NVMe SSD",
-   "categoria": "ram",
-   "tipo": "ram",
+   "categoria": "ssd",
+   "tipo": "ssd",
    "pulgadas": null,
    "medida": null,
    "marca": "Kingston",
@@ -34684,8 +34845,8 @@
   },
   "8807311": {
    "nombre": "Memoria SSD Kingston NV3 M.2 NVMe PCIe 4.0 — 2000GB NV3 M.2 2280 PCIe 4.0 NVMe SSD",
-   "categoria": "ram",
-   "tipo": "ram",
+   "categoria": "ssd",
+   "tipo": "ssd",
    "pulgadas": null,
    "medida": null,
    "marca": "Kingston",
@@ -34763,8 +34924,8 @@
   },
   "8807312": {
    "nombre": "Memoria SSD Kingston NV3 M.2 NVMe PCIe 4.0 — 4000G NV3 M.2 2280 PCIe 4.0 NVMe SSD",
-   "categoria": "ram",
-   "tipo": "ram",
+   "categoria": "ssd",
+   "tipo": "ssd",
    "pulgadas": null,
    "medida": null,
    "marca": "Kingston",
@@ -35907,6 +36068,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304716-300-300/105307300.jpg"
@@ -35986,6 +36155,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304702-300-300/105307297.jpg"
@@ -36061,6 +36238,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
      "precio_lista": 99.0,
      "disponible": true,
      "fuente": "auto",
@@ -36411,6 +36596,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.0,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304423-300-300/105301866.jpg"
@@ -36486,6 +36679,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 99.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
      "precio_lista": 119.0,
      "disponible": true,
      "fuente": "auto",
@@ -36569,6 +36770,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/3968781-300-300/103462023.jpg"
@@ -36644,6 +36853,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 99.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
      "precio_lista": 119.0,
      "disponible": true,
      "fuente": "auto",
@@ -37197,6 +37414,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 269.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 219.0,
      "precio_lista": 269.0,
      "disponible": true,
      "fuente": "auto",
@@ -45496,6 +45721,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 509.0,
+     "precio_lista": 729.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4337418-300-300/104188871.jpg"
@@ -49168,6 +49401,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 70.99,
+     "precio_lista": 119.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5036136-300-300/104431348.jpg"
@@ -49800,6 +50041,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5818825-300-300/104578717.jpg"
@@ -50033,6 +50282,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 42.41,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
      "precio_lista": 49.9,
      "disponible": true,
      "fuente": "auto",
@@ -50328,6 +50585,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 339.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7718917-300-300/105139447.jpg"
@@ -50403,6 +50668,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 329.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 339.0,
      "precio_lista": 399.0,
      "disponible": true,
      "fuente": "auto",
@@ -50486,6 +50759,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 339.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7718956-300-300/105139451.jpg"
@@ -50561,6 +50842,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 329.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 339.0,
      "precio_lista": 399.0,
      "disponible": true,
      "fuente": "auto",
@@ -50960,6 +51249,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 45.9,
+     "precio_lista": 45.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7176818-300-300/105003679.jpg"
@@ -51035,6 +51332,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 35.0,
+     "precio_lista": 45.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 45.9,
      "precio_lista": 45.9,
      "disponible": true,
      "fuente": "auto",
@@ -51355,6 +51660,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 169.9,
+     "precio_lista": 169.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7695390-300-300/105128733.jpg"
@@ -51430,6 +51743,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
      "precio_lista": 99.0,
      "disponible": true,
      "fuente": "auto",
@@ -55042,6 +55363,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 34.99,
+     "precio_lista": 59.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6845085-300-300/104924347.jpg"
@@ -55113,6 +55442,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 14.99,
+     "precio_lista": 26.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6845078-300-300/104924346.jpg"
@@ -55180,6 +55517,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 50.91,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 59.9,
      "precio_lista": 59.9,
      "disponible": true,
      "fuente": "auto",
@@ -55405,6 +55750,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6713414-300-300/104861373.jpg"
@@ -55559,6 +55912,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 155.0,
+     "precio_lista": 189.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 159.0,
      "precio_lista": 189.0,
      "disponible": false,
      "fuente": "auto",
@@ -55721,6 +56082,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 159.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8450672-300-300/105100926.jpg"
@@ -55796,6 +56165,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 75.0,
+     "precio_lista": 95.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 95.9,
      "precio_lista": 95.9,
      "disponible": true,
      "fuente": "auto",
@@ -55879,6 +56256,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 95.9,
+     "precio_lista": 95.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7528978-300-300/105105806.jpg"
@@ -55954,6 +56339,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 75.0,
+     "precio_lista": 95.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 95.9,
      "precio_lista": 95.9,
      "disponible": true,
      "fuente": "auto",
@@ -56037,6 +56430,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7734913-300-300/105141882.jpg"
@@ -56116,6 +56517,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7735480-300-300/105141884.jpg"
@@ -56191,6 +56600,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 54.9,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
      "precio_lista": 69.0,
      "disponible": true,
      "fuente": "auto",
@@ -60641,6 +61058,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 22.99,
+     "precio_lista": 38.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7176976-300-300/105011525.jpg"
@@ -60799,6 +61224,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 38.9,
+     "precio_lista": 38.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7176962-300-300/105011523.jpg"
@@ -60813,7 +61246,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/audifonos-bt-anc-skeipods-e86-negro-104888216/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -60838,8 +61271,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 19.99,
+     "precio_lista": 32.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6768473-300-300/104888216.jpg"
   },
   "8179856": {
    "nombre": "Audífonos inalámbricos on ear Sonos Ace con cancelación de ruido — AUDIFONOS ON EAR BT NOISE CANCELLING NEGRO",
@@ -61288,6 +61730,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 24.9,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 22.9,
      "precio_lista": 34.9,
      "disponible": true,
      "fuente": "auto",
@@ -62019,6 +62469,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 19.99,
+     "precio_lista": 34.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7175991-300-300/104578711.jpg"
@@ -62094,6 +62552,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 27.96,
+     "precio_lista": 32.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 32.9,
      "precio_lista": 32.9,
      "disponible": true,
      "fuente": "auto",
@@ -62256,6 +62722,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 34.9,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5818771-300-300/104578709.jpg"
@@ -62410,6 +62884,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 29.66,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 34.9,
      "precio_lista": 34.9,
      "disponible": true,
      "fuente": "auto",
@@ -62651,6 +63133,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 44.9,
+     "precio_lista": 44.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5818797-300-300/104578713.jpg"
@@ -62726,6 +63216,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 38.16,
+     "precio_lista": 44.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 44.9,
      "precio_lista": 44.9,
      "disponible": true,
      "fuente": "auto",
@@ -62813,6 +63311,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 22.99,
      "precio_lista": 39.9,
      "disponible": false,
      "fuente": "auto",
@@ -64239,6 +64745,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 469.0,
+     "precio_lista": 529.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7839591-300-300/105172859.jpg"
@@ -64314,6 +64828,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 139.0,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 129.0,
      "precio_lista": 179.0,
      "disponible": true,
      "fuente": "auto",
@@ -64397,6 +64919,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 129.0,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7734939-300-300/105141886.jpg"
@@ -64472,6 +65002,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 139.0,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 129.0,
      "precio_lista": 179.0,
      "disponible": true,
      "fuente": "auto",
@@ -64630,6 +65168,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 329.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 359.0,
      "precio_lista": 399.0,
      "disponible": true,
      "fuente": "auto",
@@ -65304,6 +65850,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 199.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7156630-300-300/105005206-1.jpg"
@@ -65379,6 +65933,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 225.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 199.0,
      "precio_lista": 225.0,
      "disponible": true,
      "fuente": "auto",
@@ -65699,6 +66261,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6586471-300-300/104824297.jpg"
@@ -65774,6 +66344,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 369.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.0,
      "precio_lista": 429.0,
      "disponible": true,
      "fuente": "auto",
@@ -65857,6 +66435,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7839616-300-300/105172863.jpg"
@@ -65932,6 +66518,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 429.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.0,
      "precio_lista": 429.0,
      "disponible": true,
      "fuente": "auto",
@@ -66015,6 +66609,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7489633-300-300/105096286.jpg"
@@ -66090,6 +66692,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 39.0,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
      "precio_lista": 49.9,
      "disponible": true,
      "fuente": "auto",
@@ -66963,6 +67573,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 154.9,
+     "precio_lista": 154.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7943361-300-300/105195456.jpg"
@@ -67038,6 +67656,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 129.0,
+     "precio_lista": 154.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 154.9,
      "precio_lista": 154.9,
      "disponible": true,
      "fuente": "auto",
@@ -67121,6 +67747,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 154.9,
+     "precio_lista": 154.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048142-300-300/105229103.jpg"
@@ -67200,6 +67834,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 38.9,
+     "precio_lista": 38.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7176951-300-300/105011522.jpg"
@@ -67275,6 +67917,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 33.06,
+     "precio_lista": 38.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 38.9,
      "precio_lista": 38.9,
      "disponible": true,
      "fuente": "auto",
@@ -67516,6 +68166,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 109.0,
+     "precio_lista": 124.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048559-300-300/105229107.jpg"
@@ -67591,6 +68249,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 124.9,
+     "precio_lista": 124.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 109.0,
      "precio_lista": 124.9,
      "disponible": true,
      "fuente": "auto",
@@ -67674,6 +68340,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 109.0,
+     "precio_lista": 124.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048162-300-300/105229105.jpg"
@@ -67749,6 +68423,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 124.9,
+     "precio_lista": 124.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 109.0,
      "precio_lista": 124.9,
      "disponible": true,
      "fuente": "auto",
@@ -68622,6 +69304,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 499.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7718990-300-300/105139455.jpg"
@@ -68701,6 +69391,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 64.9,
+     "precio_lista": 64.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7695375-300-300/105128731.jpg"
@@ -68776,6 +69474,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 55.16,
+     "precio_lista": 64.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 64.9,
      "precio_lista": 64.9,
      "disponible": true,
      "fuente": "auto",
@@ -69412,6 +70118,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 105.9,
+     "precio_lista": 105.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7489590-300-300/105096282.jpg"
@@ -69487,6 +70201,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 85.0,
+     "precio_lista": 105.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 105.9,
      "precio_lista": 105.9,
      "disponible": true,
      "fuente": "auto",
@@ -69570,6 +70292,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 105.9,
+     "precio_lista": 105.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7528994-300-300/105105807.jpg"
@@ -69645,6 +70375,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 359.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 409.0,
      "precio_lista": 499.0,
      "disponible": true,
      "fuente": "auto",
@@ -69728,6 +70466,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 409.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7719010-300-300/105139457.jpg"
@@ -69807,6 +70553,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 409.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7719021-300-300/105139458.jpg"
@@ -69882,6 +70636,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 359.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 409.0,
      "precio_lista": 499.0,
      "disponible": true,
      "fuente": "auto",
@@ -71466,6 +72228,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 4.99,
+     "precio_lista": 9.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/334462-300-300/mdrex15appizuc.jpg"
@@ -71861,6 +72631,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 12.99,
+     "precio_lista": 21.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/318980-300-300/100384868-1.jpg"
@@ -72173,6 +72951,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 179.0,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 149.0,
      "precio_lista": 179.0,
      "disponible": true,
      "fuente": "auto",
@@ -79870,6 +80656,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 15.99,
+     "precio_lista": 26.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7033560-300-300/100847942.jpg"
@@ -81227,7 +82021,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-gaming-bt-g309-negro-105057508/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -81236,8 +82030,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 69.99,
+     "precio_lista": 85.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7303171-300-300/105057508.jpg"
   },
   "8702156": {
    "nombre": "Mouse inalámbrico gaming Logitech G309 Lightspeed — MOUSE GAMING BT G309 BLANCO",
@@ -81249,7 +82052,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-gaming-bt-g309-negro-105057508/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -81258,8 +82061,17 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.99,
+     "precio_lista": 85.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7303182-300-300/105057509.jpg"
   },
   "7453960": {
    "nombre": "Mouse vertical ergonómico Logitech Lift inalámbrico diestro — MOUSE INALÁMBRICO ERGONÓMICO LIFT VERTICAL NEGRO",
@@ -82772,7 +83584,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-cableado-1000-negro-105318139/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -82816,6 +83628,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 9.9,
+     "precio_lista": 9.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 9.9,
      "precio_lista": 9.9,
      "disponible": true,
@@ -82857,7 +83677,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-gaming-ergonomico-basilisk-v3-35k-nasa-negro-104836593/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -82901,6 +83721,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 99.9,
      "precio_lista": 99.9,
      "disponible": true,
@@ -82920,7 +83748,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/mouse-con-cable-sensor-optico-preciso-100-104827160/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -82964,6 +83792,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 7.9,
+     "precio_lista": 7.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 7.9,
      "precio_lista": 7.9,
      "disponible": true,
@@ -93669,6 +94505,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 569.0,
+     "precio_lista": 569.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8306453-300-300/105289998-1.jpg"
@@ -93744,6 +94588,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 269.0,
+     "precio_lista": 309.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 279.0,
      "precio_lista": 309.0,
      "disponible": true,
      "fuente": "auto",
@@ -94056,6 +94908,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 2499.0,
+     "precio_lista": 2499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8289747-300-300/105201070-2.jpg"
@@ -94214,6 +95074,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 979.0,
+     "precio_lista": 1179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4680381-300-300/104143341.jpg"
@@ -94289,6 +95157,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1199.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1149.0,
      "precio_lista": 1299.0,
      "disponible": true,
      "fuente": "auto",
@@ -94443,6 +95319,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 2399.0,
+     "precio_lista": 2699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8289735-300-300/105201069-1.jpg"
@@ -94518,6 +95402,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1999.0,
+     "precio_lista": 2449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1769.0,
      "precio_lista": 2449.0,
      "disponible": true,
      "fuente": "auto",
@@ -94676,6 +95568,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1699.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1479.0,
      "precio_lista": 2199.0,
      "disponible": true,
      "fuente": "auto",
@@ -94909,6 +95809,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 519.0,
+     "precio_lista": 709.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5379305-300-300/104463720.jpg"
@@ -94984,6 +95892,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 829.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 749.0,
      "precio_lista": 1049.0,
      "disponible": true,
      "fuente": "auto",
@@ -95160,7 +96076,7 @@
    "modelo": "RF32CG5310S9AP",
    "url": "https://sv.siman.com/refrigeradora-french-door-32p-c-dispensador-104231196/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -95213,6 +96129,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 1599.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1649.0,
      "precio_lista": 2099.0,
      "disponible": true,
      "fuente": "auto",
@@ -95296,6 +96220,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 529.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8078120-300-300/105233162-1.jpg"
@@ -95310,7 +96242,7 @@
    "modelo": "RMA1300FYCAE",
    "url": "https://sv.siman.com/refrigeradora-automatica-top-freezer-320-l-11-pcu-rma1300fycae-mabe-105139794/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -95363,6 +96295,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 449.0,
+     "precio_lista": 519.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 439.0,
      "precio_lista": 519.0,
      "disponible": true,
      "fuente": "auto",
@@ -95381,7 +96321,7 @@
    "modelo": "RS23T5B00S9",
    "url": "https://sv.siman.com/refrigeradora-side-by-side-23pcu-silver-mono-cooling-c-disp-103183606/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -95434,6 +96374,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 979.0,
+     "precio_lista": 1149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 949.0,
      "precio_lista": 1149.0,
      "disponible": true,
      "fuente": "auto",
@@ -95610,7 +96558,7 @@
    "modelo": "RT3N375NACA",
    "url": "https://sv.siman.com/refrigeradora-top-freezer-379-l-13-pcu-c-dispensador-acero-inox-105208306/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -95662,6 +96610,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 469.0,
+     "precio_lista": 569.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 469.0,
      "precio_lista": 569.0,
      "disponible": true,
@@ -95742,6 +96698,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 699.0,
+     "precio_lista": 879.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 679.0,
      "precio_lista": 879.0,
      "disponible": true,
      "fuente": "auto",
@@ -95904,6 +96868,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1479.0,
+     "precio_lista": 1899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6586365-300-300/104620013.jpg"
@@ -95983,6 +96955,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 479.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/4337428-300-300/104188873.jpg"
@@ -95997,7 +96977,7 @@
    "modelo": "RMU210FANU",
    "url": "https://sv.siman.com/refrigerador-1-puerta-8-cu-ft-platinum-parrillas-de-cristal-disp-agua-104114610/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -96050,6 +97030,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 299.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 289.0,
      "precio_lista": 339.0,
      "disponible": true,
      "fuente": "auto",
@@ -96212,6 +97200,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 419.0,
+     "precio_lista": 549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8306393-300-300/105277023-1.jpg"
@@ -96226,7 +97222,7 @@
    "modelo": "KRFF436SJP",
    "url": "https://sv.siman.com/refrigeradora-french-door-861-l-30-5-pcu-c-dispensador-acero-negra-105131413/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -96279,6 +97275,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 3199.0,
+     "precio_lista": 3749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 3149.0,
      "precio_lista": 3749.0,
      "disponible": true,
      "fuente": "auto",
@@ -96380,6 +97384,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 899.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 879.0,
      "precio_lista": 1199.0,
      "disponible": true,
      "fuente": "auto",
@@ -96543,6 +97555,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1049.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1099.0,
      "precio_lista": 1499.0,
      "disponible": true,
      "fuente": "auto",
@@ -96863,6 +97883,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/367870-300-300/102677762.jpg"
@@ -97017,6 +98045,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 499.0,
+     "precio_lista": 519.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 489.0,
      "precio_lista": 519.0,
      "disponible": true,
      "fuente": "auto",
@@ -97179,6 +98215,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 429.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7639060-300-300/105113992-1.jpg"
@@ -97254,6 +98298,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 559.0,
+     "precio_lista": 619.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 539.0,
      "precio_lista": 619.0,
      "disponible": true,
      "fuente": "auto",
@@ -97416,6 +98468,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 649.0,
+     "precio_lista": 719.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8515398-300-300/102987748-1.jpg"
@@ -97491,6 +98551,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 599.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 589.0,
      "precio_lista": 749.0,
      "disponible": true,
      "fuente": "auto",
@@ -97649,6 +98717,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1199.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1179.0,
      "precio_lista": 1399.0,
      "disponible": true,
      "fuente": "auto",
@@ -98123,6 +99199,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1299.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1199.0,
      "precio_lista": 1699.0,
      "disponible": true,
      "fuente": "auto",
@@ -98838,6 +99922,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 419.0,
+     "precio_lista": 659.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7847188-300-300/105071057-1.jpg"
@@ -99312,6 +100404,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 479.0,
+     "precio_lista": 579.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7152219-300-300/104959171-1.jpg"
@@ -99391,6 +100491,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 499.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7637761-300-300/104831339.jpg"
@@ -99466,6 +100574,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 549.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 539.0,
      "precio_lista": 639.0,
      "disponible": true,
      "fuente": "auto",
@@ -99786,6 +100902,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5010228-300-300/104422818.jpg"
@@ -99940,6 +101064,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 799.0,
+     "precio_lista": 1029.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 719.0,
      "precio_lista": 1029.0,
      "disponible": true,
      "fuente": "auto",
@@ -100177,6 +101309,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1199.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1149.0,
      "precio_lista": 1399.0,
      "disponible": true,
      "fuente": "auto",
@@ -100568,6 +101708,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 379.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5379601-300-300/104554907.jpg"
@@ -100726,6 +101874,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 359.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6844708-300-300/104908658.jpg"
@@ -100801,6 +101957,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 469.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 599.0,
      "precio_lista": 599.0,
      "disponible": true,
      "fuente": "auto",
@@ -101042,6 +102206,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 519.0,
+     "precio_lista": 609.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8515403-300-300/104079613-1.jpg"
@@ -101200,6 +102372,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 949.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7463676-300-300/105075717-1.jpg"
@@ -101275,6 +102455,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 669.0,
+     "precio_lista": 929.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 929.0,
      "precio_lista": 929.0,
      "disponible": true,
      "fuente": "auto",
@@ -101358,6 +102546,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/1047574-300-300/102960560.jpg"
@@ -101433,6 +102629,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1749.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1599.0,
      "precio_lista": 2199.0,
      "disponible": true,
      "fuente": "auto",
@@ -101674,6 +102878,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/3808952-300-300/104020256.jpg"
@@ -101832,6 +103044,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7050655-300-300/104874593-1.jpg"
@@ -101911,6 +103131,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 899.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/3846910-300-300/104040646.jpg"
@@ -101986,6 +103214,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1329.0,
+     "precio_lista": 1599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1299.0,
      "precio_lista": 1599.0,
      "disponible": true,
      "fuente": "auto",
@@ -102302,6 +103538,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 109.0,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
      "precio_lista": 109.0,
      "disponible": true,
      "fuente": "auto",
@@ -102780,6 +104024,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 79.0,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7358154-300-300/105011861-1.jpg"
@@ -103175,6 +104427,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 429.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/468369-300-300/jvm3160rfss.jpg"
@@ -103250,6 +104510,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 89.0,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.0,
      "precio_lista": 109.0,
      "disponible": true,
      "fuente": "auto",
@@ -103645,6 +104913,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 80.91,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 79.0,
      "precio_lista": 89.9,
      "disponible": true,
      "fuente": "auto",
@@ -106519,6 +107795,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6554326-300-300/104837723.jpg"
@@ -106586,6 +107870,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
      "precio_lista": 99.0,
      "disponible": true,
      "fuente": "auto",
@@ -106661,6 +107953,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6539837-300-300/104837721.jpg"
@@ -106675,7 +107975,7 @@
    "modelo": "M2581",
    "url": "https://sv.siman.com/microfono-inalambrico-m2581-negro-105141894/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -106720,6 +108020,14 @@
     {
      "fecha": "2026-10-26T12:43:55-06:00",
      "precio": 69.0,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
      "precio_lista": 69.0,
      "disponible": true,
      "fuente": "auto",
@@ -106738,7 +108046,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/microfono-3-5-mm-de-solapa-para-celular-104595853/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -106782,6 +108090,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 6.9,
+     "precio_lista": 6.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 6.9,
      "precio_lista": 6.9,
      "disponible": true,
@@ -106801,7 +108117,7 @@
    "modelo": "WMCX01",
    "url": "https://sv.siman.com/microfono-fantech-leviosa-wave-wmcx01-white-823492737/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -106845,6 +108161,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 69.95,
+     "precio_lista": 69.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 69.95,
      "precio_lista": 69.95,
      "disponible": true,
@@ -106864,7 +108188,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/microfono-inalambrico-de-mano-uhf-bidireccional-103474624/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -106908,6 +108232,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 33.9,
+     "precio_lista": 33.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 33.9,
      "precio_lista": 33.9,
      "disponible": true,
@@ -106927,7 +108259,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/microfono-estereo-de-solapa-con-captura-omnidireccional-104797803/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -106971,6 +108303,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 36.0,
+     "precio_lista": 36.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 36.0,
      "precio_lista": 36.0,
      "disponible": true,
@@ -106990,7 +108330,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/microfono-inalambrico-recargable-105079551/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107034,6 +108374,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 29.9,
      "precio_lista": 29.9,
      "disponible": true,
@@ -107053,7 +108401,7 @@
    "modelo": "PRO192",
    "url": "https://sv.siman.com/microfono-rgb-gaming-usb-con-base-streamplify--pro-192-rgb-st-bk-823492277/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107097,6 +108445,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 89.1,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 89.1,
      "precio_lista": 99.0,
      "disponible": true,
@@ -107116,7 +108472,7 @@
    "modelo": "GM300",
    "url": "https://sv.siman.com/microfono-led-redragon-blazar-gm300-usb-cardioide-black-823491126/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107160,6 +108516,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 71.96,
+     "precio_lista": 79.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 71.96,
      "precio_lista": 79.95,
      "disponible": true,
@@ -107179,7 +108543,7 @@
    "modelo": "WMV21C",
    "url": "https://sv.siman.com/microfono-inalambrico-fantech-leviosa-air-wmv21c-tipo-c-black-823490965/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107223,6 +108587,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 35.99,
+     "precio_lista": 44.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 35.99,
      "precio_lista": 44.99,
      "disponible": true,
@@ -107242,7 +108614,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/microfono-inalambrico-de-solapa-quantum-stream-usb-c-104833357/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107286,6 +108658,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 75.0,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 75.0,
      "precio_lista": 109.0,
      "disponible": true,
@@ -107305,7 +108685,7 @@
    "modelo": "ULTMIC1",
    "url": "https://sv.siman.com/microfono-inalambrico-ultmic1-105058440/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107349,6 +108729,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 129.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 129.0,
      "precio_lista": 159.0,
      "disponible": true,
@@ -107398,7 +108786,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/microfono-inalambrico-digital-partybox-104771958/p",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:37:25-06:00",
@@ -107442,6 +108830,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 149.9,
+     "precio_lista": 149.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 149.9,
      "precio_lista": 149.9,
      "disponible": true,
@@ -108030,6 +109426,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 1549.0,
+     "precio_lista": 1549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1099.0,
      "precio_lista": 1549.0,
      "disponible": true,
      "fuente": "auto",
@@ -108720,6 +110124,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 549.0,
+     "precio_lista": 549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8360310-300-300/105318866-1.jpg"
@@ -108852,7 +110264,7 @@
    "modelo": "VOX01TIPOC",
    "url": "https://sv.siman.com/microfono-streaming-con-carga-tipo-c-104876367/p",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-23T11:10:08-06:00",
@@ -108880,6 +110292,14 @@
     },
     {
      "fecha": "2026-10-26T12:43:55-06:00",
+     "precio": 31.9,
+     "precio_lista": 31.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
      "precio": 31.9,
      "precio_lista": 31.9,
      "disponible": true,
@@ -108936,6 +110356,14 @@
     {
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 849.0,
+     "precio_lista": 849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 799.0,
      "precio_lista": 849.0,
      "disponible": true,
      "fuente": "auto",
@@ -109273,6 +110701,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 199.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8087638-300-300/105186412-ia.jpg"
@@ -109304,6 +110740,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 199.0,
+     "precio_lista": 199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7863635-300-300/105186413_NDEF.jpg"
@@ -109332,6 +110776,14 @@
      "fecha": "2026-10-27T12:03:03-06:00",
      "precio": 169.0,
      "precio_lista": 169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 199.0,
+     "precio_lista": 199.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -109778,6 +111230,2398 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7051675-300-300/104674554.jpg"
+  },
+  "8911193": {
+   "nombre": "Pantalla Samsung 65\" (165.1 cm) LED Crystal UHD 4K HDR10+UN65U8000HPXPA — TV SMART 65\" CRYSTAL UHD 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65U8000HPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-65---165-1-cm--led-crystal-uhd-4k-hdr10-un65u8000hpxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 549.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8164110-300-300/65-1.jpg"
+  },
+  "8902822": {
+   "nombre": "Pantalla RCA QLED 32\" (81.28 cm) HD Roku RCR32QL — TV QLED SMART 81.28 CM (32\") 4K ROKU",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RCR32QL",
+   "url": "https://sv.siman.com/pantalla-rca-qled-32---81-28-cm--uhd-4k-roku-rcr32ql/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 159.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7972014-300-300/32-pulgadas-2.jpg"
+  },
+  "8551468": {
+   "nombre": "Pantalla Samsung 65\" (165.1 cm) LED Crystal UHD 4K HDR10+ UN65U8000FPXPA — Pantalla Samsung Crystal 2025 LED smart 65\" (165.1 cm) UHD/4K // UN65U8000FPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65U8000FPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-65--led-crystal-uhd-4k-hdr10--un65u8000fpxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 529.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7331019-300-300/104940484.jpg"
+  },
+  "9011663": {
+   "nombre": "Pantalla Samsung 85\" (215.9 cm) MiniLED 4K Vision AI HDR10+ UN85M70HAPXPA — TV MINI LED SMART 215.9 cm (85\") 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN85M70HAPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-85---215-9-cm--miniled-4k-vision-ai-hdr10--un85m70hapxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8247272-300-300/105282576--1-.jpg"
+  },
+  "8811272": {
+   "nombre": "Pantalla Hisense MiniLED ULED 65\" (165.1 cm) 4K UHD HDR10+ 65U6ESV — TV MINILED ULED SMART 165.1 cm (65\") 4K VIDAA IA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "65U6ESV",
+   "url": "https://sv.siman.com/pantalla-hisense-miniled-uled-65---165-1-cm--4k-uhd-hdr10--65u6esv-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 689.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8581432-300-300/105129009_50.jpg"
+  },
+  "8772818": {
+   "nombre": "Pantalla Xiaomi A 32\" (81.28 cm) 2026 HD HDR10 63903 — TV SMART 32\" HD 2026",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/pantalla-xiaomi-a-32---81-28-cm--2026-hd-hdr10-63903-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 159.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7581404-300-300/105104060-1.jpg"
+  },
+  "8571415": {
+   "nombre": "Pantalla Samsung 32\" (81.28 cm) LED HD UN32H5000FPXPA — TV LED SMART 32\" (81.28 cm) HD",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN32H5000FPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-32--led-hd-un32h5000fpxpa-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 169.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330767-300-300/104956591-1.jpg"
+  },
+  "10056535": {
+   "nombre": "PANTALLA LED 32\" GOOGLE TV MOT32HLE11 — . PANTALLA LED 32\" GOOGLE TV MOT32HLE11",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Motorola",
+   "modelo": "MOT32HLE11",
+   "url": "https://sv.siman.com/-pantalla-led-32--google-tv-mot32hle11-823488173/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 145.0,
+     "precio_lista": 183.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7849719-300-300/Tv32-1--1-.jpg"
+  },
+  "8911194": {
+   "nombre": "Pantalla Samsung 65\" (165.1 cm) Mini LED UHD 4K HDR10+ UN65M70HAPXPA — TV 65\" MINILED",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65M70HAPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-65---165-1-cm--mini-led-uhd-4k-hdr10--un65m70hapxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 649.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7987022-300-300/65-MUNDIAL.jpg"
+  },
+  "8899402": {
+   "nombre": "Pantalla Samsung 75\" (190.5 cm) Mini LED UHD 4K HDR10+ UN75M70HAPXPA — TV MINI LED SMART 190.5 cm (75\") 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75M70HAPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-75---190-5-cm--mini-led-uhd-4k-hdr10--un75m70hapxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 899.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7987027-300-300/75.jpg"
+  },
+  "8811269": {
+   "nombre": "Pantalla Hisense 32\" (81.28 cm) QLED HD 32Q4SV — TV QLED SMART 81.28 cm (32\") HD VIDAA IA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "32Q4SV",
+   "url": "https://sv.siman.com/pantalla-hisense-32---81-28-cm--qled-hd-32q4sv-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 169.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8581391-300-300/105129006_50.jpg"
+  },
+  "8617636": {
+   "nombre": "Pantalla Samsung 65\" (165.1 cm) QLED UHD 4K HDR10+ QN65LS03FAPXPA — TV QLED SMART 65\" (165.1 cm) UHD/4K HDR MATTE DISPLAY, QUANTUM PROCESSOR 4K ADAPTUVE PICTURE 120HZ",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65LS03FAPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-65--qled-uhd-4k-hdr10--qn65ls03fapxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 999.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7129514-300-300/104995574-1.jpg"
+  },
+  "9019491": {
+   "nombre": "Pantalla Xiaomi S Mini LED 85\" (215.9 cm) HDR10+ UHD 4K 70512 — TV S MINI LED SMART 215.9 cm (85\") UHD/4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/pantalla-xiaomi-s-mini-led-85---215-9-cm--hdr10--uhd-4k-70512-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1529.0,
+     "precio_lista": 1529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8282953-300-300/105288958-1.jpg"
+  },
+  "9016525": {
+   "nombre": "Pantalla Samsung U8000H 85\" (215.9 cm) Crystal UHD 4K Vision AI — TV SMART 85\" CRYSTAL UHD 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "U8000H",
+   "url": "https://sv.siman.com/tv-smart-85-crystal-uhd-4k-105286859/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8268730-300-300/105286859.jpg"
+  },
+  "8984898": {
+   "nombre": "Pantalla Sony BRAVIA 3 II 85\" (215.9 cm) LED Google TV UHD 4K K-85XR30M2 — TV LED SMART 215.9 cm (85\") HDR/4K BRAVIA 3 GOOGLE TV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K85XR30M2",
+   "url": "https://sv.siman.com/pantalla-sony-bravia-3-85---215-9-cm--led-google-tv-uhd-4k-k-85xr30m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1899.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156701-300-300/105258905-MUNDIAL.jpg"
+  },
+  "8559048": {
+   "nombre": "Pantalla Sony 65\" (165.1 cm) LED UHD 4K HDR10 K-65S20M2 — Pantalla Sony BRAVIA 2 II 2025 Smart 65\" (165.1 cm) UHD/4K HDR // K-65S20M2",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65S20M2",
+   "url": "https://sv.siman.com/pantalla-sony-65--led-uhd-4k-hdr10-k-65s20m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 849.0,
+     "precio_lista": 1189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330800-300-300/104946577-1.jpg"
+  },
+  "9089206": {
+   "nombre": "Pantalla Smart Samsung Crystal UHD U8000H 4K de 70\" Pulgadas (177.80cm) — TV LED SMART 177.80 cm (70\") CRYSTAL UHD/4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "U8000H",
+   "url": "https://sv.siman.com/tv-led-smart-177-80-cm-70-crystal-uhd-4k-105346040/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 769.0,
+     "precio_lista": 869.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8528515-300-300/105346040.jpg"
+  },
+  "8984908": {
+   "nombre": "Pantalla Sony BRAVIA 3 II 65\" (165.1 cm) LED Google TV UHD 4K K-65XR30M2 — TV LED SMART 165.1 cm (65\") HDR/4K BRAVIA 3 GOOGLE TV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65XR30M2",
+   "url": "https://sv.siman.com/pantalla-sony-bravia-3-ii-65---165-1-cm--led-google-tv-uhd-4k-k-65xr30m2-/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1249.0,
+     "precio_lista": 1389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8161049-300-300/105258907-mundial.jpg"
+  },
+  "8911195": {
+   "nombre": "Pantalla Samsung 75\" (190.5 cm) LED Crystal UHD 4K HDR10+ UN75U8000HPXPA — TV SMART 75\" CRYSTAL UHD 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75U8000HPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-75---190-5-cm--led-crystal-uhd-4k-hdr10--un75u8000hpxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 829.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8164232-300-300/75-1.jpg"
+  },
+  "8902824": {
+   "nombre": "Pantalla QLED Smart 65\" (165.1 cm) UHD 4K Roku RCA RC65QL — TV QLED SMART 165.1 cm (65\") UHD/4K ROKU",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC65QL",
+   "url": "https://sv.siman.com/pantalla-qled-smart-65---165-1-cm--uhd-4k-roku-rca-rc65ql/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 569.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7972008-300-300/105195243-2.jpg"
+  },
+  "8559047": {
+   "nombre": "Pantalla Sony 65\" (165.1 cm) Mini LED UHD 4K HDR10 K-65XR50 — Pantalla Sony BRAVIA 5 Mini LED 2025 Smart 65\" (165.1 cm) UHD/4K HDR // K-65XR50",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65XR50",
+   "url": "https://sv.siman.com/pantalla-sony-65--mini-led-uhd-4k-hdr10-k-65xr50/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1399.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330826-300-300/104946578-1.jpg"
+  },
+  "8559044": {
+   "nombre": "Pantalla Sony 75\" (190.5 cm) Mini LED UHD 4K HDR10 K-75XR50 — TV MINI LED SMART 75\" (190.5 cm) UHD/4K GOOGLE TV BRAVIA 5 XR K-75XR50",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K75XR50",
+   "url": "https://sv.siman.com/pantalla-sony-75--mini-led-uhd-4k-hdr10-k-75xr50/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330901-300-300/104946581_MUNDIAL.jpg"
+  },
+  "10071134": {
+   "nombre": "PANTALLA LED 32 PULGADAS HD SMART AND/2HDMI/1USB AIWA — PANTALLA  LED 32\" HD SMART AND/2HDMI/1USB AIWA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Aiwa",
+   "modelo": "",
+   "url": "https://sv.siman.com/pantalla-led-32-pulgadas-hd-smart-and-2hdmi-1usb-aiwa-823492766/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 210.0,
+     "precio_lista": 210.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8654559-300-300/image-2a09986161884218aef95c772774a2e1.jpg"
+  },
+  "10044796": {
+   "nombre": "Pantalla RCA 75\" (190.5 cm) LED UHD 4K HDR10 RC75RK",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC75RK",
+   "url": "https://sv.siman.com/pantalla-rca-75---190-5-cm--led-uhd-4k-hdr10-rc75rk-823485371/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 699.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8324656-300-300/Codinex-RC75RK-ia.jpg"
+  },
+  "8984910": {
+   "nombre": "Pantalla Sony Bravia 7 II 65\" (165.1 cm) RGB MiniLED UHD 4K HDR10 K-65XR70M2 — TV RGB MINI LED SMART 165.1 cm (65\") UHD/4K BRAVIA 7 GOOGLE TV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65XR70M2",
+   "url": "https://sv.siman.com/pantalla-sony-bravia-7-ii-65---165-1-cm--rgb-miniled-uhd-4k-hdr10-k-65xr70m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 2399.0,
+     "precio_lista": 2599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8247241-300-300/105258908--2-.jpg"
+  },
+  "8984906": {
+   "nombre": "Pantalla Sony BRAVIA 3 II 75\" (190.5 cm) LED Google TV UHD 4K K-75XR30M2 — TV LED SMART 190.5 cm (75\") HDR/4K BRAVIA 3 GOOGLE TV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K75XR30M2",
+   "url": "https://sv.siman.com/pantalla-sony-bravia-3-ii-75---190-5-cm--led-google-tv-uhd-4k-k-75xr30m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1469.0,
+     "precio_lista": 1599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8161041-300-300/105258906-mundial.jpg"
+  },
+  "8965820": {
+   "nombre": "Pantalla Hisense Canvas TV  S7SG 65\" (165.1 cm) QLED UHD 4K — TV QLED CANVAS SMART 165.1 cm (65\") 4K/ GOOGLE TV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "",
+   "url": "https://sv.siman.com/pantalla-hisense-canvas-tv--s7sg-65---165-1-cm--qled-uhd-4k/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8581485-300-300/105244728_50.jpg"
+  },
+  "8942275": {
+   "nombre": "Pantalla Sony 75\" (190.5 cm) LED UHD 4K HDR10 K-75S20M2 — TV LED SMART 190.5 cm (75\") UHD/4K GOOGLE TV BRAVIA 2 M2",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K75S20M2",
+   "url": "https://sv.siman.com/pantalla-sony-75---190-5-cm--led-uhd-4k-hdr10-k-75s20m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1189.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8058358-300-300/104946580-1.jpg"
+  },
+  "8899069": {
+   "nombre": "Pantalla Samsung Micro RGB R85H 4K Vision AI Smart TV 65\" (165.1cm) — TV MICRO RGB SMART 165.1 cm (65\") 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/tv-micro-rgb-smart-165-1-cm-65-4k-105192750/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1599.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8267490-300-300/65.jpg"
+  },
+  "8899067": {
+   "nombre": "Pantalla Samsung Micro RGB R85H 4K Vision AI Smart TV 75\" (190.5 cm) — TV MICRO RGB SMART 190.5 cm (75\") 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/tv-micro-rgb-smart-190-5-cm-75-4k-105192749/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 2399.0,
+     "precio_lista": 3099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8266801-300-300/75.jpg"
+  },
+  "8899063": {
+   "nombre": "Pantalla Samsung Micro RGB R85H 4K Vision AI Smart TV 85\" (215.9cm) — TV MICRO RGB SMART 215.9 cm (85\") 4K",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/tv-micro-rgb-smart-215-9-cm-85-4k-105192748/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 3499.0,
+     "precio_lista": 4199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7986983-300-300/85.jpg"
+  },
+  "8608335": {
+   "nombre": "Pantalla Hisense 85\" (215.9 cm) QLED UHD 4K HDR10 85Q6QV — TV QLED SMART 85\" (215.9 cm) 4K/ VIDAA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "85Q6QV",
+   "url": "https://sv.siman.com/pantalla-hisense-85--qled-uhd-4k-hdr10-85q6qv/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8581328-300-300/104987882_50.jpg"
+  },
+  "8608330": {
+   "nombre": "Pantalla Hisense 65\" (165.1 cm) QLED UHD 4K HDR10+ CanvasTV 65S7N — TV QLED CANVAS SMART 65\" (165.1 cm) 4K/ GOOGLE TV",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "65S7N",
+   "url": "https://sv.siman.com/pantalla-hisense-65--qled-uhd-4k-hdr10--canvastv-65s7n/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 899.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8581290-300-300/104987880_50.jpg"
+  },
+  "8559046": {
+   "nombre": "Pantalla Sony 65\" (165.1 cm) OLED UHD 4K HDR10 K-65XR80M2 — TV OLED SMART 65\" (165.1 cm) UHD/4K GOOGLE TV BRAVIA 8 M2 K-65XR80M2",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65XR80M2",
+   "url": "https://sv.siman.com/pantalla-sony-65--oled-uhd-4k-hdr10-k-65xr80m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 2699.0,
+     "precio_lista": 3399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330837-300-300/104946579-1.jpg"
+  },
+  "8559045": {
+   "nombre": "Pantalla Sony 75\" (190.5 cm) LED UHD 4K HDR10 K-75S20M2 — TV LED SMART 75\" (190.5 cm) UHD/4K GOOGLE TV BRAVIA 2 M2 K-75S20M2",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K75S20M2",
+   "url": "https://sv.siman.com/pantalla-sony-75--led-uhd-4k-hdr10-k-75s20m2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1189.0,
+     "precio_lista": 1569.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330891-300-300/104946580-1.jpg"
+  },
+  "8551469": {
+   "nombre": "Pantalla Samsung 77\" (195.58 cm) OLED UHD 4K HDR10+ QN77S85FAPXPA — Pantalla Samsung OLED 2025 Smart 77\" (195.58 cm) 4K Vision AI // QN77S85FAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 77,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN77S85FAPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-77--oled-uhd-4k-hdr10--qn77s85fapxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 2099.0,
+     "precio_lista": 2699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7331011-300-300/104940483.jpg"
+  },
+  "8551477": {
+   "nombre": "Pantalla Samsung 65\" (165.1 cm) OLED UHD 4K HDR10+ QN65S85FAPXPA — Pantalla Samsung OLED 2025 Smart 65\" (165.1 cm) UHD/4K Vision AI // QN65S85FAPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "QN65S85FAPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-65--oled-uhd-4k-hdr10--qn65s85fapxpa/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330945-300-300/104940475-1--1-.jpg"
+  },
+  "8987157": {
+   "nombre": "Control gaming Primus para celular edición Mandalorian & Grogu — CONTROL GAMER PRIMUS PARA CELULAR EDICION MANDALORIAN & GROGU",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Primus",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-gamer-primus-para-celular-edicion-mandalorian-grogu-105261458/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 55.9,
+     "precio_lista": 55.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8207761-300-300/105261458.jpg"
+  },
+  "8472840": {
+   "nombre": "Control gaming para celular Primus Gaming",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Primus",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-gaming-para-celular-104876360/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6714193-300-300/104876360.jpg"
+  },
+  "2574151": {
+   "nombre": "Control de juegos pc inal ambrico",
+   "categoria": "control",
+   "tipo": "control",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "",
+   "url": "https://sv.siman.com/control-de-juegos-pc-inal-ambrico-829433/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 69.9,
+     "precio_lista": 69.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/1762417-300-300/482943300001.jpg"
+  },
+  "8826598": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Redmi buds 8 lite con ANC — AUDIFONO IN EAR REDMI BUDS 8 LITE BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-8-lite-blanco-105141781/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7758069-300-300/105141781.jpg"
+  },
+  "8826742": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Redmi buds 8 lite con ANC — AUDIFONO IN EAR REDMI BUDS 8 LITE NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-8-lite-blanco-105141781/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7758078-300-300/105143328.jpg"
+  },
+  "8827955": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Redmi buds 8 lite con ANC — Audifonos  Redmi Buds 8 Lite Black",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-8-lite-blanco-105141781/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7757447-300-300/105143328.jpg"
+  },
+  "8587769": {
+   "nombre": "Audífono inalámbrico on ea Sony WH1000XM6 con Active Noise Cancelling — AUDIFONO BT ON EAR ANC WH1000XM6 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "WH1000XM6",
+   "url": "https://sv.siman.com/audifono-bt-on-ear-anc-wh1000xm6-silver-104972030/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.9,
+     "precio_lista": 449.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7026994-300-300/104970757.jpg"
+  },
+  "8587771": {
+   "nombre": "Audífono inalámbrico on ea Sony WH1000XM6 con Active Noise Cancelling — AUDIFONO BT ON EAR  ANC  WH1000XM6 AZUL",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "WH1000XM6",
+   "url": "https://sv.siman.com/audifono-bt-on-ear-anc-wh1000xm6-silver-104972030/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.9,
+     "precio_lista": 449.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7027006-300-300/104970758.jpg"
+  },
+  "8589348": {
+   "nombre": "Audífono inalámbrico on ea Sony WH1000XM6 con Active Noise Cancelling — AUDIFONO BT ON EAR ANC  WH1000XM6 SILVER",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "WH1000XM6",
+   "url": "https://sv.siman.com/audifono-bt-on-ear-anc-wh1000xm6-silver-104972030/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.9,
+     "precio_lista": 449.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7027019-300-300/104972030.jpg"
+  },
+  "8865290": {
+   "nombre": "Audífono inalámbrico on ea Sony WH1000XM6 con Active Noise Cancelling — AUDIFONOS INALAMBRICOS CON CANCELACION DE RUIDO-ROSA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "WH1000XM6",
+   "url": "https://sv.siman.com/audifono-bt-on-ear-anc-wh1000xm6-silver-104972030/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.9,
+     "precio_lista": 419.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7826880-300-300/105169518.jpg"
+  },
+  "8988813": {
+   "nombre": "Audífono inalámbrico on ea Sony WH1000XM6 con Active Noise Cancelling — AUDIFONOS ON EAR BT WH1000XM6 SANDSTONE",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "WH1000XM6",
+   "url": "https://sv.siman.com/audifono-bt-on-ear-anc-wh1000xm6-silver-104972030/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 349.9,
+     "precio_lista": 419.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8208273-300-300/105262801.jpg"
+  },
+  "8469925": {
+   "nombre": "Audífono inalámbrico on ear Red Bull Racing — AUDIFONO ON EAR RED BULL RACING RB-HP160 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oracle RedBull Racing",
+   "modelo": "RBHP160",
+   "url": "https://sv.siman.com/audifono-on-ear-red-bull-racing-rb-hp160-negro-104874586/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 19.9,
+     "precio_lista": 44.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7166610-300-300/104874586.jpg"
+  },
+  "8861324": {
+   "nombre": "Audifono in ear bt motobuds 2 dark shadow — AUDIFONO IN EAR BT MOTOBUDS 2 BLUE JEWEL",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Motorola",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-motobuds-2-dark-shadow-105166775/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7826723-300-300/105166772.jpg"
+  },
+  "8861327": {
+   "nombre": "Audifono in ear bt motobuds 2 dark shadow",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Motorola",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-motobuds-2-dark-shadow-105166775/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7826747-300-300/105166775.jpg"
+  },
+  "8514313": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Buds 2 con ANC — AUDIFONO IN EAR TWS TUNE BUDS 2 GHOST NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-buds-2-ghost-blanco-104925082/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787785-300-300/104911114.jpg"
+  },
+  "8514314": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Buds 2 con ANC — AUDIFONO IN EAR TWS TUNE BUDS 2 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-buds-2-ghost-blanco-104925082/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787773-300-300/104911113.jpg"
+  },
+  "8532585": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Buds 2 con ANC — AUDIFONO IN EAR TWS TUNE BUDS 2 GHOST BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-buds-2-ghost-blanco-104925082/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 90.9,
+     "precio_lista": 90.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6808781-300-300/104925082.png.png"
+  },
+  "8589846": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Buds 2 con ANC — AUDIFONOS IN EAR BT TUNE BUDS 2 TURQUESA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-buds-2-ghost-blanco-104925082/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7027122-300-300/104972377.jpg"
+  },
+  "8613213": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Buds 2 con ANC — AUDIFONO IN EAR TWS TUNE BUDS 2 GHOST MAUVE",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-buds-2-ghost-blanco-104925082/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7124328-300-300/104991384.jpg"
+  },
+  "8514309": {
+   "nombre": "Audífono inalámbrico in ear JBL Tune Beam 2 con ANC — AUDIFONO IN EAR TWS TUNE BEAM 2 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-beam-2-ghost-negro-104911116/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6808760-300-300/104911118.webp.webp"
+  },
+  "8514310": {
+   "nombre": "Audífono inalámbrico in ear JBL Tune Beam 2 con ANC — AUDIFONO IN EAR TWS TUNE BEAM 2 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-beam-2-ghost-negro-104911116/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787821-300-300/104911117.jpg"
+  },
+  "8514311": {
+   "nombre": "Audífono inalámbrico in ear JBL Tune Beam 2 con ANC — AUDIFONO IN EAR TWS TUNE BEAM 2 GHOST NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-beam-2-ghost-negro-104911116/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787808-300-300/104911116.jpg"
+  },
+  "8589845": {
+   "nombre": "Audífono inalámbrico in ear JBL Tune Beam 2 con ANC — AUDIFONOS IN EAR BT TUNE BEAM 2 TURQUESA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-beam-2-ghost-negro-104911116/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7027132-300-300/104972378.jpg"
+  },
+  "8469923": {
+   "nombre": "Audífono inalámbrico on ear Oracle Red Bull Racing con noise cancelling — AUDIFONO ON EAR RED BULL RACING RB-HP100 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oracle RedBull Racing",
+   "modelo": "RBHP100",
+   "url": "https://sv.siman.com/audifono-on-ear-red-bull-racing-rb-hp100-negro-104874588/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 39.9,
+     "precio_lista": 79.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7284103-300-300/104874588.jpg"
+  },
+  "8220232": {
+   "nombre": "Audífono inalámbrico in ear  Samsung Galaxy buds 3 pro con ANC — AUDIFONO TWS GALAXY BUDS 3 PRO SILVER",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-tws-galaxy-buds-3-pro-silver-104660250/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 169.0,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6932803-300-300/104660250-20.jpg"
+  },
+  "8220233": {
+   "nombre": "Audífono inalámbrico in ear  Samsung Galaxy buds 3 pro con ANC — AUDIFONO TWS GALAXY BUDS 3 PRO BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-tws-galaxy-buds-3-pro-silver-104660250/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 169.0,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6932812-300-300/104660251.jpg"
+  },
+  "8220230": {
+   "nombre": "Audífono inalámbrico Samsung Galaxy buds 3 con cancelación de ruido — AUDIFONO TWS GALAXY BUDS 3 SILVER",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-tws-galaxy-buds-3-silver-104660248/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 134.0,
+     "precio_lista": 169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6945130-300-300/104660248.jpg"
+  },
+  "8220231": {
+   "nombre": "Audífono inalámbrico Samsung Galaxy buds 3 con cancelación de ruido — AUDIFONO TWS GALAXY BUDS 3 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-tws-galaxy-buds-3-silver-104660248/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 134.0,
+     "precio_lista": 169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6000597-300-300/104660249.jpg"
+  },
+  "7887546": {
+   "nombre": "Audífono inalámbrico in ear Skullcandy Dime 3 — AUDIFONO IN EAR TWS BT DIME 3 NEGRO/NARANJA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Skullcandy",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-bt-dime-3-blanco-naranja-104381817/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 40.9,
+     "precio_lista": 40.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4810789-300-300/104381818.jpg"
+  },
+  "7887547": {
+   "nombre": "Audífono inalámbrico in ear Skullcandy Dime 3 — AUDIFONO IN EAR TWS BT DIME 3 BLANCO/NARANJA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Skullcandy",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-bt-dime-3-blanco-naranja-104381817/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 40.9,
+     "precio_lista": 40.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4810783-300-300/104381817.jpg"
+  },
+  "9030744": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Redmi Buds 8 con ANC — AUDIFONO IN EAR BT REDMI BUDS 8 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-redmi-buds-8-negro-105298322/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304754-300-300/105298322.jpg"
+  },
+  "9030746": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Redmi Buds 8 con ANC — AUDIFONO IN EAR BT REDMI BUDS 8 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-redmi-buds-8-negro-105298322/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304775-300-300/105298323.jpg"
+  },
+  "9030748": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Redmi Buds 8 con ANC — AUDIFONO IN EAR BT REDMI BUDS 8 VERDE",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-redmi-buds-8-negro-105298322/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304392-300-300/105298324.jpg"
+  },
+  "9009929": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Buds 6 con ANC — AUDIFONO IN EAR BT BUDS 6 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-buds-6-negro-105281232/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8246268-300-300/105281232.jpg"
+  },
+  "9009930": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Buds 6 con ANC — AUDIFONO IN EAR BT BUDS 6 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-buds-6-negro-105281232/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8246094-300-300/105281233.jpg"
+  },
+  "9009935": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Buds 6 con ANC — AUDIFONO IN EAR BT BUDS 6 PURPURA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-buds-6-negro-105281232/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8246274-300-300/105281235.jpg"
+  },
+  "9009936": {
+   "nombre": "Audífono inalámbrico in ear Xiaomi Buds 6 con ANC — AUDIFONO IN EAR BT BUDS 6 GRIS",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-bt-buds-6-negro-105281232/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8246280-300-300/105281234.jpg"
+  },
+  "8514306": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Flex 2 con ANC — AUDIFONO IN EAR TWS TUNE FLEX 2 GHOST NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-flex-2-negro-104911119/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787869-300-300/104911121.jpg"
+  },
+  "8514307": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Flex 2 con ANC — AUDIFONO IN EAR TWS TUNE FLEX 2 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-flex-2-negro-104911119/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6787857-300-300/104911120.jpg"
+  },
+  "8514308": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Flex 2 con ANC — AUDIFONO IN EAR TWS TUNE FLEX 2 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-flex-2-negro-104911119/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7412069-300-300/104911119.jpg"
+  },
+  "8746845": {
+   "nombre": "Audífono inalámbrico in ear TWS JBL Tune Flex 2 con ANC — AUDIFONOS IN EAR BT TUNE FLEX 2 TURQUESA",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-tws-tune-flex-2-negro-104911119/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7411851-300-300/105084705.jpg"
+  },
+  "8469924": {
+   "nombre": "Audífono inalámbrico on ear Oracle Red Bull Racing con noise cancelling — AUDIFONO ON EAR RED BULL RACING RB-HP110 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oracle RedBull Racing",
+   "modelo": "RBHP110",
+   "url": "https://sv.siman.com/audifono-on-ear-red-bull-racing-rb-hp110-negro-104874587/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 34.9,
+     "precio_lista": 69.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7284095-300-300/104874587.jpg"
+  },
+  "8348922": {
+   "nombre": "Audífonos inalámbricos in ear Xiaomi Redmi buds 6 play — AUDIFONO IN EAR REDMI BUDS 6 PLAY BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-6-play-azul-104821344/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 15.0,
+     "precio_lista": 15.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6310079-300-300/104771850.jpg"
+  },
+  "8348923": {
+   "nombre": "Audífonos inalámbricos in ear Xiaomi Redmi buds 6 play — AUDIFONO IN EAR REDMI BUDS 6 PLAY NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-6-play-azul-104821344/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 15.0,
+     "precio_lista": 15.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6310085-300-300/104771851.jpg"
+  },
+  "8406778": {
+   "nombre": "Audífonos inalámbricos in ear Xiaomi Redmi buds 6 play — AUDIFONO IN EAR REDMI BUDS 6 PLAY ROSADO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-6-play-azul-104821344/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 9.99,
+     "precio_lista": 15.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6495403-300-300/104821343.jpg"
+  },
+  "8406779": {
+   "nombre": "Audífonos inalámbricos in ear Xiaomi Redmi buds 6 play — AUDIFONO IN EAR REDMI BUDS 6 PLAY AZUL",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-in-ear-redmi-buds-6-play-azul-104821344/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 9.99,
+     "precio_lista": 15.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6495411-300-300/104821344.jpg"
+  },
+  "9146533": {
+   "nombre": "Audífono inalámbricos JBL Live 680NC con cancelación de ruido — AUDIFONO ON EAR BT LIVE 680 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "680NC",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-live-680-negro-105392573/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 129.9,
+     "precio_lista": 129.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8581980-300-300/105392573.png"
+  },
+  "9179604": {
+   "nombre": "Audífono inalámbricos JBL Live 680NC con cancelación de ruido — AUDIFONO ON EAR BT LIVE 680NC AZUL",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "680NC",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-live-680-negro-105392573/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 129.9,
+     "precio_lista": 129.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8629744-300-300/105418798_NDEF.jpg"
+  },
+  "9018042": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 530BT Pure Bass — AUDIFONO ON EAR BT T530 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "530BT",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-t530-negro-105288117/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8267962-300-300/105288117.jpg"
+  },
+  "9018039": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 530BT Pure Bass — AUDIFONO ON EAR BT T530 BEIGE",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "530BT",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-t530-negro-105288117/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8267995-300-300/105288120.jpg"
+  },
+  "9018040": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 530BT Pure Bass — AUDIFONO ON EAR BT T530 AZUL",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "530BT",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-t530-negro-105288117/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8267986-300-300/105288119.jpg"
+  },
+  "9018041": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 530BT Pure Bass — AUDIFONO ON EAR BT T530 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "530BT",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-t530-negro-105288117/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 49.9,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8267974-300-300/105288118.jpg"
+  },
+  "9018031": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 680NC con ANC Pure Bass — AUDIFONO ON EAR TWS NC TUNE 680 BEIGE",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "680NC",
+   "url": "https://sv.siman.com/audifono-on-ear-tws-nc-tune-680-negro-105288125/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8268095-300-300/105288128.jpg"
+  },
+  "9018032": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 680NC con ANC Pure Bass — AUDIFONO ON EAR TWS NC TUNE 680 BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "680NC",
+   "url": "https://sv.siman.com/audifono-on-ear-tws-nc-tune-680-negro-105288125/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8268081-300-300/105288127.jpg"
+  },
+  "9018033": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 680NC con ANC Pure Bass — AUDIFONO ON EAR TWS NC TUNE 680 AZUL",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "680NC",
+   "url": "https://sv.siman.com/audifono-on-ear-tws-nc-tune-680-negro-105288125/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8270155-300-300/105288126.jpg"
+  },
+  "9018034": {
+   "nombre": "Audífono inalámbrico on ear JBL Tune 680NC con ANC Pure Bass — AUDIFONO ON EAR TWS NC TUNE 680 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "680NC",
+   "url": "https://sv.siman.com/audifono-on-ear-tws-nc-tune-680-negro-105288125/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8268053-300-300/105288125.jpg"
+  },
+  "8839203": {
+   "nombre": "Audífono inalámbrico on ear Sennheiser Accentum Plus con ANC — AUDIFONO ON EAR BT ACCENTUM PLUS NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sennheiser",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-accentum-plus-negro-105151603/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 229.0,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7776560-300-300/105151603.jpg"
+  },
+  "8839205": {
+   "nombre": "Audífono inalámbrico on ear Sennheiser Accentum Plus con ANC — AUDIFONO ON EAR BT ACCENTUM PLUS BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sennheiser",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-accentum-plus-negro-105151603/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 189.0,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7776632-300-300/105151607.jpg"
+  },
+  "8810816": {
+   "nombre": "Audífono inalámbrico open ear Skullcandy Push 720 con ANC — AUDIFONO ON EAR BT 720 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Skullcandy",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-720-negro-105128738/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 149.99,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7695423-300-300/105128738.jpg"
+  },
+  "8799831": {
+   "nombre": "Audífono inalámbrico on ear Soundcore Life Q30 con ANC — AUDIFONO ON EAR BT Q30 NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Soundcore",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-q30-negro-105121237/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 73.9,
+     "precio_lista": 73.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7637458-300-300/105121237.jpg"
+  },
+  "8766925": {
+   "nombre": "Audífono inalámbrico deportivo open ear JBL Sense lite — AUDIFONO TRUE WIRELESS SENSE LITE NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-true-wireless-sense-lite-negro-105099295/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7489684-300-300/105099295.jpg"
+  },
+  "8766927": {
+   "nombre": "Audífono inalámbrico deportivo open ear JBL Sense lite — AUDIFONO TRUE WIRELESS SENSE LITE MORADO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-true-wireless-sense-lite-negro-105099295/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7489691-300-300/105099296.jpg"
+  },
+  "8861317": {
+   "nombre": "Audífono inalámbrico deportivo open ear JBL Sense lite — AUDIFONO TWS EAR HOOK SENSE LITE BEIGE",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-true-wireless-sense-lite-negro-105099295/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 99.9,
+     "precio_lista": 99.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7826682-300-300/105166767.jpg"
+  },
+  "8861319": {
+   "nombre": "Audífono inalámbrico deportivo open ear JBL Sense lite — AUDIFONOS TWS EAR HOOK SENSE LITE BLANCO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-true-wireless-sense-lite-negro-105099295/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 79.99,
+     "precio_lista": 99.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7826689-300-300/105166768.jpg"
+  },
+  "8531539": {
+   "nombre": "Audífono inalámbricos on ear Jlab Go work — AUDIFONO ON EAR BT GO WORK NEGRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Jlab",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-on-ear-bt-go-work-negro-104924344/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 69.9,
+     "precio_lista": 69.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6845064-300-300/104924344.jpg"
+  },
+  "8500270": {
+   "nombre": "Audífono inalámbrico over ear Klip Xtreme CrystalCom Pro — AUDIFONO INALAMBRICO MONOAURAL CRYSTALCOM PRO",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Klip Xtreme",
+   "modelo": "",
+   "url": "https://sv.siman.com/audifono-inalambrico-monoaural-crystalcom-pro-104898431/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 48.9,
+     "precio_lista": 48.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6992589-300-300/104898431.jpg"
+  },
+  "5820523": {
+   "nombre": "Refrigeradora Side by Side 716 L (27 PCU) Digital Inverter RS27T5200S9/AP Samsung",
+   "categoria": "refrigeradora",
+   "tipo": "refrigeradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "RS27T5200S9",
+   "url": "https://sv.siman.com/refrigeradora-inverter-27-pcu-102677761/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:02:21-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7954698-300-300/102677761.jpg"
   }
  }
 }

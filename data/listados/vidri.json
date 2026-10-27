@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-10-27T12:16:03-06:00",
+ "actualizado": "2026-10-27T17:15:05-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -26701,6 +26701,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 37.8,
+     "precio_lista": 42.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/432341_99.jpg?v=120261027"
@@ -28101,6 +28109,14 @@
      "fecha": "2026-10-27T12:16:03-06:00",
      "precio": 49.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 42.46,
+     "precio_lista": 49.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -30792,6 +30808,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 125.8,
+     "precio_lista": 142.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/119741_99.jpg?v=120261027"
@@ -32646,6 +32670,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 30.77,
+     "precio_lista": 43.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/148468_99.jpg?v=120261027"
@@ -32722,6 +32754,14 @@
      "fecha": "2026-10-27T12:16:03-06:00",
      "precio": 49.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 34.97,
+     "precio_lista": 49.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -32943,6 +32983,14 @@
      "fecha": "2026-10-27T12:16:03-06:00",
      "precio": 39.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 35.16,
+     "precio_lista": 39.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -33877,6 +33925,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 16.96,
+     "precio_lista": 19.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/115542_99.jpg?v=120261027"
@@ -34453,6 +34509,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 14.8,
+     "precio_lista": 18.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/84501.jpg?v=120261027"
@@ -34600,6 +34664,14 @@
      "fecha": "2026-10-27T12:16:03-06:00",
      "precio": 5.5,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 4.13,
+     "precio_lista": 5.5,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -35389,6 +35461,14 @@
      "fecha": "2026-10-27T12:16:03-06:00",
      "precio": 16.95,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:15:05-06:00",
+     "precio": 13.56,
+     "precio_lista": 16.95,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

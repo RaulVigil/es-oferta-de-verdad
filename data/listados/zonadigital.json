@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-27T12:12:13-06:00",
+ "actualizado": "2026-10-27T17:11:35-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -5055,7 +5055,7 @@
    "modelo": "HSC416U32D2",
    "url": "https://zonadigitalsv.com/product/memoria-ram-ddr4-hiksemi-armor-16gb-3200mhz-hsc416u32d2-pc",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:30:48-06:00",
@@ -5080,8 +5080,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:11:35-06:00",
+     "precio": 199.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6740c18483206.jpg"
   },
   "12558": {
    "nombre": "Teclado mecanico optico razer huntsman v3 x tkl rz03-05021700-r311",
@@ -34093,6 +34102,98 @@
     }
    ],
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada698b6ace94e55.jpg"
+  },
+  "16105": {
+   "nombre": "Monitor curvo ultrawide msi mag 346cqdf e20 uwqhd panel va 34p 200hz 1ms mprt hdmi x2 dp hdr amd freesync premium dualmode hd 400hz",
+   "categoria": "monitor",
+   "tipo": "monitor",
+   "pulgadas": 34,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/monitor-curvo-ultrawide-msi-mag-346cqdf-e20-uwqhd-panel-va-34p-200hz-1ms-mprt-hdmi-x2-dp-hdr-amd-freesync-premium-dualmode-hd-400hz",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:35-06:00",
+     "precio": 399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ad8e836826a5.jpg"
+  },
+  "15405": {
+   "nombre": "Pantalla smart tv xiaomi android tv 65p uhd qled 4k hdr l65mb-apph 64019 (model 2026) game boost 120hz",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "L65MBAPPH",
+   "url": "https://zonadigitalsv.com/product/pantalla-smart-tv-xiaomi-android-tv-65p-uhd-qled-4k-hdr-l65mb-apph-64019-model-2026-game-boost-120hz",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:35-06:00",
+     "precio": 699.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a21b2a6cbfa8.jpg"
+  },
+  "13429": {
+   "nombre": "Sistema de enfriamiento liquido mystique 240 negro deepcool 240mm rgb lga1851 am5 con pantalla 2.83p r-lx550-bkadsnc-g-1",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 83,
+   "medida": null,
+   "marca": "DEEPCOOL",
+   "modelo": "LGA1851",
+   "url": "https://zonadigitalsv.com/product/sistema-de-enfriamiento-liquido-mystique-240-negro-deepcool-240mm-rgb-lga1851-am5-con-pantalla-283p-r-lx550-bkadsnc-g-1",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:35-06:00",
+     "precio": 179.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/x31oYfcWTSR9nsuOtdTzSVzpwBVqy6UShetLjXox.png"
+  },
+  "13418": {
+   "nombre": "Sistema de enfriamiento liquido mystique 240 blanco deepcool 240mm rgb lga1851 am5 con pantalla 2.83p r-lx240-whdsnmcp-g-1",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 83,
+   "medida": null,
+   "marca": "DEEPCOOL",
+   "modelo": "LGA1851",
+   "url": "https://zonadigitalsv.com/product/sistema-de-enfriamiento-liquido-mystique-240-blanco-deepcool-240mm-rgb-lga1851-am5-con-pantalla-283p-r-lx240-whdsnmcp-g-1",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:35-06:00",
+     "precio": 169.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/twdfFPvZ6zjw9n6jI369v45D23NEUJj0pHjlYgZz.png"
   }
  }
 }
