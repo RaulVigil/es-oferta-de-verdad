@@ -1,6 +1,6 @@
 {
  "comercial": "omnisport",
- "actualizado": "2026-10-27T12:18:21-06:00",
+ "actualizado": "2026-10-27T17:11:18-06:00",
  "listados": {
   "00401034161": {
    "nombre": "Cama Exclusiva 3 en 1 (1.40 m)",
@@ -7230,6 +7230,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 479.0,
+     "precio_lista": 570.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/HSWuGQTjfym4NbcheZEgtRKTeH1h70wGLBR2Kn1r.jpeg"
@@ -8907,6 +8915,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 529.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/txe4EvC2o6kVvorqjLMSxZFTEWlNaLLc9q3rURmH.jpeg"
@@ -9051,6 +9067,466 @@
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/vIpbtzCaUtWRTMUrnnWXoWx8fRPsIjbZrYew4Mbe.jpeg"
+  },
+  "00000014012": {
+   "nombre": "Smart TV 32A4HN | 32\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "",
+   "modelo": "32A4HN",
+   "url": "https://omnisport.com/productos/smart-tv-32a4hn-32",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 139.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/5xjHbAylhki9W2KQLdLXYdmsOIMKjkuHtbskmzRB.jpeg"
+  },
+  "00000012672": {
+   "nombre": "Smart TV 32LR600B | 32\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "32LR600B",
+   "url": "https://omnisport.com/productos/smart-tv-32lr600b-32",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 189.0,
+     "precio_lista": 310.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/HCLCzysqqH6QXegrILTGiz5jumfYBRiYjuB2GxTx.png"
+  },
+  "00000010605": {
+   "nombre": "Smart TV 32LR650B | 32\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "32LR650B",
+   "url": "https://omnisport.com/productos/smart-tv-32lr650b-32",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 199.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/4l0Qbvo42sR45rItad4TEnUuDXWFcIyrbVAHO6ot.jpeg"
+  },
+  "00000012479": {
+   "nombre": "Smart TV 32V35R | 32\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "",
+   "modelo": "32V35R",
+   "url": "https://omnisport.com/productos/smart-tv-32v35r-32",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 159.0,
+     "precio_lista": 240.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/cxEIv8S4hYHEVvfWVaT3ppUj91hh4LTGBrDbiQvx.jpeg"
+  },
+  "00000012111": {
+   "nombre": "4K TV UN65U8000 | 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65U8000",
+   "url": "https://omnisport.com/productos/4k-tv-un65u8000-65",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 569.0,
+     "precio_lista": 840.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
+  },
+  "00000012113": {
+   "nombre": "4K TV UN75U8000 | 75\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN75U8000",
+   "url": "https://omnisport.com/productos/4k-tv-un75u8000-75",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 849.0,
+     "precio_lista": 1135.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
+  },
+  "00000014286": {
+   "nombre": "4K TV 75NU850 | 75\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75NU850",
+   "url": "https://omnisport.com/productos/4k-tv-75nu850-75",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 749.0,
+     "precio_lista": 1155.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
+  },
+  "00000014484": {
+   "nombre": "4K TV BRAVIA 3 II K-65XR30M  | 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65XR30M",
+   "url": "https://omnisport.com/productos/4k-tv-bravia-3-ii-k-65xr30m-65",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1249.0,
+     "precio_lista": 1795.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/9hufhtKQkrl7mdbvXtK02gJeFZPIZ7lAo3JOq9wI.jpeg"
+  },
+  "00000014117": {
+   "nombre": "4K TV MINILED  UN65M70H | 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN65M70H",
+   "url": "https://omnisport.com/productos/4k-tv-miniled-un65m70h-65",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 659.0,
+     "precio_lista": 885.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/vCuAD0vBy0pfXYv4bGqMfabaQuwGM8rX8eyCyUcU.png"
+  },
+  "00000012112": {
+   "nombre": "4K TV UN70U8000 | 70\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN70U8000",
+   "url": "https://omnisport.com/productos/4k-tv-un70u8000-70",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 739.0,
+     "precio_lista": 1030.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
+  },
+  "00000014617": {
+   "nombre": "4K TV 85NU850 | 85\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "85NU850",
+   "url": "https://omnisport.com/productos/4k-tv-85nu850-85",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1079.0,
+     "precio_lista": 1630.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
+  },
+  "00000014622": {
+   "nombre": "OLED TV OLED65B6| 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED65B6",
+   "url": "https://omnisport.com/productos/oled-tv-oled65b6-65",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1499.0,
+     "precio_lista": 2458.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/m69j4HRmiO3KECPHW0tvszgrNZU0KpbgRjK6PxCk.jpeg"
+  },
+  "00000009883": {
+   "nombre": "OLED TV OLED83C3 | 83\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 83,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "OLED83C3",
+   "url": "https://omnisport.com/productos/oled-tv-oled83c3-83",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 3798.0,
+     "precio_lista": 7845.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/mU9VDDi3nFlbqGfOt7wxW7m5wpnuT6bibZJddcib.jpeg"
+  },
+  "00000014059": {
+   "nombre": "2K TV QLED 32Q4S | 32\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "32Q4S",
+   "url": "https://omnisport.com/productos/2k-tv-qled-32q4s-32",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 169.0,
+     "precio_lista": 240.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/sFLP338zth3FrUsXhfItrdvh0Gk2zZSXyH8sCY76.jpeg"
+  },
+  "00000012418": {
+   "nombre": "4K TV QLED 75Q6Q | 75\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "75Q6Q",
+   "url": "https://omnisport.com/productos/4k-tv-qled-75q6q-75",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 739.0,
+     "precio_lista": 1135.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/paogw2ZOcy6Yl2GcqIVAjRkpzc5lc6KNfmUg4kpZ.jpeg"
+  },
+  "00000014011": {
+   "nombre": "4K TV QLED 85Q6Q | 85\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "85Q6Q",
+   "url": "https://omnisport.com/productos/4k-tv-qled-85q6q-85",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1430.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Vkf8Wf6R7yRCEiGA1boutuSZeLPX8a5oOI1yG6H9.jpeg"
+  },
+  "00000014618": {
+   "nombre": "4K TV MRGB 65MRGB85B | 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "",
+   "modelo": "65MRGB85B",
+   "url": "https://omnisport.com/productos/4k-tv-mrgb-65mrgb85b-65",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1400.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/tb4SQJwRxQ3LFLJsxi0XjMY4hqAEEeu69sDPebbC.jpeg"
+  },
+  "00000014282": {
+   "nombre": "4K TV MRGB 75MRGB85B | 75\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "",
+   "modelo": "75MRGB85B",
+   "url": "https://omnisport.com/productos/4k-tv-mrgb-75mrgb85b-75",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1920.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/tb4SQJwRxQ3LFLJsxi0XjMY4hqAEEeu69sDPebbC.jpeg"
+  },
+  "00000014620": {
+   "nombre": "4K TV QNED | 65QNED65| 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65QNED65",
+   "url": "https://omnisport.com/productos/4k-tv-qned-65qned65-65",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 699.0,
+     "precio_lista": 890.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/RYPGiqNuNlvTcOiv3VZHDG5smeDcbtAMxVYsM54N.png"
+  },
+  "00000014621": {
+   "nombre": "4K TV QNED | 75QNED65 | 75\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "75QNED65",
+   "url": "https://omnisport.com/productos/4k-tv-qned-75qned65-75",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:11:18-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1250.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/RYPGiqNuNlvTcOiv3VZHDG5smeDcbtAMxVYsM54N.png"
   }
  }
 }

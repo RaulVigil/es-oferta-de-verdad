@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-10-27T12:04:35-06:00",
+ "actualizado": "2026-10-27T17:03:44-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -2145,7 +2145,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/cama-olympia-matrimonial-duo-sense-confort-firme-8/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:47-06:00",
@@ -2197,6 +2197,14 @@
     },
     {
      "fecha": "2026-10-26T12:45:00-06:00",
+     "precio": 175.0,
+     "precio_lista": 175.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
      "precio": 175.0,
      "precio_lista": 175.0,
      "disponible": true,
@@ -11045,7 +11053,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ducha-electrica-3temperaturas/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11097,6 +11105,14 @@
     },
     {
      "fecha": "2026-10-26T12:45:00-06:00",
+     "precio": 17.9,
+     "precio_lista": 17.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
      "precio": 17.9,
      "precio_lista": 17.9,
      "disponible": true,
@@ -11116,7 +11132,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/ducha-electrica-4temperaturas-con-niple/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:51:51-06:00",
@@ -11168,6 +11184,14 @@
     },
     {
      "fecha": "2026-10-26T12:45:00-06:00",
+     "precio": 26.5,
+     "precio_lista": 26.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
      "precio": 26.5,
      "precio_lista": 26.5,
      "disponible": true,
@@ -19096,6 +19120,535 @@
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/956369-300-300/M-5_walmartsv_JASeWFfocQ_126731_01.jpg"
+  },
+  "117950": {
+   "nombre": "Pantalla LED Smart RCA Roku QLED RC32QL - 32 pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RC32QL",
+   "url": "https://www.walmart.com.sv/pantalla-rca-qled-32-roku-sv8708-5-6/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 137.61,
+     "precio_lista": 175.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/881743-300-300/pantalla-qled-smart-4-k-rca-roku-rc-32-ql-32-pulgadas-1-in-2-54-cm-7453021625999.jpg"
+  },
+  "111040": {
+   "nombre": "Pantalla Samsung LED Smart Un32h5000 - 32 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN32H5000",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-un32h5000-32-pulgadas-1-in-2-54-cm-3/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 163.35,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/849752-300-300/pantalla-samsung-led-smart-un-32-h-5000-32-pulgadas-1-in-2-54-cm-8806095889719.jpg"
+  },
+  "111065": {
+   "nombre": "Pantalla Samsung LED Smart 4K Un65u8000 - 65 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN65U8000",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-4k-un65u8000-65-pulgadas-1-in-2-54-cm-0/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 523.71,
+     "precio_lista": 669.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/849799-300-300/pantalla-samsung-led-smart-4-k-un-65-u-8000-65-pulgadas-1-in-2-54-cm-8806097025931.jpg"
+  },
+  "117956": {
+   "nombre": "Pantalla Hotline Roku Qled - 32 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "HOTLINE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-hotline-qled-32-roku-sv4111-5-0/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 137.61,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/852838-300-300/pantalla-hotline-qled-32-roku-7453021625968.jpg"
+  },
+  "117939": {
+   "nombre": "Pantalla Xiaomi 2026 - 32 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/tv-32-xiaomi-2026-sv4033-5-7/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 153.45,
+     "precio_lista": 185.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/859591-300-300/tv-32-xiaomi-2026-6941948705371.jpg"
+  },
+  "115065": {
+   "nombre": "Pantalla RCA Roku QLED - 65 Pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-rca-65-qled-sv6693-5-0/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 494.01,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/881685-300-300/pantalla-rca-roku-qled-65-pulgadas-1-in-2-54-cm-7453021623353.jpg"
+  },
+  "111945": {
+   "nombre": "Pantalla Xiaomi Qled Smart 4K - 65 pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-xiaomi-qled-smart-4k-65-pulgadas-1-in-2-54-cm-3/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 599.0,
+     "precio_lista": 629.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/847118-300-300/pantalla-xiaomi-qled-smart-4-k-65-pulgadas-1-in-2-54-cm-6941948705838.jpg"
+  },
+  "111067": {
+   "nombre": "Pantalla Samsung LED Smart 4K UN75U8000 -75 pulgadas  (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN75U8000",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-4k-un75u8000-75-pulgadas-1-in-2-54-cm-7/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 749.0,
+     "precio_lista": 945.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/849792-300-300/pantalla-samsung-led-smart-4-k-un-75-u-8000-75-pulgadas-1-in-2-54-cm-8806097027287.jpg"
+  },
+  "111045": {
+   "nombre": "Pantalla Samsung Un85u8000fpxpa LED Smart 4k - 85 Pulgadas (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN85U8000FPXPA",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-un85u8000fpxpa-led-smart-4k-85-pulgadas-1-in-2-54-cm-4/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 1019.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/881654-300-300/pantalla-samsung-un-85-u-8000-fpxpa-led-smart-4-k-85-pulgadas-1-in-2-54-cm-8806097027300.jpg"
+  },
+  "111043": {
+   "nombre": "Pantalla Samsung LED Smart 4K Un70u8000fpxpa - 70 Pulgadas (1 in = 2.54 cm) — Pantalla Samsung LED Smart 4K UN70U8000FPXPA 70 Pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 70,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "UN70U8000FPXPA",
+   "url": "https://www.walmart.com.sv/pantalla-samsung-led-smart-4k-un70u8000fpxpa-70-pulgadas-1-in-2-54-cm-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 652.41,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/849775-300-300/pantalla-samsung-led-smart-4-k-un-70-u-8000-fpxpa-70-pulgadas-1-in-2-54-cm-8806097025207.jpg"
+  },
+  "66275": {
+   "nombre": "Pantalla Hotline Led Basica - 32 in (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 32,
+   "medida": null,
+   "marca": "TASSO",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pantalla-hotline-led-basica-32-in-1-in-2-54-cm-1-3/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 119.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/846373-300-300/pantalla-hotline-led-basica-32-in-1-in-2-54-cm-7453021619301.jpg"
+  },
+  "126641": {
+   "nombre": "Samsung Smart Tv Mini Led 4k 65",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/samsung-smart-tv-mini-led-4k-65-sv5604-5-7/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 619.0,
+     "precio_lista": 619.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/960268-300-300/M-5_walmartsv_cxIVRVlPIN_126672_01.jpg"
+  },
+  "110521": {
+   "nombre": "Pantalla Durabrand LED Smart QLED 4K Google TV - 65 pulgadas  (1 in = 2.54 cm)",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/qled-smart-4k-65-durabrand-google-tv-sv3350-5-3/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 533.61,
+     "precio_lista": 539.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/846833-300-300/qled-smart-4-k-65-durabrand-google-tv-6921958600712.jpg"
+  },
+  "110520": {
+   "nombre": "Pantalla Durabrand Led Smart 4k Google Tv DURA65GFU - 65 Pulgadas",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "DURABRAND",
+   "modelo": "DURA65GFU",
+   "url": "https://www.walmart.com.sv/led-smart-4k-65-durabrand-google-tv-sv4284-5-4/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 509.0,
+     "precio_lista": 509.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/846659-300-300/led-smart-4-k-65-durabrand-google-tv-6921958600699.jpg"
+  },
+  "123074": {
+   "nombre": "Mouse Trust inalámbrico Eco",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ina-eco-trust-sv2883-5-0/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 12.99,
+     "precio_lista": 12.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/897599-300-300/M-5_walmartsv_zjUGEXvdix_4173163_5.jpg"
+  },
+  "123043": {
+   "nombre": "Teclado Inalámbrico Trust Nado Ultradelgado Bluetooth Blanco",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/teclado-ultrafino-ina-trust-7/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 24.99,
+     "precio_lista": 24.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/895022-300-300/teclado-inalambrico-trust-nado-ultradelgado-bluetooth-blanco-8713439246544.webp"
+  },
+  "123033": {
+   "nombre": "Mouse Ina Eco Trust",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ina-eco-trust-6/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 11.99,
+     "precio_lista": 11.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/897473-300-300/M-5_walmartsv_MhJwoDmXiq_4154028_5.jpg"
+  },
+  "123037": {
+   "nombre": "Mouse Trust Basi USB para Oficina Color Negro",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-alambrico-trust-1/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 5.99,
+     "precio_lista": 5.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/947403-300-300/M-5_walmartsv_tXWGuwvPJq_4173284_5.jpg"
+  },
+  "123024": {
+   "nombre": "Mouse Ina Recargable Trust",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/mouse-ina-recargable-trust-0/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 18.99,
+     "precio_lista": 18.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/897640-300-300/M-5_walmartsv_jrsXxvmQGV_4173261_5.jpg"
+  },
+  "71854": {
+   "nombre": "Audifono Inalam Conex Dual Bt Kch750 — Audífono Klip Xtreme Inalámbrico Conex Dual Bt Kch750",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KCH750",
+   "url": "https://www.walmart.com.sv/audifono-inalam-conex-dual-bt-kch750-sv5494-5-2/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 29.0,
+     "precio_lista": 35.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/860476-300-300/audifono-inalambrico-klip-xtreme-conex-dual-bt-kch-750-0798302091399.jpg"
+  },
+  "49782": {
+   "nombre": "Kx Kybd Mse Wrd Kck 251s Usb mm Spanish — Dúo Klip Xtreme, mouse y teclado multimedia DeskMate",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/kx-kybd-mse-wrd-kck-251s-usb-mm-spanish-sv3084-5-7/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 13.86,
+     "precio_lista": 16.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/378063-300-300/Teclado-Y-Mouse-Kx-Kybd-Mse-Wrd-Kck-251S-Usb-Mm-Spanish-1-9725.jpg"
+  },
+  "123047": {
+   "nombre": "Audífonos Gaming GXTrust 416 Zirox LED para Switch 2 Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/auricular-gaming-led-trust-8/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 27.99,
+     "precio_lista": 27.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/895030-300-300/audifonos-gaming-gx-trust-416-zirox-led-para-switch-2-negro-8713439253313.webp"
+  },
+  "123023": {
+   "nombre": "Set Teclado Y Mouse In Trust",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TRUST",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/set-teclado-y-mouse-in-trust-4/p",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:03:44-06:00",
+     "precio": 38.99,
+     "precio_lista": 38.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/893486-300-300/M-5_walmartsv_GfGRXVByBB_4173161_5.jpg"
   }
  }
 }

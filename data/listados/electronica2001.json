@@ -1,6 +1,6 @@
 {
  "comercial": "electronica2001",
- "actualizado": "2026-10-27T12:18:07-06:00",
+ "actualizado": "2026-10-27T17:16:59-06:00",
  "listados": {
   "001-131BK": {
    "nombre": "RS39C-BK GUITARRA CLASICA C/ RECORTE 39 C/ESTUCHE TJ- SEVILLA",
@@ -28270,7 +28270,7 @@
    "modelo": "ICONNS5BBK",
    "url": "https://electronica2001es.com/search2.php?js=001-913",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-27",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:51:31-06:00",
@@ -28287,8 +28287,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-27T17:16:59-06:00",
+     "precio": 1220.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://electronica2001es.com/action-dash/../images/2023/20260219155810.jpg"
   },
   "001-085BL": {
    "nombre": "PERF5MBL BAJO ELECTRICO 5 CUERDAS PERFORMER SPECTOR",
