@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-10-27T18:22:06-06:00",
+ "actualizado": "2026-10-28T12:38:35-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -12,10 +12,18 @@
    "modelo": "LOG98",
    "url": "https://www.officedepot.com.sv/Equipos-de-sonido/MICROFONO-USB-ICE-LOG98-SNOWBALL-NEGRO/p/1303000075",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 53.83,
+     "precio_lista": 76.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 53.83,
      "precio_lista": 76.9,
      "disponible": true,
@@ -35,10 +43,18 @@
    "modelo": "LOG51",
    "url": "https://www.officedepot.com.sv/Equipos-de-sonido/MICROFONO-USB-ICE-LOG51-SNOWBALL-NEGRO/p/1303000076",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 76.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 76.9,
      "precio_lista": null,
      "disponible": true,
@@ -58,10 +74,18 @@
    "modelo": "AKF003ES",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-TARGUS-EN-ESPA%C3%91OL-AKF003ES/p/1303000105",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -81,10 +105,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-POP-920011519/p/1303000560",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 109.0,
      "precio_lista": null,
      "disponible": true,
@@ -104,10 +136,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-ESPANOL-K120-920-004422/p/1303000057",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,
@@ -127,10 +167,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Accesorios-y-perif%C3%A9ricos/COMBO-LOGITECH-TECLADO-Y-MOUSE-MK-120-920-004428/p/1303000058",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 27.9,
      "precio_lista": null,
      "disponible": true,
@@ -150,10 +198,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LOGITECH-M280-GRIS-910-004285/p/1303000336",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 27.9,
      "precio_lista": null,
      "disponible": false,
@@ -173,10 +229,18 @@
    "modelo": "AMW50US",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-TARGUS-BLUE-TRACE-AMW50US/p/1303000116",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 14.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 14.0,
      "precio_lista": null,
      "disponible": true,
@@ -196,10 +260,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LOGITECH-M190-NEGRO-ROJO-910-005904/p/1303000051",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,
@@ -219,10 +291,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-G915-GAMING-920-009495/p/1304000015",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -242,10 +322,18 @@
    "modelo": "AMB581GL",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-TARGUS-COMPACTO-INALAMBRICO-AMB581GL/p/1303000110",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -265,10 +353,18 @@
    "modelo": "0014B",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-ARGOM-USB-ALAMBRICO-NEGRO-ARG-MS-0014B/p/1303000146",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 10.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 10.9,
      "precio_lista": null,
      "disponible": true,
@@ -288,10 +384,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-POP-AMARILLO-920-010713/p/1303000066",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -311,10 +415,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-POP-ROSA-920-010715/p/1303000068",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -334,10 +446,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-POP-LILA-920-010714/p/1303000067",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -357,10 +477,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-ARGOM-USB-SENCILLO-ARG-KB-7414/p/1303000348",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 8.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 8.9,
      "precio_lista": null,
      "disponible": false,
@@ -380,10 +508,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/COMBO-ARGOM-TECLADO-Y-MOUSE-ARG-KB-7418/p/1303000140",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 13.9,
      "precio_lista": null,
      "disponible": true,
@@ -403,10 +539,18 @@
    "modelo": "AKP11US",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-TARGUS-NUMERICO-AKP11US/p/1303000108",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 29.9,
      "precio_lista": null,
      "disponible": true,
@@ -426,10 +570,18 @@
    "modelo": "AKB867ES",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-TARGUS-EN-ESPANOL-AKB867ES/p/1303000103",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 44.9,
      "precio_lista": null,
      "disponible": true,
@@ -449,10 +601,18 @@
    "modelo": "KKM252S",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-ALAMBRICO-KLIP-KKM252S/p/1303000575",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,
@@ -472,10 +632,18 @@
    "modelo": "KMB001GR",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-BLUETOOTH-KLIP-KMB001GR/p/1303000577",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 13.9,
      "precio_lista": null,
      "disponible": true,
@@ -495,10 +663,18 @@
    "modelo": "KBK520",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/TECLADO-Y-MOUSE-INALAMBRICO-MAGNIFIK-WIRELESS-DUO-KBK-520/p/1303000579",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 33.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 33.9,
      "precio_lista": null,
      "disponible": true,
@@ -518,10 +694,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-ERGONOMICO-VERTICAL-ALA-/p/1303000582",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 13.9,
      "precio_lista": null,
      "disponible": true,
@@ -541,10 +725,18 @@
    "modelo": "KMW500BK",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-ERGONOMICO-SEMIVERTICAL-KMW-500BK/p/1303000583",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 18.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 18.9,
      "precio_lista": null,
      "disponible": true,
@@ -564,10 +756,18 @@
    "modelo": "15FH0000LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-ENVY-HP-15-FH0000LA---RYZEN-5-X360---8GB---512GB---WIN-11-H/p/1301000181",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 859.0,
+     "precio_lista": 1099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 859.0,
      "precio_lista": 1099.0,
      "disponible": false,
@@ -587,10 +787,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-INALAMBRICO-M185/p/1303001143",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -610,10 +818,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LOGITECH-INALAMBRICO-USB-M185-COLOR-AZUL/p/1303001144",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -633,10 +849,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LOGITECH-OPTICO-M240%2C-SILENCIOSO%2C-INALAMBRICO%2C-BLUETOOTH%2C-400DPI-COLOR-ROSA/p/1303001148",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 24.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 24.9,
      "precio_lista": null,
      "disponible": true,
@@ -656,10 +880,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-INALAMBRICO-LOGITECH-M185-1000DPI-ROJO/p/1303001145",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -679,10 +911,18 @@
    "modelo": "PLBK9801T",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-INALAMBRICO-SMART-PARA-TV-EN-COLOR-BLANCO-Y-NEGRO-PL-BK9801T/p/1303001165",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 57.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 57.0,
      "precio_lista": null,
      "disponible": true,
@@ -702,10 +942,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-DUAL-MODE-KEYBOARD-COLOR-ROSA%2C-BLANCO-CON-FUSCIA-QW07/p/1303001161",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -725,10 +973,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-INALAMBRICO-BLANCO-CON-NEGRO-QW06/p/1303001160",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -748,10 +1004,18 @@
    "modelo": "PLIT16M",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-NUMERICO-INALAMBRICO-COLORES-LILA%2C-CELESTE-ROSA-Y-TURQUESA-PL-IT16M/p/1303001172",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 24.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 24.5,
      "precio_lista": null,
      "disponible": true,
@@ -771,10 +1035,18 @@
    "modelo": "CM840G",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-WIRELESS-2-4G-3D-RESOLUTION-%3A800-1200-1600-DPI-COLOR-GRIS-CM840G/p/1303001196",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,
@@ -794,10 +1066,18 @@
    "modelo": "CS7000G",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-DE-TECLADO-Y-MOUSE-2-4GHZ-WIRELESS-KEYBOARD-COLOR-NEGRO-CS7000G/p/1303001205",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 31.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 31.9,
      "precio_lista": null,
      "disponible": true,
@@ -817,10 +1097,18 @@
    "modelo": "SMK676367AG",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-DE-TECLADO-Y-MOUSE-2-4G-WIRELESS-KEYBOARD-COLOR-BLANCO-CON-ROSA-SMK676367AG/p/1303001176",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 29.9,
      "precio_lista": null,
      "disponible": true,
@@ -840,10 +1128,18 @@
    "modelo": "CM629B",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-WIRELESS-3D-2-4GHZ-RESOLUTION-%3A800-1200-1600-DPI-COLOR-PLATEADO-CM629B/p/1303001197",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 25.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 25.0,
      "precio_lista": null,
      "disponible": true,
@@ -863,10 +1159,18 @@
    "modelo": "CS5200G",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-DE-TECLADO-Y-MOUSE-2-4GHZ-WIRELESS-COLOR-GRIS-CON-NEGRO-CS5200G/p/1303001206",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 23.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 23.5,
      "precio_lista": null,
      "disponible": true,
@@ -886,10 +1190,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Monitores/MONITOR-XIAOMI-A27i---69666/p/1301000552",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 145.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 145.0,
      "precio_lista": null,
      "disponible": true,
@@ -909,10 +1221,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Monitores/MONITOR-XIAOMI-A24i---69672/p/1301000551",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -932,10 +1252,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LENOVO---BUNDLE/p/4316000020",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 29.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 29.0,
      "precio_lista": null,
      "disponible": true,
@@ -955,10 +1283,18 @@
    "modelo": "15FC0287LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0287LA---RYZEN-7---8GB---512GB---WIN-11-H/p/1301000722",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 775.0,
+     "precio_lista": 1069.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 775.0,
      "precio_lista": 1069.0,
      "disponible": true,
@@ -978,10 +1314,18 @@
    "modelo": "OMNI14HU0050LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-OMNI14-HU0050LA-CORE-5---8GB---512GB---WIN-11-H/p/1301000719",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 879.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 879.0,
      "precio_lista": 1049.0,
      "disponible": true,
@@ -1001,10 +1345,18 @@
    "modelo": "15FB3032LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FB3032LA---RYZEN-5---8GB---512---RTX-3050---WIN-11-H/p/1301000729",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 1099.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -1024,10 +1376,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-LENOVO-RYZEN-5---16GB---512GB---WIN-11-H/p/1301000736",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 899.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 899.0,
      "precio_lista": null,
      "disponible": true,
@@ -1047,10 +1407,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-DELL---AMD-AI-5--16GB---512GB---WIN-11-H/p/1301000701",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 1199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 1199.0,
      "precio_lista": null,
      "disponible": true,
@@ -1070,10 +1438,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-ACER-ASPIRE-CORE-I5---16GB---512GB---WIN-11-H/p/1301000744",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 839.0,
+     "precio_lista": 879.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 839.0,
      "precio_lista": 879.0,
      "disponible": true,
@@ -1093,10 +1469,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-ACER-ASPIRE-RYZEN-7/p/1301000745",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 1129.0,
      "precio_lista": 1249.0,
      "disponible": true,
@@ -1116,10 +1500,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-ACER-NITRO-I5---16GB---1TB---NVIDIA-6GB---WIN-11-H/p/1301000593",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 1099.0,
      "precio_lista": 1299.0,
      "disponible": false,
@@ -1139,10 +1531,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-DELL-RYZEN-5---8GB---512GB---WIN-11/p/1301000616",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 839.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 839.0,
      "precio_lista": null,
      "disponible": true,
@@ -1208,10 +1608,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LOGITECH-BLUETOOTH-910-005833/p/1303000048",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -1231,10 +1639,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/COMBO-LOGITECH-TECLADO-Y-MOUSE-920-009266/p/1303000062",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 69.9,
      "precio_lista": null,
      "disponible": true,
@@ -1254,10 +1670,18 @@
    "modelo": "AMB582GL",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-TARGUS-COMPACTO-INALAMBRICO-AMB582GL/p/1303000111",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 27.9,
      "precio_lista": null,
      "disponible": true,
@@ -1277,10 +1701,18 @@
    "modelo": "MK2E3AM",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-APPLE-MK2E3AM-A/p/1303000256",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -1300,10 +1732,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONOS-BELKIN-INALAMBRICOS-SOUNDFORM-PRO/p/1310000134",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 82.4,
+     "precio_lista": 103.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 82.4,
      "precio_lista": 103.0,
      "disponible": true,
@@ -1323,10 +1763,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONO-TWS-MAXELL-348500/p/1310000005",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 71.2,
+     "precio_lista": 89.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 71.2,
      "precio_lista": 89.0,
      "disponible": true,
@@ -1346,10 +1794,18 @@
    "modelo": "SMS10PEARL",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-MAXELL-TIPO-DIADEMA-ALAMBRICOS-BLANCOS-SMS-10PEARL/p/1310000087",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 21.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 21.99,
      "precio_lista": null,
      "disponible": true,
@@ -1369,10 +1825,18 @@
    "modelo": "I2GEAR001",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-I2GO-IN-EAR-ALAMBRICOS-I2GEAR001/p/1310000154",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 6.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 6.99,
      "precio_lista": null,
      "disponible": true,
@@ -1392,10 +1856,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-ARGOM-STEREO-75-PRO-ARG-HS-0075/p/1303000135",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 17.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 17.9,
      "precio_lista": null,
      "disponible": true,
@@ -1415,10 +1887,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-ARGOM-STEREO-METRO-77-ARG-HS-0077/p/1303000136",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 12.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 12.9,
      "precio_lista": null,
      "disponible": true,
@@ -1461,10 +1941,18 @@
    "modelo": "AEH104TT",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-TARGUS-PARA-VIDEO-LLAMADAS-NGROS-AEH104TT/p/1303000089",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 69.9,
      "precio_lista": null,
      "disponible": true,
@@ -1484,10 +1972,18 @@
    "modelo": "S2BPWP740",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-SKULLCANDY-PUSH-ACTIVE-WIRELESS-IN-EAR-NEGRO-NARANJA-S2BPW-P740/p/1310000047",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 83.2,
+     "precio_lista": 104.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 83.2,
      "precio_lista": 104.0,
      "disponible": true,
@@ -1507,10 +2003,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Televisores/TELEVISOR-AIWA-32-SM/p/1308000073",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 169.0,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 169.0,
      "precio_lista": 229.0,
      "disponible": true,
@@ -1530,10 +2034,18 @@
    "modelo": "AMK131",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/MICROFONO-SPECTRA-WIRELESS-CREADOR-DE-CONTENIDO-A-MK131-TC/p/1304000081",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 19.9,
      "precio_lista": null,
      "disponible": true,
@@ -1553,10 +2065,18 @@
    "modelo": "AMK241",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/MICROFONO-SPECTRA-WIRELESS-CREADOR-DE-CONTENIDO-A-MK241-TC/p/1304000082",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 47.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 47.9,
      "precio_lista": null,
      "disponible": true,
@@ -1576,10 +2096,18 @@
    "modelo": "AMK132",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/MICROFONO-SPECTRA-WIRELESS-CREADOR-DE-CONTENIDO-A-MK132-IP/p/1304000080",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 19.9,
      "precio_lista": null,
      "disponible": true,
@@ -1599,10 +2127,18 @@
    "modelo": "S6EVWN740",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONO-SKULLCANDY-S6EVWN740/p/1303000608",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -1622,10 +2158,18 @@
    "modelo": "S2RLWQ740",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONOS-SKULLCANDY-S2RLWQ740/p/1303000606",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 113.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 113.0,
      "precio_lista": null,
      "disponible": true,
@@ -1645,10 +2189,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AURICULARES-SUPRA-AURALES-INALAMBRICOS-PARA-NINOS-PK/p/1303001138",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 37.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 37.0,
      "precio_lista": null,
      "disponible": true,
@@ -1668,10 +2220,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AURICULARES-SUPRA-AURALES-INALAMBRICOS-PARA-NINOS-BL/p/1303001137",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 37.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 37.0,
      "precio_lista": null,
      "disponible": true,
@@ -1691,10 +2251,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-INALAMBRICOS-VERDADEROS-MOTION/p/1303001140",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 47.0,
      "precio_lista": null,
      "disponible": true,
@@ -1714,10 +2282,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-INALAMBRICOS-VERDADEROS-PLAY-BK/p/1303001141",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 51.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 51.0,
      "precio_lista": null,
      "disponible": true,
@@ -1737,10 +2313,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-INALAMBRICOS-VERDADEROS-BOLT/p/1303001139",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -1760,10 +2344,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONO-JBL-ALAMBRICO-AZUL-JR-310/p/1310000483",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 29.9,
      "precio_lista": null,
      "disponible": true,
@@ -1783,10 +2375,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Televisores/TELEVISOR-RCA-50-PLG-ROKU-TV/p/1308000155",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 409.0,
+     "precio_lista": 459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 409.0,
      "precio_lista": 459.0,
      "disponible": true,
@@ -1806,10 +2406,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Televisores/TELEVISOR-XIAOMI-43-PLG-2026/p/1308000267",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -1829,10 +2437,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONOS-INALAMBRICOS-COBY-LED-CON-EFECTO-ESPEJO-INFINITO/p/1310000590",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 60.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 60.0,
      "precio_lista": null,
      "disponible": true,
@@ -1852,10 +2468,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONOS-INALAMBRICOS-COBY-COMPACTOS-Y-PLEGABLES-COLOR-BLANCO/p/1310000589",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 27.9,
      "precio_lista": null,
      "disponible": true,
@@ -1875,10 +2499,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Televisores/TELEVISOR-RCA-58-PLG-ROKU-TV/p/1308000189",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 459.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 459.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -1898,10 +2530,18 @@
    "modelo": "KLYFX05D",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONOS-INALAMBRICOS-BLUETOOTH-DISE%C3%91O-DE-ROBOT-KLYFX05D/p/1310000560",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 25.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 25.0,
      "precio_lista": null,
      "disponible": true,
@@ -1921,10 +2561,18 @@
    "modelo": "QL402",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONOS-INALAMBRICOS-BLUETOOTH-DISE%C3%91O-DE-CONEJO-QL-402/p/1310000559",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 15.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 15.0,
      "precio_lista": null,
      "disponible": true,
@@ -1944,10 +2592,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-ARGOM-SET-METRO-78-ARG-HS-0078/p/1303000137",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 29.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 29.99,
      "precio_lista": null,
      "disponible": true,
@@ -1967,10 +2623,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-secretariales/SILLA-SECRETARIAL-BASICA-SIN-BRAZOS-DE-TELA-NEGRA-SKY-CHAIRS/p/1102000074",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 54.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 54.0,
      "precio_lista": null,
      "disponible": true,
@@ -1990,10 +2654,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-EJECUTIVA-RESPALDO-MESH-NEGRO-BASE-CROMADA-SKY-CHAIRS/p/1102000015",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 149.0,
      "precio_lista": null,
      "disponible": true,
@@ -2013,10 +2685,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-secretariales/SILLA-SECRETARIAL-BASICA-SIN-BRAZOS-DE-TELA-GRIS-SKY-CHAIRS/p/1102000076",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 54.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 54.0,
      "precio_lista": null,
      "disponible": false,
@@ -2036,10 +2716,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-DE-PU-ACOLCHADA-NEGRO-CON-BRAZOS-SKY-CHAIRS/p/1102000052",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 265.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 265.0,
      "precio_lista": null,
      "disponible": true,
@@ -2059,10 +2747,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-PU-COLOR-NEGRO-CON-BRAZOS-SKY-CHAIRS/p/1102000017",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 149.0,
      "precio_lista": null,
      "disponible": true,
@@ -2082,10 +2778,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-DE-PU-COLOR-BLANCO-HUESO-4TUNE/p/1102000053",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 255.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 255.0,
      "precio_lista": null,
      "disponible": true,
@@ -2105,10 +2809,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-FIRST-CLASS-BLANCO-4TUNE/p/1101000027",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 300.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 300.0,
      "precio_lista": null,
      "disponible": true,
@@ -2128,10 +2840,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-PU-COLOR-GRIS-CON-BRAZOS-CROMADOS-4TUNE/p/1102000018",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 220.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 220.0,
      "precio_lista": null,
      "disponible": true,
@@ -2151,10 +2871,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-secretariales/SILLA-SECRETARIAL-DE-MESH-COLOR-NEGRO-ERGONOMICA-4TUNE/p/1102000080",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 185.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 185.0,
      "precio_lista": null,
      "disponible": true,
@@ -2174,10 +2902,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-MESH-COLOR-NEGRO-BASE-CROMADA-4TUNE/p/1102000020",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 145.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 145.0,
      "precio_lista": null,
      "disponible": true,
@@ -2197,10 +2933,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-secretariales/SILLA-SECRETARIAL-DE-MESH-COLOR-NEGRO-FABULOUS-4TUNE/p/1102000079",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 175.0,
      "precio_lista": null,
      "disponible": true,
@@ -2220,10 +2964,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-GEMELO-DE-VIDRIO-4TUNE/p/1101000029",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 210.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 210.0,
      "precio_lista": null,
      "disponible": true,
@@ -2243,10 +2995,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-EJECUTIVA-DE-PU-COLOR-NEGRO-4TUNE/p/1102000023",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -2266,10 +3026,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-PERSONAL-DE-VIDRIO-CON-PORTA-TECLADO-4TUNE/p/1101000030",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 135.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 135.0,
      "precio_lista": null,
      "disponible": true,
@@ -2289,10 +3057,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GAMER-DE-PU-COLOR-NEGRO-Y-GRIS-4TUNE/p/1102000047",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 429.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 429.0,
      "precio_lista": null,
      "disponible": true,
@@ -2312,10 +3088,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-DE-PU-COLOR-GRIS-4TUNE/p/1102000054",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 200.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 200.0,
      "precio_lista": null,
      "disponible": true,
@@ -2335,10 +3119,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-EN-L-TOP-DE-VIDRIO-CON-CAJONERA-SKY-DESKS/p/1101000009",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 369.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 369.0,
      "precio_lista": null,
      "disponible": true,
@@ -2358,10 +3150,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-PU-NEGRO-NEGRO-CON-BRAZOS-SKY-CHAIRS/p/1102000027",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 154.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 154.0,
      "precio_lista": null,
      "disponible": true,
@@ -2381,10 +3181,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-GAMMA-DE-4-NIVELES-COLOR-BLANCO-MODUTEC/p/1101000076",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -2404,10 +3212,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-GAMMA-CON-REPISA-COLOR-BLANCO-MODUTEC/p/1101000051",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 174.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 174.0,
      "precio_lista": null,
      "disponible": true,
@@ -2427,10 +3243,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-RETRO-DE-TRES-NIVELES-MODUTEC/p/1101000078",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 75.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 75.0,
      "precio_lista": null,
      "disponible": true,
@@ -2450,10 +3274,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-secretariales/SILLA-SECRETARIAL-DE-MESH-COLOR-NEGRO-Y-CORINTO-4TUNE/p/1102000088",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 179.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 179.0,
      "precio_lista": null,
      "disponible": true,
@@ -2473,10 +3305,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-DE-PU-COLOR-NEGRO-ACOLCHADA-4TUNE/p/1102000070",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 239.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 239.0,
      "precio_lista": null,
      "disponible": true,
@@ -2496,10 +3336,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-GERENCIAL-DE-MESH-GRAND-NEWYORK-4TUNE/p/1102000091",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 125.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 125.0,
      "precio_lista": null,
      "disponible": true,
@@ -2519,10 +3367,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-TIPO-GAMER-DE-MESH-Y-PU-DELUXE-CONFORT-4TUNE/p/1102000093",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 339.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 339.0,
      "precio_lista": null,
      "disponible": true,
@@ -2542,10 +3398,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-TIPO-INDUSTRIAL-4TUNE/p/1101000098",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -2565,10 +3429,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-TELA-COLOR-NEGRO-4TUNE/p/1102000096",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 125.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 125.0,
      "precio_lista": null,
      "disponible": true,
@@ -2588,10 +3460,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-DE-4-NIVELES-INDUSTRIAL-4TUNE/p/1101000099",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -2611,10 +3491,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-GERENCIAL-DE-PU-CONFORT-PRO-4TUNE/p/1102000097",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 179.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 179.0,
      "precio_lista": null,
      "disponible": true,
@@ -2634,10 +3522,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-PERSONAL-CON-LIBRERA-LATERAL-ABIERTA-4TUNE/p/1101000100",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -2657,10 +3553,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-MIST-DE-TRES-NIVELES-4TUNE/p/1101000104",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 169.0,
      "precio_lista": null,
      "disponible": true,
@@ -2680,10 +3584,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-GAMER-TIPO-FIBRA-DE-CARBONO-4TUNE/p/1101000101",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -2703,10 +3615,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-ESENCIAL-4TUNE/p/1101000105",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -2726,10 +3646,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-GAMER-HARDCORE-TIPO-FIBRA-DE-CARBONO-4TUNE/p/1101000107",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 490.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 490.0,
      "precio_lista": null,
      "disponible": true,
@@ -2749,10 +3677,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-MESH-ALTA-4TUNE/p/1102000099",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 185.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 185.0,
      "precio_lista": null,
      "disponible": true,
@@ -2772,10 +3708,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-MESH-GRIS/p/1102000124",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -2795,10 +3739,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-PREMIUM-MESH/p/1102000136",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 255.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 255.0,
      "precio_lista": null,
      "disponible": true,
@@ -2818,10 +3770,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-MESH-GRIS/p/1102000132",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -2841,10 +3801,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-DE-PU-CAFE/p/1102000127",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 279.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 279.0,
      "precio_lista": null,
      "disponible": true,
@@ -2864,10 +3832,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-secretariales/SILLA-SECRETARIAL-MESH-BASICA/p/1102000141",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 63.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 63.0,
      "precio_lista": null,
      "disponible": true,
@@ -2887,10 +3863,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-COLECCION-PRESIDENCIAL/p/1101000126",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 462.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 462.0,
      "precio_lista": null,
      "disponible": true,
@@ -2910,10 +3894,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-PREMIUM-COLECCION-PRESIDENCIAL/p/1101000128",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 662.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 662.0,
      "precio_lista": null,
      "disponible": true,
@@ -2933,10 +3925,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-VINTAGE/p/1101000138",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 140.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 140.0,
      "precio_lista": null,
      "disponible": true,
@@ -2956,10 +3956,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-DE-VIDRIO/p/1101000127",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -2979,10 +3987,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-CON-LIBRERA-Y-MESH/p/1101000124",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 136.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 136.0,
      "precio_lista": null,
      "disponible": true,
@@ -3002,10 +4018,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-ELECTRICO-CON-ELEVACION-BLANCO/p/1101000156",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 600.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 600.0,
      "precio_lista": null,
      "disponible": true,
@@ -3025,10 +4049,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-TIPO-ESTACION-DE-TRABAJO-AJUSTABLE-SKY-DESKS/p/1101000158",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 249.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 249.0,
      "precio_lista": null,
      "disponible": true,
@@ -3048,10 +4080,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-PERSONAL-EN-L-SKY-DESKS/p/1101000160",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 184.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 184.0,
      "precio_lista": null,
      "disponible": true,
@@ -3071,10 +4111,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-DE-CUERO-SINTETICO-COLOR-HUESO/p/1102000146",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 395.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 395.0,
      "precio_lista": null,
      "disponible": true,
@@ -3094,10 +4142,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-DE-3-NIVELES-Y-3-GAVETAS-LIGHT-WOOD/p/1101000233",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -3117,10 +4173,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-CON-GAVETA-LIGHT-WOOD/p/1101000230",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 104.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 104.0,
      "precio_lista": null,
      "disponible": true,
@@ -3140,10 +4204,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-MODERNO-CON-BASE-DE-METAL/p/1101000231",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 136.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 136.0,
      "precio_lista": null,
      "disponible": true,
@@ -3163,10 +4235,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-EN-L-GRIS-CON-NEGRO-CON-LIBRERO-DE-DOS-NIVELES-Y-ESTANTE-INFERIOR/p/1101000232",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 232.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 232.0,
      "precio_lista": null,
      "disponible": true,
@@ -3186,10 +4266,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-MESH-CON-APOYA-CABEZA-COLOR-NEGRO/p/1102000190",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 205.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 205.0,
      "precio_lista": null,
      "disponible": true,
@@ -3209,10 +4297,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-NOGAL-Y-GRIS-CON-ENTREPANO%2C-GAVETA-Y-PUERTA/p/1101000252",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 320.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 320.0,
      "precio_lista": null,
      "disponible": true,
@@ -3232,10 +4328,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-NOGAL-Y-GRIS-CON-ENTREPANOS%2C-GAVETA-Y-PUERTA/p/1101000251",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 539.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 539.0,
      "precio_lista": null,
      "disponible": true,
@@ -3255,10 +4359,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EJECUTIVO-PERSONAL-CAFE/p/1101000255",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 210.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 210.0,
      "precio_lista": null,
      "disponible": true,
@@ -3278,10 +4390,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-CAFE-Y-GRIS-CON-ENTREPANOS-Y-3-GAVETAS/p/1101000256",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 462.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 462.0,
      "precio_lista": null,
      "disponible": true,
@@ -3301,10 +4421,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-EN-L-NOGAL-Y-NEGRO-CON-DETALLES-EN-MESH-METAL-Y-CREDENZA-CON-PUERTA-Y-ENTREPANOS/p/1101000248",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 329.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 329.0,
      "precio_lista": null,
      "disponible": true,
@@ -3324,10 +4452,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERA-CAFE-Y-GRIS-CON-2-DIVISIONES-Y-2-PUERTAS-CON-ENTREPANOS-INTERIORES/p/1101000258",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 270.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 270.0,
      "precio_lista": null,
      "disponible": true,
@@ -3393,10 +4529,18 @@
    "modelo": "MTP2412",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-EJECUTIVO-EN-L-ACABADO-MADERA-MT-P2412/p/1101000288",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 447.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 447.0,
      "precio_lista": null,
      "disponible": true,
@@ -3416,10 +4560,18 @@
    "modelo": "MTP2413",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-ACABADO-MADERA-MT-P2413/p/1101000289",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 268.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 268.0,
      "precio_lista": null,
      "disponible": true,
@@ -3439,10 +4591,18 @@
    "modelo": "MTP2411",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-BEIGE-MT-P2411/p/1101000287",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 268.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 268.0,
      "precio_lista": null,
      "disponible": true,
@@ -3462,10 +4622,18 @@
    "modelo": "MTP2409",
    "url": "https://www.officedepot.com.sv/Libreros/LIBRERA-CON-PUERTA-BEIGE-MT-P2409/p/1101000285",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 281.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 281.0,
      "precio_lista": null,
      "disponible": true,
@@ -3485,10 +4653,18 @@
    "modelo": "MTP2408",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-EJECUTIVO-EN-L-BEIGE-MT-P2408/p/1101000284",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 588.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 588.0,
      "precio_lista": null,
      "disponible": true,
@@ -3508,10 +4684,18 @@
    "modelo": "MTP2414",
    "url": "https://www.officedepot.com.sv/Libreros/LIBRERA-CON-PUERTA-ACABADO-MADERA-MT-P2414/p/1101000290",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 281.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 281.0,
      "precio_lista": null,
      "disponible": true,
@@ -3531,12 +4715,20 @@
    "modelo": "MTP2415",
    "url": "https://www.officedepot.com.sv/Libreros/LIBRERA-ACABADO-MADERA-MT-P2415/p/1101000291",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
      "precio": 242.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 205.7,
+     "precio_lista": 242.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -3554,10 +4746,18 @@
    "modelo": "MTSM2413",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-MESH-NEGRA-DISE%C3%91O-MODERNO-MT-SM2413/p/1102000207",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -3577,10 +4777,18 @@
    "modelo": "MTME010",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-MESH-CON-APOYA-BRAZOS-MT-ME010/p/1102000212",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 118.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 118.0,
      "precio_lista": null,
      "disponible": true,
@@ -3600,10 +4808,18 @@
    "modelo": "MTME011",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-MESH-CON-APOYA-BRAZOS-MT-ME011/p/1102000213",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -3623,10 +4839,18 @@
    "modelo": "MTEM036",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-MESH-CON-APOYA-BRAZOS-MT-EM036/p/1102000210",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": false,
@@ -3646,10 +4870,18 @@
    "modelo": "MTSG2403",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-PREMIUM-NEGRA-MT-SG2403/p/1102000219",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 250.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 250.0,
      "precio_lista": null,
      "disponible": true,
@@ -3669,10 +4901,18 @@
    "modelo": "MTSG2404",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-PREMIUM-NEGRA-MT-SG2404/p/1102000220",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 240.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 240.0,
      "precio_lista": null,
      "disponible": true,
@@ -3692,10 +4932,18 @@
    "modelo": "MTSG2406",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-PREMIUM-NEGRA-MT-SG2406/p/1102000222",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 215.0,
      "precio_lista": null,
      "disponible": true,
@@ -3715,10 +4963,18 @@
    "modelo": "119125CM",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-GERENCIAL-ALTA-PU-GRIS-OSCURO-BASE-METAL-70-X-65-X-119-125CM/p/1102000229",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 420.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 420.0,
      "precio_lista": null,
      "disponible": true,
@@ -3738,12 +4994,20 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-GAMING-CON-LUZ-Y-VIDRIO-TEMPLADO/p/1101000299",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
      "precio": 640.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 544.0,
+     "precio_lista": 640.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -3761,10 +5025,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-OFICINA-EN-CASA/p/1101000300",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 383.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 383.0,
      "precio_lista": null,
      "disponible": true,
@@ -3784,10 +5056,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-GERENCIAL-GRIS-CLARO-AFFIRM-SAUDER/p/1101000304",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 422.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 422.0,
      "precio_lista": null,
      "disponible": true,
@@ -3807,10 +5087,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-GERENCIAL-CAFE-OSCURO-AFFIRM-SAUDER/p/1101000305",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 409.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 409.0,
      "precio_lista": null,
      "disponible": true,
@@ -3830,10 +5118,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-GERENCIAL-EN-L-MADERA-CLARA-LARKIN-LEDGE-SAUDER/p/1101000310",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 423.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 423.0,
      "precio_lista": null,
      "disponible": true,
@@ -3853,10 +5149,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-GERENCIAL-EN-L-GRIS-CLARO-EAST-ROCK-SAUDER/p/1101000309",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 473.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 473.0,
      "precio_lista": null,
      "disponible": true,
@@ -3876,10 +5180,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas/SILLA-GAMER-PREMIUM-NEGRO-CON-ROJO-MODUTEC/p/1102000050",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 315.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 315.0,
      "precio_lista": null,
      "disponible": true,
@@ -3899,10 +5211,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-NOGAL-Y-NEGRO/p/1101000247",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 210.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 210.0,
      "precio_lista": null,
      "disponible": true,
@@ -3922,10 +5242,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-EN-L-NOGAL-CON-2-ESTANTES-Y-DETALLES-EN-MESH-METAL/p/1101000244",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 298.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 298.0,
      "precio_lista": null,
      "disponible": true,
@@ -3945,10 +5273,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-NOGAL-Y-GRIS-CON-GAVETAS-Y-DIVISIONES/p/1101000246",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 158.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 158.0,
      "precio_lista": null,
      "disponible": true,
@@ -3968,10 +5304,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-MESH-COLOR-NEGRO-CON-APOYA-BRAZOS%2C-BASE-DE-TRINEO-CROMADA-DE-METAL-RESISTENTE%2C-TELA-MESH-ESPECIAL/p/1102000200",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 150.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 150.0,
      "precio_lista": null,
      "disponible": true,
@@ -3991,10 +5335,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GAMING-DE-TELA-CON-REPOSABRAZOS-MOVIL-Y-REPOSACABEZAS-AJUSTABLE/p/1102000201",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 235.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 235.0,
      "precio_lista": null,
      "disponible": true,
@@ -4014,10 +5366,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-MESH-COLOR-NEGRO-CON-AJUSTE-DE-ALTURA%2C-APOYA-BRAZOS%2C-BASEDE-METAL-CROMADA-RESISTENTE-TELA-MESH/p/1102000198",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 160.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 160.0,
      "precio_lista": null,
      "disponible": true,
@@ -4037,10 +5397,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-BEIGE-Y-CAFE-CON-ENTREPANOS-GAVETA-Y-PUERTA/p/1101000245",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 220.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 220.0,
      "precio_lista": null,
      "disponible": true,
@@ -4060,10 +5428,18 @@
    "modelo": "120X60X135",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-CON-COMPARTIMIENTOS-15MMMEDIDAS%3A-120X60X135-CM/p/1101000316",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 195.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 195.0,
      "precio_lista": null,
      "disponible": true,
@@ -4083,10 +5459,18 @@
    "modelo": "113X45X7",
    "url": "https://www.officedepot.com.sv/Libreros/LIBRERA-4-REPISASMEDIDAS%3A-113X45X7-CM/p/1101000315",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 90.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 90.0,
      "precio_lista": null,
      "disponible": true,
@@ -4106,10 +5490,18 @@
    "modelo": "80X30X140",
    "url": "https://www.officedepot.com.sv/Libreros/LIBRERA-DE-4-REPISAS-15MMMEDIDAS%3A-80X30X140-CM/p/1101000320",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 125.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 125.0,
      "precio_lista": null,
      "disponible": true,
@@ -4129,12 +5521,20 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-RESPALDOBASE-CROMADA-Y-RUEDAS-DE-NAILONMEDIDAS%3A-64X61X-125vCM/p/1102000255",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
      "precio": 265.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 225.25,
+     "precio_lista": 265.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -4152,12 +5552,20 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-RESPALDOBASE-CROMADA-Y-RUEDAS-DE-NAILONMEDIDAS%3A-64X61X-125vCM/p/1102000254",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
      "precio": 265.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 225.25,
+     "precio_lista": 265.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -4175,12 +5583,20 @@
    "modelo": "64X61X108",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-DE-RESPALDO-MEDIO-CON-REPOSABRAZOS-DE-PL%C3%81STICOMEDIDAS%3A-64X61X108-CM/p/1102000256",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
      "precio": 245.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 208.25,
+     "precio_lista": 245.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -4198,12 +5614,20 @@
    "modelo": "62X60X102",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-CON-RESPALDO-ALTO-Y-ASIENTO-EN-PU-COLOR-NEGRO-MEDIDAS%3A-62X60X102-CM/p/1102000263",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
      "precio": 250.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 212.5,
+     "precio_lista": 250.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -4221,10 +5645,18 @@
    "modelo": "64X73X123",
    "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-GERENCIAL-CON-ALTURA-AJUSTABLECOLOR-CAF%C3%89MEDIDAS%3A-64X73X123-5-CM/p/1102000264",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 215.0,
      "precio_lista": null,
      "disponible": true,
@@ -4244,10 +5676,18 @@
    "modelo": "64X75X120",
    "url": "https://www.officedepot.com.sv/Sillas/SILLA-GERENCIAL-CON-ALTURA-AJUSTABLECOLOR-NEGROMEDIDAS%3A-64X75X120-CM/p/1102000265",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -4267,10 +5707,18 @@
    "modelo": "65X80X112",
    "url": "https://www.officedepot.com.sv/Sillas/SILLA-GERENCIAL-CON-ALTURA-AJUSTABLE-BIG-SIZEMEDIDAS%3A-65X80X112-5-CM/p/1102000266",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 275.0,
      "precio_lista": null,
      "disponible": true,
@@ -4290,10 +5738,18 @@
    "modelo": "S21PWP740",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONO-SKULLCANDY-S21PW-P740/p/1303000605",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -4313,10 +5769,18 @@
    "modelo": "S2RLWQ751",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONO-SKULLCANDY-S2RLWQ751/p/1303000607",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 90.4,
+     "precio_lista": 113.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 90.4,
      "precio_lista": 113.0,
      "disponible": true,
@@ -4336,10 +5800,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-FLORA-DE-4-NIVELES-ESTRUCTURA-BLANCA-MODUTEC/p/1101000080",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 80.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 80.0,
      "precio_lista": null,
      "disponible": true,
@@ -4359,10 +5831,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-TOP-VIDRIO/p/1101000137",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 162.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 162.0,
      "precio_lista": null,
      "disponible": true,
@@ -4382,10 +5862,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-DE-VIDRIO-BLANCO/p/1101000135",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 252.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 252.0,
      "precio_lista": null,
      "disponible": true,
@@ -4405,10 +5893,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-RETRO-DE-CUATRO-NIVELES-MODUTEC/p/1101000079",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -4428,10 +5924,18 @@
    "modelo": "15FC0250LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0250LA-RYZEN-5---8GB---512GB--WIN-11-H/p/1301000630",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 659.0,
+     "precio_lista": 720.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 659.0,
      "precio_lista": 720.0,
      "disponible": true,
@@ -4451,10 +5955,18 @@
    "modelo": "G34WQI",
    "url": "https://www.officedepot.com.sv/Monitores/MONITOR-XIAOMI-G34WQi-CURVED/p/1301000581",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 399.0,
      "precio_lista": null,
      "disponible": true,
@@ -4474,10 +5986,18 @@
    "modelo": "16BA1053LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-OB-16-BA1053LA-CORE-I5---16GB---512GB---WIN-11/p/1301000711",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 1079.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
      "precio": 1079.0,
      "precio_lista": null,
      "disponible": true,
@@ -4509,6 +6029,29 @@
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000699.png?context=bWFzdGVyfHJvb3R8ODkwMjJ8aW1hZ2UvcG5nfGFETXlMMmc1TlM4eE16RTFOekF3TVRRMk1UYzVNQzh6TURCbWRIZGZNVE13TVRBd01EWTVPUzV3Ym1jfGVjYTY5NmI2ZTdlOTNlYzZiYWZjODg2ZTFmNWU2ZGU2NmI2YmFmODdiY2JiOTM5ZDRlMjYxZTZiNjIxMzU5ZGE"
+  },
+  "1310000588": {
+   "nombre": "Audifonos Inalambricos Coby Compactos y Plegables Color Negro",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CYBO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONOS-INALAMBRICOS-COBY-COMPACTOS-Y-PLEGABLES-COLOR-NEGRO/p/1310000588",
+   "primera_vez": "2026-10-28",
+   "ultima_vez": "2026-10-28",
+   "observaciones": [
+    {
+     "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000588.jpg?context=bWFzdGVyfHJvb3R8MjAyNTB8aW1hZ2UvanBlZ3xhR1l6TDJoak5pOHhNekl6TVRRNU1USTROVEF5TWk4ek1EQm1kSGRmTVRNeE1EQXdNRFU0T0M1cWNHY3xlNWQ2YzY3ZGNmYzRkMTNhZjMwMmRiNDMwYmM3OWY0MGRkODNjMDhhNTdlMDEyMjY5M2Y4MTYxMTkyODllMThh"
   }
  }
 }
