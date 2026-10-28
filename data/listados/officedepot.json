@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-10-27T17:46:45-06:00",
+ "actualizado": "2026-10-27T18:22:06-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -4417,6 +4417,98 @@
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000079.jpg?context=bWFzdGVyfHJvb3R8MTg2Njh8aW1hZ2UvanBlZ3xhR1k0TDJnek1pOHhNekkxTURBeU9UTTFOVEF6T0M4ek1EQm1kSGRmTVRFd01UQXdNREEzT1M1cWNHY3xkZTEwN2Q5NWYyMTgzMmJiMTc0YjE3ZTljYzY1MTY5OTA2OTNiOTVjNjBjNjkyNTgzY2Y4ZDVmNzczM2ViNTUx"
+  },
+  "1301000630": {
+   "nombre": "Computadora Laptop HP 15-FC0250LA Ryzen 5 - 8GB - 512GB -WIN 11 H 15.6\"",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15FC0250LA",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0250LA-RYZEN-5---8GB---512GB--WIN-11-H/p/1301000630",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 659.0,
+     "precio_lista": 720.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000630.jpg?context=bWFzdGVyfHJvb3R8Mjc2ODZ8aW1hZ2UvanBlZ3xhR0ZrTDJobU1TOHhNamt4TlRZeU1EZzNNakl5TWk4ek1EQm1kSGRmTVRNd01UQXdNRFl6TUM1cWNHY3xmYmMyNmViMTI1OTc0ZjgxYzRmNDc4NzE5ODhjNjZkNGM4MTk5MzVjYjYzNjM5OGUwOGNhNzE4YzU1ZDAyM2Fl"
+  },
+  "1301000581": {
+   "nombre": "Monitor Xiaomi G34WQi Curved 34\"",
+   "categoria": "monitor",
+   "tipo": "monitor",
+   "pulgadas": 34,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "G34WQI",
+   "url": "https://www.officedepot.com.sv/Monitores/MONITOR-XIAOMI-G34WQi-CURVED/p/1301000581",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000581.jpg?context=bWFzdGVyfHJvb3R8NDMxODh8aW1hZ2UvanBlZ3xhRFZrTDJnNFlpOHhNekExTWpreU56QTRNalV5Tmk4ek1EQm1kSGRmTVRNd01UQXdNRFU0TVM1cWNHY3w4MjVmNzZjMTllZTIyM2MyNGQ0YTU3MGM4Zjc4MWU0ZTUzNDk4MGIyMzEwMDc0NWRhYjIzY2ZhNzc4ODU0YjM0"
+  },
+  "1301000711": {
+   "nombre": "Computadora Laptop HP OB 16-BA1053LA Core I5 - 16GB - 512GB - WIN 11 15.6\"",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "16BA1053LA",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-OB-16-BA1053LA-CORE-I5---16GB---512GB---WIN-11/p/1301000711",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 1079.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000711.jpg?context=bWFzdGVyfHJvb3R8MzE2NjR8aW1hZ2UvanBlZ3xhR1kzTDJnd1lTOHhNekkzTmpZek5UQXdORGsxT0M4ek1EQm1kSGRmTVRNd01UQXdNRGN4TVM1cWNHY3xkOGFlZjVmYjY0NDQ5Zjg0N2Q4MWJmNGUwMjFiNDVjZGUyNzAwMGU2YzRmMWM2Mjc5ZTgyOTIwMjlmYjUwNzdh"
+  },
+  "1301000699": {
+   "nombre": "Computadora Laptop Dell - Core i5 - 16GB - 512GB - WIN 11 H 15.6\"",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DELL",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-DELL---CORE-i5---16GB---512GB---WIN-11-H/p/1301000699",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T18:22:06-06:00",
+     "precio": 1069.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000699.png?context=bWFzdGVyfHJvb3R8ODkwMjJ8aW1hZ2UvcG5nfGFETXlMMmc1TlM4eE16RTFOekF3TVRRMk1UYzVNQzh6TURCbWRIZGZNVE13TVRBd01EWTVPUzV3Ym1jfGVjYTY5NmI2ZTdlOTNlYzZiYWZjODg2ZTFmNWU2ZGU2NmI2YmFmODdiY2JiOTM5ZDRlMjYxZTZiNjIxMzU5ZGE"
   }
  }
 }
