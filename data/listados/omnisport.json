@@ -1,6 +1,6 @@
 {
  "comercial": "omnisport",
- "actualizado": "2026-10-28T12:39:01-06:00",
+ "actualizado": "2026-10-28T17:45:38-06:00",
  "listados": {
   "00401034161": {
    "nombre": "Cama Exclusiva 3 en 1 (1.40 m)",
@@ -10591,6 +10591,29 @@
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/RYPGiqNuNlvTcOiv3VZHDG5smeDcbtAMxVYsM54N.png"
+  },
+  "00000010431": {
+   "nombre": "Consola PS5 2015 Estándar Core - LATAM",
+   "categoria": "consola",
+   "tipo": "consola",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://omnisport.com/productos/consola-ps5-2015-estandar-core-latam",
+   "primera_vez": "2026-10-28",
+   "ultima_vez": "2026-10-28",
+   "observaciones": [
+    {
+     "fecha": "2026-10-28T17:45:38-06:00",
+     "precio": 949.0,
+     "precio_lista": 1155.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/73SSGfieijgj7hJuA6RZTEHuSujt7BCkrJ1bDpoP.png"
   }
  }
 }

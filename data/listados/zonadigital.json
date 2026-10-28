@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-28T12:33:18-06:00",
+ "actualizado": "2026-10-28T17:45:53-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -8345,7 +8345,7 @@
    "modelo": "PW22EFI",
    "url": "https://zonadigitalsv.com/product/monitor-nova-pw22efi-panel-ips-fhd-22p-144hz-hdmi-dp",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-26",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:32:04-06:00",
@@ -8397,6 +8397,14 @@
     },
     {
      "fecha": "2026-10-26T12:52:03-06:00",
+     "precio": 114.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:45:53-06:00",
      "precio": 114.95,
      "precio_lista": null,
      "disponible": true,
@@ -36153,14 +36161,14 @@
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6581eb473355e.jpg"
   },
   "16117": {
-   "nombre": "Laptop hp  omen hyperx 15-ga0070wm proc. intel ultra 7 255h  ram 16gb  almacenamiento ssd 1tb rtx5060 w11h pantalla ipd 2k 15.6p dk3s0ua",
+   "nombre": "Laptop hp  omen hyperx 15-ga0070wm proc. intel ultra 7 255h  ram 16gb  almacenamiento ssd 1tb rtx5060 w11h pantalla ips 2k 15.6p dk3s0ua",
    "categoria": "laptop",
    "tipo": "laptop",
    "pulgadas": null,
    "medida": null,
    "marca": "HP",
    "modelo": "15GA0070WM",
-   "url": "https://zonadigitalsv.com/product/laptop-hp-omen-hyperx-15-ga0070wm-proc-intel-ultra-7-255h-ram-16gb-almacenamiento-ssd-1tb-rtx5060-w11h-pantalla-ipd-2k-156p-dk3s0ua",
+   "url": "https://zonadigitalsv.com/product/laptop-hp-omen-hyperx-15-ga0070wm-proc-intel-ultra-7-255h-ram-16gb-almacenamiento-ssd-1tb-rtx5060-w11h-pantalla-ips-2k-156p-dk3s0ua",
    "primera_vez": "2026-10-23",
    "ultima_vez": "2026-10-28",
    "observaciones": [

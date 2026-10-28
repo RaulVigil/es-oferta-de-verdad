@@ -4,7 +4,7 @@
 > Black Friday (27 de noviembre de 2026) o Cyber Monday es real: compara el precio de hoy contra la mediana de
 > lo que costó antes del 1 de noviembre (línea base), no contra el precio tachado que anuncia la tienda.
 
-Actualizado el 28 oct 2026, 12:39 p. m. · 7,894 productos de 14 tiendas · 58 ofertas reales. Tiendas: AEON, COOPESA, EPA, Electrónica 2001, La Curacao, Office Depot, Omnisport, Prado, RadioShack, Samsung, Simán, Vidrí, Walmart, Zona Digital.
+Actualizado el 28 oct 2026, 5:51 p. m. · 7,897 productos de 14 tiendas · 58 ofertas reales. Tiendas: AEON, COOPESA, EPA, Electrónica 2001, La Curacao, Office Depot, Omnisport, Prado, RadioShack, Samsung, Simán, Vidrí, Walmart, Zona Digital.
 
 ## Cómo leer los datos
 
@@ -19,19 +19,19 @@ Actualizado el 28 oct 2026, 12:39 p. m. · 7,894 productos de 14 tiendas · 58 o
 - [Ofertas reales de hoy](https://es-oferta-de-verdad.vercel.app/ofertas/): 58 ofertas reales y 83 bajas leves, con precio y línea base
 - [TV](https://es-oferta-de-verdad.vercel.app/categoria/tv/): 491 productos disponibles
 - [Camas 1.40 m](https://es-oferta-de-verdad.vercel.app/categoria/cama/): 299 productos disponibles
-- [Teclados](https://es-oferta-de-verdad.vercel.app/categoria/teclado/): 272 productos disponibles
-- [Monitores](https://es-oferta-de-verdad.vercel.app/categoria/monitor/): 113 productos disponibles
+- [Teclados](https://es-oferta-de-verdad.vercel.app/categoria/teclado/): 273 productos disponibles
+- [Monitores](https://es-oferta-de-verdad.vercel.app/categoria/monitor/): 115 productos disponibles
 - [Sillas de escritorio](https://es-oferta-de-verdad.vercel.app/categoria/silla/): 194 productos disponibles
 - [Controles de consola](https://es-oferta-de-verdad.vercel.app/categoria/control/): 121 productos disponibles
-- [Consolas](https://es-oferta-de-verdad.vercel.app/categoria/consola/): 38 productos disponibles
-- [Laptops](https://es-oferta-de-verdad.vercel.app/categoria/laptop/): 219 productos disponibles
+- [Consolas](https://es-oferta-de-verdad.vercel.app/categoria/consola/): 41 productos disponibles
+- [Laptops](https://es-oferta-de-verdad.vercel.app/categoria/laptop/): 223 productos disponibles
 - [Memorias RAM](https://es-oferta-de-verdad.vercel.app/categoria/ram/): 8 productos disponibles
 - [SSD y M.2](https://es-oferta-de-verdad.vercel.app/categoria/ssd/): 27 productos disponibles
-- [Repisas y estantes](https://es-oferta-de-verdad.vercel.app/categoria/repisa/): 337 productos disponibles
+- [Repisas y estantes](https://es-oferta-de-verdad.vercel.app/categoria/repisa/): 338 productos disponibles
 - [Escritorios](https://es-oferta-de-verdad.vercel.app/categoria/escritorio/): 122 productos disponibles
 - [Roperos y clósets](https://es-oferta-de-verdad.vercel.app/categoria/ropero/): 147 productos disponibles
-- [Audífonos](https://es-oferta-de-verdad.vercel.app/categoria/audifono/): 1,305 productos disponibles
-- [Mouse](https://es-oferta-de-verdad.vercel.app/categoria/mouse/): 399 productos disponibles
+- [Audífonos](https://es-oferta-de-verdad.vercel.app/categoria/audifono/): 1,306 productos disponibles
+- [Mouse](https://es-oferta-de-verdad.vercel.app/categoria/mouse/): 400 productos disponibles
 - [Cerámica y porcelanato](https://es-oferta-de-verdad.vercel.app/categoria/ceramica/): 544 productos disponibles
 - [Inodoros](https://es-oferta-de-verdad.vercel.app/categoria/inodoro/): 63 productos disponibles
 - [Lavamanos](https://es-oferta-de-verdad.vercel.app/categoria/lavamanos/): 57 productos disponibles

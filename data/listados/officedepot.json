@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-10-28T12:38:35-06:00",
+ "actualizado": "2026-10-28T17:51:23-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -1562,10 +1562,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-ARGOM-ESPANOL-ARG-KB-7807/p/1303000142",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:23-06:00",
      "precio": 14.9,
      "precio_lista": null,
      "disponible": true,
@@ -1585,10 +1593,18 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-ARGOM-CLASICO-USB-ARG-MS-0002/p/1303000349",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 5.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:23-06:00",
      "precio": 5.9,
      "precio_lista": null,
      "disponible": true,
@@ -1918,10 +1934,18 @@
    "modelo": "AEH103TT",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/AUDIFONOS-TARGUS-PARA-VIDEO-LLAMADAS-NEGROS-GRIS-AEH103TT/p/1303000088",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 64.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:23-06:00",
      "precio": 64.9,
      "precio_lista": null,
      "disponible": true,
@@ -4506,10 +4530,18 @@
    "modelo": "150X75X30CM",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESTANTERIA-4-NIVELES-DE-METAL-Y-MDF-150X75X30CM%2C-CAPACIDAD-DE-CARGA-100KG/p/1101000281",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-27",
+   "ultima_vez": "2026-10-28",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
+     "precio": 44.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:23-06:00",
      "precio": 44.0,
      "precio_lista": null,
      "disponible": true,

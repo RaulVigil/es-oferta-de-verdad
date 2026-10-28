@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-10-28T12:38:58-06:00",
+ "actualizado": "2026-10-28T17:51:44-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -2379,6 +2379,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:44-06:00",
+     "precio": 549.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/t/rt38dg6224s9ap_001_front_silver_thumb.png"
@@ -2798,6 +2806,14 @@
     {
      "fecha": "2026-10-28T12:38:58-06:00",
      "precio": 1599.0,
+     "precio_lista": 1969.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:44-06:00",
+     "precio": 1699.0,
      "precio_lista": 1969.0,
      "disponible": true,
      "fuente": "auto",
@@ -3291,6 +3307,14 @@
     {
      "fecha": "2026-10-28T12:38:58-06:00",
      "precio": 89.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-28T17:51:44-06:00",
+     "precio": 99.0,
      "precio_lista": 119.0,
      "disponible": true,
      "fuente": "auto",

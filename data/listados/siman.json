@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-28T12:24:55-06:00",
+ "actualizado": "2026-10-28T17:37:22-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -125852,6 +125852,52 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8032200-300-300/105183513-1.jpg"
+  },
+  "8916513": {
+   "nombre": "Laptop Apple MacBook Air 13\" (38.1 cm) M5 Chip 16GB RAM 512GB SSD Starlight - ESP — MACBOOK AIR 33.02 cm (13\") M5 10CPU 8GPU 16GB 512GB STRL ESP",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Apple",
+   "modelo": "",
+   "url": "https://sv.siman.com/laptop-apple-macbook-air-13---38-1-cm--m5-chip-16gb-ram-512gb-ssd-starlight---esp/p",
+   "primera_vez": "2026-10-28",
+   "ultima_vez": "2026-10-28",
+   "observaciones": [
+    {
+     "fecha": "2026-10-28T17:37:22-06:00",
+     "precio": 1759.0,
+     "precio_lista": 1759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048817-300-300/105205844-1.jpg"
+  },
+  "8916515": {
+   "nombre": "Laptop Apple MacBook Air 13\" (38.1 cm) M5 Chip 16GB RAM 512GB SSD Medianoche - ESP — MacBook Air 13\" Esp M5 10CPU 8GPU 16GB Ram 512GB SSD - Medianoche",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Apple",
+   "modelo": "",
+   "url": "https://sv.siman.com/laptop-apple-macbook-air-13---38-1-cm--m5-chip-16gb-ram-512gb-ssd-medianoche---esp/p",
+   "primera_vez": "2026-10-28",
+   "ultima_vez": "2026-10-28",
+   "observaciones": [
+    {
+     "fecha": "2026-10-28T17:37:22-06:00",
+     "precio": 1759.0,
+     "precio_lista": 1759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048829-300-300/105205846-1.jpg"
   }
  }
 }
