@@ -26,6 +26,7 @@ from __future__ import annotations
 
 import argparse
 import json
+import os
 import statistics
 import sys
 import time
@@ -411,6 +412,9 @@ def capturar(categoria: str | None = None, comercial: str | None = None, product
                 total["errores"] += 1
                 total["caidas"].append(tienda)
                 avisar(f"  ERROR {tienda}: {type(e).__name__}: {e}")
+                if os.environ.get("GITHUB_ACTIONS") == "true":
+                    # aviso en el resumen de la corrida: se ve sin abrir el registro completo
+                    print(f"::warning title={tienda} sin datos::{type(e).__name__}: {e}")
                 continue
             finally:
                 tiendas.fijar_limite(None)

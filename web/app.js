@@ -245,7 +245,7 @@ function pintarLista() {
     li.querySelector(".fila-nombre").textContent = it.n;
     li.querySelector(".fila-precio").textContent = dinero(it.s.ultimo);
     li.querySelector(".fila-meta").textContent =
-      [E.tiendas.get(it.t)?.nombre, tamano(it), it.ma, it.va ? "ya no aparece" : it.s.disponible ? "" : "agotado"].filter(Boolean).join(" · ");
+      [E.tiendas.get(it.t)?.nombre, tamano(it), it.ma, it.tc ? "sin datos nuevos" : it.va ? "ya no aparece" : it.s.disponible ? "" : "agotado"].filter(Boolean).join(" · ");
     const v = li.querySelector(".fila-var");
     const debil = it.s.base != null && it.s.n_base < 2 ? "*" : "";
     const texto = it.s.pct_base && Math.abs(it.s.pct_base) >= 0.05
@@ -356,7 +356,7 @@ async function abrir(id, { empujar = true } = {}) {
     <div class="d-cabeza">
       <div>
         <h2 class="d-titulo">${esc(it.n)}</h2>
-        <p class="d-meta">${[tamano(it), it.ma, it.mo, it.va ? `ya no aparece en la tienda desde el ${fecha(it.va + "T12:00")}` : s.disponible ? "" : "agotado al último registro"].filter(Boolean).map(esc).join(" · ")}</p>
+        <p class="d-meta">${[tamano(it), it.ma, it.mo, it.tc ? `la tienda no responde desde el ${fecha(it.tc + "T12:00")}` : it.va ? `ya no aparece en la tienda desde el ${fecha(it.va + "T12:00")}` : s.disponible ? "" : "agotado al último registro"].filter(Boolean).map(esc).join(" · ")}</p>
       </div>
       ${it.im ? `<button class="d-foto" type="button" aria-label="Ver la foto completa"><img src="${esc(it.im)}" alt="${esc(it.n)}" decoding="async" referrerpolicy="no-referrer"><span class="d-lupa" aria-hidden="true">${LUPA}</span></button>` : ""}
     </div>

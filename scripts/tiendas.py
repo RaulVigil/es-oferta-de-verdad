@@ -118,8 +118,10 @@ def soportado(comercial: str) -> bool:
         comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001", "officedepot")
 
 
+# coopesa queda fuera mientras su dominio no exista (sin DNS desde el 26-oct-2026); su historial se
+# conserva y la web marca sus productos como "la tienda no responde". Para volver: agregarla aqui.
 COMERCIALES_BARRIDO = list(VTEX) + list(LIVESEARCH) + ["prado", "epa", "omnisport", "zonadigital", "aeon", "vidri",
-                                                       "coopesa", "electronica2001", "officedepot"] + list(MAGENTO)
+                                                       "electronica2001", "officedepot"] + list(MAGENTO)
 
 
 def fijar_limite(segundos: float | None) -> None:

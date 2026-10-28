@@ -22,7 +22,7 @@ import json
 import os
 import sys
 from collections import defaultdict
-from datetime import datetime
+from datetime import date, datetime, timedelta
 from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent))
@@ -73,7 +73,7 @@ def _compacto(it: dict, prefijos: dict, prefijos_im: dict) -> dict:
                "pct_base": round(s["pct_base"], 1) if s["pct_base"] is not None else None}
     salida = {"i": it["id"].split(":", 1)[1], "t": it["t"], "n": it["n"], "c": it["c"],
               "s": [valores[k] for k in CAMPOS_S]}
-    for k in ("p", "me", "ma", "mo", "nt", "o", "va"):
+    for k in ("p", "me", "ma", "mo", "nt", "o", "va", "tc"):
         if it.get(k):
             salida[k] = it[k]
     if it.get("u"):
@@ -127,6 +127,11 @@ def exportar(avisar=print) -> dict:
     # dia de la ultima captura de cada tienda: lo que no salio ese dia ya no esta publicado
     ultima_captura = {c: max((f.get("ultima_vez") or "" for f in almacen.cargar(c)["listados"].values()), default="")
                       for c in almacen.comerciales_guardados()}
+    # una tienda que lleva mas de un dia sin responder (caida, dominio vencido, bloqueo): sus precios
+    # ya no son de hoy, asi que sus productos se muestran como no disponibles
+    hoy = max(ultima_captura.values(), default="")
+    ayer = (date.fromisoformat(hoy) - timedelta(days=1)).isoformat() if hoy else ""
+    caidas = {c for c, d in ultima_captura.items() if d and d < ayer}
 
     items: list[dict] = []
     historial: dict[str, dict] = defaultdict(dict)
@@ -150,7 +155,7 @@ def exportar(avisar=print) -> dict:
             continue
         ident = f"{cid}:{sku}"
         ausente = not sku.startswith("manual-") and (f.get("ultima_vez") or "") < ultima_captura.get(cid, "")
-        if ausente:
+        if ausente or cid in caidas:
             est["disponible"] = False
         tiendas_usadas.add(cid)
         items.append({
@@ -167,6 +172,7 @@ def exportar(avisar=print) -> dict:
             "s": {k: _redondear(v) for k, v in est.items()},
             "nt": (obs[-1].get("nota") or "")[:120],
             "va": f.get("ultima_vez") if ausente else None,
+            "tc": ultima_captura[cid] if cid in caidas else None,  # tienda caida desde ese dia
         })
         historial[cid][sku] = [
             [o["fecha"][:16], o["precio"], o.get("precio_lista"), 1 if o.get("disponible", True) else 0]
