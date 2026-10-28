@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-10-27T17:17:15-06:00",
+ "actualizado": "2026-10-27T17:46:45-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -4279,6 +4279,144 @@
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1102000266.jpg?context=bWFzdGVyfHJvb3R8MTI2NTd8aW1hZ2UvanBlZ3xhREZqTDJoak5DOHhNekEyTVRJM056ZzNOakkxTkM4ek1EQm1kSGRmTVRFd01qQXdNREkyTmk1cWNHY3xmYmRmNDM4ZGI0ZGRkODM4Y2YyNDYzMjEzYTNmNjNlNWVlNDkzMzY4NmQxMmJiOTIwNDFlNWYxZDIxMGNkYjQx"
+  },
+  "1303000605": {
+   "nombre": "Audifono Skullcandy S21PW-P740",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SKULLCANDY",
+   "modelo": "S21PWP740",
+   "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONO-SKULLCANDY-S21PW-P740/p/1303000605",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000605.jpg?context=bWFzdGVyfHJvb3R8MjA4MTR8aW1hZ2UvanBlZ3xhRE0xTDJnMU5DOHhNekl6TVRRM056VXlNalEyTWk4ek1EQm1kSGRmTVRNd016QXdNRFl3TlM1cWNHY3w0YTQ4YjhmZWFiYTU2ZTEwNjUyZTVhMTE1MGZjNTg3YTEwZWQxMmY1ODJjZmY1M2M0ODAwYjg2YzQ0MjcxZWNi"
+  },
+  "1303000607": {
+   "nombre": "Audifono Skullcandy S2RLWQ751",
+   "categoria": "audifono",
+   "tipo": "audifono",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SKULLCANDY",
+   "modelo": "S2RLWQ751",
+   "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONO-SKULLCANDY-S2RLWQ751/p/1303000607",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 90.4,
+     "precio_lista": 113.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000607.jpg?context=bWFzdGVyfHJvb3R8MTc2MTZ8aW1hZ2UvanBlZ3xhRFE0TDJnNFlTOHhNekl6TVRRM09UZzRNVGMxT0M4ek1EQm1kSGRmTVRNd016QXdNRFl3Tnk1cWNHY3w0MTBhYjU4OTgwNjEyZGQ3MWI4YzMyZDVlZGZjODljZGJkNmQ0OWQwODY4YThkMzZmNGRjZDBiMGIxNDE3MmE1"
+  },
+  "1101000080": {
+   "nombre": "Librero Flora de 4 Niveles Estructura Blanca Modutec",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MODUTEC",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-FLORA-DE-4-NIVELES-ESTRUCTURA-BLANCA-MODUTEC/p/1101000080",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 80.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000080.jpg?context=bWFzdGVyfHJvb3R8MTI5NDB8aW1hZ2UvanBlZ3xhRFV6TDJnell5OHhNekkxTURBek56Y3hNRGczT0M4ek1EQm1kSGRmTVRFd01UQXdNREE0TUM1cWNHY3xiNzljMzU1Mjc4ZGUzMGY4NTJjZGNkNjEwNmI2NDMxMmUzMDAzNDMwODQ4MmZiNTFiOWU2MjBmYzc4OGE1ZTdh"
+  },
+  "1101000137": {
+   "nombre": "Escritorio Personal TOP Vidrio",
+   "categoria": "escritorio",
+   "tipo": "escritorio",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MODUTEC",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-TOP-VIDRIO/p/1101000137",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 162.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000137.png?context=bWFzdGVyfHJvb3R8Mjc3MzB8aW1hZ2UvcG5nfGFHRmxMMmd5WVM4eE16RTJNemN4TXpJNU9EUTJNaTh6TURCbWRIZGZNVEV3TVRBd01ERXpOeTV3Ym1jfDAwMTg2YjFiYjIxZmI3NzMyODQzMzI5MjU2OTYzOWI2YmJkYTFjMmE1OWNkOGRmMTI4MDBkYTEzOTBkY2VjMmI"
+  },
+  "1101000135": {
+   "nombre": "Escritorio Personal de Vidrio Blanco",
+   "categoria": "escritorio",
+   "tipo": "escritorio",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MODUTEC",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-DE-VIDRIO-BLANCO/p/1101000135",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 252.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37958.jpg-300ftw?context=bWFzdGVyfHJvb3R8MjU5MzN8aW1hZ2UvanBlZ3xhRFEyTDJnNU9TOHhNakV3TURZeE9UTTNNRFV5Tmk4ek56azFPQzVxY0dkZk16QXdablIzfGRiMTUwOTRiYTJhYzEwNmZjODFjNGFjMGFlNTJlYTVjYTQ2NzkzOTIzOTM0NjJlZTk4ZTYyZjQ3ZTE1OWVjMjk"
+  },
+  "1101000079": {
+   "nombre": "Librero Retro de Cuatro Niveles Modutec",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MODUTEC",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-RETRO-DE-CUATRO-NIVELES-MODUTEC/p/1101000079",
+   "primera_vez": "2026-10-27",
+   "ultima_vez": "2026-10-27",
+   "observaciones": [
+    {
+     "fecha": "2026-10-27T17:46:45-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000079.jpg?context=bWFzdGVyfHJvb3R8MTg2Njh8aW1hZ2UvanBlZ3xhR1k0TDJnek1pOHhNekkxTURBeU9UTTFOVEF6T0M4ek1EQm1kSGRmTVRFd01UQXdNREEzT1M1cWNHY3xkZTEwN2Q5NWYyMTgzMmJiMTc0YjE3ZTljYzY1MTY5OTA2OTNiOTVjNjBjNjkyNTgzY2Y4ZDVmNzczM2ViNTUx"
   }
  }
 }

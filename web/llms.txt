@@ -1,0 +1,60 @@
+# ¿Es oferta de verdad?
+
+> Historial diario de precios de 14 tiendas en línea de El Salvador para saber si una oferta de
+> Black Friday (27 de noviembre de 2026) o Cyber Monday es real: compara el precio de hoy contra la mediana de
+> lo que costó antes del 1 de noviembre (línea base), no contra el precio tachado que anuncia la tienda.
+
+Actualizado el 27 oct 2026, 5:47 p. m. · 7,822 productos de 14 tiendas · 62 ofertas reales. Tiendas: AEON, COOPESA, EPA, Electrónica 2001, La Curacao, Office Depot, Omnisport, Prado, RadioShack, Samsung, Simán, Vidrí, Walmart, Zona Digital.
+
+## Cómo leer los datos
+
+- Línea base: mediana de los precios capturados en esa tienda antes del 2026-11-01.
+- Oferta real: el precio de hoy está 10 % o más por debajo de la línea base.
+  Baja leve: entre 3 y 10 %. Sin cambio: menos de 3 %.
+- Precios publicados en línea, de contado, sin envío, en dólares (USD). El precio en tienda física o a crédito puede variar.
+- Proyecto independiente, sin relación con las tiendas. Los datos se capturan dos veces al día.
+
+## Páginas
+
+- [Ofertas reales de hoy](https://es-oferta-de-verdad.vercel.app/ofertas/): 62 ofertas reales y 55 bajas leves, con precio y línea base
+- [TV](https://es-oferta-de-verdad.vercel.app/categoria/tv/): 373 productos disponibles
+- [Camas 1.40 m](https://es-oferta-de-verdad.vercel.app/categoria/cama/): 299 productos disponibles
+- [Teclados](https://es-oferta-de-verdad.vercel.app/categoria/teclado/): 249 productos disponibles
+- [Monitores](https://es-oferta-de-verdad.vercel.app/categoria/monitor/): 111 productos disponibles
+- [Sillas de escritorio](https://es-oferta-de-verdad.vercel.app/categoria/silla/): 193 productos disponibles
+- [Controles de consola](https://es-oferta-de-verdad.vercel.app/categoria/control/): 109 productos disponibles
+- [Consolas](https://es-oferta-de-verdad.vercel.app/categoria/consola/): 42 productos disponibles
+- [Laptops](https://es-oferta-de-verdad.vercel.app/categoria/laptop/): 128 productos disponibles
+- [Memorias RAM](https://es-oferta-de-verdad.vercel.app/categoria/ram/): 8 productos disponibles
+- [SSD y M.2](https://es-oferta-de-verdad.vercel.app/categoria/ssd/): 27 productos disponibles
+- [Repisas y estantes](https://es-oferta-de-verdad.vercel.app/categoria/repisa/): 335 productos disponibles
+- [Escritorios](https://es-oferta-de-verdad.vercel.app/categoria/escritorio/): 118 productos disponibles
+- [Roperos y clósets](https://es-oferta-de-verdad.vercel.app/categoria/ropero/): 122 productos disponibles
+- [Audífonos](https://es-oferta-de-verdad.vercel.app/categoria/audifono/): 1,032 productos disponibles
+- [Mouse](https://es-oferta-de-verdad.vercel.app/categoria/mouse/): 345 productos disponibles
+- [Cerámica y porcelanato](https://es-oferta-de-verdad.vercel.app/categoria/ceramica/): 539 productos disponibles
+- [Inodoros](https://es-oferta-de-verdad.vercel.app/categoria/inodoro/): 64 productos disponibles
+- [Lavamanos](https://es-oferta-de-verdad.vercel.app/categoria/lavamanos/): 57 productos disponibles
+- [Duchas y grifería](https://es-oferta-de-verdad.vercel.app/categoria/ducha/): 199 productos disponibles
+- [Refrigeradoras](https://es-oferta-de-verdad.vercel.app/categoria/refrigeradora/): 279 productos disponibles
+- [Lavadoras](https://es-oferta-de-verdad.vercel.app/categoria/lavadora/): 163 productos disponibles
+- [Microondas](https://es-oferta-de-verdad.vercel.app/categoria/microondas/): 92 productos disponibles
+- [Freidoras de aire](https://es-oferta-de-verdad.vercel.app/categoria/freidora/): 38 productos disponibles
+- [Amplificadores de instrumento](https://es-oferta-de-verdad.vercel.app/categoria/amplificador/): 153 productos disponibles
+- [Guitarras](https://es-oferta-de-verdad.vercel.app/categoria/guitarra/): 368 productos disponibles
+- [Bajos](https://es-oferta-de-verdad.vercel.app/categoria/bajo/): 106 productos disponibles
+- [Teclados musicales y pianos](https://es-oferta-de-verdad.vercel.app/categoria/piano/): 64 productos disponibles
+- [Baterías (instrumento)](https://es-oferta-de-verdad.vercel.app/categoria/bateria/): 57 productos disponibles
+- [Micrófonos](https://es-oferta-de-verdad.vercel.app/categoria/microfono/): 292 productos disponibles
+- [Ukuleles](https://es-oferta-de-verdad.vercel.app/categoria/ukulele/): 17 productos disponibles
+
+## Datos abiertos
+
+- [ofertas.json](https://es-oferta-de-verdad.vercel.app/data/ofertas.json): ofertas reales y bajas leves de hoy, con campos con nombre
+- [catalogo.json](https://es-oferta-de-verdad.vercel.app/data/catalogo.json): catálogo completo compacto; las estadísticas de cada producto van en
+  una lista posicional cuyo orden está en "formato.s", y las URLs sin el prefijo de su tienda ("tiendas[].prefijo")
+- historial/<tienda>.json (https://es-oferta-de-verdad.vercel.app/data/historial/siman.json, …): historial por SKU como [fecha, precio, tachado, disponible]
+
+## Optional
+
+- [Código fuente y metodología](https://github.com/RaulVigil/es-oferta-de-verdad)
