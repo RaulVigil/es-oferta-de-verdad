@@ -1,6 +1,6 @@
 # ¿Es oferta de verdad?
 
-**¿Esa oferta de Black Friday es real?** Historial de precios de 15 tiendas de El Salvador para
+**¿Esa oferta de Black Friday es real?** Historial de precios de 14 tiendas de El Salvador para
 comparar lo que anuncian en noviembre contra lo que costaba antes.
 
 **Sitio:** https://es-oferta-de-verdad.vercel.app
@@ -19,7 +19,7 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
 ```
  GitHub Actions (6:17 a. m. diario, respaldo a la 1:47 p. m.)
    └─ scripts/precios.py capturar
-        ├─ consulta 15 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
+        ├─ consulta 14 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
         └─ scripts/exportar.py ─────────► web/data/catalogo.json        (estadísticas ya calculadas)
                                           web/data/historial/<tienda>.json
            └─ scripts/paginas.py ───────► web/ofertas/, web/categoria/  (HTML para buscadores e IA)
@@ -43,16 +43,17 @@ Cada tienda expone el mismo catálogo que usa su propio sitio web; no hay scrapi
 | Simán, Walmart | API de catálogo VTEX | categorías de TV, computación, audio, camas + búsquedas de texto |
 | Office Depot | JSON del buscador (SAP Commerce) | categorías de tecnología, electrónica y muebles de oficina |
 | La Curacao, RadioShack | Adobe Live Search (el buscador del sitio) | catálogo completo (~8,800 y ~3,600 productos) |
-| Samsung, Steren | GraphQL de Magento de cada tienda (vista de El Salvador, USD) | catálogo completo (~430 y ~2,000 productos) |
+| Samsung | GraphQL de Magento de la tienda oficial (vista de El Salvador, USD) | catálogo completo (~430 productos) |
+| Camas Olympia | fichas de su tienda WooCommerce | cada variante (cama completa o colchón × medida) |
 | Prado, EPA | índice público de Algolia del buscador | facetas + búsquedas |
 | Vidrí | API pública de su buscador (Doofinder) | búsquedas (máx. 1,000 resultados cada una) |
 | Zona Digital | API JSON de su página | catálogo completo (~1,400 productos) |
-| AEON | tienda Odoo (HTML con schema.org) | categorías de cómputo |
+| AEON | tienda Odoo (HTML con schema.org) | categorías de cómputo, redes, cámaras y almacenamiento |
 | Omnisport | HTML de categorías y productos | TV, camas, electrodomésticos |
-| COOPESA | WooCommerce Store API | catálogo completo (~600 productos) |
 | Electrónica 2001 | HTML de categorías + API por código | categorías de instrumentos y audio |
 
-Sin incluir: Freund (claves de búsqueda ofuscadas), Tropigas (desafío anti-bot).
+Sin incluir: Freund (claves de búsqueda ofuscadas), Tropigas (desafío anti-bot), Steren (rechaza a los
+servidores de GitHub) y COOPESA (su dominio dejó de existir el 26-oct; se conserva su historial).
 
 De cada producto se guarda también la foto que publica la tienda (reducida a ~300 px donde la
 tienda lo permite); la web la carga desde la tienda solo cuando la fila está a la vista.
@@ -60,11 +61,15 @@ tienda lo permite); la web la carga desde la tienda solo cuando la fila está a 
 ### Qué se sigue
 
 Las categorías se definen en `data/productos.json → barrido` sin tocar código: TV (32" a 85"),
-camas de 1.40 m, teclados, monitores, sillas de escritorio, controles, consolas, laptops,
+camas y colchones (de individual a king), teclados, monitores, sillas de escritorio, controles, consolas, laptops,
 memorias RAM, SSD/M.2, repisas, escritorios, roperos, audífonos, mouse, cerámica, inodoros,
 lavamanos, duchas y grifería, refrigeradoras, lavadoras, microondas, freidoras de aire,
 amplificadores de instrumento, guitarras, bajos, teclados musicales y pianos, baterías,
-micrófonos y ukuleles.
+micrófonos, ukuleles, celulares, tablets, smartwatches, bocinas y barras de sonido, aires
+acondicionados, impresoras, aspiradoras, licuadoras, ventiladores, taladros, cocinas y estufas,
+secadoras de ropa, congeladores, cafeteras, ollas arroceras y de presión, batidoras, hornos y
+tostadores, planchas de ropa, secadoras de pelo y rasuradoras, proyectores, cámaras, routers,
+discos duros y memorias USB, tarjetas de video, salas y sofás, comedores e hidrolavadoras.
 
 ```json
 "inodoro": {

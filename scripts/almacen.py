@@ -178,7 +178,8 @@ _NO_CAMA = re.compile(
     r"s[aá]bana|cubrecama|edred[oó]n|almohada|protector|camarote|litera|sof[aá]|respaldo|"
     r"cabecera|inflable|mascota|fald[oó]n|frazada|cobija|cuna|beb[eé]|infantil|junior|kidz|"
     r"juego de rec[aá]mara|gavetero|mesa de noche|tocador|cojin|cojín|topper|cubre colch|"
-    r"plum[oó]n|sill[oó]n|reclinable|futon|fut[oó]n|hamaca|ni[ñn][oa]\b", re.I)
+    r"plum[oó]n|sill[oó]n|reclinable|futon|fut[oó]n|hamaca|ni[ñn][oa]\b|colchoneta|mosquitero|respaldar|"
+    r"inflador", re.I)
 _SI_CAMA = re.compile(r"\bcama\b|set de cama|colch[oó]n|box spring|\bbase\b.*colch", re.I)
 
 
@@ -208,7 +209,8 @@ def medida_cama(nombre: str) -> str | None:
         return "king"
     if re.search(r"\bque+e?n\b|\bquenn\b|1\.60|1\.52|160 m", t):
         return "queen"
-    if re.search(r"matrimonial|\bfull\b|1\.40|140 m|140 mt|1\.35|2 plazas|\bdoble\b(?! pillow)", t):
+    # "doble" es matrimonial, salvo cuando es el tipo de colchon: Doble Pillow, Doble Box Top, doble faz
+    if re.search(r"matrimonial|\bfull\b|1\.40|140 m|140 mt|1\.35|2 plazas|\bdoble\b(?! ?(pillow|box|faz|cara))", t):
         return "matrimonial"
     if re.search(r"individual|\btwin\b|1\.00|100 m|imperial|unipersonal|1\.05", t):
         return "individual"
@@ -353,13 +355,14 @@ def clasificar_variacion(pct_base):
 # Ninguna rebaja real vista en las 12 tiendas pasa del 70 %.
 MINIMO_VS_LISTA = 0.2          # con existencias: menos del 20 % del tachado es un error
 MINIMO_VS_LISTA_AGOTADO = 0.5  # agotado: menos de la mitad del tachado es un precio de relleno
+PRECIO_ABSURDO = 99_999        # "sin precio" de algunas tiendas: $999,999 (un Simmons Imperial)
 
 
 def confiable(o: dict) -> bool:
     """Precio publicado que no es de relleno (los agotados cuentan: en EPA son precios reales)."""
     lista = o.get("precio_lista")
     minimo = MINIMO_VS_LISTA if o.get("disponible", True) else MINIMO_VS_LISTA_AGOTADO
-    return not (lista and o["precio"] < lista * minimo)
+    return o["precio"] < PRECIO_ABSURDO and not (lista and o["precio"] < lista * minimo)
 
 
 def estadisticas(observaciones: list, corte: str) -> dict:

@@ -3,7 +3,7 @@
   "moneda": "USD",
   "pais": "El Salvador",
   "creado": "2026-10-20",
-  "actualizado": "2026-10-21",
+  "actualizado": "2026-10-29",
   "corte_linea_base": "2026-11-01",
   "evento": {
     "nombre": "Black Friday / Cyber Monday 2026",
@@ -31,9 +31,13 @@
       ]
     },
     "cama": {
-      "nombre": "Camas 1.40 m",
+      "nombre": "Camas y colchones",
       "medidas": [
-        "matrimonial"
+        "individual",
+        "semi-matrimonial",
+        "matrimonial",
+        "queen",
+        "king"
       ]
     },
     "teclado": {
@@ -485,6 +489,432 @@
       ],
       "incluir": "^\\s*(\\S+\\s+){0,4}?(ukelele|ukulele)s?\\b",
       "excluir": "(para|p/) ?uk|juguete|winfun|beb[eé]|fisher|chocolate|figura|peluche|llavero|adorno|sticker|calcoman|alcanc[ií]a|^\\s*(\\S+\\s+)?(funda|estuche|case|gig ?bag|cuerdas?|set|juego|correa|cincha|strap|capo|cejilla|afinador|u[nñ]etas?|plumillas?|pedal|cable|clavijas?|soporte|stand|pedestal|asiento|banco|atril|base|gancho|colgador|pastillas?|puente|repuesto)\\b|micr[oó]fono"
+    },
+    "celular": {
+      "nombre": "Celulares",
+      "buscar": [
+        "celular",
+        "smartphone"
+      ],
+      "pistas": [
+        "celulares",
+        "smartphone",
+        "smartphones"
+      ],
+      "incluir": "^\\s*(celular\\b|smartphone|tel[eé]fono (celular|m[oó]vil|inteligente)|(apple\\s+)?iphone\\s?\\d|(samsung\\s+)?galaxy\\s+([asz]\\d{2}|z\\s?(flip|fold))|samsung\\s+[asz]\\d{2}\\b|(xiaomi\\s+)?(redmi|poco)\\s+(note\\s+)?[a-z]?\\d|xiaomi\\s+\\d{2}\\b|(motorola\\s+)?moto\\s+[ge]\\d|motorola\\s+(edge|[ge]\\d)|honor\\s+(x\\d|magic|\\d{3})|infinix\\s+\\w+|tecno\\s+(spark|camon|pova)|zte\\s+blade|oppo\\s+(a\\d|reno)|realme\\s+[a-z]*\\d|huawei\\s+(nova|p\\d|mate))",
+      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|cargador|cable|soporte|holder|\\bbase\\b|tr[ií]pode|selfie|aro de luz|power ?bank|bater[ií]a|adaptador|aud[ií]fono|repuesto|lente|anillo|correa|tarjeta|\\bchip\\b|recarga|juguete|beb[eé]|cuna|watch|reloj|\\bbuds\\b|\\bband\\b|\\btab\\b|tablet|pad\\b|para (celular|tel[eé]fono|smartphone)"
+    },
+    "tablet": {
+      "nombre": "Tablets",
+      "buscar": [
+        "tablet",
+        "ipad"
+      ],
+      "pistas": [
+        "tablets",
+        "ipad",
+        "tableta",
+        "tabletas"
+      ],
+      "incluir": "^\\s*(tablet|tableta|(apple\\s+)?ipad|(samsung\\s+)?galaxy\\s+tab|(lenovo\\s+)?tab\\s+[mp]\\d|(xiaomi\\s+)?(redmi\\s+)?pad\\s+\\d|redmi\\s+pad)",
+      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|teclado|l[aá]piz|stylus|cargador|cable|soporte|holder|\\bbase\\b|juguete|gr[aá]fica|digitalizadora|dibujo|escritura|\\blcd\\b|pizarra|m[aá]gica"
+    },
+    "smartwatch": {
+      "nombre": "Smartwatches",
+      "buscar": [
+        "smartwatch",
+        "reloj inteligente"
+      ],
+      "pistas": [
+        "smartwatches",
+        "smartband",
+        "amazfit"
+      ],
+      "incluir": "^\\s*(smart\\s?watch|reloj\\s+(inteligente|smart)|smart\\s?band|(samsung\\s+)?galaxy\\s+(watch|fit)|apple\\s+watch|watch\\s+(se|series|ultra)\\b|amazfit|(xiaomi\\s+)?(smart\\s+)?band\\s+\\d|redmi\\s+(watch|band)|huawei\\s+(watch|band)|garmin|fitbit)",
+      "excluir": "correa|pulso|malla|protector|mica|vidrio|cargador|cable|\\bbase\\b|soporte|funda|estuche|juguete|repuesto"
+    },
+    "bocina": {
+      "nombre": "Bocinas y barras de sonido",
+      "buscar": [
+        "bocina",
+        "parlante",
+        "barra de sonido"
+      ],
+      "pistas": [
+        "bocinas",
+        "parlante",
+        "parlantes",
+        "altavoz",
+        "soundbar",
+        "minicomponente"
+      ],
+      "incluir": "^\\s*(bocinas?|parlantes?|altavoz|altavoces|barra\\s+de\\s+sonido|soundbar|mini\\s?componente|equipo\\s+de\\s+sonido|torre\\s+de\\s+sonido|(jbl\\s+)?(flip|charge|clip|xtreme|partybox|boombox)\\s?\\d|(lg\\s+)?xboom)",
+      "excluir": "\\bauto\\b|carro|veh[ií]culo|marina|6\\s?x\\s?9|soporte|\\bbase\\b|funda|estuche|cable|repuesto|bater[ií]a|control remoto|juguete|empotrable|de techo|tweeter|rejilla|cubierta|para bocina"
+    },
+    "climatizacion": {
+      "nombre": "Aires acondicionados",
+      "buscar": [
+        "aire acondicionado",
+        "minisplit"
+      ],
+      "pistas": [
+        "minisplit",
+        "climatizacion",
+        "acondicionado",
+        "acondicionados"
+      ],
+      "incluir": "^\\s*(aires?\\s+acondicionados?|mini\\s?split|(samsung\\s+)?(bespoke\\s+)?(ai\\s+)?wind\\s?free|a/?c\\s+(split|inverter|port[aá]til|de\\s+ventana))",
+      "excluir": "control|soporte|\\bbase\\b|filtro|limpiador|repuesto|cubierta|funda|bomba|tuber[ií]a|instalaci[oó]n|\\bkit\\b|para aire|ambientador|aromatizante|\\bauto\\b|carro|veh[ií]culo|deshumidificador|purificador|freidora|protector de voltaje|regulador"
+    },
+    "impresora": {
+      "nombre": "Impresoras",
+      "buscar": [
+        "impresora",
+        "multifuncional"
+      ],
+      "pistas": [
+        "impresoras",
+        "multifuncional",
+        "multifuncionales"
+      ],
+      "incluir": "^\\s*(impresoras?|multifuncional)\\b",
+      "excluir": "tinta|cartucho|t[oó]ner|papel|cable|cabezal|repuesto|cinta|botella|recarga|filamento|mueble|mesa|soporte|funda"
+    },
+    "aspiradora": {
+      "nombre": "Aspiradoras",
+      "buscar": [
+        "aspiradora"
+      ],
+      "pistas": [
+        "aspiradoras",
+        "aspirador"
+      ],
+      "incluir": "^\\s*(aspiradora|robot\\s+aspirador|aspirador\\b)",
+      "excluir": "filtro|bolsa|repuesto|cepillo|accesorio|manguera|bater[ií]a|cargador|\\bbase\\b|soporte|juguete|piscina|nasal|beb[eé]|leche|boquilla|rodillo"
+    },
+    "licuadora": {
+      "nombre": "Licuadoras",
+      "buscar": [
+        "licuadora"
+      ],
+      "pistas": [
+        "licuadoras"
+      ],
+      "incluir": "^\\s*licuadora",
+      "excluir": "\\bvaso\\b|jarra|cuchilla|repuesto|empaque|\\bbase\\b|tapa|motor|acople|accesorio|juguete"
+    },
+    "ventilador": {
+      "nombre": "Ventiladores",
+      "buscar": [
+        "ventilador"
+      ],
+      "pistas": [
+        "ventiladores",
+        "abanico"
+      ],
+      "incluir": "^\\s*(ventilador|abanico)",
+      "excluir": "laptop|\\bpc\\b|\\bcpu\\b|gamer|enfriamiento|disipador|cooler|repuesto|aspa|motor|capacitor|control|para (auto|carro|computadora)|\\busb\\b|de mano|cuello|collar|juguete|aire acondicionado"
+    },
+    "taladro": {
+      "nombre": "Taladros",
+      "buscar": [
+        "taladro",
+        "rotomartillo"
+      ],
+      "pistas": [
+        "taladros",
+        "rotomartillo",
+        "atornillador"
+      ],
+      "incluir": "^\\s*(taladros?|rotomartillo|atornillador)",
+      "excluir": "broca|mandril|bater[ií]a|cargador|repuesto|carbones|escobilla|soporte|\\bbase\\b|malet[ií]n|estuche|accesorio|adaptador|juguete|gu[ií]a para"
+    },
+    "estufa": {
+      "nombre": "Cocinas y estufas",
+      "buscar": [
+        "estufa",
+        "cocina de gas",
+        "cocina electrica",
+        "cocina de induccion"
+      ],
+      "pistas": [
+        "estufas",
+        "cocinas",
+        "cocina",
+        "plantilla",
+        "plantillas"
+      ],
+      "incluir": "^\\s*(estufas?\\b|cocinas?\\b(?=.*(\\bgas\\b|el[eé]ctric|inducci[oó]n|quemador|hornillas?|\\d{2}\\s?(\\\"|”|''|pulg|in\\b)))|plantillas?\\b(?=.*(\\bgas\\b|el[eé]ctric|inducci[oó]n|quemador|hornilla))|cooktops?\\b|encimeras?\\b)",
+      "excluir": "juguete|infantil|ni[nñ][oa]s?\\b|kids|repuesto|perilla|regulador|manguera|v[aá]lvula|limpiador|desengrasante|gabinete|mueble|integral|alacena|fregadero|utensilio|^\\s*(\\S+\\s+)?(juego|set|bater[ií]a)\\b|campana|extractor|cilindro|tambo|term[oó]metro|para (cocina|estufa)",
+      "omnisport": [
+        "cocinas"
+      ]
+    },
+    "secadora": {
+      "nombre": "Secadoras de ropa",
+      "buscar": [
+        "secadora"
+      ],
+      "pistas": [
+        "secadoras"
+      ],
+      "incluir": "^\\s*secadoras?\\b",
+      "excluir": "pelo|cabello|i[oó]nic|brushing|cepillo|difusor|concentrador|boquilla|manos|u[nñ]as|esmalte|platos|trastes|vajilla|zapatos|calzado|beb[eé]|biber[oó]n|tendedero|rack|pedestal|\\bbase\\b|apila|ducto|repuesto|juguete|filtro|conair|remington|revlon|babyliss|wahl|vidal|\\bgama\\b|dyson|1875|\\b\\d{3,4}\\s?(w|wt|watts?)\\b|t[oó]rmalina|de viaje|mu[nñ]eca|lechuga|ensalada|verdura|pintura|pistola",
+      "omnisport": [
+        "secadoras"
+      ]
+    },
+    "congelador": {
+      "nombre": "Congeladores y enfriadores",
+      "buscar": [
+        "congelador",
+        "freezer"
+      ],
+      "pistas": [
+        "congeladores",
+        "congeladora",
+        "freezer"
+      ],
+      "incluir": "^\\s*(congelador(a|es|as)?\\b|freezer\\b|enfriador(a|es)?\\b(?=.*(vertical|horizontal|botellas|bebidas|\\d+\\s?(cp|pcu|pies|litros)\\b))|cooler\\s+vertical)",
+      "excluir": "bolsa|recipiente|molde|cubeta|hielo|paleta|organizador|juguete|t[eé]rmic|\\btermo\\b|lonchera|hielera|\\bgel\\b|repuesto|empaque|para (congelador|freezer)|etiqueta|contenedor|disipador|l[ií]quido|ventilador|laptop|evaporativ|\\baire\\b"
+    },
+    "cafetera": {
+      "nombre": "Cafeteras",
+      "buscar": [
+        "cafetera",
+        "maquina de cafe"
+      ],
+      "pistas": [
+        "cafeteras",
+        "espresso",
+        "nespresso"
+      ],
+      "incluir": "^\\s*((\\S+\\s+){0,2}?caf[eé]teras?\\b|m[aá]quinas?\\s+(de|para)\\s+(caf[eé]|espresso|expreso|capuchino)|(nespresso|dolce\\s+gusto)\\b(?=.*(m[aá]quina|cafetera|vertuo|essenza|inissia|pixie|citiz|lattissima|creatista|genio|piccolo|mini\\s+me|infinissima|esperta|oblo))|percoladora)",
+      "excluir": "juguete|infantil|barbie|repuesto|c[aá]psulas?\\s+(de|para)|para cafetera|limpiador|descalcificador|^\\s*(combo|kit|pack|set|cesta|canasta)\\b"
+    },
+    "olla": {
+      "nombre": "Ollas arroceras y de presión",
+      "buscar": [
+        "arrocera",
+        "olla electrica",
+        "olla de presion",
+        "olla de coccion lenta",
+        "multicocina"
+      ],
+      "pistas": [
+        "ollas",
+        "arrocera",
+        "arroceras",
+        "multicocina",
+        "multicocinas"
+      ],
+      "incluir": "^\\s*(ollas?\\s+(arroceras?|el[eé]ctricas?|de\\s+presi[oó]n|a\\s+presi[oó]n|express|multi\\s?(funci[oó]n|cocina|usos|cooker)|(de\\s+)?(cocci[oó]n|cocimiento)\\s+lent[ao]|lent[ao]|programable|instant)|arroceras?\\b|multi\\s?cocinas?\\b|multi\\s?cooker|slow\\s?cooker|crock\\s?-?\\s?pot|instant\\s?pot)",
+      "excluir": "repuesto|empaque|v[aá]lvula|hule|sello|junta|accesorio|juguete|infantil|^\\s*(\\S+\\s+)?(juego|set|bater[ií]a)\\b|para olla|recipiente para|vaso para"
+    },
+    "batidora": {
+      "nombre": "Batidoras",
+      "buscar": [
+        "batidora"
+      ],
+      "pistas": [
+        "batidoras"
+      ],
+      "incluir": "^\\s*(batidoras?\\b|stand\\s+mixer)",
+      "excluir": "repuesto|gancho|globo|juguete|infantil|taz[oó]n\\s+(para|de\\s+repuesto)|bowl\\s+para|pintura|cemento|concreto|mortero|construcci[oó]n|varillas?\\s+para|para batidora",
+      "omnisport": [
+        "batidoras"
+      ]
+    },
+    "horno": {
+      "nombre": "Hornos y tostadores",
+      "buscar": [
+        "horno electrico",
+        "horno tostador",
+        "tostadora",
+        "horno de empotrar"
+      ],
+      "pistas": [
+        "hornos",
+        "tostador",
+        "tostadora",
+        "tostadoras",
+        "tostadores"
+      ],
+      "incluir": "^\\s*(hornos?\\b|hornitos?\\b|(\\S+\\s+){0,2}?tostador(a|es|as)?\\b)",
+      "excluir": "microondas|bandeja|molde|guante|manopla|repuesto|limpiador|desengrasante|juguete|infantil|para horno|piedra|term[oó]metro|rejilla|carb[oó]n|le[nñ]a|barro|ladrillo|refractari|resistencia|termostato|perilla|empaque|bolsa|papel|tostador(a)?\\s+de\\s+caf[eé]|s[aá]ndwich|waffle|tortilla|comal|enlozad|winfun|^\\s*combo",
+      "omnisport": [
+        "hornos"
+      ]
+    },
+    "plancha": {
+      "nombre": "Planchas de ropa",
+      "buscar": [
+        "plancha de vapor",
+        "plancha para ropa",
+        "vaporizador de ropa"
+      ],
+      "pistas": [
+        "planchas",
+        "vaporizador"
+      ],
+      "incluir": "^\\s*(planchas?\\b|vaporizador(a|es)?\\b|centro\\s+de\\s+planchado|steamer\\b)",
+      "excluir": "vegetal|verdura|alimento|beb[eé]|biber[oó]n|pelo|cabello|\\balisad|\\brizad|\\bondulad|secador|remington|revlon|babyliss|conair|\\bgama\\b|\\bgas\\b|quemador|facial|nasal|aroma|humidificador|esencia|asar|grill|parrilla|s[aá]ndwich|panini|waffle|teppan|comal|pupusa|tortilla|carne|bistec|tabla|burro|forro|funda|repuesto|juguete|infantil|yeso|gypsum|madera|acero|aluminio|zinc|l[aá]mina|mdf|playwood|plywood|vidrio|policarbonato|acr[ií]lico|\\beva\\b|foam|espuma|poliestireno|durapax|cemento|fibrocemento|densglass|panel|pvc|metal|hierro|corrugad|alba[nñ]il|llana|de cocina|doble",
+      "omnisport": [
+        "planchas"
+      ]
+    },
+    "cuidado": {
+      "nombre": "Secadoras de pelo, alisadoras y rasuradoras",
+      "buscar": [
+        "secadora de pelo",
+        "alisadora",
+        "rasuradora",
+        "cortadora de cabello",
+        "afeitadora"
+      ],
+      "pistas": [
+        "secadora de pelo",
+        "plancha de pelo",
+        "alisadora",
+        "alisadoras",
+        "rasuradora",
+        "rasuradoras",
+        "afeitadora",
+        "afeitadoras",
+        "cortapelo",
+        "cortapelos",
+        "rizadora"
+      ],
+      "incluir": "^\\s*(secadoras?\\b(?=.*(pelo|cabello|i[oó]nic|brushing|difusor|concentrador|conair|remington|revlon|babyliss|wahl|vidal|\\bgama\\b|dyson|1875|\\b\\d{3,4}\\s?(w|wt|watts?)\\b|t[oó]rmalina|keratin|col[aá]geno|biotina))|(combo|kit|pack|set)\\s+(\\S+\\s+){0,2}?(plancha|secadora|alisadora|rizador)(?=.*(pelo|cabello|alisad|rizad|ondulad|remington|babyliss|\\bgama\\b|ga\\.ma|conair|revlon|multilaser))|(conair|remington|revlon|babyliss|wahl|dyson|philips|braun)\\b(?=.*(secadora|alisadora|plancha|rizadora|rasuradora|afeitadora|cortadora|recortadora|trimmer|cepillo|airwrap|supersonic|oneblade))|alisador(a|es|as)?\\b|planchas?\\s+(alisadora|(de\\s+|para\\s+)(pelo|cabello))|rizador(a|es|as)?\\b|onduladora|tenazas?\\s+(rizadora|para\\s+(pelo|cabello))|cepillos?\\s+(alisador|secador|de\\s+aire|moldeador|voluminizador)|moldeador(a)?\\b|(rasuradoras?|afeitadoras?)\\b(?=.*(el[eé]ctric|recargable|inal[aá]mbric|rotativ|l[aá]minas|philips|braun|remington|panasonic|wahl|conair|xiaomi|oneblade|series?\\b|wet|lavable|radioshack|\\bgama\\b|styler|usb|bater[ií]a))|m[aá]quinas?\\s+(de|para)\\s+(cortar\\s+(el\\s+)?(pelo|cabello)|afeitar|rasurar|corte)|cortadoras?\\s+de\\s+(pelo|cabello|barba)|cortapelos?\\b|recortadoras?\\b(?=.*(barba|bigote|nariz|pelo|cabello|corporal|facial|precisi[oó]n|philips|wahl|remington|braun|conair))|trimmer\\b(?=.*(barba|bigote|nariz|o[ií]do|corporal|facial|cabello|remington|philips|wahl|braun|conair|\\bgama\\b|personal))|depiladoras?\\b|kit\\s+de\\s+(corte|afeitado)\\b|airwrap|supersonic|oneblade)",
+      "excluir": "repuesto|cargador|bolsa|juguete|infantil|mu[nñ]eca|desechable|gillette|\\bbic\\b|schick|prestobarba|mach\\s?3|venus|cartucho|hojas|\\bcera\\b|tiras|peines?\\s+gu[ií]a|gu[ií]as?\\s+(para|de)|c[eé]sped|pasto|grama|setos|cerco|bordes|desbrozadora|jard[ií]n|dental|\\boral\\b|dientes"
+    },
+    "proyector": {
+      "nombre": "Proyectores",
+      "buscar": [
+        "proyector"
+      ],
+      "pistas": [
+        "proyectores",
+        "videobeam"
+      ],
+      "incluir": "^\\s*((mini\\s+|micro\\s+)?(video\\s?)?proyector(es)?\\b|videobeam|beamer)",
+      "excluir": "estrella|galaxia|nocturn|\\bluz\\b|luces|ambiente|holograma|infantil|ni[nñ][oa]s?\\b|juguete|navide|halloween|pantalla\\s+(para|de)|tel[oó]n|soporte|\\bbase\\b|bracket|\\b\\d{1,3}\\s?w\\b|\\brgb\\b|pl[aá]stico|cohete|techo|proyecciones|giratorio|cable|funda|estuche|maleta|logo|im[aá]genes|aurora|oc[eé]ano|olas|lluvia|cielo|planetario|dibujo|calcar|lupa|transparencias|filtro"
+    },
+    "camara": {
+      "nombre": "Cámaras",
+      "buscar": [
+        "camara de seguridad",
+        "camara digital",
+        "camara web",
+        "camara wifi",
+        "webcam"
+      ],
+      "pistas": [
+        "camaras",
+        "webcam",
+        "webcams",
+        "gopro",
+        "videovigilancia"
+      ],
+      "incluir": "^\\s*((\\S+\\s+)?c[aá]maras?\\b(?!\\s+(de\\s+)?(aire|llanta|neum))(?=.*(seguridad|vigilancia|\\bip\\b|wi-?fi|\\bweb|digital|fotogr|r[eé]flex|mirrorless|sin\\s+espejo|deportiva|acci[oó]n|instant|compacta|dslr|domo|\\bbala\\b|bullet|inteligente|smart|360|panor[aá]mic|ptz|motorizad|solar|\\b4g\\b|beb[eé]|dash|gaming|streaming|\\bcine\\b|video|vlog|\\d\\s?mp\\b|megap|1080|720p|\\b[2-8]k\\b|full\\s?hd|\\bhd\\b|canon|nikon|sony|fujifilm|panasonic|kodak|polaroid|gopro|insta360|\\bdji\\b|logitech|razer|tapo|imou|ezviz|hikvision|\\bhik\\b|dahua|nexxt|mercusys|reolink|eufy|swann))|(kits?|sets?|paquetes?|packs?|combos?|bundle)\\s+(de\\s+)?(\\d+\\s+)?c[aá]maras?\\b|(\\S+\\s+){0,3}?webcams?\\b|gopro\\b|dash\\s?cams?\\b|instax\\b|(canon|nikon|sony|fujifilm|panasonic|kodak|polaroid)\\s+(eos|coolpix|alpha|a\\d{4}|zv|x-?[ast]\\d|lumix|powershot|cyber-?shot|instax|pixpro|now|snap)|dvr\\b|nvr\\b|videoporteros?\\b|timbres?\\s+(\\S+\\s+)?(con\\s+)?(c[aá]mara|video))",
+      "excluir": "juguete|simulad|falsa|dummy|ficticia|disuasiva|letrero|calcoman|sticker|llanta|neum[aá]tico|pel[ií]cula|\\bfilm\\b|hojas|rollo|repuesto|funda|estuche|bolso|mochila|carcasa|housing|protector|\\bmicas?\\b|cubierta|bloqueador|privacidad|lente\\s+para|tr[ií]pode|gimbal|estabilizador|caja\\s+(de\\s+)?(conexi[oó]n|estanca|para)|fuente\\s+de\\s+(poder|alimentaci[oó]n)|transformador|balun|conector|montura|bracket"
+    },
+    "router": {
+      "nombre": "Routers y redes WiFi",
+      "buscar": [
+        "router",
+        "repetidor wifi",
+        "extensor wifi",
+        "access point",
+        "switch de red"
+      ],
+      "pistas": [
+        "routers",
+        "repetidor",
+        "repetidores",
+        "enrutador"
+      ],
+      "incluir": "^\\s*(routers?\\b|enrutador|repetidor(es)?\\b|extensor(es)?\\s+(de\\s+)?(wi-?fi|se[nñ]al|rango|red)|amplificador(es)?\\s+(de\\s+)?(wi-?fi|se[nñ]al\\s+(wi-?fi|inal[aá]mbrica)|rango)|sistemas?\\s+(de\\s+)?(malla\\s+)?(wi-?fi\\s+)?mesh|mesh\\s+(wi-?fi|\\d|ax|ac|cudy|tp-?link|deco|nexxt|mercusys|tenda|asus|linksys)|access\\s+point|puntos?\\s+de\\s+acceso|switch(es)?\\b(?=.*(puertos|ethernet|gigabit|10/100|\\bpoe\\b|administrable|\\bde\\s+red|d-?link|tp-?link|cisco|ubiquiti|mercusys|tenda|netgear|cudy|\\brj45\\b|\\blan\\b))|m[oó]dems?\\b|adaptador(es)?\\s+(usb\\s+)?(wi-?fi|inal[aá]mbrico|de\\s+red)|tarjetas?\\s+de\\s+red|(tp-?link\\s+)?deco\\b)",
+      "excluir": "cable|patch|soporte|\\bbase\\b|juguete|funda|organizador|gabinete|\\brack\\b|nintendo|consola|lightning|hdmi|\\bauto\\b|carro|\\bfm\\b|para router|kvm|\\bhub\\b|\\bups\\b|encendido|\\b\\d{3,4}\\s?w\\b|\\d/\\d|pulg|fresa|madera|\\b\\d{2}\\s?v\\b|stanley|dewalt|\\bdw\\d|milwaukee|makita|bosch|truper|pretul"
+    },
+    "disco": {
+      "nombre": "Discos duros y memorias USB",
+      "buscar": [
+        "disco duro",
+        "memoria usb",
+        "micro sd",
+        "tarjeta de memoria"
+      ],
+      "pistas": [
+        "discos",
+        "disco duro",
+        "pendrive",
+        "pendrives",
+        "microsd"
+      ],
+      "incluir": "^\\s*(\\S+\\s+){0,2}?(discos?\\s+duros?|hdd\\b|memorias?\\b(?=.*(usb|flash|micro\\s?sd|\\bsd\\b|sdxc|sdhc|datatraveler|exodia|canvas))|(kingston|sandisk|adata|verbatim|pny|lexar|transcend)\\b(?=.*(datatraveler|usb|flash|micro\\s?sd|\\bsd\\b|ixpand))|usb\\s+(flash|drive|\\d+\\s?gb|memoria)|flash\\s?drives?|pen\\s?drives?|tarjetas?\\s+(de\\s+memoria|micro\\s?sd|sd\\b|sdxc|sdhc)|micro\\s?sd(xc|hc)?\\b|unidad(es)?\\s+(flash|usb)|(sandisk|kingston|adata)\\s+(ultra|extreme|datatraveler|canvas|uv\\d+|exodia|dual\\s+drive|ixpand))",
+      "excluir": "soporte|lector|adaptador|cargador|aud[ií]fono|\\bmouse\\b|teclado|hdmi|ethernet|bluetooth|caja\\s+(para|externa)|\\bcase\\b|carcasa|enclosure|docking|\\bbase\\b|estuche|funda|cable|\\bhub\\b|juguete|duplicador|ddr\\d|dimm|\\bram\\b|estado\\s+s[oó]lido|disco\\s+de\\s+(corte|lija|desbaste|diamante|sierra|freno|pulir)"
+    },
+    "gpu": {
+      "nombre": "Tarjetas de video",
+      "buscar": [
+        "tarjeta de video"
+      ],
+      "pistas": [
+        "gpu",
+        "gpus",
+        "geforce",
+        "radeon"
+      ],
+      "incluir": "^\\s*(tarjetas?\\s+(de\\s+)?(video|gr[aá]ficas?)|(\\S+\\s+){0,2}?(geforce|radeon)\\s+(rtx|gtx|rx)\\b|gpu\\b)",
+      "excluir": "laptop|notebook|port[aá]til|\\bpc\\b|computadora|desktop|torre|all\\s+in\\s+one|soporte|riser|cable|cooler|ventilador|\\bbase\\b|backplate|bracket|captura|dock|enclosure|integrada"
+    },
+    "sofa": {
+      "nombre": "Salas y sofás",
+      "buscar": [
+        "sofa",
+        "juego de sala",
+        "sofa cama",
+        "sala seccional",
+        "sillon reclinable"
+      ],
+      "pistas": [
+        "sofas",
+        "sofa",
+        "salas",
+        "sala",
+        "sofa cama",
+        "sofacama",
+        "reclinable",
+        "reclinables",
+        "seccional"
+      ],
+      "incluir": "^\\s*(sof[aá]s?\\b|sof[aá]\\s?camas?|sofacama|(juego\\s+de\\s+)?salas?\\b(?!\\s+de\\s+(espera|juegos|ba[nñ]o|estar\\s+infantil|conferencia|reuni[oó]n|cine|exhibici))|seccional(es)?\\b|love\\s?seats?\\b|sill[oó]n(es)?\\b(?=.*(reclin|individual|\\d\\s+puestos|relax|masaj|\\bsala\\b|tela|cuero|piel|cuerina|lino|terciopelo|microfibra))|(set|mueble)\\s+(de\\s+)?sala\\b|reclinables?\\b|chaise\\s+longue|recamier|fut[oó]n)",
+      "excluir": "funda|forro|cubre|protector|oficina|ejecutiv|gamer|escritorio|peluquer|barber|\\btv\\b|televisor|entretenimiento|juguete|mu[nñ]ec|infantil|ni[nñ][oa]s?\\b|beb[eé]|mascota|perro|gato|limpiador|repuesto|inflable|para\\s+(sala|sof[aá])|cortina|alfombra"
+    },
+    "comedor": {
+      "nombre": "Comedores",
+      "buscar": [
+        "comedor",
+        "juego de comedor"
+      ],
+      "pistas": [
+        "comedores",
+        "antecomedor"
+      ],
+      "incluir": "^\\s*((juego|set)\\s+de\\s+comedor|comedor(es)?\\b|antecomedor(es)?\\b|mesas?\\s+de\\s+comedor)",
+      "excluir": "mantel|camino\\s+de\\s+mesa|centro\\s+de\\s+mesa|cubre|funda|forro|l[aá]mpara|vajilla|cubiertos|juguete|infantil|beb[eé]|mascota|perro|gato|aves|p[aá]jaro|colibr[ií]|comedero|bebedero|alimentador|cortina|alfombra|tapete|para\\s+comedor"
+    },
+    "hidrolavadora": {
+      "nombre": "Hidrolavadoras",
+      "buscar": [
+        "hidrolavadora"
+      ],
+      "pistas": [
+        "hidrolavadoras"
+      ],
+      "incluir": "^\\s*(hidro\\s?lavadoras?\\b|lavadoras?\\s+(a|de)\\s+(alta\\s+)?presi[oó]n|limpiadoras?\\s+(a|de)\\s+(alta\\s+)?presi[oó]n|k[aä]rcher\\s+k\\s?\\d)",
+      "excluir": "repuesto|juguete|para\\s+hidrolavadora|detergente|jab[oó]n|champ[uú]|limpiador\\s+de\\s+(superficies|terrazas|patios?)|t-?racer|boquilla\\s+para|manguera\\s+para|extensi[oó]n\\s+para"
     }
   },
   "categorias": {

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "actualizado": "2026-10-27",
+  "actualizado": "2026-10-29",
   "comerciales": [
     {
       "id": "siman",
@@ -96,7 +96,7 @@
       "url": "https://www.coopesa.com.sv",
       "tipo": "instrumentos musicales y audio",
       "captura": "auto (WooCommerce Store API)",
-      "notas": "Catálogo completo (~600 productos) en cada captura."
+      "notas": "Fuera del barrido desde el 27-oct-2026: su dominio dejó de existir (sin DNS desde el 26-oct). Se conserva su historial."
     },
     {
       "id": "electronica2001",
@@ -120,7 +120,15 @@
       "url": "https://www.steren.com.sv",
       "tipo": "electronica y accesorios",
       "captura": "auto (Magento GraphQL, vista el_salvador_view)",
-      "notas": "Solo productos marca Steren; el nombre lleva el codigo del producto."
+      "notas": "Fuera del barrido desde el 29-oct-2026: responde 403 a los servidores de GitHub Actions (desde una PC sí funciona)."
+    },
+    {
+      "id": "olympia",
+      "nombre": "Camas Olympia",
+      "url": "https://camasolympiaonline.com/sv/",
+      "tipo": "fabricante de camas",
+      "captura": "auto (WooCommerce: variantes de cada ficha)",
+      "notas": "Cada variante (cama completa o colchón × medida) es un producto. Su Store API devuelve siempre la misma página por un caché, así que se leen las fichas del mapa del sitio."
     }
   ]
 }

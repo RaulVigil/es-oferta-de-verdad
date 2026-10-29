@@ -180,7 +180,8 @@ function pintarCabecera() {
   const dato = (v, k) => `<div><dt>${k}</dt><dd>${esc(v)}</dd></div>`;
   $("#datos").innerHTML = [
     dato(E.items.length.toLocaleString("es-SV"), "productos"),
-    dato(c.tiendas.length, "tiendas"),
+    // solo las que responden: una tienda caida conserva su historial pero no cuenta
+    dato(new Set(E.items.filter((it) => !it.tc).map((it) => it.t)).size, "tiendas"),
     dato(E.categorias.size, "categorías"),
     // la cifra filtra la lista: el boton cubre todo el dato (::after)
     `<div class="dato-filtro"><dt>ofertas reales hoy</dt><dd><button type="button" id="btn-ofertas"

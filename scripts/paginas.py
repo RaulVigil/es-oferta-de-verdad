@@ -193,6 +193,7 @@ def _oferta_json(it: dict, tiendas: dict, categorias: dict) -> dict:
 def generar(items: list[dict], catalogo: dict, dir_web: Path = DIR_WEB) -> dict:
     """items: los productos de exportar.py (antes de compactarlos), con sus estadisticas en 's'."""
     tiendas = {t["id"]: t["nombre"] for t in catalogo["tiendas"]}
+    activas = {it["t"] for it in items if not it.get("tc")}  # las caidas conservan su historial, no cuentan
     nombres_cat = {c["id"]: c["nombre"] for c in catalogo["categorias"]}
     generado, corte = catalogo["generado"], catalogo["corte"]
     hoy = generado[:10]
@@ -203,13 +204,13 @@ def generar(items: list[dict], catalogo: dict, dir_web: Path = DIR_WEB) -> dict:
     leves = sorted((it for it in disponibles if it["s"]["nivel"] == "amarillo"), key=por_baja)
     cuenta = {cid: sum(1 for it in disponibles if it["c"] == cid) for cid in nombres_cat}
     categorias = [(cid, nombre, cuenta[cid]) for cid, nombre in nombres_cat.items() if cuenta[cid]]
-    resumen = (f"Actualizado el {_fecha(generado)} · {len(items):,} productos de {len(tiendas)} tiendas · "
+    resumen = (f"Actualizado el {_fecha(generado)} · {len(items):,} productos de {len(activas)} tiendas · "
                f"{len(ofertas)} ofertas reales")
 
     # /ofertas/
     cuerpo = f"""    <p class="miga"><a href="/">Inicio</a> / Ofertas de hoy</p>
     <h1>Ofertas <em>reales</em> de hoy</h1>
-    <p class="bajada">Productos de {len(tiendas)} tiendas de El Salvador cuyo precio de hoy está por debajo de lo
+    <p class="bajada">Productos de {len(activas)} tiendas de El Salvador cuyo precio de hoy está por debajo de lo
       que costaban antes, no del precio tachado que anuncia la tienda.</p>
     <p class="actualizado">{resumen}</p>
     {_aviso_base(corte, generado)}
@@ -223,7 +224,7 @@ def generar(items: list[dict], catalogo: dict, dir_web: Path = DIR_WEB) -> dict:
                                     for i, it in enumerate(ofertas[:MAX_OFERTAS_LD])]}
     _escribir(dir_web / "ofertas" / "index.html", _pagina(
         "Ofertas reales de hoy en El Salvador — ¿Es oferta de verdad?",
-        f"{len(ofertas)} productos de {len(tiendas)} tiendas de El Salvador están hoy 10 % o más por debajo "
+        f"{len(ofertas)} productos de {len(activas)} tiendas de El Salvador están hoy 10 % o más por debajo "
         "de lo que costaban antes. Comparado contra su historial, no contra el precio tachado.",
         "/ofertas/", cuerpo, [lista_ld]))
 
@@ -269,10 +270,10 @@ def generar(items: list[dict], catalogo: dict, dir_web: Path = DIR_WEB) -> dict:
     # /llms.txt
     lineas_cat = "\n".join(f"- [{nombre}]({SITIO}/categoria/{cid}/): {n:,} productos disponibles"
                            for cid, nombre, n in categorias)
-    lista_tiendas = ", ".join(tiendas[t] for t in sorted(tiendas, key=lambda t: tiendas[t]))
+    lista_tiendas = ", ".join(sorted(tiendas[t] for t in activas))
     _escribir(dir_web / "llms.txt", f"""# ¿Es oferta de verdad?
 
-> Historial diario de precios de {len(tiendas)} tiendas en línea de El Salvador para saber si una oferta de
+> Historial diario de precios de {len(activas)} tiendas en línea de El Salvador para saber si una oferta de
 > Black Friday (27 de noviembre de 2026) o Cyber Monday es real: compara el precio de hoy contra la mediana de
 > lo que costó antes del 1 de noviembre (línea base), no contra el precio tachado que anuncia la tienda.
 

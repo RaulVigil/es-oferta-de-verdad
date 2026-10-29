@@ -7,6 +7,7 @@ Cada tienda expone el mismo catalogo que usa su propio sitio web:
     curacao, radioshack Live Search  buscador de Adobe Commerce (Unicomer: comparten SKUs)
     samsung, steren     Magento      /graphql de cada tienda (vista de El Salvador)
     officedepot         SAP Commerce JSON del buscador (/search/results) filtrado por categoria
+    olympia             WooCommerce  fichas del mapa del sitio; cada variante (tipo x medida) es un producto
     prado, epa          Algolia      indice publico de busqueda del sitio
     omnisport           HTML         paginas de categoria y de producto
     zonadigital         API JSON     apizd.zonadigitalsv.com (la que usa su pagina Vue)
@@ -74,6 +75,7 @@ MAGENTO = {
     "steren": {"base": "https://www.steren.com.sv", "tienda": "el_salvador_view", "sufijo": ".html",
                "marca": "Steren"},
 }
+OLYMPIA_WEB = "https://camasolympiaonline.com/sv"  # fabricante de camas (WooCommerce)
 OFFICEDEPOT_WEB = "https://www.officedepot.com.sv"
 # categorias de su buscador (SAP Commerce): 04 tecnologia, 05 electronica, 03 muebles (sillas,
 # escritorios); 01, 02 y 07 son papeleria
@@ -88,6 +90,9 @@ AEON_CATEGORIAS = [
     "componentes-memoria-ram-477", "almacenamiento-ssd-397", "almacenamiento-m-2-476", "computadoras-laptops-423",
     "perifericos-teclados-408", "perifericos-combo-teclado-y-mouse-449", "audifonos-579",
     "perifericos-headset-gaming-465", "perifericos-mouse-gaming-493", "accesorios-accesorios-para-consola-589",
+    "smart-life-smartphones-393", "tablets-401", "smart-life-smartwatch-558", "perifericos-bocinas-437",
+    "impresores-y-suministros-impresores-467", "smart-life-aspiradora-507", "oficina-proyectores-380",
+    "camaras-444", "redes-384", "almacenamiento-429", "componentes-tarjetas-de-video-405",
 ]
 VIDRI_BUSCAR = "https://us1-search.doofinder.com/6/b4d8961c442269cb15909f69bc6cfd6c/_search"
 _VIDRI_CABECERAS = {"Origin": "https://www.vidri.com.sv", "Referer": "https://www.vidri.com.sv/"}
@@ -115,13 +120,15 @@ class ErrorTienda(Exception):
 
 def soportado(comercial: str) -> bool:
     return comercial in VTEX or comercial in LIVESEARCH or comercial in MAGENTO or comercial in ALGOLIA or \
-        comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001", "officedepot")
+        comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001", "officedepot", "olympia")
 
 
-# coopesa queda fuera mientras su dominio no exista (sin DNS desde el 26-oct-2026); su historial se
-# conserva y la web marca sus productos como "la tienda no responde". Para volver: agregarla aqui.
+# Fuera del barrido, con su historial conservado (la web marca sus productos como "la tienda no
+# responde"); para volver, agregarlas aqui:
+#   coopesa  su dominio no existe (sin DNS desde el 26-oct-2026)
+#   steren   responde 403 a los servidores de GitHub Actions (28-oct); desde una PC si funciona
 COMERCIALES_BARRIDO = list(VTEX) + list(LIVESEARCH) + ["prado", "epa", "omnisport", "zonadigital", "aeon", "vidri",
-                                                       "electronica2001", "officedepot"] + list(MAGENTO)
+                                                       "electronica2001", "officedepot", "olympia", "samsung"]
 
 
 def fijar_limite(segundos: float | None) -> None:
@@ -886,6 +893,63 @@ def _officedepot_barrer() -> list:
 
 
 # --------------------------------------------------------------------------- #
+# Camas Olympia (WooCommerce). Su Store API devuelve siempre la misma pagina (un cache la
+# congela), asi que se leen las fichas: cada una trae sus variantes en data-product_variations.
+# --------------------------------------------------------------------------- #
+def _olympia_items(url: str) -> list:
+    fuente = _pedir(url)
+    m = re.search(r'data-product_variations="([^"]+)"', fuente)
+    titulo = re.search(r'<h1[^>]*product_title[^>]*>(.*?)</h1>', fuente, re.S) or re.search(r"<title>(.*?)</title>", fuente)
+    if not (m and titulo):
+        return []
+    # "Cama Completa EE One Pillow" -> modelo "EE One Pillow"; el tipo lo dice cada variante
+    modelo = html.unescape(re.sub(r"<[^>]+>", "", titulo.group(1))).split(" - Camas Olympia")[0].strip()
+    modelo = re.sub(r"^(cama completa|colch[oó]n)\s+", "", modelo, flags=re.I)
+    salida = []
+    for v in json.loads(html.unescape(m.group(1))):
+        attrs = v.get("attributes") or {}
+        tipo = attrs.get("attribute_tipo") or "Cama Completa"
+        tamano = attrs.get("attribute_tamano") or ""
+        precio = v.get("display_price")
+        regular = v.get("display_regular_price")
+        imagen = v.get("image") or {}
+        salida.append({
+            "sku": str(v["variation_id"]),
+            "nombre": f"{tipo} Olympia {modelo} {tamano}".strip(),
+            "marca": "Olympia",
+            # la ficha abre con esa variante ya elegida
+            "url": f"{url}?" + urllib.parse.urlencode({k: val for k, val in attrs.items() if val}),
+            "imagen": imagen.get("thumb_src") or imagen.get("src") or "",
+            "precio": round(float(precio), 2) if precio else None,
+            "precio_lista": round(float(regular), 2) if regular and precio and float(regular) > float(precio) else None,
+            "disponible": bool(v.get("is_in_stock")),
+            "nota": "",
+        })
+    return salida
+
+
+def _olympia(sku: str, url: str) -> dict:
+    if not url:
+        raise ErrorTienda("Olympia necesita la url del producto")
+    for it in _olympia_items(url.split("?", 1)[0]):
+        if it["sku"] == str(sku):
+            return it
+    raise ErrorTienda(f"variante {sku} no aparece en la ficha")
+
+
+def _olympia_barrer() -> list:
+    """Las fichas de camas y colchones del mapa del sitio (almohadas, baules y cabeceras no)."""
+    mapa = _pedir(f"{OLYMPIA_WEB}/product-sitemap.xml")
+    fichas = sorted(u for u in set(re.findall(r"<loc>([^<]+/producto/[^<]+)</loc>", mapa))
+                    if re.search(r"/producto/[^/]*(cama|colchon)", u))  # el dominio tambien dice "camas"
+    salida = []
+    for url in fichas:
+        salida += _olympia_items(url)
+        time.sleep(PAUSA)
+    return salida
+
+
+# --------------------------------------------------------------------------- #
 # Entrada publica
 # --------------------------------------------------------------------------- #
 def consultar(comercial: str, sku: str, url: str = "") -> dict:
@@ -911,6 +975,8 @@ def consultar(comercial: str, sku: str, url: str = "") -> dict:
         return _e2001(sku)
     if comercial == "officedepot":
         return _officedepot(sku)
+    if comercial == "olympia":
+        return _olympia(sku, url)
     raise ErrorTienda(f"no se como consultar '{comercial}' automaticamente")
 
 
@@ -951,4 +1017,6 @@ def barrer(comercial: str, filtros: dict | None = None) -> list:
         return _e2001_barrer()
     if comercial == "officedepot":
         return _officedepot_barrer()
+    if comercial == "olympia":
+        return _olympia_barrer()
     raise ErrorTienda(f"no hay barrido para '{comercial}'")

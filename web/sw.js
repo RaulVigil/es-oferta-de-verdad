@@ -3,7 +3,7 @@
    - Datos (data/*.json) y paginas que se regeneran en cada captura (ofertas/, categoria/,
      llms.txt, sitemap.xml): primero red, y si no hay conexion, lo ultimo guardado.
    - /api/*: nunca se cachea (modo local). */
-const VERSION = "esoferta-v12";
+const VERSION = "esoferta-v13";
 const INTERFAZ = [
   "./", "index.html", "app.css", "app.js", "manifest.webmanifest",
   "icons/icon.svg", "icons/icon-192.png", "icons/icon-512.png",
