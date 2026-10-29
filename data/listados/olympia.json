@@ -1,0 +1,696 @@
+{
+ "comercial": "olympia",
+ "actualizado": "2026-10-29T17:52:15-06:00",
+ "listados": {
+  "2215": {
+   "nombre": "Colchón Olympia Antiestress Ortopédica Plus Imperial",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 173.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2216": {
+   "nombre": "Colchón Olympia Antiestress Ortopédica Plus Matrimonial",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2217": {
+   "nombre": "Colchón Olympia Antiestress Ortopédica Plus Queen",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 240.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2218": {
+   "nombre": "Colchón Olympia Antiestress Ortopédica Plus King",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "king",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=King",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 310.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2219": {
+   "nombre": "Cama Completa Olympia Antiestress Ortopédica Plus Imperial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 246.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2220": {
+   "nombre": "Cama Completa Olympia Antiestress Ortopédica Plus Matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 280.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2221": {
+   "nombre": "Cama Completa Olympia Antiestress Ortopédica Plus Queen",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 346.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2222": {
+   "nombre": "Cama Completa Olympia Antiestress Ortopédica Plus King",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "king",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=King",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 446.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
+  },
+  "2428": {
+   "nombre": "Cama Completa Olympia EE Doble Box Top Imperial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 251.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
+  },
+  "2429": {
+   "nombre": "Cama Completa Olympia EE Doble Box Top Matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 281.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
+  },
+  "2430": {
+   "nombre": "Cama Completa Olympia EE Doble Box Top Queen",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 356.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
+  },
+  "2431": {
+   "nombre": "Cama Completa Olympia EE Doble Box Top King",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "king",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=King",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 411.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
+  },
+  "4377": {
+   "nombre": "Cama Completa Olympia Edición Especial Futbolera Imperial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-edicion-especial-futbolera/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2026/05/gt-futbolera-mundialista-imperial-set-300x300.jpg"
+  },
+  "4378": {
+   "nombre": "Cama Completa Olympia Edición Especial Futbolera Matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-edicion-especial-futbolera/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2026/05/gt-futbolera-mundialista-matri-set-300x300.jpg"
+  },
+  "4379": {
+   "nombre": "Cama Completa Olympia Edición Especial Futbolera Queen",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-edicion-especial-futbolera/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2026/05/gt-futbolera-mundialista-matri-set-300x300.jpg"
+  },
+  "2268": {
+   "nombre": "Colchón Olympia Foam Imperial",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 109.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  "2269": {
+   "nombre": "Colchón Olympia Foam Matrimonial",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 131.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  "2270": {
+   "nombre": "Colchón Olympia Foam Queen",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 165.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  "2272": {
+   "nombre": "Cama Completa Olympia Foam Imperial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 156.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  "2273": {
+   "nombre": "Cama Completa Olympia Foam Matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 186.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  "2274": {
+   "nombre": "Cama Completa Olympia Foam Queen",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 231.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  "2415": {
+   "nombre": "Cama Completa Olympia EE One Box Top Imperial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 211.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
+  },
+  "2416": {
+   "nombre": "Cama Completa Olympia EE One Box Top Matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 256.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
+  },
+  "2417": {
+   "nombre": "Cama Completa Olympia EE One Box Top Queen",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 311.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
+  },
+  "2418": {
+   "nombre": "Cama Completa Olympia EE One Box Top King",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "king",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=King",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 366.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
+  },
+  "2908": {
+   "nombre": "Cama Completa Olympia EE One Pillow Queen",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 286.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
+  },
+  "2907": {
+   "nombre": "Colchón Olympia EE One Pillow Queen",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "queen",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Queen",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 200.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
+  },
+  "2463": {
+   "nombre": "Colchón Olympia EE One Pillow Imperial",
+   "categoria": "cama",
+   "tipo": "colchon",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 132.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
+  },
+  "2465": {
+   "nombre": "Cama Completa Olympia EE One Pillow Imperial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "individual",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 186.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
+  },
+  "2466": {
+   "nombre": "Cama Completa Olympia EE One Pillow Matrimonial",
+   "categoria": "cama",
+   "tipo": "set",
+   "pulgadas": null,
+   "medida": "matrimonial",
+   "marca": "Olympia",
+   "modelo": "",
+   "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:15-06:00",
+     "precio": 221.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
+  }
+ }
+}

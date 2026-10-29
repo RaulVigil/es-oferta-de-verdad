@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-29T12:45:00-06:00",
+ "generado": "2026-10-29T17:52:37-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -130,6 +130,22 @@
    "url_tienda": "https://sv.siman.com/teclado-magic-bt-con-touch-id-negro-105201230/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8910698",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7943725-300-300/105201230.jpg"
+  },
+  {
+   "producto": "Audífonos inalámbricos on ear Klipxtreme Hi-Fi con ANC — Audifonos tipo Headset Bluetooth con Microfono Azul",
+   "marca": "Klip Xtreme",
+   "categoria": "Audífonos",
+   "tienda": "Simán",
+   "precio": 49.99,
+   "precio_tachado": 64.9,
+   "linea_base": 64.9,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -23.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 49.99,
+   "url_tienda": "https://sv.siman.com/audifonos-tipo-headset-bluetooth-con-microfono-azul-104508376/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8033199",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7225956-300-300/104508376_11.jpg"
   },
   {
    "producto": "Laptop Acer Nitro v 15 6in Ci5 16gb 1tb",
@@ -1096,7 +1112,7 @@
   {
    "producto": "Colchón Sealy Infinity — COLCHON MATRIMONIAL",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 588.0,
    "precio_tachado": 980.0,
@@ -1112,7 +1128,7 @@
   {
    "producto": "Colchón Sealy Bosco — COLCHON MATRIMONIAL",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 900.0,
    "precio_tachado": 1500.0,
@@ -1128,7 +1144,7 @@
   {
    "producto": "Cama Sealy Infinity confort firme — CAMA MATRIMONIAL",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 918.0,
    "precio_tachado": 1530.0,
@@ -1144,7 +1160,7 @@
   {
    "producto": "Colchón Sealy Alicante confort medio con Tecnología Memory Foam con Gel — Colchón alicante matrimonial",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 1068.0,
    "precio_tachado": 1780.0,
@@ -1160,7 +1176,7 @@
   {
    "producto": "Cama Sealy Bosco confort intermedio firme Foam Encased — CAMA MATRIMONIAL",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 1242.0,
    "precio_tachado": 2070.0,
@@ -1176,7 +1192,7 @@
   {
    "producto": "Colchón Sealy Astorga — Colchón astorga matrimonial",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 1272.0,
    "precio_tachado": 2120.0,
@@ -1192,7 +1208,7 @@
   {
    "producto": "Cama Sealy Alicante confort semi firme Memory Foam — Cama alicante matrimonial",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 1425.0,
    "precio_tachado": 2375.0,
@@ -1208,7 +1224,7 @@
   {
    "producto": "Cama Sealy astorga confort firme Nano windowsAdvanced — Cama astorga matrimonial",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 1620.0,
    "precio_tachado": 2700.0,
@@ -1224,7 +1240,7 @@
   {
    "producto": "Cama Sealy Martel confort medio — CAMA MATRIMONIAL",
    "marca": "Sealy",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 2235.0,
    "precio_tachado": 3725.0,
@@ -1336,7 +1352,7 @@
   {
    "producto": "Cama Immunity dual energy confort firme stability box — SET MATRIMONIAL IMMUNITY DUAL ENERGY",
    "marca": "Therapedic",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 799.0,
    "precio_tachado": 1430.0,
@@ -1624,7 +1640,7 @@
   {
    "producto": "Cama Natural Sleep Full",
    "marca": null,
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Omnisport",
    "precio": 379.0,
    "precio_tachado": 557.0,
@@ -1640,7 +1656,7 @@
   {
    "producto": "Cama Indufoam Natural Sleep confort suave tecnología HeiQ Viroblock — Cama matrimonial Natural Sleeper",
    "marca": "Indufoam",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 379.0,
    "precio_tachado": 560.0,
@@ -1752,7 +1768,7 @@
   {
    "producto": "Cama Serta firm — Cama firm matrimonial",
    "marca": "Serta",
-   "categoria": "Camas 1.40 m",
+   "categoria": "Camas y colchones",
    "tienda": "Simán",
    "precio": 609.0,
    "precio_tachado": 1160.0,

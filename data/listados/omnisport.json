@@ -1,6 +1,6 @@
 {
  "comercial": "omnisport",
- "actualizado": "2026-10-29T12:44:59-06:00",
+ "actualizado": "2026-10-29T17:46:36-06:00",
  "listados": {
   "00401034161": {
    "nombre": "Cama Exclusiva 3 en 1 (1.40 m)",
@@ -11686,6 +11686,443 @@
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/73SSGfieijgj7hJuA6RZTEHuSujt7BCkrJ1bDpoP.png"
+  },
+  "00000007420": {
+   "nombre": "Cocina EM7622BAPS1/S2 | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "EM7622BAPS1",
+   "url": "https://omnisport.com/productos/cocina-em7622baps1s2-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 289.0,
+     "precio_lista": 465.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/JD9r6Lx68KzO5MElJZ8tn7JZVdU4yU5Fl6xABY5u.jpeg"
+  },
+  "00000008183": {
+   "nombre": "Cocina LREL6321S | Eléctrica | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LREL6321S",
+   "url": "https://omnisport.com/productos/cocina-lrel6321s-electrica-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 619.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/QhGeYYW4CerpiTBfpABrFs0ryB2epc951h0RdTE8.png"
+  },
+  "00000009385": {
+   "nombre": "Cocina LRGL5841S | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LRGL5841S",
+   "url": "https://omnisport.com/productos/cocina-lrgl5841s-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 799.0,
+     "precio_lista": 1195.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/uk4AhB51fCLlok9p3n85anADx7AhAlXJeIRXU78p.jpeg"
+  },
+  "00000009384": {
+   "nombre": "Cocina LRGL5847S | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LRGL5847S",
+   "url": "https://omnisport.com/productos/cocina-lrgl5847s-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 1219.0,
+     "precio_lista": 1950.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/e8nprGIV3gZxD2QGRLWTZbb4KSTVea5VbmpVcP4A.png"
+  },
+  "00000012171": {
+   "nombre": "Cocina LWFR3000S | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LWFR3000S",
+   "url": "https://omnisport.com/productos/cocina-lwfr3000s-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 379.0,
+     "precio_lista": 500.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/0i1YHyKLE2pHJTQY3xu2X7zFMDwV0HkJLnLrDABD.jpeg"
+  },
+  "00000007124": {
+   "nombre": "Cocina LWWR5000S | Gas | 20\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LWWR5000S",
+   "url": "https://omnisport.com/productos/cocina-lwwr5000s-gas-20",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 319.0,
+     "precio_lista": 345.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ILLh0e2rpsEVFEWodUxck8YgYcn1kTMZ0MaPeEmU.jpeg"
+  },
+  "00000013009": {
+   "nombre": "Cocina MGS24FS1BIABG-CA | Gas | 24\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MGS24FS1BIABGCA",
+   "url": "https://omnisport.com/productos/cocina-mgs24fs1biabg-ca-gas-24",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 229.0,
+     "precio_lista": 315.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/4RKm2kJvCYjYgCszbECjC6uAJ79FAo1OalVJZjqJ.jpeg"
+  },
+  "00000013016": {
+   "nombre": "Cocina MGS30FS1LIFSSSF-CA | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MGS30FS1LIFSSSFCA",
+   "url": "https://omnisport.com/productos/cocina-mgs30fs1lifsssf-ca-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 399.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ZTQYH3zKigfM4V3UnTHyXyoumstjwjtqIQaM0eJn.png"
+  },
+  "00000011295": {
+   "nombre": "Cocina NX52D3000MV/AX | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "NX52D3000MV",
+   "url": "https://omnisport.com/productos/cocina-nx52d3000mvax-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 379.0,
+     "precio_lista": 480.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/RGLjZw2LfpZeUskBvCxKogz9VGG5EuuUNtjlLDl6.jpeg"
+  },
+  "00000010760": {
+   "nombre": "Cocina NX52T7522LS/AP | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "NX52T7522LS",
+   "url": "https://omnisport.com/productos/cocina-nx52t7522lsap-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 449.0,
+     "precio_lista": 600.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/x9NvMqQE3hLCn9rXCBBAlNO8pByEOlMYkrupVKqA.jpeg"
+  },
+  "00000014480": {
+   "nombre": "Cocina EMHA7602JSS0 | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "EMHA7602JSS0",
+   "url": "https://omnisport.com/productos/cocina-emha7602jss0-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 549.0,
+     "precio_lista": 690.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Nq5FHjwc4dJuRAPC3Tsht0XBkbQafzCYneMGcCSn.jpeg"
+  },
+  "00000014003": {
+   "nombre": "Cocina LREN6323YE | Eléctrica | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LREN6323YE",
+   "url": "https://omnisport.com/productos/cocina-lren6323ye-electrica-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 949.0,
+     "precio_lista": 1270.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/swey8SRnxx32TqgZr6mCauhrYCx7ypSX2XOmCDrs.jpeg"
+  },
+  "00000014387": {
+   "nombre": "Cocina LWFR3400B  | Gas | 30\"",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LWFR3400B",
+   "url": "https://omnisport.com/productos/cocina-lwfr3400b-gas-30",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 459.0,
+     "precio_lista": 530.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Cdsy1QIHULYZsHu4tI0vWudkMjQEHL7nQnxjEEET.jpeg"
+  },
+  "00000012567": {
+   "nombre": "Secadora eléctrica 7MWED2040JM | 46 lb",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "7MWED2040JM",
+   "url": "https://omnisport.com/productos/secadora-electrica-7mwed2040jm-46-lb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 639.0,
+     "precio_lista": 709.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/xzLFYt5HKhXmZNjHJeeTljvg8snpYjZAai0IYYMg.jpeg"
+  },
+  "00000009177": {
+   "nombre": "Secadora Eléctrica DF20VV2WE | 44 lb",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DF20VV2WE",
+   "url": "https://omnisport.com/productos/secadora-electrica-df20vv2we-44-lb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 649.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ubHVHxscMimndHtRQFuhGhct7uvk4VNqPaCmKcZz.png"
+  },
+  "00000010712": {
+   "nombre": "Secadora Eléctrica DF50WV2S6WE | 44 lb",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DF50WV2S6WE",
+   "url": "https://omnisport.com/productos/secadora-electrica-df50wv2s6we-44-lb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 689.0,
+     "precio_lista": 1500.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/2qMKoznm4O987DqKUSRVUcookfRtoh9eSckRGOcC.jpeg"
+  },
+  "00000012065": {
+   "nombre": "Secadora Eléctrica DT25WTGKE | 55 lb",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DT25WTGKE",
+   "url": "https://omnisport.com/productos/secadora-electrica-dt25wtgke-55-lb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 679.0,
+     "precio_lista": 775.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/aj4e7QfJegBTNQVaFH4O2XxT3qmIe8nwpl6qbUIl.jpeg"
+  },
+  "00000011296": {
+   "nombre": "Secadora Eléctrica DVE22A3200W/AP | 48 lb",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DVE22A3200W",
+   "url": "https://omnisport.com/productos/secadora-electrica-dve22a3200wap-48-lb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 549.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/1H4sbFVkSCkY9t5zKRHItBnaKoVZHDE9e8jNfU73.jpeg"
+  },
+  "00000014039": {
+   "nombre": "Secadora Eléctrica SME26N5MNBBT0 | 44 lb",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SME26N5MNBBT0",
+   "url": "https://omnisport.com/productos/secadora-electrica-sme26n5mnbbt0-44-lb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:36-06:00",
+     "precio": 489.0,
+     "precio_lista": 645.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/BHWtWpqQMoWmuWnlUI2HKFXbzSGQ4PjGAbyBq53j.jpeg"
   }
  }
 }
