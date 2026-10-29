@@ -502,7 +502,7 @@
         "smartphones"
       ],
       "incluir": "^\\s*(celular\\b|smartphone|tel[eé]fono (celular|m[oó]vil|inteligente)|(apple\\s+)?iphone\\s?\\d|(samsung\\s+)?galaxy\\s+([asz]\\d{2}|z\\s?(flip|fold))|samsung\\s+[asz]\\d{2}\\b|(xiaomi\\s+)?(redmi|poco)\\s+(note\\s+)?[a-z]?\\d|xiaomi\\s+\\d{2}\\b|(motorola\\s+)?moto\\s+[ge]\\d|motorola\\s+(edge|[ge]\\d)|honor\\s+(x\\d|magic|\\d{3})|infinix\\s+\\w+|tecno\\s+(spark|camon|pova)|zte\\s+blade|oppo\\s+(a\\d|reno)|realme\\s+[a-z]*\\d|huawei\\s+(nova|p\\d|mate))",
-      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|cargador|cable|soporte|holder|\\bbase\\b|tr[ií]pode|selfie|aro de luz|power ?bank|bater[ií]a|adaptador|aud[ií]fono|repuesto|lente|anillo|correa|tarjeta|\\bchip\\b|recarga|juguete|beb[eé]|cuna|watch|reloj|\\bbuds\\b|\\bband\\b|\\btab\\b|tablet|pad\\b|para (celular|tel[eé]fono|smartphone)"
+      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|cargador|cable|soporte|holder|\\bbase\\b|tr[ií]pode|selfie|aro de luz|power ?bank|bater[ií]a|adaptador|aud[ií]fono|repuesto|lente|anillo|correa|tarjeta|\\bchip\\b|recarga|juguete|beb[eé]|cuna|watch|reloj|\\bbuds\\b|\\bband\\b|\\btab\\b|tablet|pad\\b|para (celular|tel[eé]fono|smartphone)|\\bfilm\\b|\\bcover\\b|anti-?reflect|wallet|\\((ef|gp|et|eo|ep|ew|ej)-|s ?pen\\b"
     },
     "tablet": {
       "nombre": "Tablets",
@@ -516,8 +516,8 @@
         "tableta",
         "tabletas"
       ],
-      "incluir": "^\\s*(tablet|tableta|(apple\\s+)?ipad|(samsung\\s+)?galaxy\\s+tab|(lenovo\\s+)?tab\\s+[mp]\\d|(xiaomi\\s+)?(redmi\\s+)?pad\\s+\\d|redmi\\s+pad)",
-      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|teclado|l[aá]piz|stylus|cargador|cable|soporte|holder|\\bbase\\b|juguete|gr[aá]fica|digitalizadora|dibujo|escritura|\\blcd\\b|pizarra|m[aá]gica"
+      "incluir": "^\\s*(tablet\\b|tableta\\b|(apple\\s+)?ipad|(samsung\\s+)?galaxy\\s+tab|(lenovo\\s+)?tab\\s+[mp]\\d|(xiaomi\\s+)?(redmi\\s+)?pad\\s+\\d|redmi\\s+pad)",
+      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|teclado|l[aá]piz|stylus|cargador|cable|soporte|holder|\\bbase\\b|juguete|gr[aá]fica|digitalizadora|dibujo|escritura|\\blcd\\b|pizarra|m[aá]gica|\\bmg\\b|\\buds\\b|unidades|cloro|\\((ef|gp|et|eo|ep|ew|ej)-"
     },
     "smartwatch": {
       "nombre": "Smartwatches",
@@ -531,7 +531,7 @@
         "amazfit"
       ],
       "incluir": "^\\s*(smart\\s?watch|reloj\\s+(inteligente|smart)|smart\\s?band|(samsung\\s+)?galaxy\\s+(watch|fit)|apple\\s+watch|watch\\s+(se|series|ultra)\\b|amazfit|(xiaomi\\s+)?(smart\\s+)?band\\s+\\d|redmi\\s+(watch|band)|huawei\\s+(watch|band)|garmin|fitbit)",
-      "excluir": "correa|pulso|malla|protector|mica|vidrio|cargador|cable|\\bbase\\b|soporte|funda|estuche|juguete|repuesto"
+      "excluir": "correa|pulso|malla|protector|mica|vidrio|cargador|cable|\\bbase\\b|soporte|funda|estuche|juguete|repuesto|\\((ef|gp|et|eo|ep|ew|ej)-"
     },
     "bocina": {
       "nombre": "Bocinas y barras de sonido",
@@ -613,7 +613,7 @@
         "abanico"
       ],
       "incluir": "^\\s*(ventilador|abanico)",
-      "excluir": "laptop|\\bpc\\b|\\bcpu\\b|gamer|enfriamiento|disipador|cooler|repuesto|aspa|motor|capacitor|control|para (auto|carro|computadora)|\\busb\\b|de mano|cuello|collar|juguete|aire acondicionado"
+      "excluir": "laptop|\\bpc\\b|\\bcpu\\b|gamer|enfriamiento|disipador|cooler|repuesto|aspa|motor|capacitor|control|para (auto|carro|computadora)|\\busb\\b|de mano|cuello|collar|juguete|aire acondicionado|\\bcase\\b|\\d+\\s?mm\\b|barbacoa|insectos|moscas|repelente"
     },
     "taladro": {
       "nombre": "Taladros",

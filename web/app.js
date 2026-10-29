@@ -241,6 +241,7 @@ function pintarLista() {
     const li = molde.content.cloneNode(true);
     const b = li.querySelector(".fila");
     b.dataset.id = it.id;
+    if (esOferta(it)) b.classList.add("es-oferta");   // en movil, el precio va en la etiqueta amarilla
     if (E.abierto === it.id) b.setAttribute("aria-current", "true");
     li.querySelector(".monograma").outerHTML = foto(it);
     li.querySelector(".fila-nombre").textContent = it.n;

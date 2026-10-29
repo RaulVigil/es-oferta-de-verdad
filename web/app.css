@@ -373,10 +373,59 @@ kbd {
 .fila-precio s { color: var(--gris); font-weight: 400; font-size: 12px; margin-right: 6px; }
 .fila-var { display: inline-flex; align-items: center; gap: 6px; font: 12px/1.2 var(--mono); white-space: nowrap; color: var(--gris); }
 .fila-var i { width: 7px; height: 7px; border-radius: 50%; background: currentColor; }
+/* movil: cuadricula de 2 columnas; cada producto es una tarjeta con la foto enmarcada arriba y
+   nombre, tienda, precio y veredicto abajo, como el catalogo de una tienda en linea */
+@media (max-width: 600px) {
+  .lista { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px; padding-top: 8px; }
+  .lista > li { display: flex; min-width: 0; }
+  .lista .vacio { grid-column: 1 / -1; display: block; }
+  .lista li + li .fila { border-top: 0; }
+  .fila {
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    flex: 1;
+    width: auto;
+    margin: 0;
+    padding: 6px 6px 12px;
+    border-radius: 16px;
+    background: var(--superficie);
+    box-shadow: 0 0 0 1px var(--linea);
+  }
+  .fila:hover { background: var(--superficie); }
+  .fila[aria-current="true"] { background: var(--superficie); box-shadow: 0 0 0 2px var(--marca); }
+  /* la foto enmarcada dentro de la tarjeta; la tienda ya va en el texto, sin insignia encima */
+  .fila > .foto { width: 100%; height: auto; aspect-ratio: 1; border-radius: 11px; box-shadow: none; overflow: hidden; }
+  .fila > .foto img { padding: 9%; border-radius: 0; }
+  .fila > .foto .monograma { display: none; }
+  .fila > .foto.sin-foto { display: grid; place-items: center; background: var(--papel); }
+  .fila > .foto.sin-foto .monograma { display: grid; position: static; width: 44px; height: 44px; border-radius: 12px; font-size: 13px; }
+  .fila-texto { padding: 10px 6px 0; gap: 3px; }
+  /* el nombre siempre ocupa 2 lineas: asi los precios de una misma fila quedan a la misma altura */
+  .fila-nombre { -webkit-line-clamp: 2; min-height: 2.6em; font-size: 14px; font-weight: 500; line-height: 1.3; }
+  .fila-meta { font-size: 12px; }
+  .fila-fin { margin-top: auto; padding: 10px 6px 0; align-items: flex-start; gap: 7px; }
+  .fila-precio { font-size: 18px; margin-left: -2px; padding: 0 2px; }
+  /* oferta real: el trazo de marcatextos del titular bajo el precio */
+  .fila.es-oferta .fila-precio {
+    background: linear-gradient(transparent 52%, var(--marca-suave) 52%, var(--marca-suave) 94%, transparent 94%);
+  }
+  /* el veredicto como pastilla del color de su nivel */
+  .fila-var { padding: 3px 8px; border-radius: 999px; font-size: 11px; background: color-mix(in srgb, currentColor 13%, transparent); }
+  .fila-var i { display: none; }
+}
+/* modo claro: el fondo blanco de las fotos se funde con un gris suave (como en las tiendas en linea) */
+@media (max-width: 600px) and (prefers-color-scheme: light) {
+  .fila > .foto { background: #f1f4f8; }
+  .fila > .foto img { mix-blend-mode: multiply; }
+}
+/* la tarjeta responde al tocarla */
+@media (max-width: 600px) and (prefers-reduced-motion: no-preference) {
+  .fila { transition: transform .12s ease-out; }
+  .fila:active { transform: scale(.975); }
+}
 @media (max-width: 480px) {
-  .fila { grid-template-columns: 42px minmax(0, 1fr) auto; gap: 12px; }
   .monograma { width: 32px; height: 32px; border-radius: 9px; font-size: 10px; }
-  .foto { width: 42px; height: 42px; }
 }
 
 .mas {
