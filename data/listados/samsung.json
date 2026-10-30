@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-10-29T12:44:57-06:00",
+ "actualizado": "2026-10-29T17:52:35-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -2801,7 +2801,7 @@
    "modelo": "EOIC100BBEGWW",
    "url": "https://shop.samsung.com/latin/cac/sv/type-c-earphones-eo-ic100bbegww-1.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-28",
+   "ultima_vez": "2026-10-29",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2829,6 +2829,14 @@
     },
     {
      "fecha": "2026-10-28T12:38:58-06:00",
+     "precio": 16.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
      "precio": 16.0,
      "precio_lista": 25.0,
      "disponible": true,
@@ -4950,6 +4958,3111 @@
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un32t4300apxpa_1_1_2.png"
+  },
+  "SM-A085MDBDGTO-1": {
+   "nombre": "Galaxy A08 LTE 4GB 64GB (SM-A085MDBDGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA085MDBDGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a08-lte-4gb-64gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 209.0,
+     "precio_lista": 255.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a085_galaxya08_lte_001_thumb_1.png"
+  },
+  "AR70H24D1FWNAP": {
+   "nombre": "Bespoke AI Windfree PRO 24K BTUs (AR70H24D1FWNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR70H24D1FWNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ar70-motion-wind-wall-mount-ar70h24d1fwnap.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar70h12d1fwnap_001_front_white_thumb_2.png"
+  },
+  "AR70H18D1FWNAP": {
+   "nombre": "Bespoke AI Windfree PRO 18K BTUs (AR70H18D1FWNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR70H18D1FWNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ar70-motion-wind-wall-mount-ar70h18d1fwnap.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 999.0,
+     "precio_lista": 1089.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar70h12d1fwnap_001_front_white_thumb_1.png"
+  },
+  "SM-A276BZKQGTO-BANCO-1": {
+   "nombre": "Galaxy A27 5G 256GB (SM-A276BZKQGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA276BZKQGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-8gb-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a276_galaxya27_5g_setcut-all_00_thumb_2.png"
+  },
+  "SM-A085MDBGGTO-1": {
+   "nombre": "Galaxy A08 LTE 4GB 128GB  (SM-A085MDBGGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA085MDBGGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a08-lte-4gb-128gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 255.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a085_galaxya08_lte_001_thumb.png"
+  },
+  "SM-A077MZGGGTO-1": {
+   "nombre": "Galaxy A07s LTE 4GB 128GB (SM-A077MZGGGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA077MZGGGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a07s-lte-4gb-128gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 230.0,
+     "precio_lista": 265.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a075_galaxy-a07_lte_001_thumb_1.png"
+  },
+  "SM-A077MZKDGTO-1": {
+   "nombre": "Galaxy A07s LTE 4GB 64GB (SM-A077MZKDGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA077MZKDGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a07s-lte-4gb-64gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 190.0,
+     "precio_lista": 245.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a075_galaxy-a07_lte_001_thumb.png"
+  },
+  "SM-X840NZAAGTO-1": {
+   "nombre": "Galaxy Tab S12+ (Wi-Fi, 12.6”) 256GB (SM-X840NZAAGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX840NZAAGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s12-plus-wifi-12-6-inch-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1459.0,
+     "precio_lista": 1459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxytabs12plus_white_productimage_front-back-name_thumb.png"
+  },
+  "SM-X133NZAAL15-BANCO-1": {
+   "nombre": "Galaxy Tab A11 WI-FI 64GB  (SM-X133NZAAL15-BANCO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX133NZAAL15",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-wi-fi-4gb-64gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 119.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-a11_gray_000_product-image_combo_thumb_4_1.png"
+  },
+  "SM-A276BZKKGTO-BANCO-1": {
+   "nombre": "Galaxy A27 5G 128GB (SM-A276BZKKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA276BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-6gb-128gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 255.0,
+     "precio_lista": 426.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a276_galaxya27_5g_setcut-all_00_thumb_1_1.png"
+  },
+  "NSG80H60SWAA": {
+   "nombre": "Estufa Bespoke 5 quemadores Air Fry MAX, 6.0 pies (NSG80H60SWAA)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NSG80H60SWAA",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-air-fry-max-pro-style-design-nsg80h60swaa.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/s/nsg80h60swaa_001_front_white_thumb.png"
+  },
+  "NSG80H60SWAX": {
+   "nombre": "Estufa Bespoke 5 quemadores Air Fry MAX, SmartThings, 6.0 pies, blanca (NSG80H60SWAX)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NSG80H60SWAX",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-air-fry-max-and-premium-glass-design-6-0-cu-ft-nsg80h60swax.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/s/nsg80h60swax_001_front_white_thumb.png"
+  },
+  "AR70H12D1FWNAP": {
+   "nombre": "Aire acondicionado Bespoke AI Windfree PRO 12.000 BTU (AR70H12D1FWNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR70H12D1FWNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-windfree-ar70-motion-wind-wall-mount-ar70h12d1fwnap-12000-btu.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 899.0,
+     "precio_lista": 979.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar70h12d1fwnap_001_front_white_thumb.png"
+  },
+  "SM-S741BZKJGTO-1": {
+   "nombre": "Galaxy S26 FE 128GB (SM-S741BZKJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS741BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-fe-128gb-8gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 889.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-s741_galaxys26fe_001_thumb_1.png"
+  },
+  "SM-S741BZKKGTO-1": {
+   "nombre": "Galaxy S26 FE 256GB (SM-S741BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS741BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-fe-256gb-8gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 999.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-s741_galaxys26fe_001_thumb.png"
+  },
+  "AR40H18D0AM": {
+   "nombre": "Aire Acondicionado EcoWind Fast Cooling 18.000 BTU (AR40H18D0AM)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR40H18D0AM",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-ecowind-fast-cooling-18-000-btu-ar40h18d0am.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 549.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar40h18d0am-1_thumb.png"
+  },
+  "SM-F776BZKJGTO-BANCO-1": {
+   "nombre": "Galaxy Z Flip8 256GB (SM-F776BZKJGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF776BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip8-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1169.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/b/8/b8_closedback_set-cut-all-name_thumb.png"
+  },
+  "SM-F976BZKLGTO-BANCO-1": {
+   "nombre": "Galaxy Z Fold8 Ultra 256GB (SM-F976BZKLGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF976BZKLGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold8-ultra-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1979.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/q/8/q8_set-cut-all-name_thumb_6.png"
+  },
+  "SM-L715FZKAGTO-1": {
+   "nombre": "Galaxy Watch Ultra2 (SM-L715FZKAGTO-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML715FZKAGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra2.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 649.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/v/2/v2_000_set-cut-all.png"
+  },
+  "SM-L350NZKALTA-1": {
+   "nombre": "Galaxy Watch9 44mm  (SM-L350NZKALTA-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML350NZKALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch9-44mm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 384.0,
+     "precio_lista": 384.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/f/9/f9_000_set-cut-all-44mm_thumb.png"
+  },
+  "SM-L340NZKALTA-1": {
+   "nombre": "Galaxy Watch9 40mm (SM-L340NZKALTA-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML340NZKALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch9-40mm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 355.0,
+     "precio_lista": 355.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/f/9/f9_000_set-cut-all-40mm_thumb.png"
+  },
+  "SM-F971BZKLGTO-1": {
+   "nombre": "Galaxy Z Fold8 256GB (SM-F971BZKLGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF971BZKLGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold8-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1799.0,
+     "precio_lista": 2399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/h/8/h8_set-cut-all-name_thumb_5_1.png"
+  },
+  "SM-F776BZKJGTO-1": {
+   "nombre": "Galaxy Z Flip8 256GB (SM-F776BZKJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF776BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip8-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/b/8/b8_closedback_set-cut-all-name_thumb.png"
+  },
+  "SM-F976BZKLGTO-1": {
+   "nombre": "Galaxy Z Fold8 Ultra 256GB (SM-F976BZKLGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF976BZKLGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold8-ultra-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/q/8/q8_set-cut-all-name_thumb_2.png"
+  },
+  "SM-L500NZKALTA-BANCO-1": {
+   "nombre": "Galaxy Watch8 Classic (Bluetooth, 46 mm) (SM-L500NZKALTA-BANCO-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML500NZKALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-classic-46mm-bluetooth-sm-l500nzkalta-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 359.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l500_000_set-cut-all_thumb_1_1.png"
+  },
+  "SM-S948BZKJGTO-BANCO-1": {
+   "nombre": "Galaxy S26 Ultra 5G 256GB (SM-S948BZKJGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS948BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5g-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1369.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/3/m3_set-cut-all_01_thumb_5_2.png"
+  },
+  "EF-UA276CTEGWW-1": {
+   "nombre": "Galaxy A27 AntiReflecting Film (EF-UA276CTEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFUA276CTEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-anti-reflecting-film-ef-ua276ctegww.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 10.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-ua276_004_front_transparent_thumb.png"
+  },
+  "SM-A276BZKKGTO-1": {
+   "nombre": "Galaxy A27 5G 128GB (SM-A276BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA276BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-6gb-128gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 369.0,
+     "precio_lista": 375.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a276_galaxya27_5g_setcut-all_00_thumb_1.png"
+  },
+  "SM-A276BZKQGTO-1": {
+   "nombre": "Galaxy A27 5G 256GB (SM-A276BZKQGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA276BZKQGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-8gb-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 469.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a276_galaxya27_5g_setcut-all_00_thumb.png"
+  },
+  "SM-S948BZKKGTO-1": {
+   "nombre": "Galaxy S26 Ultra 5G 512GB (SM-S948BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS948BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5-g-512gb-12gb-ram.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1519.0,
+     "precio_lista": 1899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/3/m3_set-cut-all_01_thumb_3_2.png"
+  },
+  "GP-FPA576AEBTW-1": {
+   "nombre": " Galaxy A57 Cover Package Mobeen  (GP-FPA576AEBTW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "GPFPA576AEBTW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-cover-package-mobeen.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 10.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/p/gp-fpa576aebtw_thumb.png"
+  },
+  "GP-FPA376AEBTW-1": {
+   "nombre": " Galaxy A37 Cover Package Mobeen  (GP-FPA376AEBTW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "GPFPA376AEBTW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-cover-package-mobeen.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 10.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/p/gp-fpa376aebtw_thumb.png"
+  },
+  "SM-A376BDGJGTO-BANCO-1": {
+   "nombre": "Galaxy A37 5G 128GB (SM-A376BDGJGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA376BDGJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-128gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 419.0,
+     "precio_lista": 475.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a376_galaxya37_5g_set-cut-all_2_thumb_1_4_1.png"
+  },
+  "SM-A376BDGKGTO-BANCO-1": {
+   "nombre": "Galaxy A37 5G 256GB (SM-A376BDGKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA376BDGKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 585.0,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a376_galaxya37_5g_set-cut-all_2_thumb_1_5_1.png"
+  },
+  "SM-A576BDBFGTO-BANCO-1": {
+   "nombre": "Galaxy A57 5G 256GB  (SM-A576BDBFGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA576BDBFGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 643.0,
+     "precio_lista": 643.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a576_galaxya57_5g_set-cut-all-01_thumb_4_1.png"
+  },
+  "SM-A576BDBKGTO-BANCO-1": {
+   "nombre": "Galaxy A57 5G 512GB  (SM-A576BDBKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA576BDBKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-512gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 789.0,
+     "precio_lista": 848.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a576_galaxya57_5g_set-cut-all-01_thumb_5_1.png"
+  },
+  "SM-A576BDBKGTO-1": {
+   "nombre": "Galaxy A57 5G 512GB  (SM-A576BDBKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA576BDBKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-512gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 809.0,
+     "precio_lista": 848.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a576_galaxya57_5g_set-cut-all-01_thumb_3.png"
+  },
+  "SM-A576BDBFGTO-1": {
+   "nombre": "Galaxy A57 5G 256GB  (SM-A576BDBFGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA576BDBFGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 639.0,
+     "precio_lista": 643.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a576_galaxya57_5g_set-cut-all-01_thumb_2.png"
+  },
+  "SM-A376BDGKGTO-1": {
+   "nombre": "Galaxy A37 5G 256GB  (SM-A376BDGKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA376BDGKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 509.0,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a376_galaxya37_5g_set-cut-all_2_thumb_1_3.png"
+  },
+  "SM-A376BDGJGTO-1": {
+   "nombre": "Galaxy A37 5G 128GB  (SM-A376BDGJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA376BDGJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-128gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 425.0,
+     "precio_lista": 475.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a376_galaxya37_5g_set-cut-all_2_thumb_1.png"
+  },
+  "SM-S948BZKJGTO-1": {
+   "nombre": "Galaxy S26 Ultra 5G 256GB (SM-S948BZKJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS948BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1369.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/3/m3_set-cut-all_01_thumb_5.png"
+  },
+  "EJ-PS948BBEGWW-1": {
+   "nombre": "Galaxy S26 Ultra S Pen  (EJ-PS948BBEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EJPS948BBEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-s-pen.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 49.0,
+     "precio_lista": 49.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/j/ej-ps948_004_set-cut_all_thumb.png"
+  },
+  "SM-S948BZKKGTO-BANCO-1": {
+   "nombre": "Galaxy S26 Ultra 5G 512GB (SM-S948BZKKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS948BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26ultra-5g-512gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1999.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/3/m3_set-cut-all_01_thumb_4.png"
+  },
+  "SM-S947BZKJGTO-1": {
+   "nombre": "Galaxy S26+ 5G 256GB (SM-S947BZKJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS947BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26plus-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/2/m2_set-cut-all_01_thumb.png"
+  },
+  "SM-S942BZKKGTO-BANCO-1": {
+   "nombre": "Galaxy S26 5G 256GB (SM-S942BZKKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS942BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-5g-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/1/m1_set-cut-all_00_thumb.png"
+  },
+  "SM-S942BZKKGTO-1": {
+   "nombre": "Galaxy S26 5G 256GB (SM-S942BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS942BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1079.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/1/m1_set-cut-all_00_thumb.png"
+  },
+  "SM-X236BZAAGTO-1": {
+   "nombre": "Galaxy Tab A11+ 5G 128GB  (SM-X236BZAAGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX236BZAAGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-plus-5g-128gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 379.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-a11-plus_001_product-image_combo_thumb.png"
+  },
+  "SM-X230NZAAGTO-1": {
+   "nombre": "Galaxy Tab A11+ Wi-Fi 128GB  (SM-X230NZAAGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX230NZAAGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-wi-fi-128gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 289.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-a11-plus_001_product-image_combo_thumb_1.png"
+  },
+  "EF-JX930CLEGWW-1": {
+   "nombre": "Galaxy Tab S11 Ultra Frame Cover  (EF-JX930CLEGWW-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFJX930CLEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-ultra-frame-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 39.0,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-jx930c_000_all_thumb.png"
+  },
+  "EF-JX730CNEGWW-1": {
+   "nombre": "Galaxy Tab S11 Frame Cover (EF-JX730CNEGWW-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFJX730CNEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-frame-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 59.0,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-jx730c_000_all_thumb.png"
+  },
+  "DVE24A5370W/AP": {
+   "nombre": "Secadora 24 kg Eléctrica, Carga Frontal con Smart Check Blanca (DVE24A5370W/AP)",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "DVE24A5370W",
+   "url": "https://shop.samsung.com/latin/cac/sv/secadora-24kg-electrica-carga-frontal-dve24a5370w-blanca.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 629.0,
+     "precio_lista": 669.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dv24a5370pwap_001_front_white_thumb_2_1.png"
+  },
+  "SM-X135GZAAL15-1": {
+   "nombre": "Galaxy Tab A11 LTE 64GB  (SM-X135GZAAL15-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX135GZAAL15",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-lte-4gb-64gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 219.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-a11_gray_000_product-image_combo_thumb_1.png"
+  },
+  "SM-X133NZAAL15-1": {
+   "nombre": "Galaxy Tab A11 WI-FI 64GB  (SM-X133NZAAL15-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX133NZAAL15",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-wi-fi-4gb-64gb-2.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 169.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-a11_gray_000_product-image_combo_thumb.png"
+  },
+  "EF-US731CTEGWW-1": {
+   "nombre": "Galaxy S25 FE Anti-reflecting Film (EF-US731CTEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFUS731CTEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-fe-anti-reflecting-film.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 19.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-us731_001_package_transparent_300x300.png"
+  },
+  "SM-A175FZKHGTO-BANCO-1": {
+   "nombre": "Galaxy A17 LTE 8GB 256GB (SM-A175FZKHGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA175FZKHGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a17-lte-8gb-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 199.0,
+     "precio_lista": 295.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a175_galaxy-a17_lte_00_thumb.png"
+  },
+  "SM-X730NZADGTO-BANCO-1": {
+   "nombre": "Galaxy Tab S11 Wi-Fi 128GB con Keyboard Cover  (SM-X730NZADGTO-BANCO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX730NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-wifi-128gb-con-keyboard-cover-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1059.0,
+     "precio_lista": 1059.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-s11_product-image_combo_1_thumb.png"
+  },
+  "SM-X930NZADGTO-EPP-1": {
+   "nombre": "Galaxy Tab S11 Ultra Wi-Fi 256GB con Keyboard Cover  (SM-X930NZADGTO-EPP-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX930NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-ultra-wifi-256gb-con-keyboard-cover-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-s11-ultra_product-image_combo-1_thumb.png"
+  },
+  "NV51T5511DG/AA-BANCO": {
+   "nombre": "Horno de pared NV5300R con conexión a Wi-Fi (NV51T5511DG/AA-BANCO)",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NV51T5511DG",
+   "url": "https://shop.samsung.com/latin/cac/sv/horno-pared-nv5300r-wi-fi-connectivity-nv51t5511dg-aa-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/v/nv51t5511dg_001_front1_black_thumb_1_1.png"
+  },
+  "SM-A175FZKHGTO-1": {
+   "nombre": "Galaxy A17 LTE 8GB 256GB (SM-A175FZKHGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA175FZKHGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a17-lte-8gb-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 345.0,
+     "precio_lista": 355.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a175_galaxy-a17_lte_00_thumb.png"
+  },
+  "SM-X730NZADGTO-1": {
+   "nombre": "Galaxy Tab S11 Wi-Fi 128GB con Keyboard Cover  (SM-X730NZADGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX730NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-wifi-128gb-con-keyboard-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 979.0,
+     "precio_lista": 1159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-s11_product-image_combo_1_thumb.png"
+  },
+  "SM-X930NZADGTO-1": {
+   "nombre": "Galaxy Tab S11 Ultra Wi-Fi 256GB con Keyboard Cover  (SM-X930NZADGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX930NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-ultra-wifi-256gb-con-keyboard-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1449.0,
+     "precio_lista": 1549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-s11-ultra_product-image_combo-1_thumb.png"
+  },
+  "SM-X400NZRDGTO-1": {
+   "nombre": "Galaxy Tab S10 Lite WI-FI 128GB con Book Cover  (SM-X400NZRDGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX400NZRDGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-wi-fi-128gb-sm-x400.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 369.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x400_galaxy-tabs10lite-2_thumb.png"
+  },
+  "AR50F18D1DHNAP": {
+   "nombre": "Aire acondicionado 18.000 BTU Wi-Fi, SmartThings, AI, Seer 17, R32 (AR50F18D1DHNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR50F18D1DHNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-fast-cooling-quick-remote-set-18-000btu.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 769.0,
+     "precio_lista": 819.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar50f18c1fhnzs_001_front_white_thumb_1.png"
+  },
+  "AR50F12D1DHNAP": {
+   "nombre": "Aire acondicionado 12.000 BTU Bespoke Wi-Fi, SmartThings, Seer 21, R32 (AR50F12D1DHNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR50F12D1DHNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-fast-cooling-quick-remote-set-12000-btu.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 539.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar50f09c1fhnzs_001_front_white_thumb.png"
+  },
+  "NZ30FG5332RKAA-EPP": {
+   "nombre": "Estufa Empotrable de 30\" con 4 superficies de cocción (NZ30FG5332RKAA-EPP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NZ30FG5332RKAAEPP",
+   "url": "https://shop.samsung.com/latin/cac/sv/electric-cooktop-with-flexible-cooktop-front-controls-nz30fg5332rkaa-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 799.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/z/nz30fg5332rkaa_001_front_black_thumb_1.png"
+  },
+  "SM-X520NDBDGTO-BANCO-1": {
+   "nombre": "Galaxy Tab S10 FE WI-FI 128GB con Book Cover (SM-X520NDBDGTO-BANCO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX520NDBDGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-wifi-128gb-sm-x520-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 389.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x520n_galaxy-tab-s10-fe_blue_product-image_set-cut-all-1_thumb_3.png"
+  },
+  "DV90F24UESAP": {
+   "nombre": "Secadora 24 Kg Eléctrica, Pantalla 7', Acabado acero oscuro (DV90F24UESAP)",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "DV90F24UESAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-bespoke-ai-carga-frontal-24-kg-ai-home-y-ai-optidry-tm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 859.0,
+     "precio_lista": 1059.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dv90f24uesap_001_front_dark-still_thumb_1.png"
+  },
+  "SM-L705FZB1GTO-EPP-1": {
+   "nombre": "Galaxy Watch Ultra (2025) 47mm  (SM-L705FZB1GTO-EPP-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML705FZB1GTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra-2025-47mm-sm-l705f-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 649.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l705_000-2_thumb.png"
+  },
+  "SM-L705FZB1GTO-1": {
+   "nombre": "Galaxy Watch Ultra (2025) 47mm (SM-L705FZB1GTO-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML705FZB1GTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra-2025-47mm-sm-l705f.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 455.0,
+     "precio_lista": 605.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l705_000-3_thumb.png"
+  },
+  "SM-L500NZKALTA-EPP-1": {
+   "nombre": "Galaxy Watch8 Classic (Bluetooth, 46 mm) (SM-L500NZKALTA-EPP-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML500NZKALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-classic-46mm-bluetooth-sm-l500nzkalta-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 529.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l500_000_set-cut-all_thumb_1.png"
+  },
+  "SM-L500NZKALTA-1": {
+   "nombre": "Galaxy Watch8 Classic (Bluetooth, 46 mm) (SM-L500NZKALTA-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML500NZKALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-classic-46mm-bluetooth-sm-l500.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 469.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l500_000_set-cut-all_thumb.png"
+  },
+  "SM-L330NDAALTA-EPP-1": {
+   "nombre": "Galaxy Watch8 (Bluetooth, 44 mm) (SM-L330NDAALTA-EPP-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML330NDAALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-44mm-bluetooth-sm-l330-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 409.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l330_000_set-cut-all_thumb_1.png"
+  },
+  "SM-L330NDAALTA-1": {
+   "nombre": "Galaxy Watch8 (Bluetooth, 44 mm) (SM-L330NDAALTA-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML330NDAALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-44mm-bluetooth-sm-l330.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 299.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l330_000_set-cut-all_thumb.png"
+  },
+  "SM-L320NDAALTA-1": {
+   "nombre": "Galaxy Watch8 (Bluetooth, 40 mm) (SM-L320NDAALTA-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML320NDAALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-40mm-bluetooth-sm-l320.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 259.0,
+     "precio_lista": 379.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l320_000_set-cut-all_thumb_1.png"
+  },
+  "SM-F966BZKKGTO-BANCO-1": {
+   "nombre": "Galaxy Z Fold7 5G 512GB (SM-F966BZKKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF966BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold7-5g-512gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f966_all-name_thumb.png"
+  },
+  "SM-F761BZKKGTO-BANCO-1": {
+   "nombre": "Galaxy Z Flip7 FE 5G 256GB (SM-F761BZKKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF761BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-fe-5g-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f761_b7-fe_setcut-all-2_thumb_1.png"
+  },
+  "SM-F966BZKKGTO-EPP-1": {
+   "nombre": "Galaxy Z Fold7 5G 512GB (SM-F966BZKKGTO-EPP-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF966BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold7-5g-512gb-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f966_all-name_thumb_1.png"
+  },
+  "SM-F766BZKKGTO-1": {
+   "nombre": "Galaxy Z Flip7 5G 512GB (SM-F766BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF766BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-5g-512gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1279.0,
+     "precio_lista": 1419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f766_set-cut-all-2_thumb.png"
+  },
+  "SM-F761BZKKGTO-EPP-1": {
+   "nombre": "Galaxy Z Flip7 FE 5G 256GB (SM-F761BZKKGTO-EPP-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF761BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-fe-5g-256gb-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f761_b7-fe_setcut-all-2_thumb_2.png"
+  },
+  "SM-F761BZKKGTO-1": {
+   "nombre": "Galaxy Z Flip7 FE 5G 256GB (SM-F761BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF761BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-fe-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 899.0,
+     "precio_lista": 1019.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f761_b7-fe_setcut-all-2_thumb_1.png"
+  },
+  "SM-F966BZKKGTO-1": {
+   "nombre": "Galaxy Z Fold7 5G 512GB (SM-F966BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF966BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold7-5g-512gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1899.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-f966_all-name_thumb.png"
+  },
+  "EF-UF966CTEGWW-1": {
+   "nombre": "Galaxy Z Fold7 Anti-reflecting Film (EF-UF966CTEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFUF966CTEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-zfold7-anti-reflecting-film.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 10.0,
+     "precio_lista": 19.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-uf966_001_set-cut_all_thumb_1.png"
+  },
+  "NZ30FG5332RKAA": {
+   "nombre": "Estufa Empotrable de 30\" con 4 superficies de cocción (NZ30FG5332RKAA)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NZ30FG5332RKAA",
+   "url": "https://shop.samsung.com/latin/cac/sv/electric-cooktop-with-flexible-cooktop-front-controls-nz30fg5332rkaa.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 699.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/z/nz30fg5332rkaa_001_front_black_thumb.png"
+  },
+  "AR60F12D1DWNAP": {
+   "nombre": "Aire acondicionado 12.000 BTU WindFree™, Wi-Fi, SmartThings, Seer 21, R32 (AR60F12D1DWNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR60F12D1DWNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-windfree-rac-ai-energy-mode-set-12-000-btu.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 699.0,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar60_front_white_thumb_1_1.png"
+  },
+  "AR60F18D1DWNAP": {
+   "nombre": "Aire acondicionado 18.000 BTU WindFree™, Wi-Fi, SmartThings, AI, Seer 21, R32 (AR60F18D1DWNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR60F18D1DWNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-windfree-rac-ai-energy-mode-18-000-btu.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 799.0,
+     "precio_lista": 859.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar60_front_white_thumb_1.png"
+  },
+  "AR60F24D1DWNAP": {
+   "nombre": "Aire acondicionado 24.000 BTU WindFree™, Wi-Fi, SmartThings, AI Ahorro de energía, Eco-amigable (AR60F24D1DWNAP)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR60F24D1DWNAP",
+   "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-windfree-rac-ai-energy-mode-24000-btu.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 899.0,
+     "precio_lista": 979.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar60_front_white_thumb.png"
+  },
+  "NE63F6311SR/AP": {
+   "nombre": "Estufa Eléctrica NE63F6311SR/AP con Gran Capacidad Wi-Fi (NE63F6311SR/AP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NE63F6311SR",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-30-smart-wi-fi-gran-capacidad-ne63f6311sr-ap.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 599.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/e/ne63a6311ss-aa_001_front_silver_thumb.png"
+  },
+  "NE63F6511SR/AP": {
+   "nombre": "Estufa Electrica 30\" NE63F6511SR/AP 5 Quemadores Convección por Ventilador Wi-Fi Silver (NE63F6511SR/AP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NE63F6511SR",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-ne63f6511sr-ap-30-conveccion-por-ventilacion-wifi.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 899.0,
+     "precio_lista": 979.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/e/ne63a6511ss-ac_001_front_silver_thumb.png"
+  },
+  "NE63F6711SR/AP": {
+   "nombre": "Estufa Electrica 30\" NE63F6711SR/AP 5 Quemadores Wi-Fi Silver (NE63F6711SR/AP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NE63F6711SR",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-cinco-quemadores-gran-capacidad-ne63f6711sr-ap.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/e/ne63a6711ss-ac_001_front_silver_thumb.png"
+  },
+  "SM-X620NZADGTO-1": {
+   "nombre": "Galaxy Tab S10 FE+ WI-FI 128GB con Book Cover (SM-X620NZADGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX620NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-plus-wi-fi-128gb-sm-x620.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 649.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x620n_galaxy-tab-s10-fe-plus_blue_product-image_combo_set-cut-all-1_thumb_2.png"
+  },
+  "SM-X520NZADGTO-1": {
+   "nombre": "Galaxy Tab S10 FE WI-FI 128GB con Book Cover (SM-X520NZADGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX520NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-wi-fi-128gb-sm-x520.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 499.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x520n_galaxy-tab-s10-fe_blue_product-image_set-cut-all-1_thumb_1_1.png"
+  },
+  "SM-X620NZADGTO-EPP-1": {
+   "nombre": "Galaxy Tab S10 FE+ WI-FI 128GB con Book Cover (SM-X620NZADGTO-EPP-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX620NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-plus-wifi-128gb-sm-x620-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 795.0,
+     "precio_lista": 795.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x620n_galaxy-tab-s10-fe-plus_blue_product-image_combo_set-cut-all-1_thumb_1.png"
+  },
+  "NSG6DG8700SRAX-EPP": {
+   "nombre": "Estufa de piso Bespoke 5 quemadores, Cámara en Horno, SmartThings (NSG6DG8700SRAX-EPP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NSG6DG8700SRAXEPP",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-nsg6dg8700srax-air-fryer-camara-horno-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1909.0,
+     "precio_lista": 1909.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/s/nsg6dg8700srax_001_front_stss_thumb_1_1.png"
+  },
+  "NX60A6115SS/AP-EPP": {
+   "nombre": "Estufa de Gas con 5 Quemadores (NX60A6115SS/AP-EPP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NX60A6115SS",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-nx60a6115ss-ap-con-gran-capacidad-epp.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 859.0,
+     "precio_lista": 859.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/x/nx5000an-x60a6111ss-nx60a6115ss_thumb_2_2.png"
+  },
+  "SM-S938BZKJGTO-BANCO-1": {
+   "nombre": "Galaxy S25 Ultra 5G 256GB (SM-S938BZKJGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS938BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-5g-256gb-banco.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1145.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-1vlw60b41yr6hbnultra_set-cut-all_001_thumb_4_1.png"
+  },
+  "SM-S938BZKJGTO-1": {
+   "nombre": "Galaxy S25 Ultra 5G 256GB (SM-S938BZKJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS938BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-5g-256gb-sm-s938.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1145.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-1vlw60b41yr6hbnultra_set-cut-all_001_thumb_3.png"
+  },
+  "EF-US936CTEGWW-1": {
+   "nombre": "Galaxy S25+ Anti-reflecting Film  (EF-US936CTEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFUS936CTEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-plus-anti-reflecting-film.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 6.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-us936_001_set-cut_all_241128_thumb.png"
+  },
+  "EF-US938CTEGWW-1": {
+   "nombre": "Galaxy S25 Ultra Anti-reflecting Film (EF-US938CTEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFUS938CTEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-anti-reflecting-film.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 23.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-us938_001_set-cut_all_241127_thumb.png"
+  },
+  "SM-L705FDAAGTO-1": {
+   "nombre": "Galaxy Watch Ultra 47mm (SM-L705FDAAGTO-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML705FDAAGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 455.0,
+     "precio_lista": 605.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l705_000_thumb_3.png"
+  },
+  "NV51CB700S12AA": {
+   "nombre": "Horno de pared NV7000C Premium Plus Single con AI Pro Cooking (NV51CB700S12AA)",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NV51CB700S12AA",
+   "url": "https://shop.samsung.com/latin/cac/sv/horno-de-pared-nv7000c-premium-plus-single-con-ai-pro-cooking.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2069.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/v/nv51cb700s12aa_001_front_clean-white_thumb.png"
+  },
+  "EF-BX810PLEGWW-1": {
+   "nombre": "Galaxy Tab S10+ Smart Book Cover (EF-BX810PLEGWW-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFBX810PLEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-plus-smart-book-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 25.0,
+     "precio_lista": 80.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-bx910pbegww-thumb_1.png"
+  },
+  "NV51T5511DG/AA": {
+   "nombre": "Horno de pared NV5300R con conexión a Wi-Fi (NV51T5511DG/AA)",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NV51T5511DG",
+   "url": "https://shop.samsung.com/latin/cac/sv/horno-pared-nv5300r-wi-fi-connectivity-nv51t5511dg-aa.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1799.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/v/nv51t5511dg_001_front1_black_thumb.png"
+  },
+  "AR18BVHQAURNXL": {
+   "nombre": "Aire acondicionado 18.000 BTU Inverter (AR18BVHQAURNXL)",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "AR18BVHQAURNXL",
+   "url": "https://shop.samsung.com/latin/cac/sv/wall-mount-digital-inverter-ar18bvhqaurnxl-2.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 559.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar12ty3qbbunna_001_front_blue_thumb_1.png"
+  },
+  "SM-X920NZADGTO-1": {
+   "nombre": "Galaxy Tab S10 Ultra Wi-Fi 256GB con Keyboard Cover (SM-X920NZADGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX920NZADGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-ultra-wifi-256gb-con-keyboard-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1209.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x920n_galaxy-tab-s10ultra_00_thumb_3.png"
+  },
+  "VS15A6032R7/AA": {
+   "nombre": "Aspiradora inalámbrica Jet™ 60 Pet en Oro Rosa (VS15A6032R7/AA)",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "VS15A6032R7",
+   "url": "https://shop.samsung.com/latin/cac/sv/aspiradora-inalambrica-jet-stick-60-pet-pink-gold-vs15a6032r7-aa.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 299.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/v/s/vs15a6032r7-sa_001_front_gold_thumb_1_3.png"
+  },
+  "NSG6DG8700SRAX": {
+   "nombre": "Estufa de piso Bespoke 5 quemadores, Cámara en Horno, SmartThings (NSG6DG8700SRAX)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NSG6DG8700SRAX",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-nsg6dg8700srax-air-fryer-camara-horno-3.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1799.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/s/nsg6dg8700srax_002_front-knob-lighting_stss_thumb.png"
+  },
+  "NA30R5310FS/AA": {
+   "nombre": "Estufa a Gas empotrable de 30\" (NA30R5310FS/AA)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NA30R5310FS",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-empotrable-de-30pulgadas-na30r5310fs-aa.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 399.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/a/na30r5310fs-aa_001_top_silver_thumb.png"
+  },
+  "ET-SOL31LBEGWW-1": {
+   "nombre": "Galaxy Watch7 Athleisure Band (M/L) (ET-SOL31LBEGWW-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "ETSOL31LBEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch7-athleisure-band-medium-and-large.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 49.0,
+     "precio_lista": 69.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/t/et-sol31l_atheleisureband-all-colors_thumb.png"
+  },
+  "SM-L310NZGALTA-1": {
+   "nombre": "Galaxy Watch7 (Bluetooth, 44mm) (SM-L310NZGALTA-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SML310NZGALTA",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch7-bluetooth-44mm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 269.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/0/0/00-sm-l310-sm-l315_001_front_all_thumb.png"
+  },
+  "EF-UF956CTEGWW-1": {
+   "nombre": "Galaxy Z Fold6 Front Protection Film (EF-UF956CTEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFUF956CTEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold6-front-protection-screen.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 4.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-uf956c_001_set-cut_transparent_240528_thumb_1.png"
+  },
+  "SM-X306BZGAL15-1": {
+   "nombre": "Galaxy Tab Active5 5G (SM-X306BZGAL15-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX306BZGAL15",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-active5-5g.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 699.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x306b_001_front_green_thumb_1.png"
+  },
+  "NX60B6515SS/AP": {
+   "nombre": "Cocina a gas NX60B6515SS/AP (NX60B6515SS/AP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NX60B6515SS",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-nx5000a-nx60b6515ss-ap-con-gran-capacidad.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 929.0,
+     "precio_lista": 959.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/x/nx60a6511ss-aa_001_front_silver_thumb.png"
+  },
+  "SM-F721BZAJGTO-1": {
+   "nombre": "Galaxy Z Flip4 5G 128GB (SM-F721BZAJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF721BZAJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip4-5g-128gb-sm-f721.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 699.0,
+     "precio_lista": 1399.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/0/0/000_product_galaxy_zflip4_thumb_1_3.png"
+  },
+  "ET-SFR39MOEGWW-1": {
+   "nombre": "Galaxy Fit3 Sport Band (ET-SFR39MOEGWW-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "ETSFR39MOEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-fit3-sport-band-et-sfr39moegww.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 17.0,
+     "precio_lista": 17.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/t/et-sfr39m_000_all_thumb.png"
+  },
+  "SM-T575NZKLGTO-1": {
+   "nombre": "Galaxy Tab Active3 LTE (SM-T575NZKLGTO-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMT575NZKLGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-active3-64gb-sm-t575nzklgto.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 399.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-t575_002_front_black-name_thumb_2.png"
+  },
+  "GP-FPS921SAATW-1": {
+   "nombre": "Galaxy S24 Clear Cover (GP-FPS921SAATW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "GPFPS921SAATW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s24-clear-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 6.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/p/gp-fps921saa_001_front_transparent_231124_thumb_1.png"
+  },
+  "SM-A055MZSDGTO-1": {
+   "nombre": "Galaxy A05 64GB (SM-A055MZSDGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMA055MZSDGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a05-64gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 110.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a055_galaxy-a05_all-logo_thumb_1.png"
+  },
+  "JBLFLIP6BLKAM-1": {
+   "nombre": "JBL Flip 6 Portable Waterproof Speaker (JBLFLIP6BLKAM-1)",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "JBLFLIP6BLKAM1",
+   "url": "https://shop.samsung.com/latin/cac/sv/jbl-flip-6-portable-waterproof-speaker.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 89.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/1/_/1_jbl_flip6_hero_all_thumb.png"
+  },
+  "JBLFLIP6WHTAM": {
+   "nombre": "JBL Flip 6 Portable Waterproof Speaker White (JBLFLIP6WHTAM)",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "JBLFLIP6WHTAM",
+   "url": "https://shop.samsung.com/latin/cac/sv/jbl-flip-6-portable-waterproof-speaker-white.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 89.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/1/_/1_jbl_flip6_hero_white_29399_x1_thumb.png"
+  },
+  "JBLFLIP6BLKAM": {
+   "nombre": "JBL Flip 6 Portable Waterproof Speaker Black (JBLFLIP6BLKAM)",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "JBLFLIP6BLKAM",
+   "url": "https://shop.samsung.com/latin/cac/sv/jbl-flip-6-portable-waterproof-speaker-black.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 89.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/1/_/1_jbl_flip6_hero_black_29391_x2_thumb.png"
+  },
+  "DVE22C6370W/AP": {
+   "nombre": "Secadora Eléctrica de Carga Frontal 22 KG (DVE22C6370W/AP)",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "DVE22C6370W",
+   "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-dve22c6370w-de-22kg.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 649.0,
+     "precio_lista": 709.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dve22c6370w-ap_001_front_white_thumb.png"
+  },
+  "DVE22C6370P/AP": {
+   "nombre": "Secadora Eléctrica DVE22C6370P/AP con Multisteam, 22kg (DVE22C6370P/AP)",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "DVE22C6370P",
+   "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-dve22c6370p-con-multisteam-22kg.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 679.0,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dv22c6370pp-ap_001_front_inox_thumb_1_1.png"
+  },
+  "ET-SXR93SGEGWW1-1": {
+   "nombre": "Galaxy Watch6 Extreme Sport Band (S/M)  (ET-SXR93SGEGWW1-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "ETSXR93SGEGWW1",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch6-extreme-sport-band-small-and-medium.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 39.0,
+     "precio_lista": 49.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/t/et-sxr93s_000_all_thumb.png"
+  },
+  "ET-SHR93SLEGWW-1": {
+   "nombre": "Galaxy Watch6 D-Buckle Hybrid Eco-Leather Band Slim (S/M)  (ET-SHR93SLEGWW-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "ETSHR93SLEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch6-d-buckle-hybrid-eco-leather-band-slim-small-and-medium.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 49.0,
+     "precio_lista": 65.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/t/et-shr93s_002_all_thumb.png"
+  },
+  "ET-SHR94LAEGWW-1": {
+   "nombre": "Galaxy Watch6 D-Buckle Hybrid Eco-Leather Band (M/L)  (ET-SHR94LAEGWW-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "ETSHR94LAEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch6-d-buckle-hybrid-eco-leather-band-medium-and-large.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 49.0,
+     "precio_lista": 65.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/t/et-shr94l_002_all_thumb.png"
+  },
+  "ET-SFR93SOEGWW-1": {
+   "nombre": "Galaxy Watch6 Sport Band (S/M) (ET-SFR93SOEGWW-1)",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "ETSFR93SOEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch6-sport-band-small-and-medium.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 39.0,
+     "precio_lista": 49.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/t/et-sfr93s_000_all_2_thumb.png"
+  },
+  "EF-VF946PBEGWW-1": {
+   "nombre": "Galaxy Z Fold5 Eco-Leather Cover (EF-VF946PBEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFVF946PBEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold5-eco-leather-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 4.0,
+     "precio_lista": 39.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-vf946_001_front_all-colors_thumb_1.png"
+  },
+  "EF-VF731PBEGWW-1": {
+   "nombre": "Galaxy Z Flip5 Flap Eco-Leather Cover (EF-VF731PBEGWW-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "EFVF731PBEGWW",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip5-flap-eco-leather-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 4.0,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/f/ef-vf731p-thumb.png"
+  },
+  "SM-X810NZADGTO1-1": {
+   "nombre": "Galaxy Tab S9+ Wi-Fi 256GB con Keyboard Cover (SM-X810NZADGTO1-1)",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMX810NZADGTO1",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s9-plus-wi-fi-256gb-con-keyboard-cover.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/0/0/00-galaxytabs9plus_all-name_thumb_1.png"
+  },
+  "NZ30R5330RK/AA": {
+   "nombre": "Estufa Empotrable con 4 superficies de cocción (NZ30R5330RK/AA)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NZ30R5330RK",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-empotrable-30-nz30r5330rk-aa.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 649.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/z/nz30r5330rk-aa_001_front_black_thumb.png"
+  },
+  "NV51T5511SS/AA": {
+   "nombre": "Horno Empotrable con conectividad Wi-Fi (NV51T5511SS/AA)",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NV51T5511SS",
+   "url": "https://shop.samsung.com/latin/cac/sv/horno-de-pared-nv5300-conexion-wi-fi.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 999.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/v/nv51t5511ss_001_front1_silver_thumb.png"
+  },
+  "DVE24A5370V/AP": {
+   "nombre": "Secadora Eléctrica 24 KG Negra (DVE24A5370V/AP)",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "DVE24A5370V",
+   "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-dv5200r-dve24a5370v-ap-24k-con-smart-check.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 799.0,
+     "precio_lista": 819.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dve24a5370v-ap_front_black_thumb.png"
+  },
+  "SM-F936BZKJGTO-1": {
+   "nombre": "Galaxy Z Fold4 5G 256GB (SM-F936BZKJGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMF936BZKJGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold4-5g-256gb.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/0/0/000_product_galaxy_zfold4_thumb_2_1.png"
+  },
+  "NX60A6115SS/AP": {
+   "nombre": "Estufa de Gas con 5 Quemadores (NX60A6115SS/AP)",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "NX60A6115SS",
+   "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-nx60a6115ss-ap-con-gran-capacidad.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 799.0,
+     "precio_lista": 849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/x/nx5000an-x60a6111ss-nx60a6115ss_thumb_2.png"
+  },
+  "DVE22A3200W/AP": {
+   "nombre": "Secadora eléctrica de carga Frontal DVE22A3200W con Sensor Dry (DVE22A3200W/AP)",
+   "categoria": "secadora",
+   "tipo": "secadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "DVE22A3200W",
+   "url": "https://shop.samsung.com/latin/cac/sv/secadora-carga-superior-dve22a3200w-con-sensor-dry.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:35-06:00",
+     "precio": 529.0,
+     "precio_lista": 609.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dvg24a3200w-ax_001_front_white_thumb_3.png"
   }
  }
 }

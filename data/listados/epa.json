@@ -1,6 +1,6 @@
 {
  "comercial": "epa",
- "actualizado": "2026-10-29T12:34:43-06:00",
+ "actualizado": "2026-10-29T17:41:57-06:00",
  "listados": {
   "SV-1938000": {
    "nombre": "Cerrojo electrónico con teclado kwikset",
@@ -60248,6 +60248,4859 @@
     }
    ],
    "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/e/2e5e706a-7c96-4aee-aa1d-8d18cb6e297c.jpg"
+  },
+  "SV-1678023": {
+   "nombre": "Proyector Multimedia Full HD de 9 650 lúmenes con Bluetooth",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Steren",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/proyector-multimedia-full-hd-de-9-650-lumenes-con-bluetooth.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 167.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/6/e646453e-ad17-4a4e-9072-a2b008ec9334.jpg"
+  },
+  "SV-1678034": {
+   "nombre": "Proyector HD Smart Havit",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/proyector-hd-smart-havit.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 226.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/8/9853b312-6f78-4cc8-83c4-b041dffdb0a2.jpg"
+  },
+  "SV-2350132": {
+   "nombre": "Ventilador de escritorio (10\") Oasis Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-escritorio-10-oasis-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 21.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/e/1e7ab40e-57c7-4be3-873c-04b3c21112bd.jpg"
+  },
+  "SV-2350091": {
+   "nombre": "Ventilador de pedestal 40.64 cm (16\") 3 velocidades blanco Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-16-3-velocidades-blanco-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/d/2d581f88-7e5d-4040-88f8-34e9deb386c1.jpg"
+  },
+  "SV-2350066": {
+   "nombre": "Ventilador de pared 40.64 cm (16\") blanco Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pared-16-blanco-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 40.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/4/54e0ff30-16b9-4088-a360-79f2024fd85d.jpg"
+  },
+  "SV-2350069": {
+   "nombre": "Ventilador de pedestal 40.64 cm (16\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-16-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 43.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/6/b6fbafac-3fa6-49a4-a691-afd48bcac3df.jpg"
+  },
+  "SV-2350133": {
+   "nombre": "Ventilador de pared 40.64 cm (16\") Bolt",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pared-16-bolt.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/2/b2be3a2a-87a2-4f91-badd-96a8a1678f6a.jpg"
+  },
+  "SV-0908003": {
+   "nombre": "Sillón relax 8 puntos de masaje (88 x 93 x 104) cm",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sillon-relax-8-puntos-de-masaje-88x93x104-cm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/1/31f94fbc-be7f-405f-9d85-cf877d3b844d.jpg"
+  },
+  "SV-2350063": {
+   "nombre": "Ventilador de piso/mesa 50.80 cm (20\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-piso-mesa-20-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 49.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/5/d5c073ec-1b78-4b6f-910f-f8aea2394a20.jpg"
+  },
+  "SV-2350128": {
+   "nombre": "Ventilador de pedestal 25.4 cm (10\") negro Casamas",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Casamas",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-25-4-cm-10-negro-casamas.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 21.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/c/ccdf1c9b-06f3-42e5-bd3c-ec49c4c99449.jpg"
+  },
+  "SV-2350136": {
+   "nombre": "Ventilador enfriador de aire evaporativo 10 l 11 m² Honeywell",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Honeywell",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-enfriador-de-aire-evaporativo-10-l-11-m-honeywell.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/8/2843e48a-a5f3-4a24-adec-3b1712e34d41.jpg"
+  },
+  "SV-2350108": {
+   "nombre": "Ventilador de techo orbital 40.64 cm (16\") 3 velocidades blanco Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-techo-orbital-16-3-velocidades-blanco-basic-l.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/7/b7e80d47-cf75-44c2-a3d4-d8a1309980df.jpg"
+  },
+  "SV-2350142": {
+   "nombre": "Ventilador de pedestal 40.64 cm (16\") Austros Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-16-austros-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 36.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/9/e9e7a82f-d226-4fd3-8110-ec4d619b9d4a.jpg"
+  },
+  "SV-2350090": {
+   "nombre": "Ventilador de torre 30.48 cm (12\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-torre-12-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 20.5,
+     "precio_lista": 24.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/8/983830b7-644d-4a91-8e16-7ad5a3dd2ce7.jpg"
+  },
+  "SV-2350092": {
+   "nombre": "Ventilador negro de pedestal 45.72 cm (18\") 3 velocidades Frescura",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Frescura",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-negro-de-pedestal-18-3-velocidades-frescura.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 34.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/0/3084c718-17b5-4c82-aefb-b4d7b7fa8595.jpg"
+  },
+  "SV-2350086": {
+   "nombre": "Ventilador de pedestal 40.64 cm (16\") 3 velocidades negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "basic living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-16-3-velocidades-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/8/38e596e5-463d-4c48-a27a-bac5799790ef.jpg"
+  },
+  "SV-2310044": {
+   "nombre": "Estufa a gas de vidrio templado 4 hornillas (10 x 58.4 x 51) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-a-gas-de-vidrio-templado-4-hornillas-10x58-4x51-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 349.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/5/b5a05583-0b34-467a-906f-708654cec4cd.jpg"
+  },
+  "SV-2342041": {
+   "nombre": "Percoladora de 100 tazas de aluminio, Proctor Silex 1090 W",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/percoladora-de-100-tazas-de-aluminio-proctor-silex-1090w.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 149.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/1/81015aad-c1ed-4bfb-af61-af48daa1b4ac.jpg"
+  },
+  "SV-2366101": {
+   "nombre": "Aspiradora de mano para carro 12 V 90 W Majic",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Majic",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-de-mano-para-carro-12-v-90-w-majic.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 12.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/0/401ee77e-eff0-4610-99bc-e67228a8fe69.jpg"
+  },
+  "SV-2350146": {
+   "nombre": "Ventilador de pedestal desempeño industrial 50.80 cm (20\") negro Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-desempe-o-industrial-50-80-cm-20-negro-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/5/d5b3875c-6b8a-4a6b-ae73-3be150a886b6.jpg"
+  },
+  "SV-2310052": {
+   "nombre": "Estufa a gas de vidrio templado 5 hornillas (10 x 87.4 x 51.8) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-a-gas-de-vidrio-templado-5-hornillas-10x87-4x51-8-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 489.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/f/efb60a2a-ecf3-4e51-9476-eabaee05c093.jpg"
+  },
+  "SV-2310072": {
+   "nombre": "Cocina de mesa a gas 3 quemadores (9 x 71 x 36) cm susan",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Susan",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cocina-de-mesa-a-gas-3-quemadores-9x71x36-cm-susan.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 34.85,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/4/14c0d44c-2286-43e1-a1ce-db41a1480b18.jpg"
+  },
+  "SV-2342051": {
+   "nombre": "Cafetera espresso de 3.5 bar 4 tazas Holstein",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-espresso-de-3-5-bar-4-tazas-holstein.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 66.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/4/245ab886-922a-4e78-8221-6d7f57d140dc.jpg"
+  },
+  "SV-2350150": {
+   "nombre": "Ventilador enfriador de aire evaporativo 3 velocidades 50 l negro Honeywell",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Honeywell",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-enfriador-de-aire-evaporativo-3-velocidades-50-l-negro-honeywell.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 239.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/5/3551fab0-fe63-4077-8f4a-7a83ee4ce71d.jpg"
+  },
+  "SV-2366122": {
+   "nombre": "Aspiradora de mano portátil inalámbrica 1 galón Connecto",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Connecto",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-de-mano-portatil-inalambrica-1-galon-connecto.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 17.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/1/01584b2c-aa28-49ef-83e6-cd36240d9069.jpg"
+  },
+  "SV-1677099": {
+   "nombre": "Kingston 64 GB USB DT Exodia M variedad de colores",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Kingston",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/kingston-64gb-usb-dt-exodia-m-variedad-de-colores.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/1/b1ae26bf-227b-4e8a-abfd-91b0dd2589ca.jpg"
+  },
+  "SV-2350059": {
+   "nombre": "Ventilador de pedestal 45.72 cm (18\") 3 velocidades negro Frescura",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Frescura",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-pedestal-18-3-velocidades-negro-frescura.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 63.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/2/02cdd73b-9f95-4da6-8ddf-936ac1e57931.jpg"
+  },
+  "SV-2342056": {
+   "nombre": "Cafetera 650 w jarra de vidrio 127 V 6 tazas 0.9 l Taurus",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-650-w-jarra-de-vidrio-127-v-6-tazas-0-9-litros-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 25.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/2/b2016f17-a196-42d0-bd98-8a437dbcd0ac.jpg"
+  },
+  "SV-2338141": {
+   "nombre": "Batidora de mano y pedestal 250 W 5 velocidades 3 l negro Holstein",
+   "categoria": "batidora",
+   "tipo": "batidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/batidora-de-mano-y-pedestal-250-w-5-velocidades-3l-negro-holstein.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 49.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/b/8be5ac3a-3b91-49c2-bd60-26b87ab71c6b.jpg"
+  },
+  "SV-0842108": {
+   "nombre": "Ventilador repelente de moscas recargable y retractil (8.5 x 25) cm negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-repelente-de-moscas-recargable-y-retractil-8-5-x-25-cm-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 8.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/5/457554b8-a218-4d5f-ae85-282a39cb298b.jpg"
+  },
+  "SV-2338150": {
+   "nombre": "Licuadora digital con Auto iQ 1400 W 4 velocidades 1.9 L Ninja",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ninja",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-digital-con-auto-iq-1400-w-4-velocidades-1-9-l-ninja.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 99.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/b/6b52026f-e66c-4fa6-ba25-fb7a89d608f1.jpg"
+  },
+  "SV-1580083": {
+   "nombre": "Ventilador enroscable 20 W e27 con luz LED ajustable (3000 a 6500) K blanco Designer",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Designers",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-enroscable-20-w-e27-con-luz-led-ajustable-3000-6500k-blanco-designer.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/7/07d4d931-c79e-4d3f-a8cc-f61a22cd0ed0.jpg"
+  },
+  "SV-2360047": {
+   "nombre": "Plancha con golpe de vapor TrueGlide antiadherente azul Black+Decker",
+   "categoria": "plancha",
+   "tipo": "plancha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Black+Decker",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/plancha-con-golpe-de-vapor-trueglide-antiadherente-azul-black-decker.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/4/74dba60b-d494-49cd-9306-d4490ce6ee8a.jpg"
+  },
+  "SV-2342052": {
+   "nombre": "Cafetera Velvet Coffee con filtro permanente 12 tazas negro Taurus",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-velvet-coffee-con-filtro-permanente-12-tazas-negro-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 34.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/8/88a51f88-6275-404f-8837-9a60b59af351.jpg"
+  },
+  "SV-2342067": {
+   "nombre": "Cafetera plástico antigoteo con luz indicadora 12 tazas negra",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-plastico-antigoteo-con-luz-indicadora-12-tazas-negra.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 28.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/1/d12b53ff-d3f0-4362-b940-62240d6b1d95.jpg"
+  },
+  "SV-1673077": {
+   "nombre": "Cámara inteligente para interior 2K con movimiento y audio bidireccional VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA+",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-para-interior-2k-con-movimiento-y-audio-bidireccional-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 49.55,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/2/12974a98-5bcc-4f5a-8ff3-5c03e4fb3c17.jpg"
+  },
+  "SV-1676236": {
+   "nombre": "Altavoz inalámbrico con cargador 15 W Charworx",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Chargeworx",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/altavoz-inalambrico-con-cargador-15-w-charworx.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 35.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/6/36d39e63-30f5-4290-94ce-77a488a1182c.jpg"
+  },
+  "SV-1673064": {
+   "nombre": "Cámara inteligente para interior 2K con movimiento VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-para-interior-2k-con-movimiento-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 34.95,
+     "precio_lista": 40.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-12"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/2/d23e98d2-0d32-461f-8b0e-b47e2d05d98d.jpg"
+  },
+  "SV-2346082": {
+   "nombre": "Tostadora con panel digital y mecanismo automático 2 rebanadas 1000 W Peugeot",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Peugeot",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tostadora-con-panel-digital-y-mecanismo-automatico-2-rebanadas-1000-w-peugeot.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/e/cee652fd-1e5a-4517-bdc7-e017eba73cb3.jpg"
+  },
+  "SV-2346076": {
+   "nombre": "Horno con freidora de aire 1500 W 20 l Holstein",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-con-freidora-de-aire-1500-w-20-l-holstein.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 145.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/c/ac55ba85-d6d5-4618-b976-8c37f20c31a6.jpg"
+  },
+  "SV-2338158": {
+   "nombre": "Licuadora 1200 W 10 velocidades 1.9 litros negro con 2 vasos de 644 ml Ninja",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ninja",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-1200-w-10-velocidades-1-9-litros-negro-con-2-vasos-de-644-ml-ninja.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 179.0,
+     "precio_lista": 199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/9/19fbaaf7-c7e2-47e8-859d-3c064b78a2dc.jpg"
+  },
+  "SV-1673063": {
+   "nombre": "Set de 2 cámaras inteligentes para interior 2K con movimiento VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA+",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/set-de-2-camaras-inteligentes-para-interior-2k-con-movimiento-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 74.5,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/0/b0c20a85-eb26-45ed-8f21-294234c8568d.jpg"
+  },
+  "SV-1673066": {
+   "nombre": "Cámara inteligente para interior 2K E27 con movimiento VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA+",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-para-interior-2k-e27-con-movimiento-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/2/b2c7463d-4ed7-48fc-9302-d5600301c8f0.jpg"
+  },
+  "SV-1673067": {
+   "nombre": "Cámara inteligente para exterior 3K con movimiento IP65 VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA+",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-para-exterior-3k-con-movimiento-ip65-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 73.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/d/bddf6b1f-3651-42d9-bed3-9b86eea42a6d.jpg"
+  },
+  "SV-2346085": {
+   "nombre": "Horno con freidora de aire 20 litros 1500 W plateado Holstein Housewares",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-con-freidora-de-aire-20-litros-1500-w-plateado-holstein-housewares.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 130.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/9/c9d1e8af-5404-42d9-830d-caf2f9937ad9.jpg"
+  },
+  "SV-2366006": {
+   "nombre": "Aspiradora seco y húmedo 9.45 l (2.5 gal) 1.47 kW (2 HP) Vacmaster",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vacmaster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-seco-y-humedo-2-5-galones-2hp-vacmaster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 43.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/7/e7e6c5ed-7f61-4b4c-867d-84a8dbb074c1.jpg"
+  },
+  "SV-1676086": {
+   "nombre": "Parlante 2 x 16.51 cm (6.5\") 20 W bluetooth y luz led havit",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-2-x-16-51-cm-6-5-20-w-bluetooth-y-luz-led-havit.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 35.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/1/d1c3f657-afbf-43b6-b822-72d7413300c4.jpg"
+  },
+  "SV-2366078": {
+   "nombre": "Aspiradora profesional 45.36 l (12 gal) 3.68 kW (5 HP) Truper",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Truper",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-profesional-45-36-l-12-gal-3-68-kw-5-hp-truper.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 134.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/8/189eb73d-b84c-4546-9f62-a9546ed9c5e9.jpg"
+  },
+  "SV-1676135": {
+   "nombre": "Parlante 2 x 16.51 cm (6.5\") bluetooth 60 W Tecbrand",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Tecbrand",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-2-x-16-51-cm-6-5-bluetooth-60-w-tecbrand.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 109.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-12"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/e/be812248-ca70-468c-afb6-516009ea08a7.jpg"
+  },
+  "SV-1676103": {
+   "nombre": "Parlante 2 x 16.51 cm (6.5\") tws 100 W led-front Tecbrand",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-2-x-16-51-cm-6-5-tws-100-w-led-front-tecbrand.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/5/55b86fd3-a713-4e29-b069-e60015e6f743.jpg"
+  },
+  "SV-1676085": {
+   "nombre": "Barra de sonido 5.08 cm / 2\" bluetooth 10 W Havit",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/barra-de-sonido-5-08-cm-2-bluetooth-10-w-havit.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 16.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/6/f66cb429-dfef-4388-a2b3-7d74d41a6d96.jpg"
+  },
+  "SV-1676134": {
+   "nombre": "Parlante 2 x 16.51 cm (6.5\") bluetooth 30 W Tecbrand",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Tecbrand",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-2-x-16-51-cm-6-5-bluetooth-30-w-tecbrand.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/e/ee0cd727-e3b3-4c98-9a89-60e31144be4e.jpg"
+  },
+  "SV-2310059": {
+   "nombre": "Estufa dual gas y eléctrica de vitrocerámica 4 discos (10.5 x 58 x 51) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-dual-gas-y-electrica-de-vitroceramica-4-discos-10-5x58x51cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 420.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/2/42530e9c-afe2-4407-a6d1-9a26b78109a0.jpg"
+  },
+  "SV-0627237": {
+   "nombre": "Comedor cuadrado para jardín 5 piezas de aluminio gris Basic Living",
+   "categoria": "comedor",
+   "tipo": "comedor",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/comedor-cuadrado-para-jardin-5-piezas-de-aluminio-gris-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 295.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/e/8e62343b-6a31-47f5-9d26-f67ce6699ed4.jpg"
+  },
+  "SV-2310082": {
+   "nombre": "Cocina a gas vidrio templado 5 quemadores de aluminio y plancha de hierro (51 x 76 x 10) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cocina-a-gas-vidrio-templado-5-quemadores-de-aluminio-y-plancha-de-hierro-51-x-76-x-10-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 434.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/b/dbaa7cbe-d432-4309-85d6-e61696ed05e9.jpg"
+  },
+  "SV-2338169": {
+   "nombre": "Batidora manual 100 W 5 velocidades nude incluye 2 juegos de accesorios Lucky",
+   "categoria": "batidora",
+   "tipo": "batidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Lucky",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/batidora-manual-100-w-5-velocidades-nude-incluye-2-juegos-de-accesorios-lucky.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 15.55,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/4/b47a52ba-f6dc-4108-b36b-abda19b0c2bc.jpg"
+  },
+  "SV-0627228": {
+   "nombre": "Set de comedor para exterior Bennington 5 piezas",
+   "categoria": "comedor",
+   "tipo": "comedor",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/set-de-comedor-para-exterior-bennington-5-piezas.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 495.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/d/5d814155-1b73-477f-9b27-28f3c986c2f0.jpg"
+  },
+  "SV-1428038": {
+   "nombre": "Rotomartillo SDS Plus 1250 W 3.5 J Stanley",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Stanley",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/rotomartillo-sds-plus-1250-w-3-5-j-stanley.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/5/254e2439-b19a-48d0-9411-fa6a1b77abb3.jpg"
+  },
+  "SV-0627236": {
+   "nombre": "Set de comedor para patio 5 piezas café Basic Living",
+   "categoria": "comedor",
+   "tipo": "comedor",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/set-de-comedor-para-patio-5-piezas-cafe-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 595.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/6/d6d7e01c-a6ac-47f7-83dc-7a40d1217424.jpg"
+  },
+  "SV-2338165": {
+   "nombre": "Batidora manual 100 W 5 velocidades blanco Taurus",
+   "categoria": "batidora",
+   "tipo": "batidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/batidora-manual-100-w-5-velocidades-blanco-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 14.25,
+     "precio_lista": 16.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/f/0f07b42e-2bbc-4f45-8da3-199ec81cbb87.jpg"
+  },
+  "SV-1676214": {
+   "nombre": "Parlante recargable 7.62 cm (3\") bluetooth 5.3 función tws 16 W VTA",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-recargable-7-62-cm-3-bluetooth-5-3-funcion-tws-16-w-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/c/fc68d205-68ad-402c-af4b-7ece10616d66.jpg"
+  },
+  "SV-2370091": {
+   "nombre": "Aire acondicionado 12.66 MJ (12000 BTU) minisplit inverter 110 V Adina serie Nova",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-12-66-mj-12000-btu-minisplit-inverter-110-v-adina-serie-nova.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 409.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/1/5135846b-b93d-49d3-96d8-639ba6424844.jpg"
+  },
+  "SV-2370092": {
+   "nombre": "Aire acondicionado 12.66 MJ (12000 BTU) minisplit inverter 220 V Adina serie Nova",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-12-66-mj-12000-btu-minisplit-inverter-220-v-adina-serie-nova.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 339.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/6/f62826b9-9b70-4054-8caa-bfbf1dcb0a3e.jpg"
+  },
+  "SV-2370093": {
+   "nombre": "Aire acondicionado 18.99 MJ (18000 BTU) minisplit inverter 220 V Adina serie Nova",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-18-99-mj-18000-btu-minisplit-inverter-220-v-adina-serie-nova.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 595.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/0/f02cd0c1-8132-4080-bfc2-00893ac3cde3.jpg"
+  },
+  "SV-2370096": {
+   "nombre": "Aire acondicionado 18.99 MJ (18000 BTU) minisplit inverter 220 V Adina serie Elite WiFi",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-18-99-mj-18000-btu-minisplit-inverter-220-v-adina-serie-elite-wifi.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 645.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/e/ee2cc3bc-7fa5-4f25-9299-0927c63c5e6d.jpg"
+  },
+  "SV-2370097": {
+   "nombre": "Aire acondicionado 25.32 MJ (24000 BTU) minisplit inverter 220 V Adina serie Elite WiFi",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-25-32-mj-24000-btu-minisplit-inverter-220-v-adina-serie-elite-wifi.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 840.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/5/758a9037-0988-4ca0-9a07-d57c5c2e8d06.jpg"
+  },
+  "SV-2370095": {
+   "nombre": "Aire acondicionado 12.66 MJ (12000 BTU) minisplit inverter 220 V Adina serie Elite WiFi",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-12-66-mj-12000-btu-minisplit-inverter-220-v-adina-serie-elite-wifi.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 497.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/8/08d477d7-0bcb-4923-bc64-5603ce3a0937.jpg"
+  },
+  "SV-2370094": {
+   "nombre": "Aire acondicionado 25.32 MJ (24000 BTU) minisplit inverter 220 V Adina serie Nova",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-25-32-mj-24000-btu-minisplit-inverter-220-v-adina-serie-nova.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 795.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/b/9b74cf1b-0a78-420b-86af-c871e19518d7.jpg"
+  },
+  "SV-1677102": {
+   "nombre": "Memoria USB 3.0 32  GB Sandisk",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sandisk",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/memoria-usb-3-0-32-gb-sandisk.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 10.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/b/5bc46935-7ed6-45ef-a501-93d4ed3ad9ea.jpg"
+  },
+  "SV-1677093": {
+   "nombre": "Memoria USB 128 GB Kingston exodia m",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/memoria-usb-128gb-kingston-exodia-m.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/5/a542d02d-6131-440f-97ef-feda543ad40f.jpg"
+  },
+  "SV-1676072": {
+   "nombre": "Parlante Bluetooth de 16 W a prueba de agua Havit",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-bluetooth-de-16w-a-prueba-de-agua-havit.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 40.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/1/5143e59b-379a-4bbe-8150-c746d809e610.jpg"
+  },
+  "SV-2366103": {
+   "nombre": "Aspiradora portátil para carros 12 V 90 W Majic",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Majic",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-portatil-para-carros-12-v-90-w-majic.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 23.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/a/8a2055cd-eaf8-476f-b963-f83425eca1fc.jpg"
+  },
+  "SV-2346067": {
+   "nombre": "Tostadora para 2 rebanadas 800 W acero Holstein",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tostadora-para-2-rebanadas-800w-acero-holstein.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 27.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/c/7cb9430b-6d9d-4adc-924d-2e455700b703.jpg"
+  },
+  "SV-2346073": {
+   "nombre": "Horno Tostador 9 l para 4 rebanadas 800 W negro Holstein",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-tostador-de-9-litros-para-4-rebanadas-800w-negro-holstein.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 50.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/b/0bd1c95d-560b-4427-ace1-e124de2e6b19.jpg"
+  },
+  "SV-0627211": {
+   "nombre": "Comedor 4 sillas giratorias y mesa metal gris claro",
+   "categoria": "comedor",
+   "tipo": "comedor",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Style Selections",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/comedor-4-sillas-giratorias-y-mesa-metal-gris-claro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 695.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/3/53e0b6c7-e0d9-4a1f-9129-ae2613903197.jpg"
+  },
+  "SV-0645122": {
+   "nombre": "Horno pizza para parrilla Basic Living",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-pizza-para-parrilla-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 145.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/a/aaf47a48-c112-46e5-93ca-6ab652c3f0bb.jpg"
+  },
+  "SV-2360026": {
+   "nombre": "Plancha de vapor continuo Black + Decker, 1200 W suela de cerámica",
+   "categoria": "plancha",
+   "tipo": "plancha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Black & Decker",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/plancha-de-vapor-continuo-black-decker-1200w-suela-de-cer.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 26.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/1/91c173e6-f001-4e44-b790-870051d31752.jpg"
+  },
+  "SV-2310046": {
+   "nombre": "Estufa a gas de vidrio templado 2 hornillas (10 x 29.4 x 51) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-a-gas-de-vidrio-templado-2-hornillas-10x29-4x51-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 269.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/6/66d3db4d-4c4d-4e9d-921a-55c80b8a45de.jpg"
+  },
+  "SV-2342060": {
+   "nombre": "Cafetera digital programable 12 tazas Ninja",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ninja",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-digital-programable-12-tazas-ninja.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 89.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/2/c2e95963-8fb6-4860-b1d5-247d012da096.jpg"
+  },
+  "SV-2350166": {
+   "nombre": "Ventilador de piso 40.64 cm (16\") recargable blanco incluye batería de Litio 11 V Fan Breeze",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Fan Breeze",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-piso-40-64-cm-16-recargable-blanco-incluye-bateria-de-litio-11-v-fan-breeze.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 54.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/e/eeccbc6a-338e-4317-9659-d882e233e074.jpg"
+  },
+  "SV-2350180": {
+   "nombre": "Ventilador doméstico pedestal 40.64 cm incluye bateria de litio 11 V negro Fan Breeze",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Fan Breeze",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-domestico-pedestal-40-64-cm-incluye-bateria-de-litio-11-v-negro-fan-breeze.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 54.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/9/e9a40149-a063-4e1b-9509-084752647154.jpg"
+  },
+  "SV-0679102": {
+   "nombre": "Parlante led flotante bluetooth recargable bestway",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bestway",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-led-flotante-bluetooth-recargable-bestway.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 53.4,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/4/b43e7220-a33a-4ba6-b30b-797a249a0f6e.jpg"
+  },
+  "SV-0674064": {
+   "nombre": "Tabletas Duraclor 90% - AquaChlor",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tabletas-duraclor-90-aquachlor.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/3/03f4f4df-ee88-469f-b2d2-22467b7e3e57.jpg"
+  },
+  "SV-1673054": {
+   "nombre": "Cámara inteligente WiFi motorizada solar exteriores Nexxt Solutions",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-wifi-motorizada-solar-exteriores-nexxt-solutions.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 89.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/f/df00b139-d378-47fd-870f-a71211ceb09c.jpg"
+  },
+  "SV-2370089": {
+   "nombre": "Aire acondicionado inteligente 12.66 MJ (12,000 BTU) portátil convencional 110 V Hisense",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Hisense",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-inteligente-12-66-mj-12-000-btu-portatil-convencional-110-v-hisense.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 389.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/3/d3b25bb4-f5c1-4afc-bc65-ccb6ba29b0fb.jpg"
+  },
+  "SV-1673043": {
+   "nombre": "Cámara inteligente exterior Nexxt Solutions",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Nexxt Solutions",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-exterior-nexxt-solutions.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/1/c1eba578-f408-4333-ab9f-405e811e3d98.jpg"
+  },
+  "SV-1673052": {
+   "nombre": "Cámara motorizada inteligente interior Nexxt Solutions",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-motorizada-inteligente-interior-nexxt-solutions.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 49.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/a/da91e0ff-3e05-4d0e-b86a-eb161d50b4a7.jpg"
+  },
+  "SV-1673068": {
+   "nombre": "Cámara inteligente para exterior 2K fija IP65 VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA+",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-para-exterior-2k-fija-ip65-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 55.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/6/66e3af54-730d-4940-b50c-749267ee196f.jpg"
+  },
+  "SV-1673076": {
+   "nombre": "Cámara inteligente para interior 3K fija VTA+",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA+",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/camara-inteligente-para-interior-3k-fija-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 36.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/b/6b255352-22ab-447f-964c-5f502f0eacb1.jpg"
+  },
+  "SV-2368007": {
+   "nombre": "Aspiradora robot navegación por láser de punto capacidad de 450 ml Peugeot",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Peugeot",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-robot-navegacion-por-laser-de-punto-capacidad-de-450-ml-peugeot.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/f/1f16218c-ab52-4f62-a2d9-ff26060c4e6b.jpg"
+  },
+  "SV-2366124": {
+   "nombre": "Aspiradora inalámbrica 400 W Peugeot",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Peugeot",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-inalambrica-400-w-peugeot.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 185.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/b/4bb1c36e-c998-45ac-b48f-8cdb667c6adb.jpg"
+  },
+  "SV-1676067": {
+   "nombre": "Parlante despertador negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-despertador-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 25.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/f/3f4c736c-12fa-44e5-8851-d463538224e5.jpg"
+  },
+  "SV-1676102": {
+   "nombre": "Parlante 2 x 20.32 cm (8\") tws 80 W luz led-flama Tecbrand",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-2-x-20-32-cm-8-tws-80-w-luz-led-flama-tecbrand.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 95.0,
+     "precio_lista": 139.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-12"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/f/ef857ff8-0b24-442c-bb45-8c40c25659c1.jpg"
+  },
+  "SV-1676131": {
+   "nombre": "Parlante portátil 20.32 cm (8\") 50 W Havit",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-portatil-8-50w-havit.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/d/4d536dff-faf6-4c5b-b562-80cb01dd8fe9.jpg"
+  },
+  "SV-1676215": {
+   "nombre": "Parlante 2 x 10.16 cm (4\") bluetooth función tws 30 W VTA",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-2-x-10-16-cm-4-bluetooth-funcion-tws-30-w-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/5/f59a000d-9683-4a3a-a5e9-d24261364789.jpg"
+  },
+  "SV-1676201": {
+   "nombre": "Parlante recargable Bluetooth 30 W VTA",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VTA",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-recargable-bluetooth-30-w-vta.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/7/a72970f9-4225-488a-9906-ceb28f27c6be.jpg"
+  },
+  "SV-1676130": {
+   "nombre": "Parlante portátil 20.32 cm (8\") 40 W Havit",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Havit",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/parlante-portatil-8-40w-havit.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 113.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/b/eb734f29-d7a3-4d48-804a-4629b82a88b6.jpg"
+  },
+  "SV-2370046": {
+   "nombre": "Aire acondicionado 12.66 MJ (12000 BTU) mini split convencional 220 V adina",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-12000-btu-mini-split-convencional-220-v-adina.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 310.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/0/608659b9-d0b1-433b-9bc6-34bbf71bdd9e.jpg"
+  },
+  "SV-2370048": {
+   "nombre": "Aire acondicionado 25.32 MJ (24000 BTU) mini split convencional 220 V adina",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Adina",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aire-acondicionado-24000-btu-mini-split-convencional-220-v-adina.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 725.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/2/72939032-cfad-4ae2-a809-caca068e2247.jpg"
+  },
+  "SV-2350153": {
+   "nombre": "Enfriador 10 litros blanco 65 W Basic Living",
+   "categoria": "congelador",
+   "tipo": "congelador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/enfriador-10-litros-blanco-65-w-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 87.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/d/adeceafe-b23f-4b3a-ac2b-188aff300bee.jpg"
+  },
+  "SV-2366115": {
+   "nombre": "Aspiradora multifuncional 15.12 l (4 gal) 1.20 kW (1.63 HP) Karcher",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-multifuncional-4-galones-1-63-hp-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 79.0,
+     "precio_lista": 94.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/d/4d4525aa-8838-4df2-9e75-033f82bc15b6.jpg"
+  },
+  "SV-2366114": {
+   "nombre": "Aspiradora de mano inalámbrica Karcher",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-de-mano-inalambrica-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.0,
+     "precio_lista": 69.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/7/376ba583-7f79-4137-ae05-bca2c015a4c1.jpg"
+  },
+  "SV-2366027": {
+   "nombre": "Aspiradora seco y húmedo 30.24 l (8 gal) 2.94 kW (4 HP) Vacmaster",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-seco-y-humedo-8-galones-4hp-vacmaster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 99.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/f/6f407382-9ecb-4473-937b-dfb9d89cc52f.jpg"
+  },
+  "SV-2366121": {
+   "nombre": "Aspiradora vertical 2 en 1 700 mL Karcher",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-vertical-2-en-1-700-ml-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/4/14b547de-96b7-45d0-aefc-6387566e3fcb.jpg"
+  },
+  "SV-2366113": {
+   "nombre": "Aspiradora beast profesional alámbrica portátil 45.36 l (12 gal) 4.41 kW (6 HP) Vacmaster",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vacmaster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-beast-profesional-alambrica-portatil-12-galones-6-hp-vacmaster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/f/efa1be15-9f3c-40d7-9bb6-16dc1f1b1edb.jpg"
+  },
+  "SV-2366004": {
+   "nombre": "Aspiradora seco y húmedo 18.90 l (5 gal) 2.21 kW (3 HP) Vacmaster",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-seco-y-humedo-5-galones-3hp-vacmaster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 62.5,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/4/34cf04cf-a5ec-4eeb-8bde-5ffedc7bb763.jpg"
+  },
+  "SV-2366087": {
+   "nombre": "Aspiradora seco y húmedo 60.48 l (16 gal) 4.84 kW (6.5 HP) Vacmaster",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vacmaster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-seco-y-humedo-60-48-l-16-gal-4-84-kw-6-5-hp-vacmaster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/5/a51a9d88-8632-4ca5-b4b3-35377b9a791b.jpg"
+  },
+  "SV-2366112": {
+   "nombre": "Aspiradora beast profesional alámbrica portátil 18.90 l (5 gal) 4.41 kW (6 HP) Vacmaster",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vacmaster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-beast-profesional-alambrica-portatil-5-galones-6-hp-vacmaster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 135.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/8/286dacea-ab7a-447c-8cc0-6268482f419f.jpg"
+  },
+  "SV-2366127": {
+   "nombre": "Aspiradora alámbrica vertical 2 en 1 de 1 litro",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/aspiradora-alambrica-vertical-2-en-1-de-1-litro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/b/ab188438-e767-4a32-958d-38182ad055bf.jpg"
+  },
+  "SV-2338157": {
+   "nombre": "Licuadora 500 W 4 velocidades 1.65 L negro Taurus",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-500-w-4-velocidades-1-65-l-negro-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 25.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/6/0618aba4-d706-4bf5-be4f-d8af857d107e.jpg"
+  },
+  "SV-2338155": {
+   "nombre": "Licuadora Ice Crush 2 velocidades 700 W Black+Decker",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-ice-crush-2-velocidades-700-w-black-decker.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 41.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/9/a9e251b5-83d4-47ff-a1a1-f43976adb7b6.jpg"
+  },
+  "SV-2338168": {
+   "nombre": "Licuadora personal 600 W 0.7 L Gris 8 piezas Nutribullet",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Nutribullet",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-personal-600-w-0-7-l-gris-8-piezas-nutribullet.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/0/e0d91e7b-b523-4e8d-826b-2b09a6f6638b.jpg"
+  },
+  "SV-2338161": {
+   "nombre": "Licuadora multifunción para vacío y cocción 800 W 2 litros negro Peugeot",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Peugeot",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-multifuncion-para-vacio-y-coccion-800-w-2-litros-negro-peugeot.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 175.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/0/a027f003-9266-44d1-acde-603ec8239c04.jpg"
+  },
+  "SV-2338147": {
+   "nombre": "Licuadora personal 600 W 2 velocidades 1 l blanca Taurus",
+   "categoria": "licuadora",
+   "tipo": "licuadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/licuadora-personal-600w-2-velocidades-1-lt-blanca-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 79.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/a/cab8b9e1-f4de-4cd3-8e93-ee3184a04cb7.jpg"
+  },
+  "SV-2350110": {
+   "nombre": "Ventilador circulador 50.80 cm (20\") 3 velocidades negro Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-circulador-20-3-velocidades-negro-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/5/f50d3b07-721a-4410-90f6-79f0e1275e8a.jpg"
+  },
+  "SV-1580084": {
+   "nombre": "Ventilador oscilante enroscable LED 22 W e27 (3000 a 6.500) K Designers",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Designers",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-oscilante-enroscable-led-22-w-e27-3000-a-6-500-k-1-870-lm-designers.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/7/0720b722-16ed-4fe2-870e-c81cffaa7184.jpg"
+  },
+  "SV-2350111": {
+   "nombre": "Ventilador cuadrado 50.80 cm (20\") 3 velocidades negro Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-cuadrado-20-3-velocidades-negro-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 34.95,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/3/73efe03a-a37e-4aa3-8378-3c2dafd6cd51.jpg"
+  },
+  "SV-2350156": {
+   "nombre": "Ventilador torre 120 cm (47\") negro 60 W Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-torre-120-cm-47-negro-60-w-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 68.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/a/aa91dbd6-ef29-416c-bd20-6235f0eecc3f.jpg"
+  },
+  "SV-2350169": {
+   "nombre": "Ventilador pedestal 75 cm (29.52\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-pedestal-75-cm-29-52-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 228.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/2/021e0f83-cac5-47e5-ac79-78f3564c5b7b.jpg"
+  },
+  "SV-2350197": {
+   "nombre": "Ventilador portátil doméstico de mesa 25.4 cm (10\") gris Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-portatil-domestico-de-mesa-25-4-cm-10-gris-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 41.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/e/8e1dd58c-873b-49cb-a207-5d79fc9d3ea3.jpg"
+  },
+  "SV-2350196": {
+   "nombre": "Ventilador industrial de piso 73.66 cm (29\") negro Taurus",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-industrial-de-piso-73-66-cm-29-negro-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 189.0,
+     "precio_lista": 210.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/7/87272c6b-8c49-45fc-ab37-ba68cdf68549.jpg"
+  },
+  "SV-1510288": {
+   "nombre": "Ventilador de techo LED tipo plafón 30 cm (12\") 3 CCT",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Designers",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-techo-led-tipo-plafon-30-cm-12-3-cct.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 89.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/f/cf340b09-22eb-4b64-bbb7-d20e9566fb58.jpg"
+  },
+  "SV-2350062": {
+   "nombre": "Ventilador de piso/mesa 20.32 cm (8\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-piso-mesa-8-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/b/7b41b36d-4d3e-4044-80d0-3f61b38265c3.jpg"
+  },
+  "SV-2350170": {
+   "nombre": "Ventilador Industrial de piso 50 cm (19.68\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-industrial-de-piso-50-cm-19-68-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/b/ab57785d-c99e-4f82-ad2b-00fb2d2deecc.jpg"
+  },
+  "SV-2350190": {
+   "nombre": "Ventilador industrial pedestal Basic Living 76.20 cm (30\") negro aluminio",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-industrial-pedestal-basic-living-76-20-cm-30-negro-aluminio.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 228.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/e/ae30c902-d773-4083-9c41-6778ad2bf80d.jpg"
+  },
+  "SV-2350189": {
+   "nombre": "Ventilador industrial de pared Basic Living 76.20 cm (30\") negro aluminio",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-industrial-de-pared-basic-living-76-20-cm-30-negro-aluminio.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/5/8519178b-19d7-4904-b603-27f9659943b2.jpg"
+  },
+  "SV-2350188": {
+   "nombre": "Ventilador torre Basic Living 119.38 cm (47\") blanco y negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-torre-basic-living-119-38-cm-47-blanco-y-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 68.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/a/fa1c68b2-de8d-4d00-bdc4-e6fea41a280b.jpg"
+  },
+  "SV-2350187": {
+   "nombre": "Ventilador torre Basic Living 99.06 cm (39\") negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-torre-basic-living-99-06-cm-39-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 68.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/d/cd9985f9-8fba-48d1-9089-6e07137dfb59.jpg"
+  },
+  "SV-2350186": {
+   "nombre": "Ventilador torre Basic Living 78.74 cm (31\") negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-torre-basic-living-78-74-cm-31-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/9/196e8cd0-7c6e-498e-a554-81c72329a7ca.jpg"
+  },
+  "SV-2350178": {
+   "nombre": "Ventilador de piso 50.80 cm (20\") negro Basic Living",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-de-piso-50-80-cm-20-negro-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 46.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/7/17a102bc-1b98-4591-badb-47b71b0a0d1b.jpg"
+  },
+  "SV-2350184": {
+   "nombre": "Ventilador Basic Living pedestal 40.64 cm (16\") negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-basic-living-pedestal-40-64-cm-16-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/7/e7dd0808-7918-4369-a963-b68470651d92.jpg"
+  },
+  "SV-2350183": {
+   "nombre": "Ventilador Basic Living de piso 50.80 cm (20\") negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-basic-living-de-piso-50-80-cm-20-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 89.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/f/ffd67467-51e1-4c1e-9d01-5d0481a53ef3.jpg"
+  },
+  "SV-2350181": {
+   "nombre": "Ventilador Basic Living de pared 45.72 cm (18\") negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/ventilador-basic-living-de-pared-45-72-cm-18-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/5/c507844d-cf25-4e8f-a9bc-09cf53450aac.jpg"
+  },
+  "SV-1472071": {
+   "nombre": "Taladro percutor inalámbrico 9.53 mm (3/8\") 12 V Black & Decker",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Black & Decker",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-percutor-inalambrico-9-53-mm-3-8-12-v-black-decker.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 55.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/4/a4ae30a2-84ba-47b5-b278-98f8ca1b5c1b.jpg"
+  },
+  "SV-1472060": {
+   "nombre": "Taladro percutor 12.70 mm (1/2\") 20 V DeWalt",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DeWalt",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-percutor-12-70-mm-1-2-20-v-dewalt.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 245.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/9/99fc2948-0d52-4a3e-9cc9-3d1e76f05e08.jpg"
+  },
+  "SV-1472076": {
+   "nombre": "Taladro percutor inalámbrico 12.7 mm (1/2\") 20 V Stanley",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Stanley",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-percutor-inalambrico-12-7-mm-1-2-20-v-stanley.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 150.0,
+     "precio_lista": 216.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-11"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/c/4c1b3081-f6cf-467a-bd00-5cb3647d624d.jpg"
+  },
+  "SV-1472074": {
+   "nombre": "Taladro atornillador inalámbrico 12.7 mm (1/2\") 20 V Dewalt",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Dewalt",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-atornillador-inalambrico-12-7-mm-1-2-20-v-dewalt.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 250.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/0/f0bf3103-b68b-40fc-bea0-1bef8cb0e1c7.jpg"
+  },
+  "SV-1472073": {
+   "nombre": "Atornillador de impacto inalámbrico 6.35 mm (1/4\") 20 V Stanley",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Stanley",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/atornillador-de-impacto-inalambrico-6-35-mm-1-4-20-v-stanley.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 216.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/b/3b0c4dd2-9701-4712-bf51-eff43d4e9643.jpg"
+  },
+  "SV-1425078": {
+   "nombre": "Taladro percutor 12.7 mm (1/2\") 550 W Black+Decker",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Black and Decker",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/percutor-550w-1-2-40-accesorios.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 67.6,
+     "precio_lista": 75.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-03"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/3/d34e1cc5-8e7d-4422-ac76-9e582e29134b.jpg"
+  },
+  "SV-1425063": {
+   "nombre": "Taladro percutor 12.7 mm (1/2\") 600 W Stanley",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Stanley",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-alambrico-1-2-600-kw-stanley.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 29.9,
+     "precio_lista": 41.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-11"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/b/9b81e096-436e-44cc-ab78-23eae37aff1c.jpg"
+  },
+  "SV-1425022": {
+   "nombre": "Taladro percutor 12.7 mm (1/2\") 650 W DeWALT",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DeWalt",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-alambrico-1-2-650-kw-dewalt.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 94.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/d/4df85256-ae7a-4023-ae78-12ddbd48fb73.jpg"
+  },
+  "SV-1425122": {
+   "nombre": "Taladro percutor 12.70 mm (1/2\") 750 W Daewoo",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-percutor-12-70-mm-1-2-750-w-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 30.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/a/fa2028a8-4b08-40ea-a981-6aaf385f3582.jpg"
+  },
+  "SV-1428016": {
+   "nombre": "Rotomartillo SDS Plus 720 W 3 J Einhell",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Einhell",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/rotomartillo-sds-mas-3-joules-900-vatios-4100-gpm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/3/a35b584d-e4da-4208-b328-59a08575e1a5.jpg"
+  },
+  "SV-1428037": {
+   "nombre": "Rotomartillo SDS Plus 800 W 2.4 J Stanley",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Stanley",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/rotomartillo-sds-plus-800-w-2-4-j-stanley.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 150.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/6/f6b1bc84-b382-4210-96f2-129880550940.jpg"
+  },
+  "SV-1428033": {
+   "nombre": "Rotomartillo SDS Plus 1500 W 6 J Daewoo",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/rotomartillo-sds-plus-1500-w-6-j-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/8/e88ff750-5185-404d-a457-2a20463b21a1.jpg"
+  },
+  "SV-1423145": {
+   "nombre": "Taladro de banco 12.70 mm (1/2\") 350 W Daewoo",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-de-banco-12-70-mm-1-2-350-w-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/2/b23672f0-7968-422c-8ee1-dde5b2446a66.jpg"
+  },
+  "SV-1428034": {
+   "nombre": "Rotomartillo SDS Plus 800 W 3 J Daewoo",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/rotomartillo-sds-plus-800-w-3-j-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/0/2043a59e-bf6c-4659-b964-304dfe55648e.jpg"
+  },
+  "SV-1425123": {
+   "nombre": "Taladro de impacto 12.70 mm (1/2\") 1050 W Daewoo",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-de-impacto-12-70-mm-1-2-1050-w-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 72.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/d/2d05530a-03aa-4073-ba06-c292388cd44a.jpg"
+  },
+  "SV-1423144": {
+   "nombre": "Taladro rotacional 9.52 mm (3/8\") 450 W Daewoo",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-rotacional-9-52-mm-3-8-450-w-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 29.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/b/4bd05129-cba1-4a6d-9520-ff1e16021540.jpg"
+  },
+  "SV-1428032": {
+   "nombre": "Rotomartillo SDS plus 800 W + caja de herramientas",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Dewalt",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/rotomartillo-sds-plus-800-w-caja-de-herramientas.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 265.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/4/547f6162-6a7a-48df-8f68-edbb0b4b8e09.jpg"
+  },
+  "SV-1425124": {
+   "nombre": "Taladro percutor 12.7 mm (1/2\") 600 W Einhell",
+   "categoria": "taladro",
+   "tipo": "taladro",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Einhell",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/taladro-percutor-12-7-mm-1-2-600-w-einhell.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 44.95,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/b/cb6aaa23-02ce-48f5-bc9a-f4c083978a05.jpg"
+  },
+  "SV-2310069": {
+   "nombre": "Cocina eléctrica 2 quemadores 1650 W",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cocina-electrica-2-quemadores-1650-w.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 18.4,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/2/822841ce-40ec-400a-ac41-b32b2f35c5af.jpg"
+  },
+  "SV-2310050": {
+   "nombre": "Estufa eléctrica vitrocerámica 4 quemadores (58 x 8 x 51) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-electrica-vitroceramica-4-quemadores-58-x-8-x-51-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 319.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/b/4b8133f2-153e-47ab-aa9c-7e8cd8097834.jpg"
+  },
+  "SV-2310081": {
+   "nombre": "Estufa a gas acero inoxidable 4 quemadores (10 x 58 x 50) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-a-gas-acero-inoxidable-4-quemadores-10-x-58-x-50-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 309.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/d/0d795f6e-049e-4468-9f77-4b620d0a1d71.jpg"
+  },
+  "SV-2310077": {
+   "nombre": "Estufa vitrocerámica 76 cm Berlín 76",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-vitroceramica-76-cm-berlin-76.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 444.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/3/e3e91a2b-e50d-496c-86b8-fd2679d60366.jpg"
+  },
+  "SV-2310083": {
+   "nombre": "Estufa a gas de vitrocerámica 4 hornillas (51 x 58.4 x 10) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-a-gas-de-vitroceramica-4-hornillas-51-x-58-4-x-10-cm-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 377.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/c/0ceaaaa7-fd37-4234-b1c6-30117cb9eb35.jpg"
+  },
+  "SV-2342062": {
+   "nombre": "Cafetera prensa francesa 4.2 tazas 1 l",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Casamas",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-prensa-francesa-4-2-tazas-1-l.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 7.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/1/f184b8e6-d3b5-48a1-8fd6-28e7cae915d9.jpg"
+  },
+  "SV-2342038": {
+   "nombre": "Percoladora 45 tazas Hamilton Beach",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/percoladora-45-tazas-hamilton-beach-40515r.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 77.6,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/2/92093e4d-7a8c-48c3-b9b1-471c8124fc67.jpg"
+  },
+  "SV-2342033": {
+   "nombre": "Percoladora 40 tazas Taurus M92001100",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "M92001100",
+   "url": "https://sv.epaenlinea.com/percoladora-40-tazas-taurus-m92001100.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 67.85,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/4/b4bf0764-9ac4-4ec9-a8bc-246661172257.jpg"
+  },
+  "SV-2310070": {
+   "nombre": "Plantilla eléctrica 1 quemador 700 W Taurus",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/plantilla-electrica-1-quemador-700-w-taurus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 14.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/6/160e6f95-0ab5-444d-98fb-211530c619d4.jpg"
+  },
+  "SV-2314013": {
+   "nombre": "Horno empotrable oceanía 60 cm a gas (23\") 72 l negro Drija",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-empotrable-oceania-60-cm-a-gas-23-72-l-negro-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 569.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/f/cf8266d4-2da4-47a0-848b-86d7f24aa6b5.jpg"
+  },
+  "SV-2314019": {
+   "nombre": "Horno empotrable latino 60 black 60 cm (23\") 80 l negro Drija",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-empotrable-latino-60-black-23-80-lt-negro-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 450.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/5/552f7756-0720-4e08-9045-96d5f9e066b6.jpg"
+  },
+  "SV-2314015": {
+   "nombre": "Horno empotrable caribe 76 eléctrico (30\") 78 l negro Drija",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/horno-empotrable-caribe-76-electrico-30-78-lt-negro-drija.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 949.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/d/edc9f280-3ce4-4b31-986a-a9c827b65116.jpg"
+  },
+  "SV-2330020": {
+   "nombre": "Arrocera 14 tazas black&decker",
+   "categoria": "olla",
+   "tipo": "olla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Globales",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/arrocera-14-tazas-black-decker.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 40.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/6/168df618-93d4-4ede-a3b9-7b606a902889.jpg"
+  },
+  "SV-2346065": {
+   "nombre": "Tostador 2 rebanadas 700 W negro Hamilton Beach",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Hamilton Beach",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tostador-2-rebanadas-700-w-negro-hamilton-beach.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/2/52a9dcc1-d7f0-42dd-a8bd-2b83afc12b09.jpg"
+  },
+  "SV-2338055": {
+   "nombre": "Batidora de mano 6 velocidades",
+   "categoria": "batidora",
+   "tipo": "batidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Globales",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/batidora-de-mano-6-velocidades.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 46.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/1/7114faa5-fa73-44c9-9ceb-610bf099c5ad.jpg"
+  },
+  "SV-2342059": {
+   "nombre": "Cafetera filtro permanente 1.8 L negro Oster",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-filtro-permanente-1-8-l-negro-oster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 45.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/7/f7d3e79b-2379-4611-a1dd-b7baa765beea.jpg"
+  },
+  "SV-2342061": {
+   "nombre": "Cafetera de extracción al vacío",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Taurus",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-de-extraccion-al-vacio.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/f/df4d31fd-f0fa-4d3a-9366-cf2911fa77b7.jpg"
+  },
+  "SV-2342063": {
+   "nombre": "Cafetera prensa francesa 2.5 tazas 0.6 l",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Casamas",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/cafetera-prensa-francesa-2-5-tazas-0-6-l.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 4.95,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/1/41f2dbfb-37ac-4a57-a785-bc0c222e747a.jpg"
+  },
+  "SV-2346086": {
+   "nombre": "Tostadora de 2 rebanadas 800 W color negro Holstein Housewares",
+   "categoria": "horno",
+   "tipo": "horno",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Holstein Housewares",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tostadora-de-2-rebanadas-800-w-color-negro-holstein-housewares.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 27.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/b/9b3769b1-144c-4453-a837-135008d41c74.jpg"
+  },
+  "SV-2532046": {
+   "nombre": "Grifo de cocina pomo cruz",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Genérico",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-pomo-cruz.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 14.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/d/3d297f41-b5ee-4efc-802e-797c9da96b72.jpg"
+  },
+  "SV-2517002": {
+   "nombre": "Grifo de cocina 20.32 cm (8\") cuello alto cromado",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Aqua nuova",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-8-cuello-alto-cromado.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/0/b0d5cf22-b83b-44de-b7b4-d4c4b6451efd.jpg"
+  },
+  "SV-2532096": {
+   "nombre": "Grifo de cocina 20.32 cm (8\") Adler cromado",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Moen",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-8-adler-cromado.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/a/eac5590c-ebeb-4f6b-8501-d4f72e42b30d.jpg"
+  },
+  "SV-2517021": {
+   "nombre": "Grifo de cocina 20.32 cm (8\") pfirst sat alto",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Pfister",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-8-pfirst-sat-alto.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 103.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/1/71243920-d585-45bf-92d4-159e13a4ad5d.jpg"
+  },
+  "SV-2517049": {
+   "nombre": "Grifo de cocina 20.32 cm (8\") cuello ganso Banbury cromado",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Moen",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-8-cuello-ganso-banbury-cromado.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/5/a5edff37-882c-4a35-9015-1d8a5eb04a9a.jpg"
+  },
+  "SV-2517048": {
+   "nombre": "Grifo de cocina 20.32 cm (8\") cuello ganso Parkwood cromado",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Peerless",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-8-cuello-ganso-parkwood-cromado.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 76.3,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/d/2d945b26-2899-4b42-b295-1eb3542dc6df.jpg"
+  },
+  "SV-2532059": {
+   "nombre": "Grifo cocina cuello resorte neera culinary acero inoxidable",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Price pfister",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-cocina-cuello-resorte-neera-culinary-acero-inoxidable.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 195.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/f/f/ffc55f6c-d2cd-4e7a-888b-887de8bf0cb4.jpg"
+  },
+  "SV-2517015": {
+   "nombre": "Grifo de cocina 20.32 cm (8')' classic cromo palanca",
+   "categoria": "ducha",
+   "tipo": "ducha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Pfister",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/grifo-de-cocina-20-32-cm-8-classic-cromo-palanca.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 60.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/c/0c683ab3-c6d2-44a9-903c-75bf652909e2.jpg"
+  },
+  "SV-0636164": {
+   "nombre": "Sofá duo plástico rattan café Sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchía",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-duo-plastico-rattan-cafe-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 105.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/f/5f6e720b-a9df-4491-9ba1-f8efaa6d52de.jpg"
+  },
+  "SV-0636165": {
+   "nombre": "Sofá individual plástico rattán café oscuro Sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchia",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-individual-plastico-rattan-cafe-oscuro-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 70.0,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/4/d49e6efc-2a9d-4f65-8745-f41da6c8fbe4.jpg"
+  },
+  "SV-0908002": {
+   "nombre": "Sillón relax individual café",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sillon-relax-individual-cafe.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 285.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/3/53872957-40ab-41e8-a9a4-aff870f8a2fb.jpg"
+  },
+  "SV-0627221": {
+   "nombre": "Sofa alamo 1 plaza café sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchia",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-alamo-1-plaza-cafe-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 90.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/f/6f8aa84c-e6ae-44da-b4b6-6f86447b49bc.jpg"
+  },
+  "SV-0627222": {
+   "nombre": "Sofa alamo 2 plazas cafe sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchia",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-alamo-2-plazas-cafe-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 150.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/5/b53585d3-7bd1-41be-92e7-05edb7c7abfc.jpg"
+  },
+  "SV-0627223": {
+   "nombre": "Sofa alamo 3 plazas cafe rattan sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchia",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-alamo-3-plazas-cafe-rattan-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 190.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/d/1/d1f2d098-995a-4c8d-9feb-381e51c81ead.jpg"
+  },
+  "SV-2360038": {
+   "nombre": "Plancha de vapor Oster, 1600 W, tecnología aerocerámica,",
+   "categoria": "plancha",
+   "tipo": "plancha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/plancha-de-vapor-oster-1600w-tecnologia-aeroceramica-sue.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 72.5,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/6/067fbc8f-894a-4573-91bb-fb9e8ae39f7c.jpg"
+  },
+  "SV-1411099": {
+   "nombre": "Hidrolavadora eléctrica DAX21-150-2000 W Daewoo",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "DAX21150",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-electrica-dax21-150-2000-w-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 95.0,
+     "precio_lista": 145.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/d/7d458e3d-9088-48c4-8d34-c0cfbfd5d6da.jpg"
+  },
+  "SV-1411086": {
+   "nombre": "Hidrolavadora doméstica 11000 KPA (1595 PSI) DAX110 Daewoo",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "DAX110",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-domestica-1595-psi-dax110-1400w-5-hl-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 64.0,
+     "precio_lista": 75.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-10-31"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/c/ccbc099f-2cff-4e38-8271-e92a6514fb4c.jpg"
+  },
+  "SV-1411080": {
+   "nombre": "Hidrolavadora doméstica 9650 KPA (1400 PSI) Black+Decker",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Black and Decker",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1512psi-1400w-7l-m-b-d.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 99.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/2/b26c8d0f-0908-433a-9cf7-0a038fc40176.jpg"
+  },
+  "SV-1411087": {
+   "nombre": "Hidrolavadora doméstica 11030 KPA (1600 PSI) K2 Premium Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-k2-premium-1600-psi-1400-w-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 126.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-01"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/7/079c32c4-62a9-4d97-8410-eebd087dd7a6.jpg"
+  },
+  "SV-1411089": {
+   "nombre": "Hidrolavadora doméstica 10000 KPA (1450 PSI) K1 Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1450-psi-k1-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/e/1/e15a502d-9aa3-43a9-8163-b746a976cc0a.jpg"
+  },
+  "SV-1411056": {
+   "nombre": "Hidrolavadora doméstica 12400 KPA (1800 PSI) K3 follow me Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-k3-follow-me-1800psi-120v.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 224.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/1/71a743c1-3763-4205-a044-7cfc0c1f5e12.jpg"
+  },
+  "SV-1411082": {
+   "nombre": "Hidrolavadora doméstica 11720 KPA (1700 PSI) Black+Decker",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1810-psi-1700-w-6-8-l-m-black-decker.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 185.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/4/648e5532-eb06-4913-8401-21ddef99e361.jpg"
+  },
+  "SV-1411100": {
+   "nombre": "Hidrolavadora gasolina 3000 dgpw70-12 Daewoo",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Daewoo",
+   "modelo": "DGPW7012",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-gasolina-3000-dgpw70-12-daewoo.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 375.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/3/534d332b-be79-48b5-9fbc-4830ffaeeec7.jpg"
+  },
+  "SV-1411097": {
+   "nombre": "Hidrolavadora profesional 13000 KPA (1885 PSI) HD 4/9 Cage Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-profesional-hd-4-9-cage-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 595.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-01"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/2/c2aeac19-a1b5-4d7c-a6b3-973ae798e7cc.jpg"
+  },
+  "SV-1411085": {
+   "nombre": "Hidrolavadora 1450 psi Karcher K1 Car",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1450-psi-karcher-k1-car.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 129.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/1/2/1222fd73-8c4e-4778-8ece-57e5864a9a12.jpg"
+  },
+  "SV-1411102": {
+   "nombre": "Hidrolavadora 1400 PSI Karcher HD 585-1",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1400-psi-karcher-hd-585-1.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 640.0,
+     "precio_lista": 750.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-01"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/3/8392b487-c129-4736-bdbb-4d67c108b53b.jpg"
+  },
+  "SV-1411057": {
+   "nombre": "Hidrolavadora doméstica 12730 KPA (1847 PSI) HD 4/9C Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-hd4-9c-2hp-1-8gpm-1847psi.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 960.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/3/03f6e8c4-3ee5-47f2-bf9d-36da14964551.jpg"
+  },
+  "SV-1411043": {
+   "nombre": "Hidrolavadora doméstica 12400 KPA (1800 PSI) K4 Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1500w-1800psi-5-8l-min-k4-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 283.0,
+     "precio_lista": 335.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-01"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/2/2251a6cd-39c9-4806-a9bf-ec17ddb4cfbc.jpg"
+  },
+  "SV-1677089": {
+   "nombre": "Tarjeta microsd 64 GB Kingston canvas select plus",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tarjeta-microsd-64gb-kingston-canvas-select-plus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 22.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/9/b/9b904473-0b23-44a2-a167-a3bbf624662e.jpg"
+  },
+  "SV-1677090": {
+   "nombre": "Tarjeta microsd 128 GB Kingston canvas select plus",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/tarjeta-microsd-128gb-kingston-canvas-select-plus.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 34.85,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/c/a/ca956276-a40b-4bfe-87e5-193ef3edf236.jpg"
+  },
+  "SV-2360031": {
+   "nombre": "Plancha de vapor Oster, 1000 W, lavanda, suela antiadherente",
+   "categoria": "plancha",
+   "tipo": "plancha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/plancha-de-vapor-oster-1000w-lavanda-suela-antiadherente.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 18.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/8/4871647c-5373-4e45-9855-6e541a1098b1.jpg"
+  },
+  "SV-2360046": {
+   "nombre": "Plancha vaporizadora de telas portátil Oster",
+   "categoria": "plancha",
+   "tipo": "plancha",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Oster",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/plancha-vaporizadora-de-telas-portatil-oster.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 59.9,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/0/c/0ca3983c-7dab-43dc-9328-3a519b6949ef.jpg"
+  },
+  "SV-0908038": {
+   "nombre": "Sofá cama clic clac tela color negro",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-cama-clic-clac-tela-color-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/8/28ed03c8-082a-4c8c-bd1c-04a491347460.jpg"
+  },
+  "SV-0908041": {
+   "nombre": "Sofá cama poliéster 3 plazas café (80 x 188 x 88) cm",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-cama-poliester-3-plazas-cafe-80-x-188-x-88-cm.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 349.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/b/8b04c0f7-32de-4f63-9aa0-10d46653e2cb.jpg"
+  },
+  "SV-0908000": {
+   "nombre": "Sillón relax individual negro",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sillon-relax-individual-negro.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 285.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/b/3b914b8c-c68b-4412-bd0d-4832c9b3fc5e.jpg"
+  },
+  "SV-0627225": {
+   "nombre": "Sofá 2 plazas café tipo ratán Sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchia",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-2-plazas-cafe-tipo-ratan-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 99.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/3/a/3ab2dff3-0519-43f3-8795-1dbd4af86a4e.jpg"
+  },
+  "SV-0627205": {
+   "nombre": "Sofá alamo 2 plazas beige Sanchia",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sanchia",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/sofa-alamo-2-plazas-beige-sanchia.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 150.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/2/e/2e8dc97c-7a4b-4abf-bdf0-e6613bf74b06.jpg"
+  },
+  "SV-0627242": {
+   "nombre": "Set de comedor para patio Coral 5 piezas negro mate Basic Living",
+   "categoria": "comedor",
+   "tipo": "comedor",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/set-de-comedor-para-patio-coral-5-piezas-negro-mate-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/5/5/5587e508-60f5-4293-8a85-20faecc3c581.jpg"
+  },
+  "SV-0627219": {
+   "nombre": "Comedor 4 personas rectangular café Basic Living",
+   "categoria": "comedor",
+   "tipo": "comedor",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Basic Living",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/comedor-4-personas-rectangular-cafe-basic-living.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 595.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/6/8/68dcd6ea-2d1a-4e56-a232-2d2d2d57447f.jpg"
+  },
+  "SV-1411073": {
+   "nombre": "Hidrolavadora a gasolina 22063 KPA (3200 PSI) HDG 3200 Karcher",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidro-lavadora-gasolina-11-7-hp-3200-psi-9-8-l-m-hdg3200-karcher.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 545.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo vigente hasta 2026-11-01"
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/7/b740f243-f6fe-458e-a7fb-24dc71857008.jpg"
+  },
+  "SV-1411101": {
+   "nombre": "Hidrolavadora 1700 psi Karcher K3 Induction",
+   "categoria": "hidrolavadora",
+   "tipo": "hidrolavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Karcher",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/hidrolavadora-1700-psi-karcher-k3-induction.html",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:41:57-06:00",
+     "precio": 275.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/8/b/8bd116c5-ef6b-4b6b-bd90-1e3c4b9ae774.jpg"
   }
  }
 }

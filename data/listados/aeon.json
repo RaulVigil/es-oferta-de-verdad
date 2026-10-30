@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-10-29T12:40:21-06:00",
+ "actualizado": "2026-10-29T17:47:15-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -3997,7 +3997,7 @@
    "modelo": "13420H",
    "url": "https://aeon.com.sv/shop/19226-laptop-acer-nitro-v15-i5-13420h-16-gb-ddr4-rtx-5050-8-gb-ssd-512-gb-15-6-fhd-165-hz-ips-nh-qz7al-002-106370",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-29",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4030,8 +4030,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 1399.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106370/image_256"
   },
   "107203": {
    "nombre": "Laptop MSI Cyborg 15 - I7-13620H - 512GB SSD - 16GB DDR5 - RTX5060 8GB - Translucent Black - 9S7-15Q342-663",
@@ -4233,7 +4242,7 @@
    "modelo": "9S715Q342",
    "url": "https://aeon.com.sv/shop/20270-laptop-msi-cyborg-15-i5-13420h-512gb-ssd-16gb-ddr5-rtx5050-8gb-144-hz-ips-translucent-black-9s7-15q342-665-107417",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-29",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4266,8 +4275,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 1499.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107417/image_256"
   },
   "107418": {
    "nombre": "Laptop Asus Vivobook - Intel Core 5 210H - SSD 512GB - 16GB DDR5 - RTX3050 - 16\" - Matte Black - W11H - 90NB15V1- M007D0",
@@ -4279,7 +4297,7 @@
    "modelo": "90NB15V1",
    "url": "https://aeon.com.sv/shop/20271-laptop-asus-vivobook-intel-core-5-210h-ssd-512gb-16gb-ddr5-rtx3050-16-matte-black-w11h-90nb15v1-m007d0-107418",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-29",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4312,8 +4330,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 1299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107418/image_256"
   },
   "107419": {
    "nombre": "Laptop MSI Thin 15 - i7-240H - 16 GB RAM  - 512GB SSD - RTX 4050 6 GB - 15.6\" FHD 144Hz - Cosmos Gray - 9S7-16R831-3",
@@ -12339,6 +12366,1754 @@
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107487/image_256"
+  },
+  "106840": {
+   "nombre": "Tableta Lenovo Tab One, ZAF00113PA",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Lenovo",
+   "modelo": "ZAF00113PA",
+   "url": "https://aeon.com.sv/shop/19699-tableta-lenovo-tab-one-zaf00113pa-106840",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106840/image_256"
+  },
+  "102648": {
+   "nombre": "SmartWatch Lamborghini Aventador Q4 Metal Reloj Inteligente LB-SWQ4M / OUTLET",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "LBSWQ4M",
+   "url": "https://aeon.com.sv/shop/14066-smartwatch-lamborghini-aventador-q4-metal-reloj-inteligente-lb-swq4m-outlet-102648",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 165.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/102648/image_256"
+  },
+  "102647": {
+   "nombre": "SmartWatch Lamborghini Aventador Cerchio Nero Reloj Inteligente LB-SWNERO / OUTLET OPEN BOX",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/14065-smartwatch-lamborghini-aventador-cerchio-nero-reloj-inteligente-lb-swnero-outlet-open-box-102647",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 145.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/102647/image_256"
+  },
+  "103964": {
+   "nombre": "Smartwatch, Xiaomi Redmi 5 Active, Midnight Black, Pantalla LCD, Bateria 18 dias, Llamadas Bluetooth, 57760",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/16702-smartwatch-xiaomi-redmi-5-active-midnight-black-pantalla-lcd-bateria-18-dias-llamadas-bluetooth-57760-103964",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/103964/image_256"
+  },
+  "103963": {
+   "nombre": "Smartwatch, Xiaomi Redmi 5 Active, Silver Matte, Pantalla LCD, Bateria 18 dias, Llamadas Bluetooth, 57766",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xiaomi",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/16703-smartwatch-xiaomi-redmi-5-active-silver-matte-pantalla-lcd-bateria-18-dias-llamadas-bluetooth-57766-103963",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/103963/image_256"
+  },
+  "104039": {
+   "nombre": "Smartwatch Lamborghini, V12, IP67, 7-10 Dias, Bluetooth - LB-SW-V12GTN",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "V12GTN",
+   "url": "https://aeon.com.sv/shop/16875-smartwatch-lamborghini-v12-ip67-7-10-dias-bluetooth-lb-sw-v12gtn-104039",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 99.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104039/image_256"
+  },
+  "107289": {
+   "nombre": "Reloj inteligente Smartwatch HiFuture Zone 3 con monitor de salud y actividad física, puede recibir llamadas,  certificación IP68 Bateria hasta 7 dias, 100 modos deportes,  Color Negro - HIF-ZONE3BLK",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "HIFZONE3BLK",
+   "url": "https://aeon.com.sv/shop/20142-reloj-inteligente-smartwatch-hifuture-zone-3-con-monitor-de-salud-y-actividad-fisica-puede-recibir-llamadas-certificacion-ip68-bateria-hasta-7-dias-100-modos-deportes-color-negro-hif-zone3blk-107289",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107289/image_256"
+  },
+  "107290": {
+   "nombre": "Reloj inteligente Smartwatch HiFuture Zone 3 con monitor de salud y actividad física, puede recibir llamadas,  certificación IP68 Bateria hasta 7 dias, 100 modos deportes,  Color ROSA - HIFZONE3RGD",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "HIFZONE3RGD",
+   "url": "https://aeon.com.sv/shop/20143-reloj-inteligente-smartwatch-hifuture-zone-3-con-monitor-de-salud-y-actividad-fisica-puede-recibir-llamadas-certificacion-ip68-bateria-hasta-7-dias-100-modos-deportes-color-rosa-hifzone3rgd-107290",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107290/image_256"
+  },
+  "107291": {
+   "nombre": "Reloj inteligente Samartwach HiFuture Edge con monitor de salud y actividad física, 100 mmodos deporte puede recibir llamadas,  IP67, hasta 7 días de batería NEGRO, 1.72\" - HIF-EDGEBLK",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/20144-reloj-inteligente-samartwach-hifuture-edge-con-monitor-de-salud-y-actividad-fisica-100-mmodos-deporte-puede-recibir-llamadas-ip67-hasta-7-dias-de-bateria-negro-1-72-hif-edgeblk-107291",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 54.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107291/image_256"
+  },
+  "107292": {
+   "nombre": "Reloj inteligente Smartwatch HiFuture Flex 2 con monitor de salud oxigeno en sangre,  y actividad física 100 modos, puede recibir llamadas,  IP67 con hasta 10 días de batería  - HIF-FLEX2BLK",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "HIFFLEX2BLK",
+   "url": "https://aeon.com.sv/shop/20145-reloj-inteligente-smartwatch-hifuture-flex-2-con-monitor-de-salud-oxigeno-en-sangre-y-actividad-fisica-100-modos-puede-recibir-llamadas-ip67-con-hasta-10-dias-de-bateria-hif-flex2blk-107292",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 56.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107292/image_256"
+  },
+  "96350": {
+   "nombre": "Bocina Skullcandy Terrain XL, Gris Claro - 2SKSK1848O0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1848O0L2",
+   "url": "https://aeon.com.sv/shop/15834-bocina-skullcandy-terrain-xl-gris-claro-2sksk1848o0l2-96350",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96350/image_256"
+  },
+  "96348": {
+   "nombre": "Bocina Skullcandy Terrain - Rojo Astro Dust - 2SKSK1847M0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1847M0L2",
+   "url": "https://aeon.com.sv/shop/15830-bocina-skullcandy-terrain-rojo-astro-dust-2sksk1847m0l2-96348",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 61.7,
+     "precio_lista": 74.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96348/image_256"
+  },
+  "96345": {
+   "nombre": "Bocina Skullcandy Terrain, Azul Blaze - 2SKSK1847N0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1847N0L2",
+   "url": "https://aeon.com.sv/shop/16362-bocina-skullcandy-terrain-azul-blaze-2sksk1847n0l2-96345",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 61.7,
+     "precio_lista": 74.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96345/image_256"
+  },
+  "96343": {
+   "nombre": "Bocinas Skullcandy OUNCE+ Negra  Bluetooth 5.3, IPX7 Resistente al agua 16Hrs, USB-C- 2SKSK2010B0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK2010B0L2",
+   "url": "https://aeon.com.sv/shop/15825-bocinas-skullcandy-ounce-negra-bluetooth-5-3-ipx7-resistente-al-agua-16hrs-usb-c-2sksk2010b0l2-96343",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 28.8,
+     "precio_lista": 34.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96343/image_256"
+  },
+  "96342": {
+   "nombre": "Bocinas Skullcandy KILO Gris Bluetooth 5.3 IPX7 Resistente al agua, 24hrs, USB-C - 2SKSK1845O0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1845O0L2",
+   "url": "https://aeon.com.sv/shop/15826-bocinas-skullcandy-kilo-gris-bluetooth-5-3-ipx7-resistente-al-agua-24hrs-usb-c-2sksk1845o0l2-96342",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.0,
+     "precio_lista": 47.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96342/image_256"
+  },
+  "96341": {
+   "nombre": "Bocinas Skullcandy KILO Azul  Bluetooth 5.3 IPX7 Resistente al agua, 24hrs, USB-C - 2SKSK1845N0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1845N0L2",
+   "url": "https://aeon.com.sv/shop/15827-bocinas-skullcandy-kilo-azul-bluetooth-5-3-ipx7-resistente-al-agua-24hrs-usb-c-2sksk1845n0l2-96341",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96341/image_256"
+  },
+  "96309": {
+   "nombre": "Bocina MDC, USB Output 2.5W Black, MDC-013H",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MDC013H",
+   "url": "https://aeon.com.sv/shop/15762-bocina-mdc-usb-output-2-5w-black-mdc-013h-96309",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 6.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96309/image_256"
+  },
+  "104701": {
+   "nombre": "Bocina Skullcandy KILO NEGRA  Bluetooth 5.3 IPX7 Resistente al agua, 24hrs, USB-C - 2SKSK1845B0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1845B0L2",
+   "url": "https://aeon.com.sv/shop/17534-bocina-skullcandy-kilo-negra-bluetooth-5-3-ipx7-resistente-al-agua-24hrs-usb-c-2sksk1845b0l2-104701",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104701/image_256"
+  },
+  "104703": {
+   "nombre": "Bocina Skullcandy Terrain Mini - Negro - 2SKSK1846B0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK1846B0L2",
+   "url": "https://aeon.com.sv/shop/17536-bocina-skullcandy-terrain-mini-negro-2sksk1846b0l2-104703",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104703/image_256"
+  },
+  "104830": {
+   "nombre": "Bocinas Skullcandy OUNCE+ Azul Navy  Bluetooth 5.3, IPX7 Resistente al agua 16Hrs, USB-C- 2SKSK2010N0L2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "2SKSK2010N0L2",
+   "url": "https://aeon.com.sv/shop/17663-bocinas-skullcandy-ounce-azul-navy-bluetooth-5-3-ipx7-resistente-al-agua-16hrs-usb-c-2sksk2010n0l2-104830",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 34.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104830/image_256"
+  },
+  "105522": {
+   "nombre": "Parlante Edifier ES60 - Bluetooth - Ivory",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/18375-parlante-edifier-es60-bluetooth-ivory-105522",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/105522/image_256"
+  },
+  "105520": {
+   "nombre": "Parlante Edifier G1500 Max -Bluetooth 5.3, USB-A, USB-C, and 3.5mm AUX - RGB - Negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "G1500",
+   "url": "https://aeon.com.sv/shop/18373-parlante-edifier-g1500-max-bluetooth-5-3-usb-a-usb-c-and-3-5mm-aux-rgb-negro-105520",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 79.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/105520/image_256"
+  },
+  "106652": {
+   "nombre": "Parlante Edifier clásico Hi-Fi Bluetooth Café S2000MKlll",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "S2000MKLLL",
+   "url": "https://aeon.com.sv/shop/19513-parlante-edifier-clasico-hi-fi-bluetooth-cafe-s2000mklll-106652",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 539.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106652/image_256"
+  },
+  "106669": {
+   "nombre": "Bocina portatil JBL GRIP Bluetooth, Negra, JBLGRIPBLKAM",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/19530-bocina-portatil-jbl-grip-bluetooth-negra-jblgripblkam-106669",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106669/image_256"
+  },
+  "106671": {
+   "nombre": "Bocina portatil JBL GRIP Bluetooth, Azul, JBLGRIPBLUAM",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/19532-bocina-portatil-jbl-grip-bluetooth-azul-jblgripbluam-106671",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106671/image_256"
+  },
+  "107235": {
+   "nombre": "Bocinas USB Marvo 2.0, 3 Watts, Iluminacion RGB, SG-118",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SG118",
+   "url": "https://aeon.com.sv/shop/20094-bocinas-usb-marvo-2-0-3-watts-iluminacion-rgb-sg-118-107235",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 12.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107235/image_256"
+  },
+  "107457": {
+   "nombre": "Parlante Edifier M90 - Black - EDF100120, 100w RMS, Hi-Res Audio y Hi-Res Audio Wireless, bluetooth 6.1, Óptica digital, USB-C (ideal para una señal limpia desde PC/Laptop sin necesidad de DAC externo) y Auxiliar de 3.5 mm. Salida P/Woofer.",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "EDF100120",
+   "url": "https://aeon.com.sv/shop/20308-parlante-edifier-m90-black-edf100120-100w-rms-hi-res-audio-y-hi-res-audio-wireless-bluetooth-6-1-optica-digital-usb-c-ideal-para-una-senal-limpia-desde-pc-laptop-sin-necesidad-de-dac-externo-y-auxiliar-de-3-5-mm-salida-p-woofer-107457",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107457/image_256"
+  },
+  "96682": {
+   "nombre": "Camara Web Logitech C270 HD 720p 960-000694",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/4404-camara-web-logitech-c270-hd-720p-960-000694-96682",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96682/image_256"
+  },
+  "96681": {
+   "nombre": "Camara Web, Logitech, Brio 100, 1080p Full HD, USB Graphite, 960-001586",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/13829-camara-web-logitech-brio-100-1080p-full-hd-usb-graphite-960-001586-96681",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 54.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96681/image_256"
+  },
+  "96678": {
+   "nombre": "Cámara Web JLAB Go Cam - WGOCAMRBLK124",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JLab",
+   "modelo": "WGOCAMRBLK124",
+   "url": "https://aeon.com.sv/shop/15600-camara-web-jlab-go-cam-wgocamrblk124-96678",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 45.5,
+     "precio_lista": 55.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96678/image_256"
+  },
+  "96671": {
+   "nombre": "Camara para Vehículo/Moto/Bicicleta/ Riotoro RCAM Vision, 2K, Dashcam, infrared, Laser MABC1PB",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "MABC1PB",
+   "url": "https://aeon.com.sv/shop/11546-camara-para-vehiculo-moto-bicicleta-riotoro-rcam-vision-2k-dashcam-infrared-laser-mabc1pb-96671",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 285.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96671/image_256"
+  },
+  "96670": {
+   "nombre": "Camara Logitech Webcam C930e 1920x1080, 960-000971",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "C930E",
+   "url": "https://aeon.com.sv/shop/09695-camara-logitech-webcam-c930e-1920x1080-960-000971-96670",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 135.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96670/image_256"
+  },
+  "96661": {
+   "nombre": "Camara, HIK - Turbo 1080p Camara Bala 2.8mm IR 20m Metal IP66",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/10855-camara-hik-turbo-1080p-camara-bala-2-8mm-ir-20m-metal-ip66-96661",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 25.0,
+     "precio_lista": 30.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/96661/image_256"
+  },
+  "99529": {
+   "nombre": "Logitech HD Pro Webcam C920S - Webcam - color - 1920 x 1080 - audio 960-001257",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "C920S",
+   "url": "https://aeon.com.sv/shop/09690-logitech-hd-pro-webcam-c920s-webcam-color-1920-x-1080-audio-960-001257-99529",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 94.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99529/image_256"
+  },
+  "104053": {
+   "nombre": "Camara Logitech Gaming C922 Pro Stream Webcam, 960-001087",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Logitech",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/16929-camara-logitech-gaming-c922-pro-stream-webcam-960-001087-104053",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 124.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104053/image_256"
+  },
+  "104609": {
+   "nombre": "Camara PTZ Nexxt Home Outdoor, NHC-OP10",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "NHCOP10",
+   "url": "https://aeon.com.sv/shop/17445-camara-ptz-nexxt-home-outdoor-nhc-op10-104609",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104609/image_256"
+  },
+  "107115": {
+   "nombre": "Camara Web KLIP XTREME 2K, Wired, 2560x1440P  QHD USB, MIC, KWC-750",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Klip Xtreme",
+   "modelo": "KWC750",
+   "url": "https://aeon.com.sv/shop/kwc-750-107115",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107115/image_256"
+  },
+  "107467": {
+   "nombre": "Camara PTZ Nexxt Home INterior Camera 2K 3MP DV edition, NHC-IP16 DV",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "NHCIP16",
+   "url": "https://aeon.com.sv/shop/20318-camara-ptz-nexxt-home-interior-camera-2k-3mp-dv-edition-nhc-ip16-dv-107467",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107467/image_256"
+  },
+  "95971": {
+   "nombre": "Adaptador USB inalambrico TP-LINK USB, Archer T3U Nano Doble banda AC1300 5Ghz,  (867 Mbps 5 GHz, 400  banda de 2.4 GHz)",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC1300",
+   "url": "https://aeon.com.sv/shop/13894-adaptador-usb-inalambrico-tp-link-usb-archer-t3u-nano-doble-banda-ac1300-5ghz-867-mbps-5-ghz-400-banda-de-2-4-ghz-95971",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 24.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/95971/image_256"
+  },
+  "95944": {
+   "nombre": "Adaptador de red Xtech con conector USB 3.0 a RJ-45 XTC-376",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Xtech",
+   "modelo": "XTC376",
+   "url": "https://aeon.com.sv/shop/13948-adaptador-de-red-xtech-con-conector-usb-3-0-a-rj-45-xtc-376-95944",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 14.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/95944/image_256"
+  },
+  "102387": {
+   "nombre": "ROUTER RUIJIE RG-EW1200 MESH DE 4 PTS DOBLE BANDA AC-1200 MU-MINO",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "RGEW1200",
+   "url": "https://aeon.com.sv/shop/13145-router-ruijie-rg-ew1200-mesh-de-4-pts-doble-banda-ac-1200-mu-mino-102387",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/102387/image_256"
+  },
+  "104798": {
+   "nombre": "Tarjeta de Red inalambrica PCI, TP-Link doble banda AC600 ARCHER T2E Los profile, (433 Mbps  5 GHz y 200 Mbps banda de 2,4 GHz) - RTPL-ARCHER T2E",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC600",
+   "url": "https://aeon.com.sv/shop/17631-tarjeta-de-red-inalambrica-pci-tp-link-doble-banda-ac600-archer-t2e-los-profile-433-mbps-5-ghz-y-200-mbps-banda-de-2-4-ghz-rtpl-archer-t2e-104798",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104798/image_256"
+  },
+  "104816": {
+   "nombre": "Router Mesh NEXXT Bolt AC1200 1 nodo, Mbps: 1200Mbps, wifi 5",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC1200",
+   "url": "https://aeon.com.sv/shop/17649-router-mesh-nexxt-bolt-ac1200-1-nodo-mbps-1200mbps-wifi-5-104816",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104816/image_256"
+  },
+  "104817": {
+   "nombre": "Router Mesh NEXXT Bolt AC1200 2 nodos, Mbps: 1200Mbps, wifi 5 - NCM-C1200 2PK",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "NCMC1200",
+   "url": "https://aeon.com.sv/shop/17650-router-mesh-nexxt-bolt-ac1200-2-nodos-mbps-1200mbps-wifi-5-ncm-c1200-2pk-104817",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104817/image_256"
+  },
+  "105650": {
+   "nombre": "Router ASUS AC1200 Dual-Band Wi-Fi Router with four antennas, RT-AC1200_V2",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Asus",
+   "modelo": "RTAC1200",
+   "url": "https://aeon.com.sv/shop/18503-router-asus-ac1200-dual-band-wi-fi-router-with-four-antennas-rt-ac1200-v2-105650",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/105650/image_256"
+  },
+  "105652": {
+   "nombre": "Router, TP-LINK Archer AX12 Router WiFi6 AX1500 DualBand Gigabit",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX1500",
+   "url": "https://aeon.com.sv/shop/18505-router-tp-link-archer-ax12-router-wifi6-ax1500-dualband-gigabit-105652",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 57.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/105652/image_256"
+  },
+  "105653": {
+   "nombre": "Router Mercusys AC1200 Wireless Dual Band Gigabit, MR30G",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC1200",
+   "url": "https://aeon.com.sv/shop/18506-router-mercusys-ac1200-wireless-dual-band-gigabit-mr30g-105653",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 36.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/105653/image_256"
+  },
+  "106212": {
+   "nombre": "Adaptador USB Inalambrico TP-LINK Archer T2U Plus, AC600, 433 Mbps 5.0 GHz/2.4 GHz, WI-FI 5, Doble Banda, Puerto USB 2.0, 0152502274",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC600",
+   "url": "https://aeon.com.sv/shop/19068-adaptador-usb-inalambrico-tp-link-archer-t2u-plus-ac600-433-mbps-5-0-ghz-2-4-ghz-wi-fi-5-doble-banda-puerto-usb-2-0-0152502274-106212",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106212/image_256"
+  },
+  "106387": {
+   "nombre": "Adaptador USB WIFI Cudy AX5400 - Tri Band - WIFI 6E - WU5400",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX5400",
+   "url": "https://aeon.com.sv/shop/19243-adaptador-usb-wifi-cudy-ax5400-tri-band-wifi-6e-wu5400-106387",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 27.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106387/image_256"
+  },
+  "106393": {
+   "nombre": "Adaptador WIFI USB Cudy AC1300 Wireless Duali-Band - WU1400",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC1300",
+   "url": "https://aeon.com.sv/shop/19249-adaptador-wifi-usb-cudy-ac1300-wireless-duali-band-wu1400-106393",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 16.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106393/image_256"
+  },
+  "106395": {
+   "nombre": "Mesh Cudy AX1500 - Blanco - M1500(2-pack) EU  wifi 6 dual band cubre hasta 1000 pies cuadrados, 3 puertos Gigabit por unidad",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX1500",
+   "url": "https://aeon.com.sv/shop/19251-mesh-cudy-ax1500-blanco-m1500-2-pack-eu-wifi-6-dual-band-cubre-hasta-1000-pies-cuadrados-3-puertos-gigabit-por-unidad-106395",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106395/image_256"
+  },
+  "106858": {
+   "nombre": "Router TP-Link Archer AX23 - WIFI 6 AX1800",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX1800",
+   "url": "https://aeon.com.sv/shop/19717-router-tp-link-archer-ax23-wifi-6-ax1800-106858",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106858/image_256"
+  },
+  "106891": {
+   "nombre": "Adaptador WIFI USB Cudy AC1300 Wireless Doble Banda - WU1300S",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "WU1300S",
+   "url": "https://aeon.com.sv/shop/19750-adaptador-wifi-usb-cudy-ac1300-wireless-doble-banda-wu1300s-106891",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106891/image_256"
+  },
+  "106932": {
+   "nombre": "Router Cudy AC1200 - Dual Band - Blanco - WR1200_EU, 4-Stream Dual-Band Wi-Fi 5,  867 Mbps + 300 Mbps, antenas de alta ganancia",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AC1200",
+   "url": "https://aeon.com.sv/shop/19791-router-cudy-ac1200-dual-band-blanco-wr1200-eu-4-stream-dual-band-wi-fi-5-867-mbps-300-mbps-antenas-de-alta-ganancia-106932",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 26.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106932/image_256"
+  },
+  "106933": {
+   "nombre": "Adaptador WIFI + Bluetooth  PCIE Cudy AX3000 Dual-Band Wifi 6 -  WE3000",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX3000",
+   "url": "https://aeon.com.sv/shop/19792-adaptador-wifi-bluetooth-pcie-cudy-ax3000-dual-band-wifi-6-we3000-106933",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 32.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106933/image_256"
+  },
+  "107141": {
+   "nombre": "Adaptador USB Wifi Cudy AX900 - Dual Band - WIFI6 - WU900",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX900",
+   "url": "https://aeon.com.sv/shop/20000-adaptador-usb-wifi-cudy-ax900-dual-band-wifi6-wu900-107141",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 12.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107141/image_256"
+  },
+  "107207": {
+   "nombre": "Router Mercusys MR60X AX1500 DualBand WiFi 6 Router",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX1500",
+   "url": "https://aeon.com.sv/shop/20066-router-mercusys-mr60x-ax1500-dualband-wifi-6-router-107207",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107207/image_256"
+  },
+  "107437": {
+   "nombre": "Adaptador USB WIFI Cudy BE6500 - Tri Band - WIFI 7 - WU6500",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "BE6500",
+   "url": "https://aeon.com.sv/shop/20290-adaptador-usb-wifi-cudy-be6500-tri-band-wifi-7-wu6500-107437",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 34.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107437/image_256"
+  },
+  "97816": {
+   "nombre": "Disco SSD Externo Kingston XS1000, 2 TB, USB 3.2 USB-C, SXS1000/2000G",
+   "categoria": "ssd",
+   "tipo": "ssd",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SXS1000",
+   "url": "https://aeon.com.sv/shop/16230-disco-ssd-externo-kingston-xs1000-2-tb-usb-3-2-usb-c-sxs1000-2000g-97816",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 299.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/97816/image_256"
+  },
+  "97666": {
+   "nombre": "Disco Duro Externo Adata 1TB USB 3.1 Slim Black AHV320-1TU31-CBK",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AHV3201TU31",
+   "url": "https://aeon.com.sv/shop/5159-disco-duro-externo-adata-1tb-usb-3-1-slim-black-ahv320-1tu31-cbk-97666",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/97666/image_256"
+  },
+  "99989": {
+   "nombre": "Memoria USB, Kingston Exodia M - Unidad flash USB, 64 GB DTXM/64GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/12089-memoria-usb-kingston-exodia-m-unidad-flash-usb-64-gb-dtxm-64gb-99989",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99989/image_256"
+  },
+  "99988": {
+   "nombre": "Memoria USB Kingston Exodia M - 128GB, KC-U2L128-7LN",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "KCU2L128",
+   "url": "https://aeon.com.sv/shop/16259-memoria-usb-kingston-exodia-m-128gb-kc-u2l128-7ln-99988",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99988/image_256"
+  },
+  "99978": {
+   "nombre": "Memoria USB Kingston 64GB USB 3.2 Gen 1  Exodia Black  Teal DTX/64GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/09834-memoria-usb-kingston-64gb-usb-3-2-gen-1-exodia-black-teal-dtx-64gb-99978",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99978/image_256"
+  },
+  "99972": {
+   "nombre": "Memoria USB Kingston 128GB USB3.2 Gen1 Exodia Black Yellow DTX/128GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://aeon.com.sv/shop/09835-memoria-usb-kingston-128gb-usb3-2-gen1-exodia-black-yellow-dtx-128gb-99972",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99972/image_256"
+  },
+  "99953": {
+   "nombre": "Memoria USB C ADATA 64GB USB3.2 Gen1 Type-C BLACK/GREEN ACHO-UC300-64G- RBK/GN",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "ACHOUC300",
+   "url": "https://aeon.com.sv/shop/11278-memoria-usb-c-adata-64gb-usb3-2-gen1-type-c-black-green-acho-uc300-64g-rbk-gn-99953",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 5.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99953/image_256"
+  },
+  "99952": {
+   "nombre": "Memoria USB C ADATA 32GB USB3.2 Gen1 Type-C BLACK/GREEN ACHO-UC300-32G- RBK/GN",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "ACHOUC300",
+   "url": "https://aeon.com.sv/shop/11277-memoria-usb-c-adata-32gb-usb3-2-gen1-type-c-black-green-acho-uc300-32g-rbk-gn-99952",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 4.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99952/image_256"
+  },
+  "99951": {
+   "nombre": "Memoria USB C ADATA 256GB USB3.2 Gen1 Type-C BLACK/GREEN ACHO-UC300-256G- RBK/GN",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "ACHOUC300",
+   "url": "https://aeon.com.sv/shop/11279-memoria-usb-c-adata-256gb-usb3-2-gen1-type-c-black-green-acho-uc300-256g-rbk-gn-99951",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 21.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99951/image_256"
+  },
+  "99918": {
+   "nombre": "MEMORIA SD ADATA 512GB Premier Pro - Tarjeta de memoria SD V30S SDXC UHS-I U3 V30 Clase 10 Full HD y 4K UHD ASDX512GUI3V30S-R",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "ASDX512GUI3V30SR",
+   "url": "https://aeon.com.sv/shop/12832-memoria-sd-adata-512gb-premier-pro-tarjeta-de-memoria-sd-v30s-sdxc-uhs-i-u3-v30-clase-10-full-hd-y-4k-uhd-asdx512gui3v30s-r-99918",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/99918/image_256"
+  },
+  "104430": {
+   "nombre": "Memoria Kingston 128GB USB 3.2 DT Exodia LATAM DTX -White, KC-U2G128-5R",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "KCU2G128",
+   "url": "https://aeon.com.sv/shop/17247-memoria-kingston-128gb-usb-3-2-dt-exodia-latam-dtx-white-kc-u2g128-5r-104430",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/104430/image_256"
+  },
+  "106126": {
+   "nombre": "MEMORIA-Kingston - Flash memory card - microSDHC Kingston 512GB microSDXC Canvas Go Plus- SDCG4/512GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SDCG4",
+   "url": "https://aeon.com.sv/shop/18982-memoria-kingston-flash-memory-card-microsdhc-kingston-512gb-microsdxc-canvas-go-plus-sdcg4-512gb-106126",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106126/image_256"
+  },
+  "106135": {
+   "nombre": "MicroSD, Kingston 64GB microSDXC Canvas Select Plus Gen3 100MB/s A1 C, SDCS3/64GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "100MB",
+   "url": "https://aeon.com.sv/shop/18991-microsd-kingston-64gb-microsdxc-canvas-select-plus-gen3-100mb-s-a1-c-sdcs3-64gb-106135",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 22.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106135/image_256"
+  },
+  "106138": {
+   "nombre": "Micro SDXC Kingston 128GB Canvas Select Plus Gen3 150MB/s A1, SDCS3/128GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "150MB",
+   "url": "https://aeon.com.sv/shop/18994-micro-sdxc-kingston-128gb-canvas-select-plus-gen3-150mb-s-a1-sdcs3-128gb-106138",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/106138/image_256"
+  },
+  "107099": {
+   "nombre": "Memoria MicroSD ADATA 512 GB UHS-I - AUSDX512GUICL10A1-RA1",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AUSDX512GUICL10A1RA1",
+   "url": "https://aeon.com.sv/shop/19958-memoria-microsd-adata-512-gb-uhs-i-ausdx512guicl10a1-ra1-107099",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 89.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107099/image_256"
+  },
+  "107356": {
+   "nombre": "Memoria us Kingston 128GB USB 3.0 DT Exodia S LATAM Blue Casing - KC-U3C128-7TB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "KCU3C128",
+   "url": "https://aeon.com.sv/shop/20209-memoria-us-kingston-128gb-usb-3-0-dt-exodia-s-latam-blue-casing-kc-u3c128-7tb-107356",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107356/image_256"
+  },
+  "107358": {
+   "nombre": "Kingston 128GB USB-A + USB-C 3.2 Gen 1 DataTraveler DuoG2 - DTDEG2/128GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "DTDEG2",
+   "url": "https://aeon.com.sv/shop/20211-kingston-128gb-usb-a-usb-c-3-2-gen-1-datatraveler-duog2-dtdeg2-128gb-107358",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 17.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107358/image_256"
+  },
+  "107166": {
+   "nombre": "MSI Geforce RTX 3050 LP 6G OC, VC661MSI98",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "VC661MSI98",
+   "url": "https://aeon.com.sv/shop/20025-msi-geforce-rtx-3050-lp-6g-oc-vc661msi98-107166",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:47:15-06:00",
+     "precio": 359.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107166/image_256"
   }
  }
 }

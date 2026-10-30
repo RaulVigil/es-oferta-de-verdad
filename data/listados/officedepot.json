@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-10-29T12:44:37-06:00",
+ "actualizado": "2026-10-29T17:52:02-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -1611,7 +1611,7 @@
    "modelo": "15FC0287LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0287LA---RYZEN-7---8GB---512GB---WIN-11-H/p/1301000722",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-28",
+   "ultima_vez": "2026-10-29",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -1623,6 +1623,14 @@
     },
     {
      "fecha": "2026-10-28T12:38:35-06:00",
+     "precio": 775.0,
+     "precio_lista": 1069.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
      "precio": 775.0,
      "precio_lista": 1069.0,
      "disponible": true,
@@ -7644,6 +7652,1179 @@
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000588.jpg?context=bWFzdGVyfHJvb3R8MjAyNTB8aW1hZ2UvanBlZ3xhR1l6TDJoak5pOHhNekl6TVRRNU1USTROVEF5TWk4ek1EQm1kSGRmTVRNeE1EQXdNRFU0T0M1cWNHY3xlNWQ2YzY3ZGNmYzRkMTNhZjMwMmRiNDMwYmM3OWY0MGRkODNjMDhhNTdlMDEyMjY5M2Y4MTYxMTkyODllMThh"
+  },
+  "1305000140": {
+   "nombre": "Memoria Maxell USB Tipo Llavero 64 GB Azul USBK-64 Blue",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "USBK64",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-MAXELL-USB-TIPO-LLAVERO-64-GB-AZUL-USBK-64-BLUE/p/1305000140",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/31731.jpg-300ftw?context=bWFzdGVyfHJvb3R8MTMwMjV8aW1hZ2UvanBlZ3xhR05tTDJobFlpODVOekkzTWpJNU5USTJNRFEyTG1wd1p3fGQ5MWYwNTdhMjc5MTI5ZDBjZmI1NmMwYmEzMjA4NjIyNTExYzQyZmE0MzIyM2NiN2RmMjc2MmI2Y2MyMTRiMTI"
+  },
+  "1305000033": {
+   "nombre": "Memoria Adata Micro SD 512GB AUSDX512GUI3V30",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ADATA",
+   "modelo": "AUSDX512GUI3V30",
+   "url": "https://www.officedepot.com.sv/Almacenamiento/MEMORIA-ADATA-MICRO-SD-512GB-AUSDX512GUI3V30/p/1305000033",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 89.4,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000033.jpg?context=bWFzdGVyfHJvb3R8NDYxMDl8aW1hZ2UvanBlZ3xhRFppTDJoalpTOHhNamMwTXpnME5qQXdNamN4T0M4ek1EQm1kSGRmTVRNd05UQXdNREF6TXk1cWNHY3w2MDNkMWUyYjQ0Y2RkMWVjZDBjZmZjNmNjMzk2NTFlYTc2N2JlNDFjMmFiZmZhMWMzYTYyNTUyNzg2OGUzMjk0"
+  },
+  "1305000052": {
+   "nombre": "Memoria Kingston USB 128GB DTX/128GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-KINGSTON-USB-128GB-DTX-128GB/p/1305000052",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000052.jpg?context=bWFzdGVyfHJvb3R8MzM3ODd8aW1hZ2UvanBlZ3xhRGt3TDJnMk15OHhNamN6TWpJMU1UWXpOVGMwTWk4ek1EQm1kSGRmTVRNd05UQXdNREExTWk1cWNHY3xjYTU0N2YxM2QyOGM0MWNkMzQ4NzVhNzZjMTE0MDAxNTc4ZTE1N2RjODkxZTE3MmE0ZWJlYjE1Y2UxNTkwNWUz"
+  },
+  "1305000071": {
+   "nombre": "Memoria Sandisk USB 64 GB SDCZ430-064G-G4",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDCZ430064G",
+   "url": "https://www.officedepot.com.sv/Almacenamiento/MEMORIA-SANDISK-USB-64-GB-SDCZ430-064G-G4/p/1305000071",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 16.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/36228.jpg-300ftw?context=bWFzdGVyfHJvb3R8Mzg0MzV8aW1hZ2UvanBlZ3xhRE5sTDJoaU1TOHhNVFl6TlRFMk5UUXlPVGM1TUM4ek5qSXlPQzVxY0dkZk16QXdablIzfGRhYjg1ZGZjYjlkZGM3ODEyOGExZTFkNmNiZjExNzFhYWQ4NDBhZTIyYmM4NWYyNzhjYTIzOGVmMDM2ZjMxYWE"
+  },
+  "1305000057": {
+   "nombre": "Memoria Kingston USB 64GB DTXM/64GB",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-KINGSTON-USB-64GB-DTXM-64GB/p/1305000057",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000057.jpg?context=bWFzdGVyfHJvb3R8MzkxMDJ8aW1hZ2UvanBlZ3xhR001TDJnek1TOHhNalEzTlRrd01USXhORGMxTUM4ek1EQm1kSGRmTVRNd05UQXdNREExTnk1cWNHY3wzMzBmZmY4OTYyYzc2OGEyOGM1ZThjMWMzMzYwYjc0NTY2ZmQ5NDlhY2FkNzFlNTM3NDcxMDZmZTYyMDNkYmJk"
+  },
+  "1305000003": {
+   "nombre": "Memoria Maxell Micro SD 128 GB 348156",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAXELL",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/SD%C2%B4s-y-micro-SD%C2%B4S/MEMORIA-MAXELL-MICRO-SD-128-GB-348156/p/1305000003",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 53.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000003.jpg?context=bWFzdGVyfHJvb3R8NTQ4Njd8aW1hZ2UvanBlZ3xhREZtTDJnM09TOHhNamMwTXpnME5UWXdPVFV3TWk4ek1EQm1kSGRmTVRNd05UQXdNREF3TXk1cWNHY3xmNTYzMDI4MDIxZDE0ZDk0OWRkODk0OGIzYmVkNDA4MjMyM2RjNDhhZjJlMjcxZDZkMDBjMWNjZTc0ZDc2ZWYy"
+  },
+  "1301000116": {
+   "nombre": "Tablet Samsung A8 10.5 LTE 10.5\"",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Android/TABLET-SAMSUNG-A8-10-5-LTE/p/1301000116",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 255.0,
+     "precio_lista": 340.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37643.jpg-300ftw?context=bWFzdGVyfHJvb3R8NDA2MTN8aW1hZ2UvanBlZ3xhRFk0TDJnM01DOHhNVGswTVRFd05UWTJOREF6TUM4ek56WTBNeTVxY0dkZk16QXdablIzfDA5NmNhNWYxYmU0M2Y3N2U3MGI0NTI4MTViNmQ0ZDE1ZDgyNjhjZTA3NTMyZjJmNDYwZTFkMzNkZjA2N2NkMjA"
+  },
+  "1303000566": {
+   "nombre": "Camara WEB Logitech 960-001440",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/C%C3%A1maras-web/CAMARA-WEB-LOGITECH-960-001440/p/1303000566",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 82.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000566.jpg?context=bWFzdGVyfHJvb3R8MjM0MDR8aW1hZ2UvanBlZ3xhRFJsTDJobVl5OHhNalEwTWpFek5ETTRNRFUzTkM4ek1EQm1kSGRmTVRNd016QXdNRFUyTmk1cWNHY3xjMTNhYjQ3ZGZjNzVkODZlZDM1NmJhYjVlMjA0ZWYwMjIzNzVkZTFlZGY2YmY0M2M4MjYzODUwN2EyNDZiZjNi"
+  },
+  "1303000568": {
+   "nombre": "Camara WEB 960-001446",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/C%C3%A1maras-web/CAMARA-WEB-960-001446/p/1303000568",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 93.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000568.jpg?context=bWFzdGVyfHJvb3R8Mjg2Nzd8aW1hZ2UvanBlZ3xhR016TDJneU9DOHhNalEwTWpFME1ESTNPRGd4TkM4ek1EQm1kSGRmTVRNd016QXdNRFUyT0M1cWNHY3wyZTljNDA5YjM2ZjYyOGQzOWE1NjRhMTdiYWE2MTJmOTJjYTYxNjZhN2E1NmQ0NTU3ZTYxNzM0OTBhMDI4Y2Q3"
+  },
+  "1303000567": {
+   "nombre": "Camara WEB Logitech 960-001413",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/C%C3%A1maras-web/CAMARA-WEB-LOGITECH-960-001413/p/1303000567",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 82.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000567.jpg?context=bWFzdGVyfHJvb3R8MzE5Nzl8aW1hZ2UvanBlZ3xhRFEzTDJnME55OHhNalEwTWpFek56VXlOak13TWk4ek1EQm1kSGRmTVRNd016QXdNRFUyTnk1cWNHY3wwZjY5ODRlNTg5YTk5YjIxNjY1NWU5ZjlhNjZlYmI5OWUxNGUyZGJmNWFiZDgyMmIyYmUzNzBlNzJkMTE3ODM0"
+  },
+  "1303000651": {
+   "nombre": "Webcam Razer Kiyo X USB",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/C%C3%A1maras-web/WEBCAM-RAZER-KIYO-X-USB/p/1303000651",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 94.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000651.jpg?context=bWFzdGVyfHJvb3R8NDI0MzF8aW1hZ2UvanBlZ3xhR0V6TDJnNU1TOHhNalF6TWpFM01ESTROekV6TkM4ek1EQm1kSGRmTVRNd016QXdNRFkxTVM1cWNHY3w1MTU4YmYxMWFiZTIzYmYzYjIyYTRhMmI1ZjVhYWJlMmVhNTAxN2ExOWVjMGZkNjMyMDU3MjNkMzdjZmJlMDY3"
+  },
+  "1305000276": {
+   "nombre": "Memoria USB Kingston 64GB DT Exodia M Dtxm Neon Aqua Blue",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-64GB-DT-EXODIA-M-DTXM-NEON-AQUA-BLUE/p/1305000276",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000276.jpg?context=bWFzdGVyfHJvb3R8Mzg0MDB8aW1hZ2UvanBlZ3xhRGRsTDJoak1TOHhNalUxTVRRNE5qZzVPREl3Tmk4ek1EQm1kSGRmTVRNd05UQXdNREkzTmk1cWNHY3wyZDc3ZGFiMWU1ZTFlNzZiMzZmNjFiM2Y1NDYwYmQ0MmM4NDU1ZjBmOTJjY2I0NDBlYjg2YjhjMzg2MTlmMWMw"
+  },
+  "1305000277": {
+   "nombre": "Memoria USB Kingston 64GB DT Exodia M Latam Dtxm Neon Pink",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-64GB-DT-EXODIA-M-LATAM-DTXM-NEON-PINK/p/1305000277",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000277.jpg?context=bWFzdGVyfHJvb3R8MzQ5NTd8aW1hZ2UvanBlZ3xhR05rTDJnM09DOHhNalUxTVRRNE9EUTNNVEEzTUM4ek1EQm1kSGRmTVRNd05UQXdNREkzTnk1cWNHY3xjMTczYzMyMjVjZTNiOWVjYmYxM2YwZjVmOTExMDZhYjhiYjQ2MmZmMzdmMzk4NjU5MThlNzM1ODRkNDQ2NmVm"
+  },
+  "1305000280": {
+   "nombre": "Memoria USB Kingston 128GB 3.2 DT Exodia Latam DTX -WHITE",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-128GB-3-2-DT-EXODIA-LATAM-DTX--WHITE/p/1305000280",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000280.jpg?context=bWFzdGVyfHJvb3R8MjY0ODJ8aW1hZ2UvanBlZ3xhREkyTDJnek1pOHhNalUxTVRRNU1qQXhNREF4TkM4ek1EQm1kSGRmTVRNd05UQXdNREk0TUM1cWNHY3xhYWM5YmMyMDQ5ZGZhZDkyZGNmZDk3MTNiMDdlYWZkYmE2NmQyNGZjYzNmYzViOGU5MWU1ZTFmMjE3NzJlODBi"
+  },
+  "1305000279": {
+   "nombre": "Memoria USB Kingston 64 DT Exodia M Dtxm Neon Green",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-64-DT-EXODIA-M-DTXM-NEON-GREEN/p/1305000279",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000279.jpg?context=bWFzdGVyfHJvb3R8MzU2NDh8aW1hZ2UvanBlZ3xhRGN6TDJnNE55OHhNalUxTVRRNU1UWXhOamM1T0M4ek1EQm1kSGRmTVRNd05UQXdNREkzT1M1cWNHY3wyYWFhNDhhYTU4YTY4YzY0Y2RkZjc3OGNjMGIwY2VhOTI5NDBhMGNjM2ZiZWMwMmIzYzVlODBkN2JlMDQwNDM2"
+  },
+  "1305000278": {
+   "nombre": "Memoria USB Kingston 64GB DT Exodia M Dtxm Neon Purple",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-64GB-DT-EXODIA-M-DTXM-NEON-PURPLE/p/1305000278",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000278.jpg?context=bWFzdGVyfHJvb3R8MzcyMjh8aW1hZ2UvanBlZ3xhRGszTDJobVlTOHhNalUxTVRRNU1EQTBNemt6TkM4ek1EQm1kSGRmTVRNd05UQXdNREkzT0M1cWNHY3xhNmQyNWYzYmFiZDFlYmE5YmRhYmM5MGYxMjJmYTlhM2YwMDI4ZDdjZWExNWJjMTk4YTYwZTU0NDU5NzNlMjA4"
+  },
+  "1305000283": {
+   "nombre": "Memoria USB Kingston 128GB 3.2 DT Exodia M Latam Dtxm Neon Pink",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-128GB-3-2-DT-EXODIA-M-LATAM-DTXM-NEON-PINK/p/1305000283",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000283.jpg?context=bWFzdGVyfHJvb3R8MjQ1OTR8aW1hZ2UvanBlZ3xhRFEwTDJoaFl5OHhNalUxTVRRNU5ETTJPVE14TUM4ek1EQm1kSGRmTVRNd05UQXdNREk0TXk1cWNHY3w1MjU0ZmQwODJiNTExYjYyMTFlMzcwOWI1MjNlZWE5OWExNGEwNmNhOTc1N2JhY2YxZGJmOWE5Nzc4NzU2Yzdi"
+  },
+  "1305000281": {
+   "nombre": "Memoria USB Kingston 128GB 3.2 DT Exodia M Neon Aqua Blue",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-128GB-3-2-DT-EXODIA-M-NEON-AQUA-BLUE/p/1305000281",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1305000281.jpg?context=bWFzdGVyfHJvb3R8MzgyMzB8aW1hZ2UvanBlZ3xhRFZqTDJneE9TOHhNalUxTVRRNU1qYzVOalEwTmk4ek1EQm1kSGRmTVRNd05UQXdNREk0TVM1cWNHY3wzNGIwOTkwNTA1Yzg4OWJiN2FjYjVkMmE0NDFhZWQ1NzY1MGYzYThlYTkxNDZlODZlNDk2NWI2MWE5NmY4ZGE0"
+  },
+  "1301000316": {
+   "nombre": "Tablet Multilaser Barbie",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MULTILASER",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Android/TABLET-MULTILASER-BARBIE/p/1301000316",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000316.jpg?context=bWFzdGVyfHJvb3R8NTIzMDF8aW1hZ2UvanBlZ3xhRGhtTDJnNFlTOHhNamMyT1RrMk5EQTJORGM1T0M4ek1EQm1kSGRmTVRNd01UQXdNRE14Tmk1cWNHY3xlYmNhZjk0M2Q5MzBkNjUxNDUwYzFiMGE4NzIwNGQ5ZThlOGU2NjdmODk3ZjI1NTEzMTcwMTI2ZTViYzAyMGY0"
+  },
+  "1301000662": {
+   "nombre": "Computadora Laptop Lenovo Touch Ryzen AI 7 - 16GB - 512GB - WIN 11 H 14\"",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LENOVO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-LENOVO-TOUCH-RYZEN-AI-7---16GB---512GB---WIN-11-H/p/1301000662",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 1699.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000662.jpg?context=bWFzdGVyfHJvb3R8MzY2NjV8aW1hZ2UvanBlZ3xhR1psTDJnek5pOHhNekF4TURBeU1Ea3lOVFEzTUM4ek1EQm1kSGRmTVRNd01UQXdNRFkyTWk1cWNHY3xhZGIwOGZhYzM3MjljNDFiZGVlMzgxODc5NzhmMWU4MTkwMjIwYTYyZTVjZmM5Mzk3YzNmMDM2N2FkOGVjOTY1"
+  },
+  "1301000675": {
+   "nombre": "Tableta TCL 11 - 8GB - 128GB",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Tablets/TABLETA-TCL-11---8GB---128GB/p/1301000675",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 245.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000675.jpg?context=bWFzdGVyfHJvb3R8MjM5MDR8aW1hZ2UvanBlZ3xhR00xTDJoak5TOHhNekV3TmpNeE5USTVOamM1T0M4ek1EQm1kSGRmTVRNd01UQXdNRFkzTlM1cWNHY3wxOTExODRhMjM2M2IyZTFjMTI0NTdkZTY0OGY3MjQ1ZDRkMzc2ZTE3MmY2NThlNGQyNTRhYzc3MTc4NzFhYzI1"
+  },
+  "1301000676": {
+   "nombre": "Tableta TCL 11.5 Nextpaper 8GB - 256GB",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Tablets/TABLETA-TCL-11-5-NEXTPAPER-8GB---256GB/p/1301000676",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 315.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000676.jpg?context=bWFzdGVyfHJvb3R8MjkxMDF8aW1hZ2UvanBlZ3xhRFExTDJoaVl5OHhNekV3TmpNeE5qZzJPVFkyTWk4ek1EQm1kSGRmTVRNd01UQXdNRFkzTmk1cWNHY3xkZjU5NWYyZTUwMzZmNzRmM2ZiOTg5OTAyZGYyYjcxNGM5NWYwODExYWZkZGU1NDUzM2M3NTlmYzgwY2IxYzlm"
+  },
+  "1301000727": {
+   "nombre": "Computadora Laptop HP Victus 15-FB3018LA Ryzen 7 - 8GB - 512GB - WIN 11 H 15.6\"",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15FB3018LA",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-VICTUS-15-FB3018LA-RYZEN-7---8GB---512GB---WIN-11-H/p/1301000727",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 1465.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000727.jpg?context=bWFzdGVyfHJvb3R8Mzc1OTV8aW1hZ2UvanBlZ3xhREU0TDJnNVlpOHhNekl4T0RZNE5qTTJPVGd5TWk4ek1EQm1kSGRmTVRNd01UQXdNRGN5Tnk1cWNHY3w0MTA2NjllOTY0MjE5MjVjMDUwZDNhODdjNWY3ZWE2ZmY3ZWM0NGVkNzNmZWVhMTlkZjg1OWM2NDljYTEzMGQ1"
+  },
+  "1301000731": {
+   "nombre": "Computadora Laptop HP 15-FC0372LA Ryzen 7 - 16GB - 512GB - WIN 11 H",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15FC0372LA",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0372LA-RYZEN-7---16GB---512GB---WIN-11-H/p/1301000731",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 1220.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000731.jpg?context=bWFzdGVyfHJvb3R8NTE4ODR8aW1hZ2UvanBlZ3xhRFl6TDJnM09DOHhNekl4TkRjMU1UYzFNakl5TWk4ek1EQm1kSGRmTVRNd01UQXdNRGN6TVM1cWNHY3w3ZGQxMTYxMDRkYzNiNGY1ZTdkMjA4ZDYwZmM3NTc4YmFlYjcyZjU2NWI1MDMxNzRmNzk0YzU0MjU5Nzc4Mzlk"
+  },
+  "1301000575": {
+   "nombre": "Tablet Lenovo TAB 10.1 FHD",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LENOVO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Android/TABLET-LENOVO-TAB-10-1-FHD/p/1301000575",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 239.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000575.jpg?context=bWFzdGVyfHJvb3R8Mzk4ODl8aW1hZ2UvanBlZ3xhRE0zTDJoaE5pOHhNekkyTXpZMk9UZzFOREl6T0M4ek1EQm1kSGRmTVRNd01UQXdNRFUzTlM1cWNHY3wwMWQ3YzY0NWVhMTlhOGZhZjM2YWNhMDMwYTc2MjJjMDA5YmFhOTBiZmE3NWE1NWE1ZWJkYmQ4OTYzOTRkNjI1"
+  },
+  "1301000632": {
+   "nombre": "Computadora Laptop HP 15-FC0276LA - Ryzen 7 - 16GB - 1TB - WIN 11H 15.6\"",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "15FC0276LA",
+   "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0276LA---RYZEN-7---16GB---1TB---WIN-11H/p/1301000632",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 1345.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000632.jpg?context=bWFzdGVyfHJvb3R8Mjg1NjN8aW1hZ2UvanBlZ3xhREZpTDJnNU9DOHhNamt4TlRZeU5EZ3dORE00TWk4ek1EQm1kSGRmTVRNd01UQXdNRFl6TWk1cWNHY3xmOGU3MTE4YjY3Y2Q0ZDRlMTNkYjdhOGY2MWQzZGRlZTQ5MTZlZDdhZjQ5NzU4ZDFjOGExOGNkZTE2YmM0ZGU5"
+  },
+  "1310000193": {
+   "nombre": "Bocina Portatil T&G YH-TG-365 Bluetooth",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-PORTATIL-T%26G-YH-TG-365-BLUETOOTH/p/1310000193",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 20.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-37980.jpg?context=bWFzdGVyfHJvb3R8Mzk3MDl8aW1hZ2UvanBlZ3xhRFV5TDJneFlTOHhNakkyT0RJek5EZzVPVFE0Tmk4ek1EQm1kSGRmTXpjNU9EQXVhbkJufGVjNGZiM2E0MDY0MDYwZGQ3NTI4OGY2ZGM5NjBlMzIyODhiYmJmZjg4OTZmNjA2Mjg5MWQzZmIwYzI1MzFlOTc"
+  },
+  "1310000202": {
+   "nombre": "Bocina Bluetooth Klip KBS200BK",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KBS200BK",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-BLUETOOTH-KLIP-KBS200BK/p/1310000202",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 35.2,
+     "precio_lista": 44.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000202.jpg?context=bWFzdGVyfHJvb3R8MjgxMDl8aW1hZ2UvanBlZ3xhRE5oTDJneFlpOHhNak01TkRnME5URTNOVGd6T0M4ek1EQm1kSGRmTVRNeE1EQXdNREl3TWk1cWNHY3xmYjUyOTMxM2RhNTFjMTkxZjNkNmRhMzYwNGZkZTgyMjQ5NWZhMjAxMjkzZTcxYmFlZThmZjQ1NzQ3N2NjNjYw"
+  },
+  "1310000203": {
+   "nombre": "Bocina Bluetooth Klip KBS200BL",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KBS200BL",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-BLUETOOTH-KLIP-KBS200BL/p/1310000203",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 35.2,
+     "precio_lista": 44.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000203.jpg?context=bWFzdGVyfHJvb3R8NjcyMjJ8aW1hZ2UvanBlZ3xhREpqTDJnMU5TOHhNak01TkRnME5qTTFOVFE0Tmk4ek1EQm1kSGRmTVRNeE1EQXdNREl3TXk1cWNHY3xhYWFlZTg3ZDYxOGFmMzMwMTk1MDhlMjAwYTg5OGI2ZTM5NzRiNjI2MDQzMTkzNzE3YTliZTcyMWJmOTEzN2M0"
+  },
+  "1310000205": {
+   "nombre": "Bocina Bluetooth Klip KBS300BK",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KBS300BK",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-BLUETOOTH-KLIP-KBS300BK/p/1310000205",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 46.4,
+     "precio_lista": 58.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000205.jpg?context=bWFzdGVyfHJvb3R8MjAxNzV8aW1hZ2UvanBlZ3xhREExTDJoallTOHhNak01TkRnME9EY3hORGM0TWk4ek1EQm1kSGRmTVRNeE1EQXdNREl3TlM1cWNHY3xlMjdiZGJlMGJiMjc4NjkwNDYyNjQ3ZWRkOWMwZTk0NjhjY2ExMTNmNWVhZmM2OWEzMDIyNGZiY2ZkNTkwYjhj"
+  },
+  "1310000204": {
+   "nombre": "Bocina Bluetooth Klip KBS200RD",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KBS200RD",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-BLUETOOTH-KLIP-KBS200RD/p/1310000204",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 35.2,
+     "precio_lista": 44.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000204.jpg?context=bWFzdGVyfHJvb3R8NjUyNTF8aW1hZ2UvanBlZ3xhRGswTDJoak5TOHhNak01TkRnME56VXpOVEV6TkM4ek1EQm1kSGRmTVRNeE1EQXdNREl3TkM1cWNHY3w4YmEwM2FkMzg4NGFlMTllYjlkYzJlOGI0OGYzODVlNzk3MTczZTNjMTBjNDRkNjdhODQ4YTM0ZDVlMTFhMzM0"
+  },
+  "1310000141": {
+   "nombre": "Bocina Klipx Vibe 360 Negra KBS-800",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KBS800",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-KLIPX-VIBE-360-NEGRA-KBS-800/p/1310000141",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 95.2,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/34154.jpg-300ftw?context=bWFzdGVyfHJvb3R8NzMxMHxpbWFnZS9qcGVnfGFHTmtMMmhrWlM4eE1ESXlOVEl6TWpFMU1EVTFPQzh6TkRFMU5DNXFjR2RmTXpBd1puUjN8MmRmYjk5ZmJlNTlkNDMzNDRhZTFiZDNjYjQzNWY3Zjg3ZjljN2M4ZWUyZjkxMTBlYmZkOGY1OWUwNzhlNzFjZQ"
+  },
+  "1310000138": {
+   "nombre": "Bocina Klipx Nitro Verde KBS-025GN",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KBS025GN",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-KLIPX-NITRO-VERDE-KBS-025GN/p/1310000138",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 37.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/34157.jpg-300ftw?context=bWFzdGVyfHJvb3R8NTQ4MTR8aW1hZ2UvanBlZ3xhRGxqTDJoaU55OHhNREl5TlRJek16RXpNelU1T0M4ek5ERTFOeTVxY0dkZk16QXdablIzfDA2NDIzZjI4ZjkxMzU3NjdmZTcxOWVjZTIyM2QyODU4ZmRhYTE5ZTdlZjhhYWI3YTUyZDU2ZjZmZTEyMjY3NzQ"
+  },
+  "1303000169": {
+   "nombre": "Bocina Amazon Echo DOT 5 Color Azul Alexa",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AMAZON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AMAZON-ECHO-DOT-5-COLOR-AZUL-ALEXA/p/1303000169",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37072.jpg-300ftw?context=bWFzdGVyfHJvb3R8NDMwMjh8aW1hZ2UvanBlZ3xhREpoTDJnMVpDOHhNVFV6TWpJNE5UQTFNRGt4TUM4ek56QTNNaTVxY0dkZk16QXdablIzfDQ3Yjc5ZmU0NThkYjJkOGZhMTY4MGJhYTg5ZGMxNWRjZTdiNTQzZWZiNWQ5OTk0YTIyOTAyODdlMzQzMTM5YmQ"
+  },
+  "1308000070": {
+   "nombre": "Proyector Spectra YG361",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SPECTRA",
+   "modelo": "YG361",
+   "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/PROYECTOR-SPECTRA-YG361/p/1308000070",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 179.6,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37563.jpg-300ftw?context=bWFzdGVyfHJvb3R8MjQ1NzJ8aW1hZ2UvanBlZ3xhRFU0TDJoaFppOHhNakU0TlRJME9UZzNNemsxTUM4ek56VTJNeTVxY0dkZk16QXdablIzfDU0MzczYjJiNTdhZGY5Y2ZmM2IxMWZlOTI0YmFhYTg4ZjBlZmM5OTY5MzVmMTdiNDI5ZGExMTgyYTIxNmEyZTI"
+  },
+  "1308000065": {
+   "nombre": "Proyector Spectra ES01",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SPECTRA",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/PROYECTOR-SPECTRA-ES01/p/1308000065",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 199.5,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-37561.jpg?context=bWFzdGVyfHJvb3R8MjIyMTF8aW1hZ2UvanBlZ3xhREk0TDJnME5TOHhNakk1TWpVek1EWTJOelUxTUM4ek1EQm1kSGRmTXpjMU5qRXVhbkJufGY1Zjk4MGE3Nzc1MDhkNTY0NzAwNWJiNDJjYjMwYWRiMjk4Njk3YmFhNDcxYjVhYjQyZDc0MDAzYjM2NjllZmU"
+  },
+  "1310000125": {
+   "nombre": "Bocina Aiwa Inalambrica a Prueba de AGUA, Color Rojo AWKF3R",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AIWA",
+   "modelo": "AWKF3R",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AIWA-INALAMBRICA-A-PRUEBA-DE-AGUA%2C-COLOR-ROJO-AWKF3R/p/1310000125",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37595.jpg-300ftw?context=bWFzdGVyfHJvb3R8NzE2MTV8aW1hZ2UvanBlZ3xhRE5tTDJoaVpTOHhNVGt6T1RNek56YzJORGc1TkM4ek56VTVOUzVxY0dkZk16QXdablIzfDMxNWU3ZmIwZWUwZjhmNzlhYTg1ZDEyYTU4YTU5ZDQ4MjUwMmUwOGE3ZTM5MGEwNWE0MTRmNjQzOTVkODMwYmM"
+  },
+  "1310000126": {
+   "nombre": "Bocina Aiwa Inalambrica a Prueba de AGUA, Color Negro AWKF3B",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AIWA",
+   "modelo": "AWKF3B",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AIWA-INALAMBRICA-A-PRUEBA-DE-AGUA%2C-COLOR-NEGRO-AWKF3B/p/1310000126",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37596.jpg-300ftw?context=bWFzdGVyfHJvb3R8MzkzMjh8aW1hZ2UvanBlZ3xhRFprTDJnd01pOHhNVGt6T1RNek9UQTNOVFl4TkM4ek56VTVOaTVxY0dkZk16QXdablIzfDIxNmRkZWExNWVjODEyMjFiNGEzNGJhM2IzNzk1NDAxOWRmZDdhYTVlZDBmZWI3NmQyNmUzZDIwOGE3MDg5N2U"
+  },
+  "1310000128": {
+   "nombre": "Bocina Aiwa BLUETOOTH, PORTATIL, Impermeable AWF20BT",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AIWA",
+   "modelo": "AWF20BT",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AIWA-BLUETOOTH%2C-PORTATIL%2C-IMPERMEABLE-AWF20BT/p/1310000128",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 40.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37598.jpg-300ftw?context=bWFzdGVyfHJvb3R8NDY3MjV8aW1hZ2UvanBlZ3xhRFkyTDJnNE1TOHhNVGt6T1RNME1UQTBNVFk1TkM4ek56VTVPQzVxY0dkZk16QXdablIzfDI0NTcyMzA0M2ZhOWY1MWNlYWQxODE2NDQxMWY1OGJlNTA5MjA2N2VmOGIxZTViZGU0ODVlY2UxOWRlODZjYTA"
+  },
+  "1310000186": {
+   "nombre": "Bocina Portatil T&G YH-ZQS4259",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNIVERSAL",
+   "modelo": "YHZQS4259",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-PORTATIL-T%26G-YH-ZQS4259/p/1310000186",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 23.0,
+     "precio_lista": null,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000186.jpg?context=bWFzdGVyfHJvb3R8MzIzMTJ8aW1hZ2UvanBlZ3xhRGcyTDJoaFpTOHhNak0zTURRM05ERXdOamt4TUM4ek1EQm1kSGRmTVRNeE1EQXdNREU0Tmk1cWNHY3xmMDRiYTc4YTA1MDBlMDdkYWZjMGVjZDU3YWU1MWM2ZmU0N2RjNzVkYmY1OGQwOTRkOWE3NjdlOTNiMjQ5Mjgy"
+  },
+  "1310000195": {
+   "nombre": "Bocina Portatil T&G Bluetooth",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNIVERSAL",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-PORTATIL-T%26G-BLUETOOTH/p/1310000195",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 20.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/37982.png-300ftw?context=bWFzdGVyfHJvb3R8NzE2MzZ8aW1hZ2UvcG5nfGFHUTBMMmcxWVM4eE1qRTROemt3TlRrNE1qUTVOQzh6TnprNE1pNXdibWRmTXpBd1puUjN8MjJlMDQ1MGY2MGRhMzI5NjlhMjZlYmU5Mzk1MzFlODA1NThiZDk4YTAyMzdlNzBmNDFlZWQ5MGU2MGZlM2Q5Zg"
+  },
+  "1310000315": {
+   "nombre": "Bocina Portatil T G YH-TG-369",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "T G",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-PORTATIL-T-G-YH-TG-369/p/1310000315",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 21.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000315.jpg?context=bWFzdGVyfHJvb3R8MjI5NTh8aW1hZ2UvanBlZ3xhR1pqTDJnMk55OHhNalV6TVRFM01qSXhNamMyTmk4ek1EQm1kSGRmTVRNeE1EQXdNRE14TlM1cWNHY3w0NDE4NzU1ZjcwZjUyNThkNjg0ZjgyM2E5ODM4M2E5MmI0M2I0ZWFkMjc2NWMxYzA4YTdhOTZjNTIzYzU2MDBl"
+  },
+  "1303000602": {
+   "nombre": "Bocina INALAMBRICA, I2GO. 10W",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-INALAMBRICA%2C-I2GO-10W/p/1303000602",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 32.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303000602.jpg?context=bWFzdGVyfHJvb3R8MzYzOTR8aW1hZ2UvanBlZ3xhR1F5TDJobE1pOHhNalF6TWpFMU16YzNNakEyTWk4ek1EQm1kSGRmTVRNd016QXdNRFl3TWk1cWNHY3wyZTk4YThlMGM4ZWRlN2U1YmYxNGQzODcxNmQ0Mjk2M2VkZDE3ZDcxNWI4N2ViNGNlMGNjOGY5ZTZkYWYxNzJm"
+  },
+  "1303001219": {
+   "nombre": "Bocina Amazon Echo Show 5, 3RD GEN, Charcoal",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AMAZON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AMAZON-ECHO-SHOW-5%2C-3RD-GEN%2C-CHARCOAL/p/1303001219",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 82.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303001219.jpg?context=bWFzdGVyfHJvb3R8NDAzODR8aW1hZ2UvanBlZ3xhRGRpTDJnd1ppOHhNalV4TmpJd05ETXhORFkxTkM4ek1EQm1kSGRmTVRNd016QXdNVEl4T1M1cWNHY3wzMjQzY2QwNDRkNGUyMTQ0ZjY3MDZiMzZkYzU5Y2VjYWJhZjczYTlmOWIyMzcxZWVlMzllMzdmNDNmZDA5MzA2"
+  },
+  "1303001220": {
+   "nombre": "Bocina Amazon Echo Show 5, 3RD GEN, Cloud Blue",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AMAZON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AMAZON-ECHO-SHOW-5%2C-3RD-GEN%2C-CLOUD-BLUE/p/1303001220",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303001220.jpg?context=bWFzdGVyfHJvb3R8Mzk5MDJ8aW1hZ2UvanBlZ3xhR016TDJoa1lpOHhNalV4TmpJd056QTJOekUyTmk4ek1EQm1kSGRmTVRNd016QXdNVEl5TUM1cWNHY3w4ZTQxZmNmODY2MDA3ZTI4ZmQyMWIzOGUwYjAyODk3ZmQ3ZjYxNWFhZDFlNjU0MTRmYmQxZmY2ZGQ4Y2I0MWFh"
+  },
+  "1303001221": {
+   "nombre": "Bocina Amazon Echo Show 5, 3RD GEN, Glacier White",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AMAZON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AMAZON-ECHO-SHOW-5%2C-3RD-GEN%2C-GLACIER-WHITE/p/1303001221",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 82.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303001221.jpg?context=bWFzdGVyfHJvb3R8MzczNzR8aW1hZ2UvanBlZ3xhREJoTDJnd05TOHhNalV4TmpJd09UUXlOalEyTWk4ek1EQm1kSGRmTVRNd016QXdNVEl5TVM1cWNHY3xjNTg4OWIzYTQ1NGRhYmFkODZjYjgxNDgwZmY0OGJmZjQ2ZjBlNjI4YTdjZjRmZDVlMzdmNjE2MDVlM2FmOTBl"
+  },
+  "1303001216": {
+   "nombre": "Bocina Amazon Echo DOT Kids Dragon",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AMAZON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-AMAZON-ECHO-DOT-KIDS-DRAGON/p/1303001216",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 79.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303001216.jpg?context=bWFzdGVyfHJvb3R8Njk2Mzh8aW1hZ2UvanBlZ3xhR0kxTDJoa1ppOHhNakkyTWpBek5qSTBNalEyTWk4ek1EQm1kSGRmTVRNd016QXdNVEl4Tmk1cWNHY3xkMjkyNzY1ZDFjMWFjNTk2MmRlOGQ0OGYwMmE3YzJkZTIzNTNjMzgyODk4NWFmZDFhZDk0MjQ4YzNhZTYxMGZj"
+  },
+  "1308000249": {
+   "nombre": "Bocina BT Argom Rave 75",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Equipos-de-sonido/BOCINA-BT-ARGOM-RAVE-75/p/1308000249",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1308000249.jpg?context=bWFzdGVyfHJvb3R8Mjg2NzR8aW1hZ2UvanBlZ3xhR05tTDJnMk1TOHhNamczTmpJd056WTROVFkyTWk4ek1EQm1kSGRmTVRNd09EQXdNREkwT1M1cWNHY3w5ZmQ1MDllMTY1YzU4MmVhNDM3Yjc1OTRiYjdkZTU3NGQ3NzkyMGM4MGVjMjVjMzJjNjJhYzNlZDM3NmUyZmFh"
+  },
+  "1310000584": {
+   "nombre": "Bocina Pequeña Inalambrica Coby para Fiesta",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CYBO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-PEQUE%C3%91A-INALAMBRICA-COBY-PARA-FIESTA/p/1310000584",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 60.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000584.jpg?context=bWFzdGVyfHJvb3R8MjU1NTh8aW1hZ2UvanBlZ3xhREF6TDJobU15OHhNekl6TVRRNE9Ea3lOVGN5Tmk4ek1EQm1kSGRmTVRNeE1EQXdNRFU0TkM1cWNHY3xiYzY2NzE5ZmUzMTMwNjE3MzYwM2IwMWI1YWM2YmM4NTg2NWJiNGVmZjE0Y2IxYzA0MzA2NWMwZTkwOGM3ZDcx"
+  },
+  "1310000585": {
+   "nombre": "Bocina Inalambrica Coby para Fiesta con 5 Modos LED",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CYBO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-INALAMBRICA-COBY-PARA-FIESTA-CON-5-MODOS-LED/p/1310000585",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 47.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000585.jpg?context=bWFzdGVyfHJvb3R8Mzg5NjJ8aW1hZ2UvanBlZ3xhREU1TDJnMk5DOHhNekl6TVRRNU1EUTVPRFU1TUM4ek1EQm1kSGRmTVRNeE1EQXdNRFU0TlM1cWNHY3w5MWE5ZmUxNGIxMTYzNzQ5NTkyYmI3YzA2MDRkZDY4YWNlMGRlNzEwOTRjYTc2OWRmNjFjMTEyMTJkMDg2MzBl"
+  },
+  "1308000290": {
+   "nombre": "Proyector Epson EF-30 Gris Full HD Smart Láser Portátil para Cine en Casa y Streaming",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EPSON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/Proyector-Epson-EF-30-Gris-Full-HD-Smart-L%C3%A1ser-Port%C3%A1til-para-Cine-en-Casa-y-Streaming/p/1308000290",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:52:02-06:00",
+     "precio": 659.0,
+     "precio_lista": 824.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1308000290.jpg?context=bWFzdGVyfHJvb3R8ODY3N3xpbWFnZS9qcGVnfGFERm1MMmhsTUM4eE16RXpNekV4TnpnME9UWXpNQzh6TURCbWRIZGZNVE13T0RBd01ESTVNQzVxY0djfDUzYTkzNjliYmEyZDY3ZTQ5Y2JkOGZjYjRlOWQzNjRmNGU4ZjQyNjU1NTVkYzc4MjEwZTJlYTEzZjAzMWQ1MjE"
   }
  }
 }

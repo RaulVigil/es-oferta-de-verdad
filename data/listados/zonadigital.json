@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-29T12:39:09-06:00",
+ "actualizado": "2026-10-29T17:46:53-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -2728,15 +2728,15 @@
   },
   "15420": {
    "nombre": "Smartwatch xiaomi redmi watch 6 pantalla amoled 2.07p 324ppi 60hz gps 5atm llamada por bluetooth 68699 negro 2000 nits hbm",
-   "categoria": "tv",
-   "tipo": "tv",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
    "pulgadas": 60,
    "medida": null,
    "marca": "XIAOMI",
    "modelo": "324PPI",
    "url": "https://zonadigitalsv.com/product/smartwatch-xiaomi-redmi-watch-6-pantalla-amoled-207p-324ppi-60hz-gps-5atm-llamada-por-bluetooth-68699-negro-2000-nits-hbm",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-20",
+   "ultima_vez": "2026-10-29",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:30:48-06:00",
@@ -2745,8 +2745,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a2b4239d9ccf.jpg"
   },
   "15419": {
    "nombre": "Kit teclado y mouse inalambrico hp 230 negro 18h24aa",
@@ -41039,6 +41048,4675 @@
     }
    ],
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ad8ee1374886.jpg"
+  },
+  "16102": {
+   "nombre": "Memoria microsd sandisk extreme pro 256gb u3 v30 4k sdsqxcj-256g-gs6ma-my",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSQXCJ256G",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-sandisk-extreme-pro-256gb-u3-v30-4k-sdsqxcj-256g-gs6ma-my",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 94.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ad8e38398e4a.jpg"
+  },
+  "16100": {
+   "nombre": "Memoria sd sandisk extreme go 128gb u3 v30 4k sdsdxgn-128g-gncin-my",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSDXGN128G",
+   "url": "https://zonadigitalsv.com/product/memoria-sd-sandisk-extreme-go-128gb-u3-v30-4k-sdsdxgn-128g-gncin-my",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ad8e14d5c0fc.jpg"
+  },
+  "16062": {
+   "nombre": "Barra de sonido  con subwoofer  2.1 thonet and vander kino bluetooth optico 3.5mm  140w rms hk096-03641-2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "THONET & VANDER",
+   "modelo": "HK09603641",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-con-subwoofer-21-thonet-and-vander-kino-bluetooth-optico-35mm-140w-rms-hk096-03641-2",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 159.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6acec22a2ac3d.jpg"
+  },
+  "16052": {
+   "nombre": "Disco duro externo toshiba 1tb canvio advance hdtca10xr3aa usb 3.2 verde",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TOSHIBA",
+   "modelo": "HDTCA10XR3AA",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-toshiba-1tb-canvio-advance-hdtca10xr3aa-usb-32-verde",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 139.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6acead3143e45.jpg"
+  },
+  "16038": {
+   "nombre": "Extensor de rango wifi tp-link ax1500 dualband re505x",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AX1500",
+   "url": "https://zonadigitalsv.com/product/extensor-de-rango-wifi-tp-link-ax1500-dualband-re505x",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 54.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ace5b0943cf3.jpg"
+  },
+  "15996": {
+   "nombre": "Tarjeta de video gigabyte windforce  rtx5050 8gb  gv-n5050wf2ocv2-8gd",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "GIGABYTE",
+   "modelo": "GVN5050WF2OCV2",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-gigabyte-windforce-rtx5050-8gb-gv-n5050wf2ocv2-8gd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 479.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6abc429b8f085.jpg"
+  },
+  "15979": {
+   "nombre": "Tarjeta de video msi gaming trio rtx5060 8gb gddr7 oce g5060-8gtcw  blanco",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G50608GTCW",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-gaming-trio-rtx5060-8gb-gddr7-oce-g5060-8gtcw-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 599.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6abadad69dbc0.jpg"
+  },
+  "15850": {
+   "nombre": "Tarjeta de video asus prime rtx5060ti 16gb gddr7 oce 90yv0mh2",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ASUS",
+   "modelo": "RTX5060TI",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-asus-prime-rtx5060ti-16gb-gddr7-oce-90yv0mh2",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 899.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6aa083dc179bb.jpg"
+  },
+  "15849": {
+   "nombre": "Tarjeta de video msi ventus 2x rtx5060 8gb gddr7 g5060-8v2cw blanco 912-v537-018",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G50608V2CW",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-ventus-2x-rtx5060-8gb-gddr7-g5060-8v2cw-blanco-912-v537-018",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 549.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6aa081acab504.jpg"
+  },
+  "15834": {
+   "nombre": "Bocina portatil bluetooth jbl grip ip68 hasta 14h 16w rms jblgripyeam amarillo",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-jbl-grip-ip68-hasta-14h-16w-rms-jblgripyeam-amarillo",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6aa0587e00606.jpg"
+  },
+  "15792": {
+   "nombre": "Memoria microsd sandisk 128gb ultra go sdsqxgn-128g-gn6mn",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSQXGN128G",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-sandisk-128gb-ultra-go-sdsqxgn-128g-gn6mn",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 44.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a90c370d9177.jpg"
+  },
+  "15791": {
+   "nombre": "Memoria microsd sandisk 256gb extreme go sdsqxgn-256g-gn6mn",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSQXGN256G",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-sandisk-256gb-extreme-go-sdsqxgn-256g-gn6mn",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a90c247d296b.jpg"
+  },
+  "15789": {
+   "nombre": "Memoria microsd sandisk 64gb ultra go sdsqxgn-064g-gn6mn",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSQXGN064G",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-sandisk-64gb-ultra-go-sdsqxgn-064g-gn6mn",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a90c00e808f2.jpg"
+  },
+  "15788": {
+   "nombre": "Memoria microsd sandisk 128gb ultra sdsqunr-128g-gn3ma",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSQUNR128G",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-sandisk-128gb-ultra-sdsqunr-128g-gn3ma",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a90bdfc6a46c.jpg"
+  },
+  "15787": {
+   "nombre": "Memoria sd sandisk ultra 128gb u1 c10 u1 sdsdunr-128g-gn3in",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSDUNR128G",
+   "url": "https://zonadigitalsv.com/product/memoria-sd-sandisk-ultra-128gb-u1-c10-u1-sdsdunr-128g-gn3in",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 34.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a90ba0ee3582.jpg"
+  },
+  "15786": {
+   "nombre": "Memoria sd sandisk ultra go 128gb u1 v10 sdsdugn-128g-gn6in",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SANDISK",
+   "modelo": "SDSDUGN128G",
+   "url": "https://zonadigitalsv.com/product/memoria-sd-sandisk-ultra-go-128gb-u1-v10-sdsdugn-128g-gn6in",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a90b68d4d706.jpg"
+  },
+  "15777": {
+   "nombre": "Tarjeta de video gigabyte windforce  rtx5060ti 8gb gddr7 gv-n506twf2oc-8gd",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "GIGABYTE",
+   "modelo": "GVN506TWF2OC",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-gigabyte-windforce-rtx5060ti-8gb-gddr7-gv-n506twf2oc-8gd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 649.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a905c744dc7d.jpg"
+  },
+  "15768": {
+   "nombre": "Dashcam vision frontal para vehiculo retrovison cd-b16",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "CDB16",
+   "url": "https://zonadigitalsv.com/product/dashcam-vision-frontal-para-vehiculo-retrovison-cd-b16",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 44.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8cbe890257f.jpg"
+  },
+  "15767": {
+   "nombre": "Dashcam vision frontal para vehiculo retrovison cd-y18",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "CDY18",
+   "url": "https://zonadigitalsv.com/product/dashcam-vision-frontal-para-vehiculo-retrovison-cd-y18",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8cbd59c0fd1.jpg"
+  },
+  "15766": {
+   "nombre": "Dashcam vision frontal para vehiculo retrovison cd-y17",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "CDY17",
+   "url": "https://zonadigitalsv.com/product/dashcam-vision-frontal-para-vehiculo-retrovison-cd-y17",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 19.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8cbb0896697.jpg"
+  },
+  "15763": {
+   "nombre": "Smartwatch xiaomi redmi watch 6 lite pantalla amoled 1.96p hasta 18d bat. llamada por bt hasta 1500 nits 5atm gnss gris acero 78275",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/smartwatch-xiaomi-redmi-watch-6-lite-pantalla-amoled-196p-hasta-18d-bat-llamada-por-bt-hasta-1500-nits-5atm-gnss-gris-acero-78275",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8c713289525.jpg"
+  },
+  "15762": {
+   "nombre": "Smartwatch xiaomi redmi watch 6 lite pantalla amoled 1.96p hasta 18d bat. llamada por bt hasta 1500 nits 5atm gnss negro 78276",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/smartwatch-xiaomi-redmi-watch-6-lite-pantalla-amoled-196p-hasta-18d-bat-llamada-por-bt-hasta-1500-nits-5atm-gnss-negro-78276",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8c713283c04.jpg"
+  },
+  "15761": {
+   "nombre": "Smartwatch xiaomi redmi watch 6 active pantalla amoled 1.85p hasta 18d bat. llamada por bt hasta 1200 nits 78278 naranja atardecer",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/smartwatch-xiaomi-redmi-watch-6-active-pantalla-amoled-185p-hasta-18d-bat-llamada-por-bt-hasta-1200-nits-78278-naranja-atardecer",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8c700979a48.jpg"
+  },
+  "15759": {
+   "nombre": "Smartwatch xiaomi redmi watch 6 active pantalla amoled 1.85p hasta 18d bat. llamada por bt hasta 1200 nits 78277 plateado matte",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/smartwatch-xiaomi-redmi-watch-6-active-pantalla-amoled-185p-hasta-18d-bat-llamada-por-bt-hasta-1200-nits-78277-plateado-matte",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8c6dcfafe0c.jpg"
+  },
+  "15758": {
+   "nombre": "Smartwatch xiaomi redmi watch 6 active pantalla amoled 1.85p hasta 18d bat. negro llamada por bt hasta 1200 nits 78279",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/smartwatch-xiaomi-redmi-watch-6-active-pantalla-amoled-185p-hasta-18d-bat-negro-llamada-por-bt-hasta-1200-nits-78279",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a8c6db2d5d36.jpg"
+  },
+  "15752": {
+   "nombre": "Camara de videovigilancia inalambrica exteriores tp-link tapo c660 4k panoramica 360 con  panel solar y bat de 10kmah",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-exteriores-tp-link-tapo-c660-4k-panoramica-360-con-panel-solar-y-bat-de-10kmah",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 149.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a85cf265433c.jpg"
+  },
+  "15741": {
+   "nombre": "Tarjeta de video msi gaming 3x rtx5060ti 8gb gddr7 g506t-8gtc.",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "RTX5060TI",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-gaming-3x-rtx5060ti-8gb-gddr7-g506t-8gtc",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 679.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a83aab7cec3d.jpg"
+  },
+  "15740": {
+   "nombre": "Tarjeta de video msi mlg edition rtx5070ti 16gb gddr7 oce g507t-16mec",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G507T16MEC",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-mlg-edition-rtx5070ti-16gb-gddr7-oce-g507t-16mec",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 1599.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a83a99dd2dc6.jpg"
+  },
+  "15718": {
+   "nombre": "Camara de videovigilancia wifi exteriores 360 panoramica doble lente nexxt nhc-fp50dl 2k ptz con panel de iluminacion de hasta 4000 lumens",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NHCFP50DL",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exteriores-360-panoramica-doble-lente-nexxt-nhc-fp50dl-2k-ptz-con-panel-de-iluminacion-de-hasta-4000-lumens",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7f46e1cdb09.jpg"
+  },
+  "15712": {
+   "nombre": "Memoria usb kingston 64gb exodia s kc-u3c64-7tr rojo usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C64",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-64gb-exodia-s-kc-u3c64-7tr-rojo-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7ca50a38bb9.jpg"
+  },
+  "15711": {
+   "nombre": "Memoria usb kingston 64gb exodia s kc-u3c64-7tb azul usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C64",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-64gb-exodia-s-kc-u3c64-7tb-azul-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7ca50a31f6e.jpg"
+  },
+  "15706": {
+   "nombre": "Memoria usb kingston 64gb exodia s kc-u3c64-7tp morado usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C64",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-64gb-exodia-s-kc-u3c64-7tp-morado-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b4a6901760.jpg"
+  },
+  "15705": {
+   "nombre": "Memoria usb kingston 64gb exodia s kc-u3c64-7tg verde usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C64",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-64gb-exodia-s-kc-u3c64-7tg-verde-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b4a2ed3b2d.jpg"
+  },
+  "15704": {
+   "nombre": "Memoria usb kingston 128gb exodia s kc-u3c128-7tb azul usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C128",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-128gb-exodia-s-kc-u3c128-7tb-azul-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 13.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b496c6aa48.jpg"
+  },
+  "15703": {
+   "nombre": "Memoria usb kingston 128gb exodia s kc-u3c128-7tp morado usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C128",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-128gb-exodia-s-kc-u3c128-7tp-morado-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 13.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b4903151c9.jpg"
+  },
+  "15702": {
+   "nombre": "Memoria usb kingston 128gb exodia s kc-u3c128-7tr rojo usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C128",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-128gb-exodia-s-kc-u3c128-7tr-rojo-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 13.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b49030bd40.jpg"
+  },
+  "15700": {
+   "nombre": "Memoria usb kingston 128gb exodia s kc-u3c128-7tg verde usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "KCU3C128",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-128gb-exodia-s-kc-u3c128-7tg-verde-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 13.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b47f616a16.jpg"
+  },
+  "15699": {
+   "nombre": "Camara de videovigilancia wifi exteriores 360 panoramica dahua apollo bp3ew-4g 2k ptz bateria recargable con panel solar incluido lte 4g",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DAHUA",
+   "modelo": "BP3EW4G",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exteriores-360-panoramica-dahua-apollo-bp3ew-4g-2k-ptz-bateria-recargable-con-panel-solar-incluido-lte-4g",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a7b3d48d053e.jpg"
+  },
+  "15693": {
+   "nombre": "Router dualband hikvision ds-3wr15x ax1500 wifi6 rj45 gigabite",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HIKVISION",
+   "modelo": "DS3WR15X",
+   "url": "https://zonadigitalsv.com/product/router-dualband-hikvision-ds-3wr15x-ax1500-wifi6-rj45-gigabite",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6beafcd1cf3.jpg"
+  },
+  "15689": {
+   "nombre": "Camara de videovigilancia inalambrica interiores nexxt nhc-ip16dv 2k panoramica ptz darth vader",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NHCIP16DV",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-nexxt-nhc-ip16dv-2k-panoramica-ptz-darth-vader",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6b7dfd9c17b.jpg"
+  },
+  "15688": {
+   "nombre": "Tarjeta de video gigabyte eagle  rtx5060ti 8gb gddr7 gv-n506teagle oc-8gd",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "GIGABYTE",
+   "modelo": "GVN506TEAGLE",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-gigabyte-eagle-rtx5060ti-8gb-gddr7-gv-n506teagle-oc-8gd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 679.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6b794ed0310.jpg"
+  },
+  "15687": {
+   "nombre": "Tarjeta de video asus prime rtx5060 8gb gddr7 90yv0n10",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ASUS",
+   "modelo": "90YV0N10",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-asus-prime-rtx5060-8gb-gddr7-90yv0n10",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 599.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6b76f3e79da.jpg"
+  },
+  "15686": {
+   "nombre": "Tarjeta de video pny 2x rtx5050 8gb gddr6 vcg50508dfxpb1",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "PNY",
+   "modelo": "VCG50508DFXPB1",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-pny-2x-rtx5050-8gb-gddr6-vcg50508dfxpb1",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 429.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6b75155ed8a.jpg"
+  },
+  "15674": {
+   "nombre": "Router dualband hikvision ds-3wr18x ax1800 wifi6 rj45 gigabite",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HIKVISION",
+   "modelo": "DS3WR18X",
+   "url": "https://zonadigitalsv.com/product/router-dualband-hikvision-ds-3wr18x-ax1800-wifi6-rj45-gigabite",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 44.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6939e763629.jpg"
+  },
+  "15671": {
+   "nombre": "Router triband tp-link archer gx90 ax6600 onemesh rj45 x5",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AX6600",
+   "url": "https://zonadigitalsv.com/product/router-triband-tp-link-archer-gx90-ax6600-onemesh-rj45-x5",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 229.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6932f93b1f9.jpg"
+  },
+  "15669": {
+   "nombre": "Router mesh mercusys dualband ac1200 halo h32g (3pack)",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "AC1200",
+   "url": "https://zonadigitalsv.com/product/router-mesh-mercusys-dualband-ac1200-halo-h32g-3pack",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a69279ca761c.jpg"
+  },
+  "15645": {
+   "nombre": "Ventilador para case formula v line pa120 arpw 120mm blanco",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PA120",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-pa120-arpw-120mm-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67fd82f09fb.jpg"
+  },
+  "15644": {
+   "nombre": "Ventilador para case formula v line pa120r arpw 120mm negro reverse",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "PA120R",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-pa120r-arpw-120mm-negro-reverse",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67fb2ba2e82.jpg"
+  },
+  "15643": {
+   "nombre": "Ventilador para case formula v line pa120 arpw 120mm blanco",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "PA120",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-pa120-arpw-120mm-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67fb2b9da39.jpg"
+  },
+  "15642": {
+   "nombre": "Ventilador para case formula v line pa120 arpw 120mm negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "PA120",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-pa120-arpw-120mm-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67fa217ebaa.jpg"
+  },
+  "15641": {
+   "nombre": "Ventilador para case formula v line floe se 12 arpw 120mm blanco",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-se-12-arpw-120mm-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f91675958.jpg"
+  },
+  "15640": {
+   "nombre": "Ventilador para case formula v line floe se 12 arpw 120mm negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-se-12-arpw-120mm-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f8d42953c.jpg"
+  },
+  "15639": {
+   "nombre": "Ventilador para case formula v line floe se 12 arpw 120mm blanco reverse",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-se-12-arpw-120mm-blanco-reverse",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f7a6204bd.jpg"
+  },
+  "15638": {
+   "nombre": "Ventilador para case formula v line floe se 12 arpw 120mm negro reverse",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-se-12-arpw-120mm-negro-reverse",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f7a61ab6f.jpg"
+  },
+  "15637": {
+   "nombre": "Ventilador para case formula v line floe 12 arpw 120mm blanco reverse",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-12-arpw-120mm-blanco-reverse",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f67cdab4f.jpg"
+  },
+  "15636": {
+   "nombre": "Ventilador para case formula v line floe 12 arpw 120mm negro reverse",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-12-arpw-120mm-negro-reverse",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f5925c242.jpg"
+  },
+  "15635": {
+   "nombre": "Ventilador para case formula v line floe 12 arpw 120mm blanco",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-12-arpw-120mm-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f5508291b.jpg"
+  },
+  "15634": {
+   "nombre": "Ventilador para case formula v line floe 12 arpw 120mm negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-floe-12-arpw-120mm-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a67f493e26dd.jpg"
+  },
+  "15627": {
+   "nombre": "Tarjeta de video asus prime rtx5050 8gb gddr6 oc 90yv0n70-m0aa00",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ASUS",
+   "modelo": "90YV0N70M0AA00",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-asus-prime-rtx5050-8gb-gddr6-oc-90yv0n70-m0aa00",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 499.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ZCDTdlzRZCPvdld2gM2dnGOnGgIOuEFz4GW7qpeS.png"
+  },
+  "15626": {
+   "nombre": "Barra de sonido jbl 800mk2 de 7.1 canales con subwoofer inalambrico 3d dolby atmos y dts virtual:x 780w jblbar800m2blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBLBAR800M2BLKAM",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-jbl-800mk2-de-71-canales-con-subwoofer-inalambrico-3d-dolby-atmos-y-dts-virtualx-780w-jblbar800m2blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 899.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/SsL9a5ZRPN9ARE7HUcnGSBB9dooyKaDewkUfWzZe.png"
+  },
+  "15621": {
+   "nombre": "Barra de sonido jbl 500mk2 de 5.1 canales con subwoofer inalambrico dolby atmos and dts virtual:x 750w jblbar500m3blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBLBAR500M3BLKAM",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-jbl-500mk2-de-51-canales-con-subwoofer-inalambrico-dolby-atmos-and-dts-virtualx-750w-jblbar500m3blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 499.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/k0PQOm3ELF0QTxTEOSrjiupGlJj1bIYWkqmeoZQE.png"
+  },
+  "15620": {
+   "nombre": "Barra de sonido jbl bar 1000mk2 de 7.1.4 canales con subwoofer inalambrico 3d dolby atmos and dts:x 960w jblbar1000m2blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBLBAR1000M2BLKAM",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-jbl-bar-1000mk2-de-714-canales-con-subwoofer-inalambrico-3d-dolby-atmos-and-dtsx-960w-jblbar1000m2blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 999.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ZYMaCCAXGTNapSJIEJjaajB0aj75qSHiUuk6ZGqO.png"
+  },
+  "15596": {
+   "nombre": "Camara de videovigilancia inalambrica exteriores mercusys mc500 fhd panoramica 360 horizontal",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "MC500",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-exteriores-mercusys-mc500-fhd-panoramica-360-horizontal",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a5a4b7265574.jpg"
+  },
+  "15595": {
+   "nombre": "Camara de videovigilancia inalambrica interiores mercusys mc200 fhd panoramica 360 horizontal",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "MC200",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-mercusys-mc200-fhd-panoramica-360-horizontal",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a5a4b3d97a39.jpg"
+  },
+  "15594": {
+   "nombre": "Router mesh mercusys dualband ac1200 halo h32g (pack2)",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "AC1200",
+   "url": "https://zonadigitalsv.com/product/router-mesh-mercusys-dualband-ac1200-halo-h32g-pack2",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a57e9270a461.jpg"
+  },
+  "15561": {
+   "nombre": "Router nexxt bolt ncm-x3000 wifi6 dualband rj45 x4 gigabit 2pack",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NCMX3000",
+   "url": "https://zonadigitalsv.com/product/router-nexxt-bolt-ncm-x3000-wifi6-dualband-rj45-x4-gigabit-2pack",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a4e7aa578151.jpg"
+  },
+  "15531": {
+   "nombre": "Router dualband linksys mr20ms wifi6 ax2200 rj45 x4 gigabite",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LINKSYS",
+   "modelo": "MR20MS",
+   "url": "https://zonadigitalsv.com/product/router-dualband-linksys-mr20ms-wifi6-ax2200-rj45-x4-gigabite",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a4425b516b38.jpg"
+  },
+  "15522": {
+   "nombre": "Ventilador con base ks-f6",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/ventilador-con-base-ks-f6",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 12.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a3f0fc1993dd.jpg"
+  },
+  "15516": {
+   "nombre": "Disco duro externo toshiba 2tb usb-a canvio basics hdtb520xkaa",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TOSHIBA",
+   "modelo": "HDTB520XKAA",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-toshiba-2tb-usb-a-canvio-basics-hdtb520xkaa",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 189.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a3eeef40d058.jpg"
+  },
+  "15476": {
+   "nombre": "Webcam streamplify cam fhd 60fps cam-mini-fhd-2m60-bk usb-a",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AEROCOOL",
+   "modelo": "FHD2M60",
+   "url": "https://zonadigitalsv.com/product/webcam-streamplify-cam-fhd-60fps-cam-mini-fhd-2m60-bk-usb-a",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a3afbd3a2aa7.jpg"
+  },
+  "15408": {
+   "nombre": "Bocina inalambrica xtech gilmour xts-622 con reloj despertador, carga inalambrica, luz de noche",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XTECH",
+   "modelo": "XTS622",
+   "url": "https://zonadigitalsv.com/product/bocina-inalambrica-xtech-gilmour-xts-622-con-reloj-despertador-carga-inalambrica-luz-de-noche",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a26eda5f25ac.jpg"
+  },
+  "15346": {
+   "nombre": "Camara web razer kiyo v2 4k ai 30fps y 60fps rz19-05370100-r3u1 negro",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ1905370100",
+   "url": "https://zonadigitalsv.com/product/camara-web-razer-kiyo-v2-4k-ai-30fps-y-60fps-rz19-05370100-r3u1-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 199.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a0e20e44871e.jpg"
+  },
+  "15344": {
+   "nombre": "Camara web razer kiyo v2 x fullhd 60fps rz19-05380200-r3u1 quartz",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ1905380200",
+   "url": "https://zonadigitalsv.com/product/camara-web-razer-kiyo-v2-x-fullhd-60fps-rz19-05380200-r3u1-quartz",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a0e1e1621a35.jpg"
+  },
+  "15340": {
+   "nombre": "Ventilador compacto de doble cabeza xhs-02",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "XHS02",
+   "url": "https://zonadigitalsv.com/product/ventilador-compacto-de-doble-cabeza-xhs-02",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 19.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ARu90I8WkjkFnPbPJxwI1eBtZAI0xZMtLny4sYUm.png"
+  },
+  "15325": {
+   "nombre": "Memoria usb kingston 512gb exodia s dtxg2/512gb usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "DTXG2",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-512gb-exodia-s-dtxg2512gb-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/32w9OhOH5opP9B98oEFt2EYqu228vYypnIybCMUo.png"
+  },
+  "15323": {
+   "nombre": "Memoria usb kingston 128gb exodia s dtxg2/128gb usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "DTXG2",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-128gb-exodia-s-dtxg2128gb-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 12.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/CDpZha0aaXMFkUSYcXdgNpk9HzHxcW8AOgsRn6T9.png"
+  },
+  "15277": {
+   "nombre": "Bocina portatil harman kardon luna2  (1x25w rms + 1x15w rms) hasta 12h con luz ambiental ip67 hkluna2blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HARMAN KARDON",
+   "modelo": "HKLUNA2BLKAM",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-harman-kardon-luna2-1x25w-rms-1x15w-rms-hasta-12h-con-luz-ambiental-ip67-hkluna2blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 149.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/AcRXeRKTP0OcKdnjRWFF1O5pMv3lv6hAIh479LwL.png"
+  },
+  "15246": {
+   "nombre": "Webcam redragon gw911 uhd 4k negro",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "REDRAGON",
+   "modelo": "GW911",
+   "url": "https://zonadigitalsv.com/product/webcam-redragon-gw911-uhd-4k-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 64.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/9gzOyUt8beM7x7fd4bgJL6aZwBnJxEqQ2paYbPDw.png"
+  },
+  "15223": {
+   "nombre": "Barra de sonido  con subwoofer  2.1 thonet and vander kino bluetooth optico 3.5mm  150w rms hk096-03641",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "THONET & VANDER",
+   "modelo": "HK09603641",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-con-subwoofer-21-thonet-and-vander-kino-bluetooth-optico-35mm-150w-rms-hk096-03641",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 159.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69f2445fbd58b.jpg"
+  },
+  "15220": {
+   "nombre": "Proyector epson powerlite e24 3600 lumens 1024x768 v11hb51021 (lampara 90 dias garantia)",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EPSON",
+   "modelo": "V11HB51021",
+   "url": "https://zonadigitalsv.com/product/proyector-epson-powerlite-e24-3600-lumens-1024x768-v11hb51021-lampara-90-dias-garantia",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 589.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69f23afeb4757.jpg"
+  },
+  "15204": {
+   "nombre": "Camara de videovigilancia exteriores imou (solo 4g simcard) 2k panoramica  bateria recargable de 15kmah ipc-k9en-3t0te-am",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "IMOU",
+   "modelo": "IPCK9EN",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-exteriores-imou-solo-4g-simcard-2k-panoramica-bateria-recargable-de-15kmah-ipc-k9en-3t0te-am",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 139.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69ea5239b9a14.jpg"
+  },
+  "15185": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult30 ip67 ult flied 3 hasta 24h gris",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT30",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult30-ip67-ult-flied-3-hasta-24h-gris",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 169.9,
+     "precio_lista": 209.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/dbjBRmlCkRI9gHS6IILAND5RpdNf8hWE3RZbuQvG.png"
+  },
+  "15184": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult900 ip67 ult tower 9 hasta 25h",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT900",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult900-ip67-ult-tower-9-hasta-25h",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 749.0,
+     "precio_lista": 849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/5OxPtQ4ZaG8o8cv0GTZfkAfeRRUkStoYZ8GEhBuh.png"
+  },
+  "15182": {
+   "nombre": "Barra de sonido sony ht-s400 de 2.1 canales con subwoofer inalambrico hasta 330w rms dolby audio",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "HTS400",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-sony-ht-s400-de-21-canales-con-subwoofer-inalambrico-hasta-330w-rms-dolby-audio",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 249.9,
+     "precio_lista": 319.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/gwzfEZSRnTBByNBh3egAaDFLcREv0bsEHJctpelM.png"
+  },
+  "15180": {
+   "nombre": "Barra de sonido sony bravia theatre bar 6 ht-b600 3.1.2 canales con subwoofer inalambrico hasta 350w rms dolby atmos",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "HTB600",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-sony-bravia-theatre-bar-6-ht-b600-312-canales-con-subwoofer-inalambrico-hasta-350w-rms-dolby-atmos",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 429.0,
+     "precio_lista": 549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/kLgG7JULFhzGYLinzO6zy8h7p3AE0acAKxnKBi9U.png"
+  },
+  "15179": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult50 ip67 ult field 5 hasta 25h",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT50",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult50-ip67-ult-field-5-hasta-25h",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 269.9,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/meCqFJqIVUZymCkloIjBzPQJOZ9VMYbAbZygh2nb.png"
+  },
+  "15178": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult30 ip67 ult flied 3 hasta 24h",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT30",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult30-ip67-ult-flied-3-hasta-24h",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 169.9,
+     "precio_lista": 209.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/2eZv0Gvmi8BUMqOBmhHVB24OTVpUXK7uuEcUaaav.png"
+  },
+  "15177": {
+   "nombre": "Bocina portatil bluetooth sony srs-xv500 ipx4 hasta 25h",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSXV500",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-xv500-ipx4-hasta-25h",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 249.9,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/X4DIVdJvGkv2LwVaI8vjoJUNv1nm5fKru5QY047f.png"
+  },
+  "15176": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult70 ip67 ult flied 7 hasta 30h",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT70",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult70-ip67-ult-flied-7-hasta-30h",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 329.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/vcd1rVLFa0Cc7a3jy0GS4UDkU4dgPnsadrqHj53H.png"
+  },
+  "15175": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult10 ip67 ult field 1 hasta 12h gris",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT10",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult10-ip67-ult-field-1-hasta-12h-gris",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.9,
+     "precio_lista": 129.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ssVFs6BS6CjUYmIWs34CHXINUkU2z9xP1PGd35Wr.png"
+  },
+  "15173": {
+   "nombre": "Bocina portatil bluetooth sony srs-ult10 ip67 ult field 1 hasta 12h negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSULT10",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-ult10-ip67-ult-field-1-hasta-12h-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.9,
+     "precio_lista": 129.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/u2gKLuRXpuOebAKhgpAx5iWLL0ljnGlLAzNiIPmq.png"
+  },
+  "15171": {
+   "nombre": "Bocina portatil bluetooth sony srs-xb100 hasta 16h naranja",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSXB100",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-xb100-hasta-16h-naranja",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 44.9,
+     "precio_lista": 64.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/w46OYoD9gUsqNISw74NW0gba4Gi3iNqtZIqFdVjl.png"
+  },
+  "15170": {
+   "nombre": "Bocina portatil bluetooth sony srs-xb100 hasta 16h negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "SRSXB100",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-sony-srs-xb100-hasta-16h-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 44.9,
+     "precio_lista": 64.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SONY HOT DEALS' hasta 2026-11-02"
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/moz9vRSadaneVbiMV6UvhUeP0Lh7qfrifgxzjbH2.png"
+  },
+  "15149": {
+   "nombre": "Aspiradora manual xiaomi p30 recargable 70548",
+   "categoria": "aspiradora",
+   "tipo": "aspiradora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/aspiradora-manual-xiaomi-p30-recargable-70548",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/I2jUEcqCxtHdY7Q9MgPShx7TtE3Zn3vB9Ouc4QG7.png"
+  },
+  "15062": {
+   "nombre": "Nvr vigi tp-link 8 canales nvr1008h onvif h.265+ hasta 10tb hdd",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "NVR1008H",
+   "url": "https://zonadigitalsv.com/product/nvr-vigi-tp-link-8-canales-nvr1008h-onvif-h265-hasta-10tb-hdd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 179.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69c8077a37083.jpg"
+  },
+  "15060": {
+   "nombre": "Camara de videovigilancia inalambrica exteriores tp-link tapo c530ws 3k panoramica 360",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "C530WS",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-exteriores-tp-link-tapo-c530ws-3k-panoramica-360",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69c800ebd8ed0.jpg"
+  },
+  "15059": {
+   "nombre": "Extensor de rango wifi 6 dualband mercusys me60x ax1500",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "AX1500",
+   "url": "https://zonadigitalsv.com/product/extensor-de-rango-wifi-6-dualband-mercusys-me60x-ax1500",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69c7fced86db1.jpg"
+  },
+  "15049": {
+   "nombre": "Camara de videovigilancia exteriores ezviz h8c poe 2k",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EZVIZ",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-exteriores-ezviz-h8c-poe-2k",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69c71033cb12f.jpg"
+  },
+  "15037": {
+   "nombre": "Ventilador para case formula v line nulight 12wh argb 120mm pmw blanco",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-formula-v-line-nulight-12wh-argb-120mm-pmw-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/3AvOkwKbS5Uu9lwoabMSuecJ99PA7rudODRsKgF9.png"
+  },
+  "15011": {
+   "nombre": "Mini proyector android hcs350 pro 2.4g con 2 controles",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "HCS350",
+   "url": "https://zonadigitalsv.com/product/mini-proyector-android-hcs350-pro-24g-con-2-controles",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/n1YjFTJJNl8Ph3cKVisD9jFlBABAIBnZhAc1CcrU.png"
+  },
+  "15005": {
+   "nombre": "Router dual band tp-link acher be230 wifi7 be3600",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "BE3600",
+   "url": "https://zonadigitalsv.com/product/router-dual-band-tp-link-acher-be230-wifi7-be3600",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/IfflVYGUyoKgvMss7hicTCn6TKMYS1YNMQEN4LAr.png"
+  },
+  "14982": {
+   "nombre": "Bocina portatil bluetooth jbl grip ip68 hasta 14h 16w rms jblgrippikam rosado",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-jbl-grip-ip68-hasta-14h-16w-rms-jblgrippikam-rosado",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/61Cl7805iI1axJWNg8twla98OqPMjA2enulL1LXK.png"
+  },
+  "14936": {
+   "nombre": "Tarjeta de video msi world of warcraft midnight rtx5070 12gb gddr7 g507012wmlec dorado",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G507012WMLEC",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-world-of-warcraft-midnight-rtx5070-12gb-gddr7-g507012wmlec-dorado",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 1099.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/iC9uhJfZYKCqioQ7NlvQ1vXzqa1vuBds05UjxBNl.png"
+  },
+  "14935": {
+   "nombre": "Tarjeta de video msi world of warcraft midnight rtx5070 12gb gddr7 g507012wmvec azul",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G507012WMVEC",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-world-of-warcraft-midnight-rtx5070-12gb-gddr7-g507012wmvec-azul",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 1099.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/rw4dzuTlAxBRGPtQurdIEB154Qygh2xu39gvahIQ.png"
+  },
+  "14861": {
+   "nombre": "Bocina led con dispensador de bebidas yx-s9866",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "YXS9866",
+   "url": "https://zonadigitalsv.com/product/bocina-led-con-dispensador-de-bebidas-yx-s9866",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 19.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/f9VNCkV0JbTs5u5MTvAteDcQ5jTZ4mTD3EbE66lG.png"
+  },
+  "14858": {
+   "nombre": "Tarjeta de video power color hellhound rx9060xt 8gb gddr6",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "PALIT",
+   "modelo": "RX9060XT",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-power-color-hellhound-rx9060xt-8gb-gddr6",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 549.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada698b7e965ccde.jpg"
+  },
+  "14851": {
+   "nombre": "Extensor de rango mesh wifi tp-link dualband ac1200 re315",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AC1200",
+   "url": "https://zonadigitalsv.com/product/extensor-de-rango-mesh-wifi-tp-link-dualband-ac1200-re315",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 34.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada698b520f9f775.jpg"
+  },
+  "14836": {
+   "nombre": "Memoria usb 3.2 kingston 512gb kyson dtkn/512gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-32-kingston-512gb-kyson-dtkn512gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada698a3da413ef4.jpg"
+  },
+  "14803": {
+   "nombre": "Tarjeta de video msi ventus 2x rtx5060ti 8gb gddr7 g506t8v2cwp blanco",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G506T8V2CWP",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-ventus-2x-rtx5060ti-8gb-gddr7-g506t8v2cwp-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 649.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6989feb164d71.jpg"
+  },
+  "14771": {
+   "nombre": "Tarjeta de video pny rtx5070 12gb gddr7 vcg507012tfxpb1",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "PNY",
+   "modelo": "VCG507012TFXPB1",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-pny-rtx5070-12gb-gddr7-vcg507012tfxpb1",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 999.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/2SkJn1EI7CWKv4cA5gALQttXNbocHLbs4a5rfOPb.png"
+  },
+  "14763": {
+   "nombre": "Bocina portatil bluetooth jbl grip ip68 hasta 14h 16w rms jblgripbluam azul",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-jbl-grip-ip68-hasta-14h-16w-rms-jblgripbluam-azul",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/rbHvuKlUeRzbkxfXgSVY58HGJNZcxVymE1HUpeER.png"
+  },
+  "14762": {
+   "nombre": "Bocina portatil bluetooth jbl grip ip68 hasta 14h 16w rms jblgripblkam negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-bluetooth-jbl-grip-ip68-hasta-14h-16w-rms-jblgripblkam-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/gMvtA2gxWf7BMf1a7BmFf1eEs70tSFqUIjymqSrp.png"
+  },
+  "14729": {
+   "nombre": "Camara web razer kiyo v2 x fullhd 60fps rz19-05380100-r3u1 negro",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RAZER",
+   "modelo": "RZ1905380100",
+   "url": "https://zonadigitalsv.com/product/camara-web-razer-kiyo-v2-x-fullhd-60fps-rz19-05380100-r3u1-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6977efa52579e.jpg"
+  },
+  "14684": {
+   "nombre": "Mini proyector android m300max 2.4g con 2 controles",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "UNBRANDED",
+   "modelo": "M300MAX",
+   "url": "https://zonadigitalsv.com/product/mini-proyector-android-m300max-24g-con-2-controles",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/07QPayKKtrSdBdG3kZ8qbc9C0LTSO331PLma0HbG.png"
+  },
+  "14635": {
+   "nombre": "Router wifi-6 tp-link xx230 ax1800 xpon+gpon naginet rj45 gigabite",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AX1800",
+   "url": "https://zonadigitalsv.com/product/router-wifi-6-tp-link-xx230-ax1800-xpongpon-naginet-rj45-gigabite",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6954394b85d07.jpg"
+  },
+  "14623": {
+   "nombre": "Camara de videovigilancia inalambrica exteriores tp-link tapo c560ws 4k panoramica 360",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "C560WS",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-exteriores-tp-link-tapo-c560ws-4k-panoramica-360",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/fg6jF0tsgH6x0QIEkwbyzeg5RhOhZjhZeI7shPLa.png"
+  },
+  "14622": {
+   "nombre": "Camara de videovigilancia inalambrica interiores tp-link tapo c211 2k panoramica 360 horizontal negro",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-tp-link-tapo-c211-2k-panoramica-360-horizontal-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6953019257ec7.jpg"
+  },
+  "14617": {
+   "nombre": "Ventilador para case sharkoon rebel f50 pwm rgb 120mm negro",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SHARKOON",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-sharkoon-rebel-f50-pwm-rgb-120mm-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 19.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6952f12b33e24.jpg"
+  },
+  "14601": {
+   "nombre": "Tarjeta de video asus dual rtx5050 8gb gddr6 oc 90yv0n72",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ASUS",
+   "modelo": "90YV0N72",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-asus-dual-rtx5050-8gb-gddr6-oc-90yv0n72",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 499.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada694eae2777545.jpg"
+  },
+  "14589": {
+   "nombre": "Disco duro externo toshiba 1tb canvio basics 3.0 hdtb510xk3aa",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TOSHIBA",
+   "modelo": "HDTB510XK3AA",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-toshiba-1tb-canvio-basics-30-hdtb510xk3aa",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 139.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/rqHiBHQyAAwsf3q1JJSQid0ql8GjHFeHctX8oHpN.png"
+  },
+  "14572": {
+   "nombre": "Bocina inalambrica bluetooth jbl partybox encore esential2  100w rgb ibat 6 horas max. jblpbencoreess2am",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBLPBENCOREESS2AM",
+   "url": "https://zonadigitalsv.com/product/bocina-inalambrica-bluetooth-jbl-partybox-encore-esential2-100w-rgb-ibat-6-horas-max-jblpbencoreess2am",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 279.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/nQLEYJZAix4YxprwE6mFnoTs6WpSCdA7TKDJuEaG.png"
+  },
+  "14487": {
+   "nombre": "Tarjeta de video msi shadow 2x rtx5060 8gb gddr7 oce g5060-8s2c",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "G50608S2C",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-msi-shadow-2x-rtx5060-8gb-gddr7-oce-g5060-8s2c",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 549.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ujBEZSAHZ86rYKWkAqxvokmRgMo1zu2RLHMM8OhH.png"
+  },
+  "14454": {
+   "nombre": "Camara de videovigilancia inalambrica interiores/exteriores tp-link tapo c246d doble lente ptz 2k 360g",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "C246D",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interioresexteriores-tp-link-tapo-c246d-doble-lente-ptz-2k-360g",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6920df32b13ee.jpg"
+  },
+  "14451": {
+   "nombre": "Router dual band mercusys mr27be wifi7 be3600 qys apm  hasta 150dispositivos",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "MR27BE",
+   "url": "https://zonadigitalsv.com/product/router-dual-band-mercusys-mr27be-wifi7-be3600-qys-apm-hasta-150dispositivos",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6920d4dd5d197.jpg"
+  },
+  "14413": {
+   "nombre": "Switch nexxt 24 puertos gigabit nsw-a2400ur",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NSWA2400UR",
+   "url": "https://zonadigitalsv.com/product/switch-nexxt-24-puertos-gigabit-nsw-a2400ur",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada691f48c42062a.jpg"
+  },
+  "14407": {
+   "nombre": "Camara de accion dji osmo 360 nitive 8k 4k/120fps 10bit 120mp 360 foto oq001",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DJI",
+   "modelo": "120MP",
+   "url": "https://zonadigitalsv.com/product/camara-de-accion-dji-osmo-360-nitive-8k-4k120fps-10bit-120mp-360-foto-oq001",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 559.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada691caa40c0111.jpg"
+  },
+  "14397": {
+   "nombre": "Memoria sd kingston 256gb canvas go plus v30 u3 a2 sdg4/256gb hasta 200mb/s",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "200MB",
+   "url": "https://zonadigitalsv.com/product/memoria-sd-kingston-256gb-canvas-go-plus-v30-u3-a2-sdg4256gb-hasta-200mbs",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/lhc09U2gwkJK6OOh7gT3WoMOeDi7A25auglWdh5e.png"
+  },
+  "14349": {
+   "nombre": "Memoria sd kingston 128gb canvas go plus v30 u3 a2 sdg4/128gb hasta 200mb/s",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "200MB",
+   "url": "https://zonadigitalsv.com/product/memoria-sd-kingston-128gb-canvas-go-plus-v30-u3-a2-sdg4128gb-hasta-200mbs",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/vGPiVg9iF0GBXNa9SzZnPFYHjFOfmiwoQJqdPF1H.png"
+  },
+  "14348": {
+   "nombre": "Memoria sd kingston 64gb canvas go plus v30 u3 a2 sdg4/64gb hasta 200mb/s",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "200MB",
+   "url": "https://zonadigitalsv.com/product/memoria-sd-kingston-64gb-canvas-go-plus-v30-u3-a2-sdg464gb-hasta-200mbs",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/4jLr3k7ZOYENUrWjatMr4veNyxktcVFkNXSO1E9a.png"
+  },
+  "14288": {
+   "nombre": "Camara de videovigilancia inalambrica interiores nexxt nhc-ip30dl doble lente ptz 2k 360g",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NHCIP30DL",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-nexxt-nhc-ip30dl-doble-lente-ptz-2k-360g",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/PtGoDA6e60fBF7FhEJD0x5nnu9hVa5bAG33b91zZ.png"
+  },
+  "14168": {
+   "nombre": "Smartwatch motorola moto watch fit pantalla oled 1.9p gps 5atm ip68 gorillaglass 3 pg38c07181",
+   "categoria": "smartwatch",
+   "tipo": "smartwatch",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MOTOROLA",
+   "modelo": "PG38C07181",
+   "url": "https://zonadigitalsv.com/product/smartwatch-motorola-moto-watch-fit-pantalla-oled-19p-gps-5atm-ip68-gorillaglass-3-pg38c07181",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/sDU6tIrjId0jb2byoykkU7BwwEK39h7yzQIU58GY.png"
+  },
+  "14111": {
+   "nombre": "Camara instantanea fujifilm instax mini 12 blanco",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "FUJIFILM",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-instantanea-fujifilm-instax-mini-12-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ybglNizY6VVvdR7kDtdOegt0mndg6XNDCAWcDJiU.png"
+  },
+  "14092": {
+   "nombre": "Webcam con mic argom cam45 fullhd leds arg-wc-9145bk",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ARGOM",
+   "modelo": "9145BK",
+   "url": "https://zonadigitalsv.com/product/webcam-con-mic-argom-cam45-fullhd-leds-arg-wc-9145bk",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/DWXb4p3VT7362VlvTdE8FUtlTLEZWgXbwAJpkpQL.png"
+  },
+  "14086": {
+   "nombre": "Router portatil mercusys mt110 4g lte hasta 10 usuarios hasta 10h",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "MT110",
+   "url": "https://zonadigitalsv.com/product/router-portatil-mercusys-mt110-4g-lte-hasta-10-usuarios-hasta-10h",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 44.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/3HWFczo37xGzIadVGuXf13PLw7eMhACzoalECvy4.png"
+  },
+  "14085": {
+   "nombre": "Camara de videovigilancia wifi exterior 360 panoramica 2k tp-link tapo c520ws",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "C520WS",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exterior-360-panoramica-2k-tp-link-tapo-c520ws",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ltFmt0lZ1YWZjwyir7pIzyY96clNxXENpNVywNn0.png"
+  },
+  "14080": {
+   "nombre": "Bocina portatil harman kardon luna bt v5.3 (1x25w rms + 1x15w rms) hasta 12h ip67 hklunablkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HARMAN KARDON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-harman-kardon-luna-bt-v53-1x25w-rms-1x15w-rms-hasta-12h-ip67-hklunablkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/UU7eBPn5hzBHtxBJeWNAKhafWweC4N2Zsm9z49Yu.png"
+  },
+  "13989": {
+   "nombre": "Memoria microsd kingston canvas select plus 128gb v10 hasta 150mb/s sdcs3/128gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "150MB",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-kingston-canvas-select-plus-128gb-v10-hasta-150mbs-sdcs3128gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/WdBrwILsm5vjIsj0VE2keZlKcU3fmzyAKtdqqpmk.png"
+  },
+  "13967": {
+   "nombre": "Tarjeta de video asus prime rtx5070ti 16gb gddr7 oce 90yv0mf0",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ASUS",
+   "modelo": "RTX5070TI",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-asus-prime-rtx5070ti-16gb-gddr7-oce-90yv0mf0",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 1599.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/N5DBmpvDlvhzRQGS0lGQ8vVs6PtfJx4ZXS3X5CGu.png"
+  },
+  "13898": {
+   "nombre": "Tarjeta de video gigabyte windforce  rtx5060ti 8gb gddr7 gv-n506twf2-8gd",
+   "categoria": "gpu",
+   "tipo": "gpu",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "GIGABYTE",
+   "modelo": "GVN506TWF2",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-video-gigabyte-windforce-rtx5060ti-8gb-gddr7-gv-n506twf2-8gd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 649.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/C5d1lKiAGfzaOxGW1W686cgqxMo6vpZuBhebs2b8.png"
+  },
+  "13865": {
+   "nombre": "Camara de videovigilancia inalambrica interiores ezviz cs-h6c pro 2k panoramica",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EZVIZ",
+   "modelo": "CSH6C",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-ezviz-cs-h6c-pro-2k-panoramica",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 34.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/DozSWQJPobt8hn3W20ASDWoEYfrvLwXXH4OgBtHT.png"
+  },
+  "13863": {
+   "nombre": "Memoria microsd kingston canvas select plus 256gb v10 hasta 150mb/s sdcs3/256gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "150MB",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-kingston-canvas-select-plus-256gb-v10-hasta-150mbs-sdcs3256gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/gku6cwaE9yrMUcCa0oDr10uJTLjdfO7Vm22KnNIa.png"
+  },
+  "13836": {
+   "nombre": "Memoria microsd express samsung 256gb para switch2 mb-mz256s",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SAMSUNG",
+   "modelo": "MBMZ256S",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-express-samsung-256gb-para-switch2-mb-mz256s",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/mRw6pZD0mUjn6lEX68UjEcCck0Bzwv1lLP2MARSQ.png"
+  },
+  "13825": {
+   "nombre": "Bocina xiaomi mi smart speaker wi-fi y bluetooth con asistente hey google 12w rms qbh4190gl 29432 blanco",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "QBH4190GL",
+   "url": "https://zonadigitalsv.com/product/bocina-xiaomi-mi-smart-speaker-wi-fi-y-bluetooth-con-asistente-hey-google-12w-rms-qbh4190gl-29432-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/w29aH3GdX6n8gIGUz4H1xqjNP8NeIWsWlh7fPz2L.png"
+  },
+  "13824": {
+   "nombre": "Bocina xiaomi smart wi-fi y bluetooth con asistente hey google 12w rms qbh4217gl 34793 blanco",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "QBH4217GL",
+   "url": "https://zonadigitalsv.com/product/bocina-xiaomi-smart-wi-fi-y-bluetooth-con-asistente-hey-google-12w-rms-qbh4217gl-34793-blanco",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/J4Dyuex6Lny7IhVUtCO1VqHS6JxvCR7hn8lF3bki.png"
+  },
+  "13813": {
+   "nombre": "Camara de videovigilancia wifi exteriores xiaomi bw300 2k bateria recargable 4.9kmah ip67 55304 bhr8303gl",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "BHR8303GL",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exteriores-xiaomi-bw300-2k-bateria-recargable-49kmah-ip67-55304-bhr8303gl",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/2uzj3BhwlBxEEUS8mLrEaogvUJFPAdlMKka3RiI9.png"
+  },
+  "13812": {
+   "nombre": "Camara de videovigilancia wifi exteriores xiaomi bw500 2.5k bateria recargable 10kmah ip67 55302 bhr8301gl",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "BHR8301GL",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exteriores-xiaomi-bw500-25k-bateria-recargable-10kmah-ip67-55302-bhr8301gl",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada68852339736d2.jpg"
+  },
+  "13809": {
+   "nombre": "Tablet xiaomi redmi pad2 pantalla ips 11p 2.5k 90hz ram 4gb almacenamiento 128gb graphite gray hyperos 2 67477 con cover",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/tablet-xiaomi-redmi-pad2-pantalla-ips-11p-25k-90hz-ram-4gb-almacenamiento-128gb-graphite-gray-hyperos-2-67477-con-cover",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 269.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/xuYN6L4JsVounEuQUrHXvs90CPmbFDxE7R5xhomC.png"
+  },
+  "13700": {
+   "nombre": "Memoria usb kingston 256gb exodia s dtxs/256gb usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-256gb-exodia-s-dtxs256gb-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/dIVNEbHNLL92d06MpcTYKvapYl7YsaQyK1ujeZup.png"
+  },
+  "13699": {
+   "nombre": "Memoria usb kingston 128gb exodia s dtxs/128gb usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-128gb-exodia-s-dtxs128gb-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 12.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ITwKIbg9thad62A4lvj5DlLRphdsx6x71kU4lTDr.png"
+  },
+  "13695": {
+   "nombre": "Memoria microsd kingston 128gb v30 a2 u3 canvas go plus sdcg4/128gb hasta 200mb/s",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "SDCG4",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-kingston-128gb-v30-a2-u3-canvas-go-plus-sdcg4128gb-hasta-200mbs",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 54.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/sz9u8qIizECG4L2kUnZpQZNEoMPnhwab7eBL6NSL.png"
+  },
+  "13694": {
+   "nombre": "Memoria microsd kingston 64gb v30 a2 u3  canvas go plus sdcg4/64gb hasta 200mb/s",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "SDCG4",
+   "url": "https://zonadigitalsv.com/product/memoria-microsd-kingston-64gb-v30-a2-u3-canvas-go-plus-sdcg464gb-hasta-200mbs",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 34.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/rCZaY5zuQysko1wAJidFHPKMKtclv8ZLs5EYVkqa.png"
+  },
+  "13691": {
+   "nombre": "Camara de videovigilancia inalambrica interiores tp-link tapo c110 2k",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-tp-link-tapo-c110-2k",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada685b34683b458.jpg"
+  },
+  "13688": {
+   "nombre": "Router nexxt bolt ncm-x3000 wifi6 dualband rj45 x4 gigabit",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NCMX3000",
+   "url": "https://zonadigitalsv.com/product/router-nexxt-bolt-ncm-x3000-wifi6-dualband-rj45-x4-gigabit",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada685acc1aa588d.jpg"
+  },
+  "13685": {
+   "nombre": "Camara de videovigilancia exteriores ezviz cs-h90 2k doble lente",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EZVIZ",
+   "modelo": "CSH90",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-exteriores-ezviz-cs-h90-2k-doble-lente",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/WkubdkCdqOIo1XdzMIuRQc1cijjuxJj6ftoWJ210.png"
+  },
+  "13546": {
+   "nombre": "Bocina harman kardon aura studio4 sonido 360 luz ambiente con efectos (2x15w rms + 1x100w rms) hkauras4blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HARMAN KARDON",
+   "modelo": "HKAURAS4BLKAM",
+   "url": "https://zonadigitalsv.com/product/bocina-harman-kardon-aura-studio4-sonido-360-luz-ambiente-con-efectos-2x15w-rms-1x100w-rms-hkauras4blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 279.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6841c1f02575e.jpg"
+  },
+  "13531": {
+   "nombre": "Bocina portatil harman kardon onyx studio 9 hasta 8h 50w rms auracast bt 5.3 hkos9blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "HKOS9BLKAM",
+   "url": "https://zonadigitalsv.com/product/bocina-portatil-harman-kardon-onyx-studio-9-hasta-8h-50w-rms-auracast-bt-53-hkos9blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 199.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada683f34047a162.jpg"
+  },
+  "13529": {
+   "nombre": "Memoria usb kingston 64gb exodia s dtxs/64gb usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-64gb-exodia-s-dtxs64gb-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/0GOaoDxMgy7VGBxBsiaRTxdFofzfYmWjZaF6pVzm.png"
+  },
+  "13454": {
+   "nombre": "Barra de sonido jbl 2.1 deep bass thd 300w bt jbl2gbar21db2blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBL2GBAR21DB2BLKAM",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-jbl-21-deep-bass-thd-300w-bt-jbl2gbar21db2blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 269.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada050036389877.jpg"
+  },
+  "13425": {
+   "nombre": "Camara de videovigilancia inalambrica exteriores tp-link tapo c500 fhd",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-exteriores-tp-link-tapo-c500-fhd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 54.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ycG5NZlaw4ehu6oEYMwg64BxHrop7zWLgR6zkIs8.png"
+  },
+  "13355": {
+   "nombre": "Camara de videovigilancia fhd panoramica con pantalla nexxt nhc-ip20",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NHCIP20",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-fhd-panoramica-con-pantalla-nexxt-nhc-ip20",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/pvharFm2W40UtaAekVs4F3C6wra5Urqv97EdGkCO.png"
+  },
+  "13310": {
+   "nombre": "Camara de videovigilancia exteriores ezviz cs-h80x 4k doble lente",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EZVIZ",
+   "modelo": "CSH80X",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-exteriores-ezviz-cs-h80x-4k-doble-lente",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada67f7ddf0cbd2d.jpg"
+  },
+  "13222": {
+   "nombre": "Router nexxt bolt ncm-c1200 sistema mesh ac1200 (1pack) dualband rj45 x3 gigabite",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NCMC1200",
+   "url": "https://zonadigitalsv.com/product/router-nexxt-bolt-ncm-c1200-sistema-mesh-ac1200-1pack-dualband-rj45-x3-gigabite",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada67ed5f094177f.jpg"
+  },
+  "13124": {
+   "nombre": "Switch de red d-link dgs-1210-26 24 puertos gigabit administrable",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "DLINK",
+   "modelo": "DGS1210",
+   "url": "https://zonadigitalsv.com/product/switch-de-red-d-link-dgs-1210-26-24-puertos-gigabit-administrable",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 199.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/OXCRFhoe5TDuHMf4t1HFZcJdjf5XkzTQ6QJLy3iT.jpg"
+  },
+  "12952": {
+   "nombre": "Bocina 2.0 inalambrica bluetooth thonet and vander kurbis 72w rms con s/pdif (óptico) y rca estéreo negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "THONET & VANDER",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-20-inalambrica-bluetooth-thonet-and-vander-kurbis-72w-rms-con-spdif-optico-y-rca-estereo-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 159.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/zyESI1t7aZIEbKRi6N43vxiMkCoh1bo0zCbQInwG.png"
+  },
+  "12669": {
+   "nombre": "Bocina 2.0 inalambrica bluetooth thonet and vander hoch 120w rms con dsp s/pdif (óptico) y rca estéreo blanco gen2",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "THONET & VANDER",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-20-inalambrica-bluetooth-thonet-and-vander-hoch-120w-rms-con-dsp-spdif-optico-y-rca-estereo-blanco-gen2",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 229.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/iwFaGz00Zpqw9VtnLgHiknZlhBn4szU0yKqlvpKH.png"
+  },
+  "12661": {
+   "nombre": "Bocina 2.0 inalambrica bluetooth thonet and vander vertrag 46w rms optico negro",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "THONET & VANDER",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocina-20-inalambrica-bluetooth-thonet-and-vander-vertrag-46w-rms-optico-negro",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/nHaxEq1SyXtvmrXkm4JOYeGnYzlJwK1XQVGTD5KB.png"
+  },
+  "12654": {
+   "nombre": "Barra de sonido thonet and vander rein de 5.1 canales con subwoofer inalambrico 200w rms bluetooth 3.5mm optico hdmi arc",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "THONET & VANDER",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-thonet-and-vander-rein-de-51-canales-con-subwoofer-inalambrico-200w-rms-bluetooth-35mm-optico-hdmi-arc",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 259.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/xAkKfhHI8KOjjshfsQyWDN20ECuBCOsdo8kpd7DD.png"
+  },
+  "12647": {
+   "nombre": "Router dualband mercusys mr60x ax1500 qys apm gigabit port ofdma mu-mimo",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "AX1500",
+   "url": "https://zonadigitalsv.com/product/router-dualband-mercusys-mr60x-ax1500-qys-apm-gigabit-port-ofdma-mu-mimo",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6740da2018bf4.jpg"
+  },
+  "12516": {
+   "nombre": "Camara de videovigilancia inalambrica interiores ezviz doble lente 2k h7c",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EZVIZ",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-ezviz-doble-lente-2k-h7c",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada670ffdf9e615c.jpg"
+  },
+  "12380": {
+   "nombre": "Camara de videovigilancia wifi exteriores 360 panoramica nexxt nhc-op10 2k ptz",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NHCOP10",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exteriores-360-panoramica-nexxt-nhc-op10-2k-ptz",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/lcIJfQzEq3p2VFMOYSv1sRMyYFZ8IUfXMoYMNSOj.png"
+  },
+  "12264": {
+   "nombre": "Camara de videovigilancia wifi exterior 360 panoramica 2k tp-link tapo c510w",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "C510W",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-wifi-exterior-360-panoramica-2k-tp-link-tapo-c510w",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/B7VmAmNtkDGAeg1c17AHChPUy4Sy9KsOidy6HL5h.jpg"
+  },
+  "12216": {
+   "nombre": "Barra de sonido de 3.1 canales con subwoofer inalambrico jbl cinema sb550 250w max. jblsb550blkam",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBLSB550BLKAM",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-de-31-canales-con-subwoofer-inalambrico-jbl-cinema-sb550-250w-max-jblsb550blkam",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 199.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/SqgTXEMeOvlhmOvJGBfzIMzHD8F791yEdRVeXqHk.png"
+  },
+  "12125": {
+   "nombre": "Switch nexxt 5 puertos gigabite poe hasta 60w en 4 puertos nsw-v501p",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEXXT",
+   "modelo": "NSWV501P",
+   "url": "https://zonadigitalsv.com/product/switch-nexxt-5-puertos-gigabite-poe-hasta-60w-en-4-puertos-nsw-v501p",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada66a7bcd22e8f0.jpg"
+  },
+  "12012": {
+   "nombre": "Router tp-link archer ax12 wifi6 dualband ax1500 rj45 gigabite ofdma qos",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AX1500",
+   "url": "https://zonadigitalsv.com/product/router-tp-link-archer-ax12-wifi6-dualband-ax1500-rj45-gigabite-ofdma-qos",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 59.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada668d5c2e445d7.jpg"
+  },
+  "12011": {
+   "nombre": "Camara de videovigilancia inalambrica interiores tp-link tapo c210 2k panoramica 360 horizontal",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-tp-link-tapo-c210-2k-panoramica-360-horizontal",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada668d5ad127295.jpg"
+  },
+  "11963": {
+   "nombre": "Disco duro externo seagate 4tb usb 3.0 stgx4000400",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SEAGATE",
+   "modelo": "STGX4000400",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-seagate-4tb-usb-30-stgx4000400",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 279.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/qD3USxkRFWU1qaCOnjnJ4Ti7bX5EGVAJyfruqMPH.png"
+  },
+  "11962": {
+   "nombre": "Disco duro externo seagate 2tb usb 3.0 stgx2000400",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SEAGATE",
+   "modelo": "STGX2000400",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-seagate-2tb-usb-30-stgx2000400",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 224.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/wTzClpMWyivBnOnmciHR5XstQQR1wtemHIUQeQZo.png"
+  },
+  "11961": {
+   "nombre": "Disco duro externo seagate 1tb usb 3.0 stgx1000400",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SEAGATE",
+   "modelo": "STGX1000400",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-seagate-1tb-usb-30-stgx1000400",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 159.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada667c307a8f5f0.jpg"
+  },
+  "11921": {
+   "nombre": "Camara de videovigilancia inalambrica interiores ezviz cs-h1c fhd",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EZVIZ",
+   "modelo": "CSH1C",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-interiores-ezviz-cs-h1c-fhd",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada66671c4d848c9.jpg"
+  },
+  "11266": {
+   "nombre": "Ventilador para case aerocool spectro 12 frgb molex 120mm",
+   "categoria": "ventilador",
+   "tipo": "ventilador",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "AEROCOOL",
+   "modelo": "120MM",
+   "url": "https://zonadigitalsv.com/product/ventilador-para-case-aerocool-spectro-12-frgb-molex-120mm",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6599b3a112aae.jpg"
+  },
+  "11083": {
+   "nombre": "Disco duro seagate skyhawk 2tb st2000vx017 3.5p",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SEAGATE",
+   "modelo": "ST2000VX017",
+   "url": "https://zonadigitalsv.com/product/disco-duro-seagate-skyhawk-2tb-st2000vx017-35p",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 169.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada656a5eb11b3c2.jpg"
+  },
+  "10901": {
+   "nombre": "Bocina stereo 2.0 inteligente jbl authentics 200 diseño retro 90w bluetooth wifi  jblauth200blkam black",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "JBL",
+   "modelo": "JBLAUTH200BLKAM",
+   "url": "https://zonadigitalsv.com/product/bocina-stereo-20-inteligente-jbl-authentics-200-diseno-retro-90w-bluetooth-wifi-jblauth200blkam-black",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 369.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/dMJH7Z3WI1nMMkctXlyd3wxZe1IYvev2Q11Fdq1h.png"
+  },
+  "10876": {
+   "nombre": "Router mercusys mw325r 300mbps 4 antenas",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "MW325R",
+   "url": "https://zonadigitalsv.com/product/router-mercusys-mw325r-300mbps-4-antenas",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 17.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada653057c30a885.jpg"
+  },
+  "10840": {
+   "nombre": "Tarjeta de red rj45 pci-e 2.5gb tp-link tx201",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "TX201",
+   "url": "https://zonadigitalsv.com/product/tarjeta-de-red-rj45-pci-e-25gb-tp-link-tx201",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada652aceb633c44.jpg"
+  },
+  "10838": {
+   "nombre": "Router tp-link archer ax23 wifi6 dualband ax1800",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AX1800",
+   "url": "https://zonadigitalsv.com/product/router-tp-link-archer-ax23-wifi6-dualband-ax1800",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada65296be48daf1.jpg"
+  },
+  "10787": {
+   "nombre": "Barra de sonido  con subwoofer inalambrico 2.1 klip xtreme ksb-230 bluetooth 3.5mm usb 160w rms",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KLIP XTREME",
+   "modelo": "KSB230",
+   "url": "https://zonadigitalsv.com/product/barra-de-sonido-con-subwoofer-inalambrico-21-klip-xtreme-ksb-230-bluetooth-35mm-usb-160w-rms",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/9lVOJWTEfvCyAolLyLos1awXM0yvzcpdxzTqMtzB.png"
+  },
+  "10417": {
+   "nombre": "Camara de videovigilancia inalambrica xiaomi 2k white 34804 magnetica",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/camara-de-videovigilancia-inalambrica-xiaomi-2k-white-34804-magnetica",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/WXp4ukGdWBL7NR9fddMrq0CpwbYmS5NtErOnJ1GU.png"
+  },
+  "6445": {
+   "nombre": "Router tp-link doble banda ac750 archer c24",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "AC750",
+   "url": "https://zonadigitalsv.com/product/router-tp-link-doble-banda-ac750-archer-c24",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750f092ad44.jpg"
+  },
+  "4865": {
+   "nombre": "Disco duro externo seagate 8tb expansion stkp8000400 desktop",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SEAGATE",
+   "modelo": "STKP8000400",
+   "url": "https://zonadigitalsv.com/product/disco-duro-externo-seagate-8tb-expansion-stkp8000400-desktop",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 449.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750c239b730.jpg"
+  },
+  "4630": {
+   "nombre": "Memoria usb kingston 256gb exodia dtx/256gb usb 3.2",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-kingston-256gb-exodia-dtx256gb-usb-32",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 29.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750c1ae4dc6.jpg"
+  },
+  "4626": {
+   "nombre": "Memoria usb 3.2 kingston 128gb kyson dtkn/128gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-32-kingston-128gb-kyson-dtkn128gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750c1ac7d86.jpg"
+  },
+  "4625": {
+   "nombre": "Memoria usb 3.2 kingston 64gb kyson dtkn/64gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-32-kingston-64gb-kyson-dtkn64gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 17.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750c1abc717.jpg"
+  },
+  "4613": {
+   "nombre": "Memoria usb tipo c  kingston 128gb dt70/128gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-tipo-c-kingston-128gb-dt70128gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 13.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/ofpKQ9B01fYeO4HGU624Q5bOYgZAAMh6eyEsUwPD.png"
+  },
+  "4612": {
+   "nombre": "Memoria usb tipo c  kingston 64gb dt70/64gb",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "KINGSTON",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/memoria-usb-tipo-c-kingston-64gb-dt7064gb",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/yahVePhF7qK2bNOXuPCPL4HN95bTuDu7Qw2sWVYY.png"
+  },
+  "3843": {
+   "nombre": "Extensor de rango wifi dualband mercusys me30 1200mbps",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/extensor-de-rango-wifi-dualband-mercusys-me30-1200mbps",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750b20ee4b0.jpg"
+  },
+  "3838": {
+   "nombre": "Router dualband mercusys mr70x ax1800 wifi6 4antenas 5dbi",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "AX1800",
+   "url": "https://zonadigitalsv.com/product/router-dualband-mercusys-mr70x-ax1800-wifi6-4antenas-5dbi",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 69.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750b20c5876.jpg"
+  },
+  "3422": {
+   "nombre": "Extensor de rango wifi mercusys 300mbp mw300re",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MERCUSYS",
+   "modelo": "MW300RE",
+   "url": "https://zonadigitalsv.com/product/extensor-de-rango-wifi-mercusys-300mbp-mw300re",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 16.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750b10efb15.jpg"
+  },
+  "3412": {
+   "nombre": "Adaptador de red tp link usb tipo c a rj45 gigabit ue300c",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "UE300C",
+   "url": "https://zonadigitalsv.com/product/adaptador-de-red-tp-link-usb-tipo-c-a-rj45-gigabit-ue300c",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 19.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/2BtCruuUOmdxbmKyuAoVzEf5nUEZBzcIezwuczIV.png"
+  },
+  "3391": {
+   "nombre": "Switch gigabit tp-link 16 puertos tl-sg1016d desktop/rackmount",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP-LINK",
+   "modelo": "TLSG1016D",
+   "url": "https://zonadigitalsv.com/product/switch-gigabit-tp-link-16-puertos-tl-sg1016d-desktoprackmount",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750b0fe8f08.jpg"
+  },
+  "904": {
+   "nombre": "Bocinas bluetooth logitech z207 980-001294",
+   "categoria": "bocina",
+   "tipo": "bocina",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/bocinas-bluetooth-logitech-z207-980-001294",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 64.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750a849dec6.jpg"
+  },
+  "893": {
+   "nombre": "Webcam logitech brio ultra hd pro 4k 960-001105",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/webcam-logitech-brio-ultra-hd-pro-4k-960-001105",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750a8438e83.jpg"
+  },
+  "830": {
+   "nombre": "Webcam logitech c920 fullhd af 960-000764",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/webcam-logitech-c920-fullhd-af-960-000764",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750a817b2d6.jpg"
+  },
+  "828": {
+   "nombre": "Webcam logitech c270 hd 720p con mic 960-000694",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LOGITECH",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/webcam-logitech-c270-hd-720p-con-mic-960-000694",
+   "primera_vez": "2026-10-29",
+   "ultima_vez": "2026-10-29",
+   "observaciones": [
+    {
+     "fecha": "2026-10-29T17:46:53-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/g3XFtVZ3hk9wfdIKw2n8s8fuHqJrvyYjA82wi4Yc.png"
   }
  }
 }
