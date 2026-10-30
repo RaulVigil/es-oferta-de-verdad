@@ -22,7 +22,7 @@ concurrency:
 jobs:
   capturar:
     runs-on: ubuntu-latest
-    timeout-minutes: 120       # 15 tiendas, 8 min maximo cada una (ver LIMITE_POR_TIENDA); tarda ~20 min
+    timeout-minutes: 120       # 14 tiendas, 10 min maximo cada una (ver LIMITE_POR_TIENDA); tarda ~25 min
     env:
       TZ: America/El_Salvador   # las fechas de captura quedan en hora local
       PYTHONUNBUFFERED: "1"     # el avance ("Barriendo Siman...") se ve en vivo en el log

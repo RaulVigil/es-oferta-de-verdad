@@ -93,6 +93,9 @@ AEON_CATEGORIAS = [
     "smart-life-smartphones-393", "tablets-401", "smart-life-smartwatch-558", "perifericos-bocinas-437",
     "impresores-y-suministros-impresores-467", "smart-life-aspiradora-507", "oficina-proyectores-380",
     "camaras-444", "redes-384", "almacenamiento-429", "componentes-tarjetas-de-video-405",
+    "componentes-procesadores-377", "componentes-motherboard-489", "componentes-fuentes-de-poder-464",
+    "componentes-cases-447", "enfriamiento-460", "computadoras-451", "proteccion-electrica-379", "drones-517",
+    "smart-life-smart-tv-cast-394",
 ]
 VIDRI_BUSCAR = "https://us1-search.doofinder.com/6/b4d8961c442269cb15909f69bc6cfd6c/_search"
 _VIDRI_CABECERAS = {"Origin": "https://www.vidri.com.sv", "Referer": "https://www.vidri.com.sv/"}

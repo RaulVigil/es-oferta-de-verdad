@@ -3,7 +3,7 @@
   "moneda": "USD",
   "pais": "El Salvador",
   "creado": "2026-10-20",
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-10-30",
   "corte_linea_base": "2026-11-01",
   "evento": {
     "nombre": "Black Friday / Cyber Monday 2026",
@@ -102,7 +102,7 @@
         "gamepad"
       ],
       "incluir": "^\\s*(control(es)?|mando|gamepad|joy-?con|dualsense|pro controller)\\b",
-      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|cable|bater[ií]a|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n|psi\\b|modulante|bomba|diapositivas|apuntador|presentador|garage|puertas?\\b"
+      "excluir": "remoto|universal|\\btv\\b|televisor|aire|garaje|port[oó]n|ventilador|luz|estaci[oó]n|cargador|base de carga|soporte|funda|grip|skin|protector|thumb|estuche|kit de|de acceso|de temperatura|de plagas|olor|longo|axis|distancia|plaga|humedad|insect|maleza|hormiga|cucaracha|riego|nivel|flotador|presi[oó]n|psi\\b|modulante|bomba|diapositivas|apuntador|presentador|garage|puertas?\\b"
     },
     "consola": {
       "nombre": "Consolas",
@@ -120,8 +120,8 @@
         "playstation",
         "xbox"
       ],
-      "incluir": "^\\s*(consola|(combo|bundle)\\s+(consola\\s+)?(nintendo|playstation|ps5|xbox)|nintendo switch|playstation ?5|ps5|xbox series)",
-      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick|canales|\bch\b|mezcla|mixer|audio|amplificada|behringer|soundcraft|mackie|phonic|peavey|allen|presonus|voyz|topp ?pro|mdf|madera|mueble|melamina|dmx|iluminaci",
+      "incluir": "^\\s*(consola|(combo|bundle|pack)\\s+(consola\\s+)?(nintendo|playstation|ps5|xbox)|nintendo switch|playstation ?5|ps5|xbox series)",
+      "excluir": "retro|arcade|mini consola|port[aá]til de juegos|playstation portal|reproductor remoto|anbernic|miyoo|powkiddy|retroid|game ?stick|canales|\\bch\\b|mezcla|mixer|audio|amplificada|behringer|soundcraft|mackie|phonic|peavey|allen|presonus|voyz|topp ?pro|mdf|madera|mueble|melamina|dmx|iluminaci",
       "omnisport": [
         "consolas"
       ]
@@ -136,7 +136,7 @@
         "laptops",
         "computadora portatil"
       ],
-      "incluir": "^\\s*((combo|bundle)\\s+(gam\\w+\\s+)?)?(\\S+\\s+)?(laptop|notebook|chromebook|macbook|omnibook|ideapad|vivobook|victus|loq)\\b",
+      "incluir": "^\\s*(((combo|bundle)\\s+(gam\\w+\\s+)?)?(\\S+\\s+)?(laptop|notebook|chromebook|macbook|omnibook|ideapad|vivobook|victus|loq)\\b|computadoras?\\s+(gamer|gaming|port[aá]til)\\b(?=.*(\\b1[1-8](\\.\\d)?\\s?(\\\"|”|''|pulg)|\\b(loq|victus|nitro|legion|ideapad|vivobook|omen|tuf|rog|alienware|aspire|inspiron|thinkpad|zenbook|pavilion)\\b)))",
       "excluir": "juguete|fisher|para laptop|para notebook|mochila para|funda|cover|sleeve"
     },
     "ram": {
@@ -501,8 +501,8 @@
         "smartphone",
         "smartphones"
       ],
-      "incluir": "^\\s*(celular\\b|smartphone|tel[eé]fono (celular|m[oó]vil|inteligente)|(apple\\s+)?iphone\\s?\\d|(samsung\\s+)?galaxy\\s+([asz]\\d{2}|z\\s?(flip|fold))|samsung\\s+[asz]\\d{2}\\b|(xiaomi\\s+)?(redmi|poco)\\s+(note\\s+)?[a-z]?\\d|xiaomi\\s+\\d{2}\\b|(motorola\\s+)?moto\\s+[ge]\\d|motorola\\s+(edge|[ge]\\d)|honor\\s+(x\\d|magic|\\d{3})|infinix\\s+\\w+|tecno\\s+(spark|camon|pova)|zte\\s+blade|oppo\\s+(a\\d|reno)|realme\\s+[a-z]*\\d|huawei\\s+(nova|p\\d|mate))",
-      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|cargador|cable|soporte|holder|\\bbase\\b|tr[ií]pode|selfie|aro de luz|power ?bank|bater[ií]a|adaptador|aud[ií]fono|repuesto|lente|anillo|correa|tarjeta|\\bchip\\b|recarga|juguete|beb[eé]|cuna|watch|reloj|\\bbuds\\b|\\bband\\b|\\btab\\b|tablet|pad\\b|para (celular|tel[eé]fono|smartphone)|\\bfilm\\b|\\bcover\\b|anti-?reflect|wallet|\\((ef|gp|et|eo|ep|ew|ej)-|s ?pen\\b"
+      "incluir": "^\\s*(celular\\b|smartphone|tel[eé]fono (celular|m[oó]vil|inteligente)|(apple\\s+)?iphone\\s?\\d|(samsung\\s+)?galaxy\\s+([asz]\\d{2}|z\\s?(flip|fold))|samsung\\s+[asz]\\d{2}\\b|(xiaomi\\s+)?(redmi|poco)\\s+(note\\s+)?[a-z]?\\d|xiaomi\\s+\\d{2}\\b|(motorola\\s+)?moto\\s+[ge]\\d|motorola\\s+(edge|[ge]\\d)|honor\\s+(x\\d|magic|\\d{3})|infinix\\s+\\w+|tecno\\s+(spark|camon|pova)|zte\\s+blade|oppo\\s+(a\\d|reno)|realme\\s+[a-z]*\\d|huawei\\s+(nova|p\\d|mate)|(samsung|xiaomi|honor|motorola|huawei|oppo|realme|zte|tecno|infinix|vivo|nokia|apple|google|alcatel|tcl|blu|redmi|poco)\\b(?=.*\\b\\d{1,2}\\s?gb\\s*\\+\\s*\\d{2,4}\\s?(gb|tb)\\b))",
+      "excluir": "funda|estuche|\\bcase\\b|protector|mica|vidrio|cargador|cable|soporte|holder|\\bbase\\b|tr[ií]pode|selfie|aro de luz|power ?bank|bater[ií]a|adaptador|aud[ií]fono|repuesto|lente|anillo|correa|tarjeta|\\bchip\\b|recarga|juguete|beb[eé]|cuna|watch|reloj|\\bbuds\\b|\\bband\\b|\\btab\\b|tablet|pad\\b|para (celular|tel[eé]fono|smartphone)|\\bfilm\\b|\\bcover\\b|anti-?reflect|wallet|\\((ef|gp|et|eo|ep|ew|ej)-|s ?pen\\b|galaxy\\s+book|\\bbook\\d?\\b|laptop|notebook|monitor"
     },
     "tablet": {
       "nombre": "Tablets",
@@ -548,7 +548,7 @@
         "soundbar",
         "minicomponente"
       ],
-      "incluir": "^\\s*(bocinas?|parlantes?|altavoz|altavoces|barra\\s+de\\s+sonido|soundbar|mini\\s?componente|equipo\\s+de\\s+sonido|torre\\s+de\\s+sonido|(jbl\\s+)?(flip|charge|clip|xtreme|partybox|boombox)\\s?\\d|(lg\\s+)?xboom)",
+      "incluir": "^\\s*(bocinas?|parlantes?|altavoz|altavoces|barra\\s+de\\s+sonido|soundbar|mini\\s?componente|equipo\\s+de\\s+sonido|torre\\s+de\\s+sonido|(jbl\\s+)?(flip|charge|clip|xtreme|partybox|boombox)\\s?\\d|(lg\\s+)?xboom|(\\S+\\s+){0,3}?(amazon\\s+)?echo\\s+(dot|show|spot|pop|studio)\\b)",
       "excluir": "\\bauto\\b|carro|veh[ií]culo|marina|6\\s?x\\s?9|soporte|\\bbase\\b|funda|estuche|cable|repuesto|bater[ií]a|control remoto|juguete|empotrable|de techo|tweeter|rejilla|cubierta|para bocina"
     },
     "climatizacion": {
@@ -915,6 +915,149 @@
       ],
       "incluir": "^\\s*(hidro\\s?lavadoras?\\b|lavadoras?\\s+(a|de)\\s+(alta\\s+)?presi[oó]n|limpiadoras?\\s+(a|de)\\s+(alta\\s+)?presi[oó]n|k[aä]rcher\\s+k\\s?\\d)",
       "excluir": "repuesto|juguete|para\\s+hidrolavadora|detergente|jab[oó]n|champ[uú]|limpiador\\s+de\\s+(superficies|terrazas|patios?)|t-?racer|boquilla\\s+para|manguera\\s+para|extensi[oó]n\\s+para"
+    },
+    "videojuego": {
+      "nombre": "Videojuegos",
+      "buscar": [
+        "videojuego",
+        "juego nintendo switch",
+        "juego playstation 5"
+      ],
+      "pistas": [
+        "videojuegos"
+      ],
+      "incluir": "^(?=.*(nintendo\\s+switch|switch\\s?2\\b|playstation\\s?[45]|\\bps[45]\\b|xbox\\s+(series|one)))\\s*((video\\s?)?juegos?\\b|.*—\\s*(video\\s?)?juego\\b|.*\\bedici[oó]n\\s+(est[aá]ndar|deluxe|digital\\s+deluxe|coleccionista|definitiva|gold|ultimate|day\\s+one|lanzamiento)\\b)",
+      "excluir": "controles?\\b|joy-?con|mandos?\\b|funda|estuche|bolso|bandolera|cargador|base\\s+de\\s+carga|\\bcable|protector|\\bmica\\b|volante|tim[oó]n|amiibo|figura|tarjeta|gift|membres[ií]a|suscripci[oó]n|camiseta|t-?shirt|sudadera|gorra|mochila|\\btaza\\b|peluche|\\blego\\b|aud[ií]fono|headset|soporte|grip|skin|consola"
+    },
+    "pc": {
+      "nombre": "Computadoras de escritorio",
+      "buscar": [
+        "computadora de escritorio",
+        "all in one"
+      ],
+      "pistas": [
+        "computadora de escritorio",
+        "desktop",
+        "imac"
+      ],
+      "incluir": "^\\s*((computadoras?|equipos?)\\s+(de\\s+escritorio|all\\s+in\\s+one|aio|todo\\s+en\\s+uno|gamer|gaming|desktop)\\b|all\\s+in\\s+one\\b|aio\\b(?!\\s*\\d{3})|mini\\s+pc\\b|pc\\s+(gamer|gaming|de\\s+escritorio|ryzen|intel|core|amd)\\b|imac\\b|mac\\s+(mini|studio)\\b)",
+      "excluir": "laptop|notebook|port[aá]til|\\b1[1-8](\\.\\d)?\\s?(\\\"|”|''|pulg)|\\b(loq|victus|nitro|legion|ideapad|vivobook|omen|tuf|rog|alienware|aspire|inspiron|thinkpad|zenbook|pavilion)\\b|adaptador|cargador|\\bcable|funda|mochila|limpieza|soporte|\\bmesa\\b|escritorio\\s+para|ventilador|\\bcase\\b|gabinete|disipador|enfriamiento"
+    },
+    "procesador": {
+      "nombre": "Procesadores",
+      "buscar": [
+        "procesador ryzen",
+        "procesador intel"
+      ],
+      "pistas": [
+        "procesadores",
+        "cpu"
+      ],
+      "incluir": "^\\s*(procesador(es)?\\b(?!\\s+de\\s+alimentos)(?=.*(intel|amd|ryzen|core\\s|athlon|pentium|celeron|xeon|ghz|am[45]\\b|lga))|(amd\\s+)?ryzen\\s+[3579]\\s+\\d{4}|(intel\\s+)?core\\s+(i[3579]|ultra)\\b)",
+      "excluir": "alimentos|laptop|notebook|computadora|\\bpc\\b|disipador|cooler|enfriamiento|pasta|motherboard|tarjeta\\s+madre|combo|\\bkit\\b|bundle|placa"
+    },
+    "motherboard": {
+      "nombre": "Tarjetas madre",
+      "buscar": [
+        "motherboard",
+        "tarjeta madre"
+      ],
+      "pistas": [
+        "motherboards",
+        "mainboard"
+      ],
+      "incluir": "^\\s*(motherboards?|tarjetas?\\s+madres?|placas?\\s+(madre|base)|mainboard)\\b",
+      "excluir": "combo|\\bkit\\b|bundle|soporte|bater[ií]a|\\bpila\\b|laptop"
+    },
+    "fuente": {
+      "nombre": "Fuentes de poder",
+      "buscar": [
+        "fuente de poder"
+      ],
+      "pistas": [
+        "fuente de poder",
+        "psu"
+      ],
+      "incluir": "^\\s*fuentes?\\s+de\\s+(poder|alimentaci[oó]n)\\b(?=.*(\\b\\d{3,4}\\s?w\\b|80\\s?\\+|\\batx\\b|modular|bronce|bronze|gold|\\boro\\b|platinum|platino|plus))",
+      "excluir": "laptop|cargador|\\bled\\b|c[aá]mara|\\btira\\b|cctv|\\b12\\s?v\\b|adaptador|switching|\\bdin\\b|transformador|regulada|laboratorio"
+    },
+    "gabinete": {
+      "nombre": "Gabinetes (cases) para PC",
+      "buscar": [
+        "case gamer",
+        "gabinete pc"
+      ],
+      "pistas": [
+        "gabinetes"
+      ],
+      "incluir": "^\\s*(cases?|gabinetes?|chasis)\\b(?=.*(\\batx\\b|\\bitx\\b|tower|torre|vidrio|tempered|glass|\\bfans?\\b|ventilador|argb|\\brgb\\b|\\bmid\\b|\\bfull\\b|gamer|gaming|panor[aá]mic))",
+      "excluir": "nintendo|switch|ps[45]|playstation|xbox|iphone|galaxy|celular|tel[eé]fono|laptop|disco|\\bssd\\b|\\bhdd\\b|m\\.2|nvme|consola|aud[ií]fono|funda|estuche|para\\s+(control|celular|tel[eé]fono|disco|ssd)|enclosure|cocina|ba[nñ]o|el[eé]ctrico|herramienta"
+    },
+    "enfriamiento": {
+      "nombre": "Enfriamiento para PC",
+      "buscar": [
+        "enfriamiento liquido",
+        "disipador"
+      ],
+      "pistas": [
+        "disipador",
+        "disipadores",
+        "enfriamiento"
+      ],
+      "incluir": "^\\s*(disipador(es)?\\b(?=.*(procesador|\\bcpu\\b|intel|\\bamd\\b|am[45]|\\blga\\b|1700|1851|tower|\\baire\\b|deepcool|cooler\\s+master|noctua|arctic))|(kit\\s+de\\s+)?(enfriamiento|refrigeraci[oó]n)\\s+(l[ií]quid[oa]|para\\s+(cpu|procesador))|(cooler|ventilador(es)?)\\s+(para\\s+)?(cpu|procesador|case|gabinete)\\b)",
+      "excluir": "laptop|notebook|pasta|\\bssd\\b|m\\.2|nvme|memoria|\\bram\\b|tarjeta\\s+de\\s+video|\\bgpu\\b|consola|celular|tel[eé]fono|ps[45]|playstation"
+    },
+    "streaming": {
+      "nombre": "Reproductores de streaming",
+      "buscar": [
+        "roku",
+        "fire tv stick",
+        "chromecast"
+      ],
+      "pistas": [
+        "firestick",
+        "chromecast"
+      ],
+      "incluir": "^\\s*((\\S+\\s+){0,3}?(reproductor|dispositivo|adaptador)\\s+(de\\s+|multimedia\\s+)?(streaming|media|multimedia)\\b|(\\S+\\s+){0,2}?(roku|fire\\s+tv\\s+(stick|cube)|chromecast|google\\s+tv\\s+streamer|apple\\s+tv\\s+4k|tv\\s+stick|tv\\s+box|streaming\\s+stick)\\b)",
+      "excluir": "^\\s*control|control\\s+(de\\s+tv|remoto)|pantalla|televisor|smart\\s+tv|\\b\\d{2}\\s?(\\\"|”|''|pulg)|soporte|\\bcable|funda|echo\\s+show|bocina|\\bauto\\b|carro|veh[ií]culo"
+    },
+    "powerbank": {
+      "nombre": "Power banks",
+      "buscar": [
+        "power bank",
+        "powerbank"
+      ],
+      "pistas": [
+        "powerbank",
+        "powerbanks"
+      ],
+      "incluir": "^\\s*(power\\s?banks?|bater[ií]as?\\s+(externas?|port[aá]til(es)?)|cargador(es)?\\s+port[aá]til(es)?)\\b",
+      "excluir": "estuche|funda|combo|bundle|iphone|galaxy|para\\s+(nintendo|consola|laptop\\s+\\d)|soporte|\\bauto\\b|arrancador|jump"
+    },
+    "ups": {
+      "nombre": "UPS y reguladores de voltaje",
+      "buscar": [
+        "ups",
+        "regulador de voltaje"
+      ],
+      "pistas": [
+        "nobreak",
+        "regulador de voltaje"
+      ],
+      "incluir": "^\\s*(ups\\b|no\\s?-?break|regulador(es)?\\s+(de\\s+)?voltaje|estabilizador(es)?\\s+de\\s+voltaje)",
+      "excluir": "bater[ií]a\\s+(de\\s+)?(reemplazo|repuesto|para)|^\\s*bater[ií]a|cable|soporte|tarjeta\\s+de\\s+red|software|licencia"
+    },
+    "dron": {
+      "nombre": "Drones",
+      "buscar": [
+        "dron"
+      ],
+      "pistas": [
+        "drones",
+        "drone"
+      ],
+      "incluir": "^\\s*(drones?\\b|cuadric[oó]ptero|(\\S+\\s+)?dji\\s+(mini|air|avata|mavic|neo|flip)\\b)",
+      "excluir": "bater[ií]a|h[eé]lices?|repuesto|estuche|malet[ií]n|mochila|cargador|protector|\\bfiltros?\\b|tren\\s+de\\s+aterrizaje|juguete\\s+de\\s+agua"
     }
   },
   "categorias": {

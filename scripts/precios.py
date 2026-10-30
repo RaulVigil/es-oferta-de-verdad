@@ -51,7 +51,7 @@ ARCHIVO_COMERCIALES = DIR_DATOS / "comerciales.json"
 DIR_REPORTES = RAIZ / "reportes"
 
 CORTE_POR_DEFECTO = "2026-11-01"
-LIMITE_POR_TIENDA = 8 * 60  # segundos; Omnisport, la mas lenta, tarda ~4 min
+LIMITE_POR_TIENDA = 10 * 60  # segundos; Siman, la mas lenta (~170 busquedas), tarda ~7 min
 FILTROS_POR_DEFECTO = {"tv": {"pulgadas_min": 40, "pulgadas_max": 60}, "cama": {"medidas": ["matrimonial"]}}
 
 

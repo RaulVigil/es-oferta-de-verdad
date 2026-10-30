@@ -31,8 +31,8 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
 ```
 
 Cada producto guarda todas sus observaciones de precio; una tienda caída no detiene a las
-demás, y cada tienda tiene un límite de 8 minutos. Si alguna no entrega datos, se suben las
-demás y el flujo termina en rojo para que GitHub avise. La corrida completa tarda unos 17 minutos.
+demás, y cada tienda tiene un límite de 10 minutos. Si alguna no entrega datos, se suben las
+demás y el flujo termina en rojo para que GitHub avise. La corrida completa tarda unos 25 minutos.
 
 ### Cómo se leen las tiendas
 
@@ -48,7 +48,7 @@ Cada tienda expone el mismo catálogo que usa su propio sitio web; no hay scrapi
 | Prado, EPA | índice público de Algolia del buscador | facetas + búsquedas |
 | Vidrí | API pública de su buscador (Doofinder) | búsquedas (máx. 1,000 resultados cada una) |
 | Zona Digital | API JSON de su página | catálogo completo (~1,400 productos) |
-| AEON | tienda Odoo (HTML con schema.org) | categorías de cómputo, redes, cámaras y almacenamiento |
+| AEON | tienda Odoo (HTML con schema.org) | categorías de cómputo, componentes, redes, cámaras y almacenamiento |
 | Omnisport | HTML de categorías y productos | TV, camas, electrodomésticos |
 | Electrónica 2001 | HTML de categorías + API por código | categorías de instrumentos y audio |
 
@@ -69,7 +69,9 @@ micrófonos, ukuleles, celulares, tablets, smartwatches, bocinas y barras de son
 acondicionados, impresoras, aspiradoras, licuadoras, ventiladores, taladros, cocinas y estufas,
 secadoras de ropa, congeladores, cafeteras, ollas arroceras y de presión, batidoras, hornos y
 tostadores, planchas de ropa, secadoras de pelo y rasuradoras, proyectores, cámaras, routers,
-discos duros y memorias USB, tarjetas de video, salas y sofás, comedores e hidrolavadoras.
+discos duros y memorias USB, tarjetas de video, salas y sofás, comedores, hidrolavadoras, videojuegos,
+computadoras de escritorio, procesadores, tarjetas madre, fuentes de poder, gabinetes, enfriamiento
+para PC, reproductores de streaming, power banks, UPS y reguladores de voltaje, y drones.
 
 ```json
 "inodoro": {
