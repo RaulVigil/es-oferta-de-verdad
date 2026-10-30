@@ -57,14 +57,16 @@ VTEX_BARRIDO = {
         "?ft=set%20de%20cama",
     ],
 }
-# Adobe Live Search (La Curacao, RadioShack): el buscador de su sitio. Su /graphql de Magento
-# responde "403 GraphQL disabled" desde el 23-oct-2026.
+# Adobe Live Search (La Curacao, RadioShack, Tropigas): el buscador de su sitio. Su /graphql de
+# Magento responde "403 GraphQL disabled" (La Curacao desde el 23-oct-2026; Tropigas tambien).
 LIVESEARCH_URL = "https://catalog-service.adobe.io/graphql"
-LIVESEARCH_ENTORNO = "b0453fee-9cca-41d9-930c-0a94fd84b9bd"  # Unicomer: el mismo para las dos tiendas
+LIVESEARCH_ENTORNO = "b0453fee-9cca-41d9-930c-0a94fd84b9bd"  # Unicomer: el mismo para las tres tiendas
 LIVESEARCH_CLAVE = "2999e5a23078490096b15ef87ccc499c"
 LIVESEARCH = {
     "curacao": ("https://www.lacuracaonline.com/elsalvador", "lco_el_salvador"),
     "radioshack": ("https://www.radioshackla.com/elsalvador", "rso_el_salvador"),
+    # almacenestropigas.com.sv (tropigas.com.sv no tiene DNS); mismos SKU que La Curacao
+    "tropigas": ("https://www.almacenestropigas.com.sv", "at_el_salvador"),
 }
 # Magento GraphQL con la cabecera "Store" de la vista de El Salvador. La tienda de Samsung
 # (shop.samsung.com/latin/cac) atiende a varios paises: sin "Store: sv" responde en quetzales.
@@ -253,7 +255,7 @@ def _vtex_barrer(base: str, rutas: list) -> list:
 
 
 # --------------------------------------------------------------------------- #
-# Adobe Live Search (La Curacao, RadioShack)
+# Adobe Live Search (La Curacao, RadioShack, Tropigas)
 # --------------------------------------------------------------------------- #
 _CAMPOS_LS = """total_count page_info { total_pages }
   items { productView { sku name urlKey inStock images(roles: ["small_image"]) { url }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "actualizado": "2026-10-29",
+  "actualizado": "2026-10-30",
   "comerciales": [
     {
       "id": "siman",
@@ -25,6 +25,14 @@
       "tipo": "electronica",
       "captura": "auto (Adobe Live Search, mismo catalogo que La Curacao)",
       "notas": "Grupo Unicomer: usa los mismos SKU que La Curacao pero a veces con otro precio."
+    },
+    {
+      "id": "tropigas",
+      "nombre": "Tropigas",
+      "url": "https://www.almacenestropigas.com.sv/",
+      "tipo": "multimarca",
+      "captura": "auto (Adobe Live Search, como La Curacao: catalogo completo)",
+      "notas": "Almacenes Tropigas, grupo Unicomer: mismos SKU que La Curacao y casi siempre el mismo precio (97 % el 30-oct), pero a veces muy distinto. Publica $999,999 en lo que no tiene precio."
     },
     {
       "id": "walmart",
