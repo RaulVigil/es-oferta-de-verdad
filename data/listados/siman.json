@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-31T11:22:27-06:00",
+ "actualizado": "2026-10-31T16:56:18-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -205728,7 +205728,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-reno-14f-5g-12gb-ram-256gb-rom-pantalla-6-5---16-51-cm--qualcomm-snapdragon-6-gen-1-camara-principal-50mp--/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -205740,6 +205740,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 459.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 459.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -205759,7 +205767,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-reno-14f-5g-12gb-ram-256gb-rom-pantalla-6-5---16-51-cm--qualcomm-snapdragon-6-gen-1-camara-principal-50mp--/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -205771,6 +205779,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 459.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 459.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -223269,6 +223285,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
+     "precio": 719.91,
+     "precio_lista": 799.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5354018-300-300/104532877.jpg"
@@ -226598,7 +226622,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camera-xiaomi-c302-823490071/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226610,6 +226634,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 38.0,
+     "precio_lista": 51.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 38.0,
      "precio_lista": 51.0,
      "disponible": true,
@@ -226629,7 +226661,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-inteligente-2k-c100-105021653/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226641,6 +226673,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 24.99,
+     "precio_lista": 30.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 24.99,
      "precio_lista": 30.9,
      "disponible": true,
@@ -226660,7 +226700,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-solar-105307226/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226672,6 +226712,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 109.0,
+     "precio_lista": 109.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 109.0,
      "precio_lista": 109.0,
      "disponible": true,
@@ -226691,7 +226739,7 @@
    "modelo": "A03HAW",
    "url": "https://sv.siman.com/camara-ezviz-c6w-wifi-2k-2560x1440-pan-tilt-cs-c6w-a0-3haw-ezviz-823475947/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226703,6 +226751,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 76.5,
+     "precio_lista": 85.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 76.5,
      "precio_lista": 85.0,
      "disponible": true,
@@ -226761,7 +226817,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-smart-c500-dual-us-con-detector-de-movimiento-104991424/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226773,6 +226829,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 89.9,
      "precio_lista": 89.9,
      "disponible": true,
@@ -226792,7 +226856,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-inteliente-outdoor-con-luz-incluida-104868803/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226804,6 +226868,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 50.91,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 50.91,
      "precio_lista": 59.9,
      "disponible": true,
@@ -226823,7 +226895,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-wi-fi-para-exteriores-823487320/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226835,6 +226907,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 73.0,
+     "precio_lista": 73.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 73.0,
      "precio_lista": 73.0,
      "disponible": true,
@@ -226893,7 +226973,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-p-interior-torreta-104895012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226905,6 +226985,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 52.9,
+     "precio_lista": 52.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 52.9,
      "precio_lista": 52.9,
      "disponible": true,
@@ -226924,7 +227012,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-smart-wi-fi-3-mpx-seguidor-de-movimiento-p-exterior-104595868/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226936,6 +227024,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 74.9,
+     "precio_lista": 74.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 74.9,
      "precio_lista": 74.9,
      "disponible": true,
@@ -226955,7 +227051,7 @@
    "modelo": "NHCIP11",
    "url": "https://sv.siman.com/camara-de-seguridad-2k-nhc-ip11-105149064/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226967,6 +227063,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 36.9,
+     "precio_lista": 36.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 36.9,
      "precio_lista": 36.9,
      "disponible": true,
@@ -226986,7 +227090,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-ptz-p-interiores-video-bidereccional-104968913/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -226998,6 +227102,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 52.9,
+     "precio_lista": 52.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 52.9,
      "precio_lista": 52.9,
      "disponible": true,
@@ -227017,7 +227129,7 @@
    "modelo": "NHCIF10",
    "url": "https://sv.siman.com/camara-de-seguridad-p-interior-2k-105316731/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227029,6 +227141,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 25.9,
+     "precio_lista": 25.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 25.9,
      "precio_lista": 25.9,
      "disponible": true,
@@ -227048,7 +227168,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-smart-c300-dual-us-con-detector-de-movimiento-104991423/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227060,6 +227180,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 64.9,
+     "precio_lista": 64.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 64.9,
      "precio_lista": 64.9,
      "disponible": true,
@@ -227079,7 +227207,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-p-exterior-2k-con-panel-solar-104928295/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227091,6 +227219,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 89.9,
      "precio_lista": 89.9,
      "disponible": true,
@@ -227110,7 +227246,7 @@
    "modelo": "NHCOP10",
    "url": "https://sv.siman.com/camara-de-seguridad-p-exterior-2k-5mp-104928296/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227122,6 +227258,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 69.9,
+     "precio_lista": 69.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 69.9,
      "precio_lista": 69.9,
      "disponible": true,
@@ -227141,7 +227285,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-mini-p-exterior-104828953/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227153,6 +227297,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 59.9,
      "precio_lista": 59.9,
      "disponible": true,
@@ -227172,7 +227324,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/tp-link-tapo-c110-camara-de-seguridad-wi-fi-2k-para-interiores-823488270/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227184,6 +227336,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 39.9,
      "precio_lista": 39.9,
      "disponible": true,
@@ -227203,7 +227363,7 @@
    "modelo": "MC200",
    "url": "https://sv.siman.com/camara-de-seguridad-p-interior-mc200-105307220/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227215,6 +227375,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 29.9,
      "precio_lista": 29.9,
      "disponible": true,
@@ -227234,7 +227402,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-exterior-smart-wifi-con-panel-solar-104768448/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227246,6 +227414,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 116.9,
+     "precio_lista": 116.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 116.9,
      "precio_lista": 116.9,
      "disponible": true,
@@ -227265,7 +227441,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/kit-camara-tp-link-tapo-c410-solar-powerede-security-2k-823487393/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227277,6 +227453,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 113.0,
+     "precio_lista": 113.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 113.0,
      "precio_lista": 113.0,
      "disponible": true,
@@ -227296,7 +227480,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-4g-lte-solar-823476333/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227308,6 +227492,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 119.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 119.0,
      "precio_lista": 119.0,
      "disponible": true,
@@ -227327,7 +227519,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/camara-de-seguridad-doble-wifi-2-mpx-doble-lente-104997191/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227339,6 +227531,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 54.9,
+     "precio_lista": 54.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 54.9,
      "precio_lista": 54.9,
      "disponible": true,
@@ -227358,7 +227558,7 @@
    "modelo": "C510W",
    "url": "https://sv.siman.com/tp-link-camara-de-seguridad-wi-fi-exterior-tapo-c510w-2k-pan-tilt-ip65-con-vision-nocturna-a-color-823491196/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227370,6 +227570,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 70.0,
+     "precio_lista": 70.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 70.0,
      "precio_lista": 70.0,
      "disponible": true,
@@ -227389,7 +227597,7 @@
    "modelo": "NHCIF25W",
    "url": "https://sv.siman.com/camara-de-seguridad-p-interiores-para-ventanas-105388538/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227401,6 +227609,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 39.9,
      "precio_lista": 39.9,
      "disponible": true,
@@ -227420,7 +227636,7 @@
    "modelo": "NHCOP30DL",
    "url": "https://sv.siman.com/camara-de-seguridad-ptz-nhc-op30dl-p-exterior-104998938/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227432,6 +227648,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 89.9,
      "precio_lista": 89.9,
      "disponible": true,
@@ -227451,7 +227675,7 @@
    "modelo": "NHCIP11",
    "url": "https://sv.siman.com/camara-de-seguridad-ptz-2k-3mp-2-pack-p-interior-105347215/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227463,6 +227687,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 64.9,
+     "precio_lista": 64.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 64.9,
      "precio_lista": 64.9,
      "disponible": true,
@@ -227482,7 +227714,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/iphone-17-pro-256gb-plata/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227494,6 +227726,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 1569.0,
+     "precio_lista": 1609.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 1569.0,
      "precio_lista": 1609.0,
      "disponible": true,
@@ -227513,7 +227753,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/iphone-17-pro-256gb-plata/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227525,6 +227765,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 1569.0,
+     "precio_lista": 1609.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 1569.0,
      "precio_lista": 1609.0,
      "disponible": false,
@@ -227544,7 +227792,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/iphone-17-pro-256gb-plata/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227556,6 +227804,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 1569.0,
+     "precio_lista": 1609.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 1569.0,
      "precio_lista": 1609.0,
      "disponible": false,
@@ -227575,7 +227831,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/iphone-17-pro-256gb-plata/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -227587,6 +227843,14 @@
     },
     {
      "fecha": "2026-10-30T11:49:09-06:00",
+     "precio": 1609.0,
+     "precio_lista": 1609.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
      "precio": 1609.0,
      "precio_lista": 1609.0,
      "disponible": false,
@@ -235678,6 +235942,14 @@
      "precio": 2079.2,
      "precio_lista": 2599.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
+     "precio": 2599.0,
+     "precio_lista": 2599.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -249122,6 +249394,29 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5939721-300-300/100311927_100.jpg"
+  },
+  "7703128": {
+   "nombre": "Juego Metroid Prime remastered nintendo switch",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Nintendo",
+   "modelo": "",
+   "url": "https://sv.siman.com/juego-metroid-prime-remastered-nintendo-switch-104220239/p",
+   "primera_vez": "2026-10-31",
+   "ultima_vez": "2026-10-31",
+   "observaciones": [
+    {
+     "fecha": "2026-10-31T16:56:18-06:00",
+     "precio": 54.9,
+     "precio_lista": 59.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4411116-300-300/104220239.jpg"
   }
  }
 }

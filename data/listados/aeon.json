@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-10-31T11:34:51-06:00",
+ "actualizado": "2026-10-31T17:08:02-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -20270,6 +20270,52 @@
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/97724/image_256"
+  },
+  "107263": {
+   "nombre": "Kingston SSD 1024GB FURY Renegade G5 PCIe 5.0 M.2 NVMe SS, SFYR2S/1T0",
+   "categoria": "ssd",
+   "tipo": "ssd",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SFYR2S",
+   "url": "https://aeon.com.sv/shop/20116-kingston-ssd-1024gb-fury-renegade-g5-pcie-5-0-m-2-nvme-ss-sfyr2s-1t0-107263",
+   "primera_vez": "2026-10-31",
+   "ultima_vez": "2026-10-31",
+   "observaciones": [
+    {
+     "fecha": "2026-10-31T17:08:02-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107263/image_256"
+  },
+  "97817": {
+   "nombre": "Disco SSD Externo Kingston XS1000R 1TB Up to 1050MB/s USB 3.2, SXS1000R/1000G",
+   "categoria": "ssd",
+   "tipo": "ssd",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "SXS1000R",
+   "url": "https://aeon.com.sv/shop/16843-disco-ssd-externo-kingston-xs1000r-1tb-up-to-1050mb-s-usb-3-2-sxs1000r-1000g-97817",
+   "primera_vez": "2026-10-31",
+   "ultima_vez": "2026-10-31",
+   "observaciones": [
+    {
+     "fecha": "2026-10-31T17:08:02-06:00",
+     "precio": 199.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/97817/image_256"
   }
  }
 }

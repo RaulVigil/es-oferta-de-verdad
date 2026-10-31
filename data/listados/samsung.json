@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-10-31T11:40:39-06:00",
+ "actualizado": "2026-10-31T17:13:46-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -2355,7 +2355,7 @@
    "modelo": "MS40DG5504ATAP",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-microondas-1-4-pies-interior-de-ceramica.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2399,6 +2399,14 @@
     },
     {
      "fecha": "2026-10-30T18:04:29-06:00",
+     "precio": 149.0,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T17:13:46-06:00",
      "precio": 149.0,
      "precio_lista": 279.0,
      "disponible": true,
@@ -4082,7 +4090,7 @@
    "modelo": "RS28CB760A7NAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-side-by-side-28-cu-fc-rs28cb760a7nap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4126,6 +4134,14 @@
     },
     {
      "fecha": "2026-10-30T18:04:29-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T17:13:46-06:00",
      "precio": 1699.0,
      "precio_lista": 1849.0,
      "disponible": true,
@@ -6355,7 +6371,7 @@
    "modelo": "QN65QN85BAPXPA1",
    "url": "https://shop.samsung.com/latin/cac/sv/65-neo-qled-4k-qn85b.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -6375,6 +6391,14 @@
     },
     {
      "fecha": "2026-10-29T12:44:57-06:00",
+     "precio": 1199.0,
+     "precio_lista": 2149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T17:13:46-06:00",
      "precio": 1199.0,
      "precio_lista": 2149.0,
      "disponible": true,

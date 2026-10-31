@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-31T11:34:21-06:00",
+ "actualizado": "2026-10-31T17:07:31-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -43978,7 +43978,7 @@
    "modelo": "DC16255",
    "url": "https://zonadigitalsv.com/product/laptop-dell-dc16255-proc-amd-ryzen-7-250-ram-16gb-almacenamiento-ssd-512gb-pantalla-tactil-16p-fhd-w11h-wifi6bt",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-23",
+   "ultima_vez": "2026-10-31",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:47:05-06:00",
@@ -44003,8 +44003,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": "promo 'SpooKy Deals Laptops' hasta 2026-10-31"
+    },
+    {
+     "fecha": "2026-10-31T17:07:31-06:00",
+     "precio": 849.95,
+     "precio_lista": 949.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": "promo 'SpooKy Deals Laptops' hasta 2026-10-31"
     }
-   ]
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6aa05b44a6b85.jpg"
   },
   "15825": {
    "nombre": "Kit 2 microfono inalambrico de solapa para smartphone maono wave t5 wm650 pb2 lightning",
