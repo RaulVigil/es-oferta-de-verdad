@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-10-30T12:04:15-06:00",
+ "actualizado": "2026-10-30T18:01:34-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -51972,6 +51972,14 @@
     {
      "fecha": "2026-10-30T12:04:15-06:00",
      "precio": 495.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T18:01:34-06:00",
+     "precio": 550.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",

@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-10-30T12:01:02-06:00",
+ "actualizado": "2026-10-30T17:56:02-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -1232,6 +1232,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 293.99,
+     "precio_lista": 369.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106528/image_256"
@@ -2452,6 +2460,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 181.99,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107413/image_256"
@@ -3379,6 +3395,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 789.0,
+     "precio_lista": 839.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105910/image_256"
@@ -4287,6 +4311,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 649.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105380/image_256"
@@ -4556,6 +4588,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 985.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107410/image_256"
@@ -4678,6 +4718,14 @@
     {
      "fecha": "2026-10-30T12:01:02-06:00",
      "precio": 1299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 1449.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -4831,6 +4879,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 1209.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107420/image_256"
@@ -4930,6 +4986,14 @@
     {
      "fecha": "2026-10-30T12:01:02-06:00",
      "precio": 1135.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 1250.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -15192,6 +15256,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 319.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/97816/image_256"
@@ -15908,14 +15980,14 @@
    "imagen": "https://aeon.com.sv/web/image/product.template/102089/image_256"
   },
   "102088": {
-   "nombre": "Procesador AMD Ryzen 5 8500G de 6 núcleos y 12 hilos Gráficos Radeon 740M, 100-100000931 65W TDP",
+   "nombre": "Procesador AMD Ryzen 5 8500G de 6 núcleos y 12 hilos Gráficos Radeon 740M, AM5 100-100000931 65W TDP",
    "categoria": "procesador",
    "tipo": "procesador",
    "pulgadas": null,
    "medida": null,
    "marca": "",
    "modelo": "8500G",
-   "url": "https://aeon.com.sv/shop/13278-procesador-amd-ryzen-5-8500g-de-6-nucleos-y-12-hilos-graficos-radeon-740m-100-100000931-65w-tdp-102088",
+   "url": "https://aeon.com.sv/shop/13278-procesador-amd-ryzen-5-8500g-de-6-nucleos-y-12-hilos-graficos-radeon-740m-am5-100-100000931-65w-tdp-102088",
    "primera_vez": "2026-10-30",
    "ultima_vez": "2026-10-30",
    "observaciones": [
@@ -16092,14 +16164,14 @@
    "imagen": "https://aeon.com.sv/web/image/product.template/105534/image_256"
   },
   "106431": {
-   "nombre": "Tarjeta Madre MSI B840M-B - DDR5 - 911-7E76-002",
+   "nombre": "Motherboard MSI B840M-B - DDR5 -AM5 - 911-7E76-002",
    "categoria": "motherboard",
    "tipo": "motherboard",
    "pulgadas": null,
    "medida": null,
    "marca": "MSI",
    "modelo": "9117E76",
-   "url": "https://aeon.com.sv/shop/19287-tarjeta-madre-msi-b840m-b-ddr5-911-7e76-002-106431",
+   "url": "https://aeon.com.sv/shop/19287-motherboard-msi-b840m-b-ddr5-am5-911-7e76-002-106431",
    "primera_vez": "2026-10-30",
    "ultima_vez": "2026-10-30",
    "observaciones": [
@@ -16754,6 +16826,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 119.99,
+     "precio_lista": 149.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/97965/image_256"
@@ -17030,6 +17110,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 73.99,
+     "precio_lista": 95.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/104978/image_256"
@@ -17096,6 +17184,14 @@
      "fecha": "2026-10-30T12:01:02-06:00",
      "precio": 95.0,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 73.99,
+     "precio_lista": 95.0,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -17326,6 +17422,14 @@
      "fecha": "2026-10-30T12:01:02-06:00",
      "precio": 44.9,
      "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 37.0,
+     "precio_lista": 44.9,
      "disponible": true,
      "fuente": "auto",
      "nota": ""
@@ -17697,6 +17801,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 179.0,
+     "precio_lista": 194.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107324/image_256"
@@ -17720,9 +17832,132 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 71.99,
+     "precio_lista": 84.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107325/image_256"
+  },
+  "107491": {
+   "nombre": "Laptop Asus Rog Strix G615J - 16\" FHD 165Hz - I7 14650HX - SSD 1TB - 16GB DDR5 - W11H - RTX 5060 8GB - 90NR0LB1- M000M0",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Asus",
+   "modelo": "90NR0LB1",
+   "url": "https://aeon.com.sv/shop/20342-laptop-asus-rog-strix-g615j-16-fhd-165hz-i7-14650hx-ssd-1tb-16gb-ddr5-w11h-rtx-5060-8gb-90nr0lb1-m000m0-107491",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 1999.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107491/image_256"
+  },
+  "107510": {
+   "nombre": "Laptop HP OMNIBOOK Clamshell 14-hu0050la 14\" Core 5-120U 8GB Ram,  SSD 512GB, W11H, D4EU0LA",
+   "categoria": "laptop",
+   "tipo": "laptop",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "HP",
+   "modelo": "14HU0050LA",
+   "url": "https://aeon.com.sv/shop/20361-laptop-hp-omnibook-clamshell-14-hu0050la-14-core-5-120u-8gb-ram-ssd-512gb-w11h-d4eu0la-107510",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 1199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107510/image_256"
+  },
+  "107505": {
+   "nombre": "Teclado Mecánico MSI Forge GK600 TKL  2.4 GHz Wireless / Bluetooth / USB 2.0- Wireless - Ingles - 75% - S11-43CEP01-HH9",
+   "categoria": "teclado",
+   "tipo": "teclado",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "S1143CEP01",
+   "url": "https://aeon.com.sv/shop/gk600sky-107505",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 94.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107505/image_256"
+  },
+  "102319": {
+   "nombre": "Repetidor Cudy 2402Mbps Dual Band 5Ghz Wifi 6 Ax3000 - RE3000",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AX3000",
+   "url": "https://aeon.com.sv/shop/16200-repetidor-cudy-2402mbps-dual-band-5ghz-wifi-6-ax3000-re3000-102319",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/102319/image_256"
+  },
+  "97724": {
+   "nombre": "Disco Duro Externo WD Elements 2.5\" 2000gb (2TB) USB 3.0 WDBU6Y0020BBK-WESN",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "WDBU6Y0020BBKWESN",
+   "url": "https://aeon.com.sv/shop/10620-disco-duro-externo-wd-elements-2-5-2000gb-2tb-usb-3-0-wdbu6y0020bbk-wesn-97724",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:56:02-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/97724/image_256"
   }
  }
 }

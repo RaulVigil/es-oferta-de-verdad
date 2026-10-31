@@ -1,6 +1,6 @@
 {
  "comercial": "curacao",
- "actualizado": "2026-10-30T12:07:53-06:00",
+ "actualizado": "2026-10-30T17:43:55-06:00",
  "listados": {
   "465123300008": {
    "nombre": "Set de Cama Capri Matrimonial Exclusiva 2 en 1",
@@ -5870,7 +5870,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-regina-comfort-full-matrimonial-458819600018/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:58-06:00",
@@ -5938,6 +5938,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 217.0,
+     "precio_lista": 270.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 217.0,
      "precio_lista": 270.0,
      "disponible": true,
@@ -5957,7 +5965,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-regina-comfort-plus-matrimonial-458819100013/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:58-06:00",
@@ -6025,6 +6033,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 277.0,
+     "precio_lista": 340.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 277.0,
      "precio_lista": 340.0,
      "disponible": true,
@@ -14292,7 +14308,7 @@
    "modelo": "D265CASROP",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-d265casrop-mdf-mdp-castano-459990900010/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:28-06:00",
@@ -14360,6 +14376,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 567.0,
+     "precio_lista": 850.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 567.0,
      "precio_lista": 850.0,
      "disponible": true,
@@ -20201,7 +20225,7 @@
    "modelo": "PNF25FYRCFS",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-general-electric-french-door-pnf25fyrcfs-no-frost-25-pies-462606000011/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -20269,6 +20293,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1539.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1299.0,
      "precio_lista": 1539.0,
      "disponible": true,
@@ -20288,7 +20320,7 @@
    "modelo": "VT38BPM",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-lg-congelador-superior-vt38bpm-no-frost-14-pies-463293500013/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -20356,6 +20388,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 559.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 559.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -42840,7 +42880,7 @@
    "modelo": "8MWTW2224WJM",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-whirlpool-8mwtw2224wjm-superior-49-lbs-455831000017/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -42908,6 +42948,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 469.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 469.0,
      "precio_lista": 599.0,
      "disponible": true,
@@ -43196,7 +43244,7 @@
    "modelo": "LMA72215CBAB0",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-mabe-lma72215cbab-superior-48-lbs-443089000002/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -43264,6 +43312,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 479.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 479.0,
      "precio_lista": 589.0,
      "disponible": true,
@@ -43283,7 +43339,7 @@
    "modelo": "LMA74215WBAB0",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-mabe-lma74215wbab-carga-superior-53-libras-457560600018/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -43351,6 +43407,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 519.0,
+     "precio_lista": 609.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 519.0,
      "precio_lista": 609.0,
      "disponible": true,
@@ -43457,7 +43521,7 @@
    "modelo": "WT22WT6HK",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-lg-wt22wt6hk-superior-22kg-462430400018/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -43525,6 +43589,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 529.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 529.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -44248,7 +44320,7 @@
    "modelo": "WM25MV2S6W",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-lg-wm25mv2s6w-frontal-25kg-462824000015/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -44316,6 +44388,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 999.0,
+     "precio_lista": 1249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 999.0,
      "precio_lista": 1249.0,
      "disponible": true,
@@ -45569,7 +45649,7 @@
    "modelo": "GS51BPP",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-lg-side-by-side-gs51bpp-no-frost-18-pies-463293600010/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -45637,6 +45717,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 839.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 839.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -45656,7 +45744,7 @@
    "modelo": "WT1818A",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-whirlpool-wta-top-mount-no-frost-ft-441327700004/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -45724,6 +45812,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 729.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 729.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -45743,7 +45839,7 @@
    "modelo": "MWRF220SEHM",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-whirlpool-mwrf220sehm-french-door-no-frost-20-ft3-442943300005/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -45811,6 +45907,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 1279.0,
+     "precio_lista": 1389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1279.0,
      "precio_lista": 1389.0,
      "disponible": true,
@@ -45830,7 +45934,7 @@
    "modelo": "VT38WPP",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-lg-top-mount-vt38wpp-sin-escarcha-374l-462801600016/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -45898,6 +46002,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 559.0,
+     "precio_lista": 769.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 559.0,
      "precio_lista": 769.0,
      "disponible": true,
@@ -45917,7 +46029,7 @@
    "modelo": "VT38BPB",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-lg-congelador-superior-vt38bpb-14-pies-463293900011/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -45985,6 +46097,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 559.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 559.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -46004,7 +46124,7 @@
    "modelo": "VT38BPK",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-lg-congelador-superior-vt38bpk-no-frost-14-pies-463294000017/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -46072,6 +46192,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 559.0,
+     "precio_lista": 829.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 559.0,
      "precio_lista": 829.0,
      "disponible": true,
@@ -47222,7 +47350,7 @@
    "modelo": "RS27T5200S9",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-samsung-rs27t5200s9-side-by-side-no-frost-27-ft3-454540500016/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -47290,6 +47418,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1299.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -48583,7 +48719,7 @@
    "modelo": "WM1807B",
    "url": "https://www.lacuracaonline.com/elsalvador/microondas-whirlpool-wm1807b-0-7-ft3-negro-457460200011/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -48651,6 +48787,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 79.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 79.0,
      "precio_lista": 99.0,
      "disponible": true,
@@ -49588,7 +49732,7 @@
    "modelo": "ST006LA",
    "url": "https://www.lacuracaonline.com/elsalvador/freidora-de-aire-power-xl-st006la-6-6-negro-462562000018/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:53:46-06:00",
@@ -49656,6 +49800,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 199.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 199.0,
      "precio_lista": 199.0,
      "disponible": true,
@@ -50015,7 +50167,7 @@
    "modelo": "RMS510IXMRX0",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-mabe-top-mont-rms510ixmrx0-no-frost-19-pies-441816800000/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T21:09:59-06:00",
@@ -50083,6 +50235,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 639.0,
+     "precio_lista": 759.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 639.0,
      "precio_lista": 759.0,
      "disponible": true,
@@ -59418,7 +59578,7 @@
    "modelo": "8MWTW1612MJQ",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-whirlpool-8mwtw1612mjq-superior-35-lbs-454558600012/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -59457,6 +59617,14 @@
      "precio": 395.0,
      "precio_lista": 569.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 395.0,
+     "precio_lista": 569.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -61237,7 +61405,7 @@
    "modelo": "WWI14ASHLS",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-whirlpool-wwi14ashls-superior-31-lbs-456230900014/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -61276,6 +61444,14 @@
      "precio": 339.0,
      "precio_lista": 439.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 339.0,
+     "precio_lista": 439.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -61796,7 +61972,7 @@
    "modelo": "LM22SGPK",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-lg-french-door-lm22sgpk-22-pies-456400000018/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -61835,6 +62011,14 @@
      "precio": 1269.0,
      "precio_lista": 1699.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 1269.0,
+     "precio_lista": 1699.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -62229,7 +62413,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-quattro-panama-mdp-blanco-y-marron-456497400012/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -62268,6 +62452,14 @@
      "precio": 400.0,
      "precio_lista": 400.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 400.0,
+     "precio_lista": 400.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -62284,7 +62476,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-quattro-chile-mdp-blanco-y-marron-456497500019/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -62323,6 +62515,14 @@
      "precio": 115.0,
      "precio_lista": 115.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 115.0,
+     "precio_lista": 115.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -69269,7 +69469,7 @@
    "modelo": "BE12CASTOFF",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-be12castoff-mdp-blanco-458524900014/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -69308,6 +69508,14 @@
      "precio": 167.0,
      "precio_lista": 300.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 167.0,
+     "precio_lista": 300.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -75876,7 +76084,7 @@
    "modelo": "RP2621",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-wer-rp2621-mdp-beige-462458800012/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -75915,6 +76123,14 @@
      "precio": 247.0,
      "precio_lista": 400.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 247.0,
+     "precio_lista": 400.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -75931,7 +76147,7 @@
    "modelo": "RP2622",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-rp2622-mdp-blanco-y-marron-462459000015/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -75970,6 +76186,14 @@
      "precio": 125.0,
      "precio_lista": 125.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 125.0,
+     "precio_lista": 125.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -75986,7 +76210,7 @@
    "modelo": "RP2421ROP",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-rp2421rop-mdp-wood-cristallo-462476600014/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -76025,6 +76249,14 @@
      "precio": 199.0,
      "precio_lista": 300.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 199.0,
+     "precio_lista": 300.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -76230,7 +76462,7 @@
    "modelo": "FRSA19K2HVG",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-frigidaire-side-by-side-frsa19k2hvg-18-7-pies-462510400013/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -76266,6 +76498,14 @@
     },
     {
      "fecha": "2026-10-29T12:32:49-06:00",
+     "precio": 745.0,
+     "precio_lista": 899.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 745.0,
      "precio_lista": 899.0,
      "disponible": false,
@@ -78364,7 +78604,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-mobi-mdf-mdp-carvalho-off-white-462983200011/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -78403,6 +78643,14 @@
      "precio": 155.0,
      "precio_lista": 155.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 155.0,
+     "precio_lista": 155.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -78482,7 +78730,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/ropero-commodity-mobcapelinha-mdf-mdp-nature-titanium-462986300015/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -78521,6 +78769,14 @@
      "precio": 155.0,
      "precio_lista": 155.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 155.0,
+     "precio_lista": 155.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -79797,7 +80053,7 @@
    "modelo": "OGGE3702",
    "url": "https://www.lacuracaonline.com/elsalvador/microondas-oster-ogge3702-20-lt-negro-463365600016/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -79836,6 +80092,14 @@
      "precio": 45.0,
      "precio_lista": 55.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 45.0,
+     "precio_lista": 55.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -111759,7 +112023,7 @@
    "modelo": "32S5400AFI",
    "url": "https://www.lacuracaonline.com/elsalvador/smart-tv-tcl-32s5400afi-android-led-de-32-full-hd-462822700016/p",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:04:07-06:00",
@@ -111782,6 +112046,14 @@
      "precio": 145.0,
      "precio_lista": 219.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 145.0,
+     "precio_lista": 219.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -115828,10 +116100,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-apple-iphone-13-128-gb-6-1-midnight-462471800013/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 555.0,
+     "precio_lista": 599.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 555.0,
      "precio_lista": 599.0,
      "disponible": false,
@@ -123756,10 +124036,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-wonder-twin-439801400007/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 199.0,
+     "precio_lista": 255.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 199.0,
      "precio_lista": 255.0,
      "disponible": true,
@@ -123810,10 +124098,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-wonder-queen-439803000007/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 289.0,
+     "precio_lista": 380.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 289.0,
      "precio_lista": 380.0,
      "disponible": true,
@@ -124422,10 +124718,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-diesa-kansas-7-marron-441467000002/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 867.0,
+     "precio_lista": 1150.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 867.0,
      "precio_lista": 1150.0,
      "disponible": true,
@@ -124445,10 +124749,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-capri-palermo-4-piezas-rojo-441467100009/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 447.0,
+     "precio_lista": 467.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 447.0,
      "precio_lista": 467.0,
      "disponible": true,
@@ -124468,10 +124780,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-capri-palermo-3-piezas-azul-441467200006/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 447.0,
+     "precio_lista": 467.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 447.0,
      "precio_lista": 467.0,
      "disponible": true,
@@ -124522,13 +124842,21 @@
    "modelo": "SCAKX320PNK",
    "url": "https://www.lacuracaonline.com/elsalvador/minicomponente-panasonic-scakx320pnk-450-w-bluetooth-negro-441487500001/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 179.0,
      "precio_lista": 219.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 179.0,
+     "precio_lista": 219.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -124545,10 +124873,18 @@
    "modelo": "SCAKX520PNK",
    "url": "https://www.lacuracaonline.com/elsalvador/equipo-de-sonido-panasonic-scakx520pnk-650-w-bluetooth-negro-441487600008/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 239.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 239.0,
      "precio_lista": 299.0,
      "disponible": true,
@@ -125188,10 +125524,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-exclusiva-individual-448602800008/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 177.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 177.0,
      "precio_lista": 219.0,
      "disponible": true,
@@ -125211,10 +125555,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-exclusiva-semi-matrimonial-448603000001/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 197.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 197.0,
      "precio_lista": 269.0,
      "disponible": true,
@@ -125327,10 +125679,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-indufoam-advanced-queen-450879300006/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 349.0,
+     "precio_lista": 485.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 349.0,
      "precio_lista": 485.0,
      "disponible": true,
@@ -125722,10 +126082,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-seccional-capri-spacio-2-piezas-gris-454102200019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 749.0,
+     "precio_lista": 950.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 749.0,
      "precio_lista": 950.0,
      "disponible": true,
@@ -125745,10 +126113,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-capri-sereni-3-piezas-454102300016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 929.0,
+     "precio_lista": 1200.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 929.0,
      "precio_lista": 1200.0,
      "disponible": true,
@@ -125923,13 +126299,21 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-avatar-new-rectangular-6-sillas-454249000015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 75.0,
      "precio_lista": 75.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 75.0,
+     "precio_lista": 75.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -126690,10 +127074,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/minicomponente-lg-xboom-cl88-2900-w-bluetooth-negro-455635100012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 559.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 559.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -126806,10 +127198,18 @@
    "modelo": "7MWGD2040JM",
    "url": "https://www.lacuracaonline.com/elsalvador/secadora-a-gas-whirlpool-7mwgd2040jm-frontal-46-libras-455740300017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 609.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 609.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -126829,10 +127229,18 @@
    "modelo": "7MWED2040JM",
    "url": "https://www.lacuracaonline.com/elsalvador/secadora-whirlpool-7mwed2040jm-frontal-46-libras-455740400014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 599.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 599.0,
      "precio_lista": 649.0,
      "disponible": true,
@@ -126945,13 +127353,21 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-exterior-sanchia-bistrocafe-3-piezas-455817300018/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 97.0,
      "precio_lista": 130.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 97.0,
+     "precio_lista": 130.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -127495,10 +127911,18 @@
    "modelo": "MHCV13",
    "url": "https://www.lacuracaonline.com/elsalvador/minicomponente-sony-mhc-v13-bluetooth-negro-456065200013/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 249.99,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 249.99,
      "precio_lista": 269.0,
      "disponible": true,
@@ -128293,10 +128717,18 @@
    "modelo": "HTS20R",
    "url": "https://www.lacuracaonline.com/elsalvador/barra-de-sonido-sony-hts20r-5-1-negro-456517200011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 269.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 269.0,
      "precio_lista": 299.0,
      "disponible": true,
@@ -128812,10 +129244,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-encina-miller-3-piezas-gris-456763000014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 997.0,
+     "precio_lista": 1350.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 997.0,
      "precio_lista": 1350.0,
      "disponible": true,
@@ -128897,10 +129337,18 @@
    "modelo": "MMI12CABWCC6M8",
    "url": "https://www.lacuracaonline.com/elsalvador/aire-acondicionado-mabe-mmi12cabwcc6m8-inverter-12000-btu-456773000011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 265.0,
+     "precio_lista": 275.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 265.0,
      "precio_lista": 275.0,
      "disponible": false,
@@ -128951,10 +129399,18 @@
    "modelo": "BLSTXPN70020",
    "url": "https://www.lacuracaonline.com/elsalvador/licuadora-oster-blstxpn70020-500-y-750ml-negro-456882000018/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 179.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 179.0,
      "precio_lista": 189.0,
      "disponible": true,
@@ -128974,10 +129430,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-encina-rectangular-6-sillas-456926900014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 797.0,
+     "precio_lista": 980.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 797.0,
      "precio_lista": 980.0,
      "disponible": true,
@@ -129369,10 +129833,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/cama-indufoam-aroa-queen-457126300017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 399.0,
+     "precio_lista": 555.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 399.0,
      "precio_lista": 555.0,
      "disponible": true,
@@ -129671,10 +130143,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-diesa-suecia-3-piezas-gris-457131300019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 547.0,
+     "precio_lista": 740.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 547.0,
      "precio_lista": 740.0,
      "disponible": true,
@@ -129973,13 +130453,21 @@
    "modelo": "SCAKX730",
    "url": "https://www.lacuracaonline.com/elsalvador/minicomponente-panasonic-sc-akx730-2000-w-bluetooth-negro-457290800016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 339.0,
      "precio_lista": 399.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 339.0,
+     "precio_lista": 399.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -130120,10 +130608,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-samsung-galaxy-s21-ultra-256-gb-6-8-silver-457347900010/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1699.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1699.0,
      "precio_lista": 1699.0,
      "disponible": false,
@@ -130794,10 +131290,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/estufa-indurama-canela-plus-4-quemadores-457574400017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 177.0,
+     "precio_lista": 249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 177.0,
      "precio_lista": 249.0,
      "disponible": true,
@@ -131002,10 +131506,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-diesa-charlotte-3-azul-457671400019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 497.0,
+     "precio_lista": 560.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 497.0,
      "precio_lista": 560.0,
      "disponible": true,
@@ -131397,10 +131909,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-serta-sleep-true-firme-king-457989100014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 669.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 669.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -132348,10 +132868,18 @@
    "modelo": "CM0916B",
    "url": "https://www.lacuracaonline.com/elsalvador/cafetera-black-decker-cm0916b-negro-458298900012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 21.99,
+     "precio_lista": 28.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 21.99,
      "precio_lista": 28.99,
      "disponible": true,
@@ -132402,13 +132930,21 @@
    "modelo": "CM3736PTGYSE",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-rectangular-4-sillas-458350900011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 797.0,
      "precio_lista": 1300.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 797.0,
+     "precio_lista": 1300.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -132425,13 +132961,21 @@
    "modelo": "CM3736PTIV4S",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-rectangular-4-sillas-458351000017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 797.0,
      "precio_lista": 1300.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 797.0,
+     "precio_lista": 1300.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -133099,10 +133643,18 @@
    "modelo": "HTS40RZLA9",
    "url": "https://www.lacuracaonline.com/elsalvador/barra-de-sonido-sony-hts40rzla9-5-1-bluetooth-negro-458659900019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 399.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 399.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -133277,10 +133829,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-regina-comfort-queen-458819400014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 247.0,
+     "precio_lista": 300.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 247.0,
      "precio_lista": 300.0,
      "disponible": true,
@@ -133300,10 +133860,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-regina-comfort-especial-458819700015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 167.0,
+     "precio_lista": 210.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 167.0,
      "precio_lista": 210.0,
      "disponible": true,
@@ -133602,13 +134170,21 @@
    "modelo": "MTM12I1GW26",
    "url": "https://www.lacuracaonline.com/elsalvador/aire-acondicionado-mastertech-mtm12i1gw26-inverter-12000-btu-458851000012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 329.0,
      "precio_lista": 499.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 329.0,
+     "precio_lista": 499.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -133687,10 +134263,18 @@
    "modelo": "EMA5105SB0N",
    "url": "https://www.lacuracaonline.com/elsalvador/estufa-mabe-ema5105sb0n-4-quemadores-458871800012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 165.0,
+     "precio_lista": 290.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 165.0,
      "precio_lista": 290.0,
      "disponible": false,
@@ -135105,10 +135689,18 @@
    "modelo": "DVE22A3200WA",
    "url": "https://www.lacuracaonline.com/elsalvador/secadora-samsung-dve22a3200wa-frontal-48-5-lbs-459706600012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 549.0,
+     "precio_lista": 679.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 549.0,
      "precio_lista": 679.0,
      "disponible": true,
@@ -135128,10 +135720,18 @@
    "modelo": "L3250",
    "url": "https://www.lacuracaonline.com/elsalvador/impresora-multifuncional-epson-ecotank-l3250-inkjet-wifi-negro-459739300019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 220.0,
+     "precio_lista": 235.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 220.0,
      "precio_lista": 235.0,
      "disponible": false,
@@ -135151,10 +135751,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-diesa-ferrara-3-piezas-marron-459754000017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 667.0,
+     "precio_lista": 950.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 667.0,
      "precio_lista": 950.0,
      "disponible": true,
@@ -135174,10 +135782,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-apple-iphone-13-pro-max-128gb-6-7-grafito-459764900017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1799.0,
+     "precio_lista": 1799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1799.0,
      "precio_lista": 1799.0,
      "disponible": false,
@@ -135259,10 +135875,18 @@
    "modelo": "TO4300R",
    "url": "https://www.lacuracaonline.com/elsalvador/ventilador-de-torre-air-fresh-60-w-to4300r-459910300012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 89.99,
+     "precio_lista": 89.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 89.99,
      "precio_lista": 89.99,
      "disponible": true,
@@ -139658,13 +140282,21 @@
    "modelo": "MTM12I1DW1",
    "url": "https://www.lacuracaonline.com/elsalvador/aire-acondicionado-mastertech-mtm12i1dw1inverter-12000-btu-462269900017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 295.0,
      "precio_lista": 549.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 295.0,
+     "precio_lista": 549.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -139681,10 +140313,18 @@
    "modelo": "MTG30H52BS",
    "url": "https://www.lacuracaonline.com/elsalvador/cocina-mastertech-mtg30h52bs-5-quemadores-462271000019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 195.0,
+     "precio_lista": 235.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 195.0,
      "precio_lista": 235.0,
      "disponible": false,
@@ -140107,10 +140747,18 @@
    "modelo": "1000W",
    "url": "https://www.lacuracaonline.com/elsalvador/parlante-lg-rnc9-1000w-bluetooth-negro-462417600011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 437.0,
+     "precio_lista": 589.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 437.0,
      "precio_lista": 589.0,
      "disponible": true,
@@ -140130,10 +140778,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/parlante-lg-rnc7-420-w-bluetooth-negro-462417700018/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 287.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 287.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -140246,10 +140902,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-cama-capri-semi-matrimonial-superrestm31-462429000014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 299.0,
+     "precio_lista": 460.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 299.0,
      "precio_lista": 460.0,
      "disponible": true,
@@ -140331,10 +140995,18 @@
    "modelo": "HAGON4BLUE",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-hagon4blue-redonda-462470100015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 175.0,
+     "precio_lista": 175.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 175.0,
      "precio_lista": 175.0,
      "disponible": false,
@@ -140354,10 +141026,18 @@
    "modelo": "LWWR3000D",
    "url": "https://www.lacuracaonline.com/elsalvador/estufa-whirlpool-lwwr3000d-20-4-quemadores-462470400016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 209.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 209.0,
      "precio_lista": 299.0,
      "disponible": true,
@@ -140563,13 +141243,21 @@
    "modelo": "AR12BVHQAURN",
    "url": "https://www.lacuracaonline.com/elsalvador/aire-acondicionado-samsung-ar12bvhqaurn-giratorio-12000-btu-462552600013/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 399.0,
      "precio_lista": 599.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 399.0,
+     "precio_lista": 599.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -140865,10 +141553,18 @@
    "modelo": "BILBAO6P",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-encina-bilbao6p-rectangular-6-sillas-462585500014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 797.0,
+     "precio_lista": 950.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 797.0,
      "precio_lista": 950.0,
      "disponible": true,
@@ -140888,10 +141584,18 @@
    "modelo": "BILBAO4P",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-encina-bilbao4p-cuadrado-4-sillas-462585600011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 527.0,
+     "precio_lista": 660.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 527.0,
      "precio_lista": 660.0,
      "disponible": true,
@@ -141438,10 +142142,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-samsung-s23-ultra-256-gb-6-8-rosado-462708300019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1499.0,
      "precio_lista": 1499.0,
      "disponible": false,
@@ -141740,10 +142452,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-encina-castello-3-piezas-beige-462878700015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 967.0,
+     "precio_lista": 1250.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 967.0,
      "precio_lista": 1250.0,
      "disponible": true,
@@ -141887,13 +142607,21 @@
    "modelo": "L5590",
    "url": "https://www.lacuracaonline.com/elsalvador/impresora-epson-l5590-inkjet-wifi-negro-463000700019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 387.0,
      "precio_lista": 439.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 387.0,
+     "precio_lista": 439.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -141941,13 +142669,21 @@
    "modelo": "ACNES5PCS",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-acnes5pcs-rectangular-463049700018/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 209.0,
      "precio_lista": 400.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 209.0,
+     "precio_lista": 400.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -142057,10 +142793,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/sofa-reclinable-commodity-doble-gris-houston-463056000019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 767.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 767.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -142204,10 +142948,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-sala-encina-santa-lucia-marron-463178400018/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 950.0,
+     "precio_lista": 950.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 950.0,
      "precio_lista": 950.0,
      "disponible": true,
@@ -142289,13 +143041,21 @@
    "modelo": "WELLINGCOM6",
    "url": "https://www.lacuracaonline.com/elsalvador/comedor-commodity-regal-worldwide-cuadrado-6-sillas-463222100017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
      "precio": 625.0,
      "precio_lista": 1250.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
+     "precio": 625.0,
+     "precio_lista": 1250.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -142498,10 +143258,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/impresora-hp-smart-tank-multifuncional-580-negro-blanco-463285800015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 239.0,
+     "precio_lista": 289.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 239.0,
      "precio_lista": 289.0,
      "disponible": false,
@@ -142583,10 +143351,18 @@
    "modelo": "LWFR7000S",
    "url": "https://www.lacuracaonline.com/elsalvador/estufa-a-gas-whirlpool-lwfr7000s-6-quemadores-463365800010/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 499.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 499.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -143040,10 +143816,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/sillon-reclinable-capri-poland-individual-gris-463466200016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 349.0,
+     "precio_lista": 450.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 349.0,
      "precio_lista": 450.0,
      "disponible": true,
@@ -143063,10 +143847,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/sofa-reclinable-capri-apolo-individual-cafe-463466300013/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 349.0,
+     "precio_lista": 450.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 349.0,
      "precio_lista": 450.0,
      "disponible": true,
@@ -143179,10 +143971,18 @@
    "modelo": "CM3496PT7PGR",
    "url": "https://www.lacuracaonline.com/elsalvador/set-de-comedor-commodity-cm3496pt7pgr-rectangular-6-sillas-463610200015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1599.0,
+     "precio_lista": 2350.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1599.0,
      "precio_lista": 2350.0,
      "disponible": true,
@@ -143202,10 +144002,18 @@
    "modelo": "CM3744TT7PGR",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-rectangular-6-sillas-cm3744tt7pgr-463610300012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1399.0,
+     "precio_lista": 2100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1399.0,
      "precio_lista": 2100.0,
      "disponible": true,
@@ -143225,10 +144033,18 @@
    "modelo": "CM3744TT7PBE",
    "url": "https://www.lacuracaonline.com/elsalvador/juego-de-comedor-commodity-cm3744tt7pbe-rectangular-6-sillas-463610400019/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1399.0,
+     "precio_lista": 2100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1399.0,
      "precio_lista": 2100.0,
      "disponible": true,
@@ -143310,10 +144126,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/horno-empotrable-drija-80l-latino-60-463664700011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 399.0,
+     "precio_lista": 499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 399.0,
      "precio_lista": 499.0,
      "disponible": false,
@@ -143333,10 +144157,18 @@
    "modelo": "FM80001GGSET",
    "url": "https://www.lacuracaonline.com/elsalvador/mueble-de-sala-exterior-commodity-fm80001ggset-beige-463668400016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 557.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 557.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -160374,10 +161206,18 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-samsung-s24-ultra-256gb-6-8-468144000018-negro/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
+     "precio": 1049.0,
+     "precio_lista": 1649.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:55-06:00",
      "precio": 1049.0,
      "precio_lista": 1649.0,
      "disponible": false,

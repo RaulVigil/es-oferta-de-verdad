@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-10-30T11:49:09-06:00",
+ "actualizado": "2026-10-30T17:39:42-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -3723,6 +3723,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 629.0,
+     "precio_lista": 1095.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7161711-300-300/103477122-6.jpg"
@@ -4135,6 +4143,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 499.0,
+     "precio_lista": 970.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6871530-300-300/104750758_1_AMBIENTADA.jpg"
@@ -4337,6 +4353,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 1145.0,
+     "precio_lista": 1145.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 519.0,
      "precio_lista": 1145.0,
      "disponible": true,
      "fuente": "auto",
@@ -7441,6 +7465,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 1245.0,
+     "precio_lista": 1245.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 679.0,
      "precio_lista": 1245.0,
      "disponible": true,
      "fuente": "auto",
@@ -19462,7 +19494,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/teclado-inalambrico-k250-blanco-105121756/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -19541,6 +19573,14 @@
      "precio": 24.9,
      "precio_lista": 24.9,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 24.9,
+     "precio_lista": 24.9,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -19557,7 +19597,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/teclado-inalambrico-k250-blanco-105121756/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -19636,6 +19676,14 @@
      "precio": 24.9,
      "precio_lista": 24.9,
      "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 24.9,
+     "precio_lista": 24.9,
+     "disponible": true,
      "fuente": "auto",
      "nota": ""
     }
@@ -19652,7 +19700,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/teclado-inalambrico-k250-blanco-105121756/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:53:59-06:00",
@@ -19731,6 +19779,14 @@
      "precio": 22.9,
      "precio_lista": 22.9,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 22.9,
+     "precio_lista": 22.9,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -141433,7 +141489,7 @@
    "modelo": "50A6NV",
    "url": "https://sv.siman.com/pantalla-hisense-50--led-uhd-4k-hdr10-50a6nv/p",
    "primera_vez": "2026-10-22",
-   "ultima_vez": "2026-10-22",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-22T16:48:27-06:00",
@@ -141442,8 +141498,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 269.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7399991-300-300/104530518_medidasTV.jpg"
   },
   "10047276": {
    "nombre": "Teclado Logitech K250 920-013445",
@@ -155362,10 +155427,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/memoria-usb-64gb-dtxm-negro-exodia-retractil-usb3-2-104312575/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 10.9,
+     "precio_lista": 10.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 10.9,
      "precio_lista": 10.9,
      "disponible": true,
@@ -155881,10 +155954,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/torre-de-sonido-bt-on-the-go-2-con-ia-negro-105288133/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 379.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 379.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -165128,6 +165209,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 499.0,
+     "precio_lista": 1125.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6871541-300-300/104750759_1_AMBIENTADA.jpg"
@@ -165190,6 +165279,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 275.0,
+     "precio_lista": 510.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8454758-300-300/ZEN-DOBLE-CONFORT-LATERAL-IZQUIERDA.jpg"
@@ -165221,6 +165318,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 315.0,
+     "precio_lista": 735.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8483436-300-300/0D3D806F5856B7714212CB6197A02635_2f7afa16-bac6-45a1-963c-2d6a05f342b1_ZEN-DOBLE-CONFORT-LATERAL-IZQUIERDA.jpg"
@@ -165248,6 +165353,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 1000.0,
+     "precio_lista": 1000.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 495.0,
      "precio_lista": 1000.0,
      "disponible": true,
      "fuente": "auto",
@@ -165655,6 +165768,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 699.0,
+     "precio_lista": 1305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7161720-300-300/103477122-6.jpg"
@@ -165713,6 +165834,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 1205.0,
+     "precio_lista": 1205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 629.0,
      "precio_lista": 1205.0,
      "disponible": true,
      "fuente": "auto",
@@ -171913,6 +172042,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 1520.0,
+     "precio_lista": 1520.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 829.0,
      "precio_lista": 1520.0,
      "disponible": true,
      "fuente": "auto",
@@ -192075,10 +192212,18 @@
    "modelo": "TO3010",
    "url": "https://sv.siman.com/ventilador-de-torre-30-101857802/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 28.99,
+     "precio_lista": 49.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 28.99,
      "precio_lista": 49.9,
      "disponible": true,
@@ -193231,6 +193376,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 299.0,
+     "precio_lista": 369.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5378248-300-300/102813406.jpg"
@@ -194254,6 +194407,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 199.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5378254-300-300/103209300.jpg"
@@ -194374,6 +194535,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 529.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 449.0,
      "precio_lista": 529.0,
      "disponible": true,
      "fuente": "auto",
@@ -194529,6 +194698,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 469.0,
+     "precio_lista": 469.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 389.0,
      "precio_lista": 469.0,
      "disponible": true,
      "fuente": "auto",
@@ -194870,6 +195047,14 @@
     {
      "fecha": "2026-10-30T11:49:09-06:00",
      "precio": 719.0,
+     "precio_lista": 719.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 579.0,
      "precio_lista": 719.0,
      "disponible": true,
      "fuente": "auto",
@@ -196895,10 +197080,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/cafetera-semi_automatica-espresso-104993001/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 116.1,
+     "precio_lista": 129.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 116.1,
      "precio_lista": 129.0,
      "disponible": true,
@@ -210410,10 +210603,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/sillon-individual-reclinable-104780075/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 499.0,
      "precio_lista": 499.0,
      "disponible": false,
@@ -210433,10 +210634,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/sillon-individual-reclinable-104780075/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 499.0,
      "precio_lista": 499.0,
      "disponible": false,
@@ -210456,10 +210665,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/sillon-individual-reclinable-104780075/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 399.2,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 399.2,
      "precio_lista": 499.0,
      "disponible": true,
@@ -210479,10 +210696,18 @@
    "modelo": "",
    "url": "https://sv.siman.com/sillon-individual-reclinable-104780075/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
      "precio": 499.0,
      "precio_lista": 499.0,
      "disponible": false,
@@ -218832,6 +219057,144 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7309224-300-300/105050723_3.jpg"
+  },
+  "8551464": {
+   "nombre": "Pantalla Samsung 50\" (127 cm) LED Crystal UHD 4K HDR10+ UN50U8000FPXPA — Pantalla Samsung Crystal 2025 LED Smart 50\" (127 cm) UHD/4K // UN50U8000FPXPA",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 50,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "UN50U8000FPXPA",
+   "url": "https://sv.siman.com/pantalla-samsung-50--led-crystal-uhd-4k-hdr10--un50u8000fpxpa-1/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 329.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8025706-300-300/104940488.jpg"
+  },
+  "8601636": {
+   "nombre": "Extensor de rango inalámbrico N 300 Mbps — AMPLIFICADOR DE SEÑAL 100 MB",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP Link",
+   "modelo": "",
+   "url": "https://sv.siman.com/amplificador-de-seal-100-mb-104982235/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 22.9,
+     "precio_lista": 22.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7124238-300-300/104982235.jpg"
+  },
+  "8212146": {
+   "nombre": "Repetidor Wi-Fi doble banda RE315 — REPETIDOR WIFI DOBLE BANDA",
+   "categoria": "router",
+   "tipo": "router",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TP Link",
+   "modelo": "RE315",
+   "url": "https://sv.siman.com/repetidor-wifi-doble-banda-104654955/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 42.9,
+     "precio_lista": 42.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6000533-300-300/104654955.jpg"
+  },
+  "9115807": {
+   "nombre": "Freidora de aire con doble canasta XL vertical Ninja SL401LAA — FREIDORA DE AIRE NINJA CON DOBLE CANASTA XL VERTICAL",
+   "categoria": "freidora",
+   "tipo": "freidora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ninja",
+   "modelo": "SL401LAA",
+   "url": "https://sv.siman.com/freidora-de-aire-ninja-con-doble-canasta-xl-vertical-105367896/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 269.91,
+     "precio_lista": 299.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8551962-300-300/105367896_1.jpg"
+  },
+  "7182177": {
+   "nombre": "Cámara Híbrida Sony Alpha 7 III ILCE-7M3K con Lente Zoom 28-70mm f3.5-5.6 — CÁMARA FULL FRAME 35MM 24.2MP VIDEO 4K + LENTE 28-70MM",
+   "categoria": "camara",
+   "tipo": "camara",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "ILCE7M3K",
+   "url": "https://sv.siman.com/camara-full-frame-35mm-24-2mp-video-4k-lente-28-70mm-103784054/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2379.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6644048-300-300/103784054_100.jpg"
+  },
+  "9116166": {
+   "nombre": "Cafetera Ninja 12 tazas jarra de vidrio y acero inoxidable CE250LAA — CAFETERA 12 TAZAS NEGRA JARRA DE VIDRIO Y ACERO INOXIDABLE",
+   "categoria": "cafetera",
+   "tipo": "cafetera",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Ninja",
+   "modelo": "CE250LAA",
+   "url": "https://sv.siman.com/cafetera-12-tazas-negra-jarra-de-vidrio-y-acero-inoxidable-105368249/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:39:42-06:00",
+     "precio": 112.41,
+     "precio_lista": 124.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8558697-300-300/105368249-1.jpg"
   }
  }
 }

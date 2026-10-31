@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-10-30T12:00:34-06:00",
+ "actualizado": "2026-10-30T17:55:20-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -30288,7 +30288,7 @@
    "modelo": "",
    "url": "https://zonadigitalsv.com/product/control-sony-dualsense-para-playstation-5-chroma-teal",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:47-06:00",
@@ -30329,8 +30329,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/iMzq4tkybFO4t8FlmrFyTqTu2Pzkb1keDwuwjpz7.png"
   },
   "13568": {
    "nombre": "Headset jbl quantum 100m2 multiplataforma pc ps4 ps5 xbox mac sw negro jblqtum100m2blkam",
@@ -56600,6 +56609,167 @@
     }
    ],
    "imagen": "https://apizd.zonadigitalsv.com/storage/productos/p80dz26LSjJgWCQamcbLGoXq8uMhli0eaNdBbGb0.jpg"
+  },
+  "16169": {
+   "nombre": "Videojuego en disco para playstation 5 call of duty modern warfare 4",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/videojuego-en-disco-para-playstation-5-call-of-duty-modern-warfare-4",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ae385cd395b4.jpg"
+  },
+  "16168": {
+   "nombre": "Videojuego en disco para playstation 5 final fantasy resonance",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/videojuego-en-disco-para-playstation-5-final-fantasy-resonance",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ae3837991a59.jpg"
+  },
+  "16167": {
+   "nombre": "Videojuego en disco para playstation 5 castlevania belmonts curse",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SONY",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/videojuego-en-disco-para-playstation-5-castlevania-belmonts-curse",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ae3824a81322.jpg"
+  },
+  "16166": {
+   "nombre": "Videojuego para nintendo switch2 call of duty modern watfare 4",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "SWITCH2",
+   "url": "https://zonadigitalsv.com/product/videojuego-para-nintendo-switch2-call-of-duty-modern-watfare-4",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 84.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ae3811be401e.jpg"
+  },
+  "16165": {
+   "nombre": "Videojuego para nintendo switch2 final fantasy resonance",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "SWITCH2",
+   "url": "https://zonadigitalsv.com/product/videojuego-para-nintendo-switch2-final-fantasy-resonance",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ae37fef1bbc2.jpg"
+  },
+  "16164": {
+   "nombre": "Videojuego para nintendo switch castlevania belmonts curse",
+   "categoria": "videojuego",
+   "tipo": "videojuego",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NINTENDO",
+   "modelo": "",
+   "url": "https://zonadigitalsv.com/product/videojuego-para-nintendo-switch-castlevania-belmonts-curse",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6ae37dbdebbc6.jpg"
+  },
+  "14951": {
+   "nombre": "Powerbank anker 25kmah usb-c hasta 165w en salida doble gris a1695h11",
+   "categoria": "powerbank",
+   "tipo": "powerbank",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ANKER",
+   "modelo": "A1695H11",
+   "url": "https://zonadigitalsv.com/product/powerbank-anker-25kmah-usb-c-hasta-165w-en-salida-doble-gris-a1695h11",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:55:20-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://apizd.zonadigitalsv.com/storage/productos/iEZPu3ZK3t8DmBWxeqjnYyfi0H6ooKwykYhfRTEQ.png"
   }
  }
 }

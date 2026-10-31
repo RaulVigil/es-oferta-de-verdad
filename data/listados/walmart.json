@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-10-30T11:51:21-06:00",
+ "actualizado": "2026-10-30T17:43:28-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -28666,10 +28666,18 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/celular-poco-x8-pro-8gb-512gb-sv9201-5-6/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-29",
+   "ultima_vez": "2026-10-30",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
+     "precio": 518.42,
+     "precio_lista": 560.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-30T17:43:28-06:00",
      "precio": 518.42,
      "precio_lista": 560.0,
      "disponible": true,
@@ -33663,7 +33671,7 @@
      "nota": ""
     }
    ],
-   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/964528-300-300/batidora-oster-de-mano-5-velocidades-0034264411869.webp"
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/964560-300-300/batidora-oster-de-mano-5-velocidades-0034264411869.webp"
   },
   "75673": {
    "nombre": "Batidora manual Durabrand 5 velocidades de 150W",
@@ -35243,6 +35251,52 @@
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/842664-300-300/sm-estufa-gas-30-6-quemadores-8806095435701.jpg"
+  },
+  "105717": {
+   "nombre": "Celular Xiaomi Note 14 8GB RAM 256GB Almacenamiento",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "XIAOMI",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/xiaomi-celular-note-14-8gb-256gb-s181/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:43:28-06:00",
+     "precio": 225.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/832941-300-300/celular-xiaomi-note-14-8-gb-ram-256-gb-almacenamiento-6932554407582.jpg"
+  },
+  "121833": {
+   "nombre": "Sillón Reclinable Mainstays de 3 Plazas",
+   "categoria": "sofa",
+   "tipo": "sofa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MAINSTAYS",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/sillon-reclinable-3-plazas-sv6176-5-2/p",
+   "primera_vez": "2026-10-30",
+   "ultima_vez": "2026-10-30",
+   "observaciones": [
+    {
+     "fecha": "2026-10-30T17:43:28-06:00",
+     "precio": 600.0,
+     "precio_lista": 925.47,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/960684-300-300/M-5_walmartsv_WtjCkSZvDE_121856_01.jpg"
   }
  }
 }

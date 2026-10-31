@@ -1,5 +1,5 @@
 {
- "generado": "2026-10-30T12:07:54-06:00",
+ "generado": "2026-10-30T18:04:42-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -356,6 +356,38 @@
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/922624-300-300/laptop-acer-nitro-v-15-6-in-ci-5-16-gb-1-tb-0195133231374.jpg"
   },
   {
+   "producto": "Monitor MSI MAG 275UPD E14 - DUAL MODE - 27\" - IPS - 4K UHD - 1MS - 3840x2160 - 144Hz - Negro - 9S6-3CE89M- 018",
+   "marca": "MSI",
+   "categoria": "Monitores",
+   "tienda": "AEON",
+   "precio": 293.99,
+   "precio_tachado": 369.0,
+   "linea_base": 369.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -20.3,
+   "veredicto": "oferta real",
+   "minimo_historico": 293.99,
+   "url_tienda": "https://aeon.com.sv/shop/275upd-e14-106528",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A106528",
+   "imagen": "https://aeon.com.sv/web/image/product.template/106528/image_256"
+  },
+  {
+   "producto": "Monitor Acer KG270 W3biip - 27\" FHD - 240Hz - IPS - 0.5ms GTG - Negro - UM.HX0AA.307, HDMI 2.0 y DisplayPort",
+   "marca": "Acer",
+   "categoria": "Monitores",
+   "tienda": "AEON",
+   "precio": 181.99,
+   "precio_tachado": 225.0,
+   "linea_base": 225.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -19.1,
+   "veredicto": "oferta real",
+   "minimo_historico": 181.99,
+   "url_tienda": "https://aeon.com.sv/shop/20266-monitor-acer-kg270-w3biip-27-fhd-240hz-ips-0-5ms-gtg-negro-um-hx0aa-307-hdmi-2-0-y-displayport-107413",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107413",
+   "imagen": "https://aeon.com.sv/web/image/product.template/107413/image_256"
+  },
+  {
    "producto": "Escritorio de MDF café y negro (103 x 50 x 105) cm incluye 3 repisas",
    "marca": null,
    "categoria": "Escritorios",
@@ -644,6 +676,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8450672-300-300/105100926.jpg"
   },
   {
+   "producto": "Cocina 4 quemadores con horno a gas 60 cm (24\") RCCR6021 RCA",
+   "marca": "RCA",
+   "categoria": "Cocinas y estufas",
+   "tienda": "Simán",
+   "precio": 299.0,
+   "precio_tachado": 369.0,
+   "linea_base": 349.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -14.3,
+   "veredicto": "oferta real",
+   "minimo_historico": 299.0,
+   "url_tienda": "https://sv.siman.com/estufa-de-gas-24-negra-rca-102813406/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A5953984",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5378248-300-300/102813406.jpg"
+  },
+  {
    "producto": "Porcelanato (60 x 60) cm beige con vetas 1.44 m²",
    "marca": null,
    "categoria": "Cerámica y porcelanato",
@@ -738,6 +786,38 @@
    "url_tienda": "https://sv.siman.com/audifonos-bt-on-ear-soundgear-clips-cafe-105229106/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8947683",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048152-300-300/105229104.jpg"
+  },
+  {
+   "producto": "Enfriamiento Liquido Darkflash DH240D ARGB - 240mm TDP 200W,  LCD Digital display SEGMENTADA, Software, Intel, AMD 250–300 W - Blanco",
+   "marca": null,
+   "categoria": "Enfriamiento para PC",
+   "tienda": "AEON",
+   "precio": 73.99,
+   "precio_tachado": 95.0,
+   "linea_base": 84.5,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -12.4,
+   "veredicto": "oferta real",
+   "minimo_historico": 73.99,
+   "url_tienda": "https://aeon.com.sv/shop/17810-enfriamiento-liquido-darkflash-dh240d-argb-240mm-tdp-200w-lcd-digital-display-segmentada-software-intel-amd-250300-w-blanco-104978",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A104978",
+   "imagen": "https://aeon.com.sv/web/image/product.template/104978/image_256"
+  },
+  {
+   "producto": "Enfriamiento Liquido Darkflash DH240D RGB NEGRO TDP 200-  240mm,  LCD Digital display SEGMENTADA, Control via Software, 3-stage bomba de agua, Intel, AMD, compatible con: Aura, Mystic, Fusion, Polychrome",
+   "marca": null,
+   "categoria": "Enfriamiento para PC",
+   "tienda": "AEON",
+   "precio": 73.99,
+   "precio_tachado": 95.0,
+   "linea_base": 84.5,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -12.4,
+   "veredicto": "oferta real",
+   "minimo_historico": 73.99,
+   "url_tienda": "https://aeon.com.sv/shop/17826-enfriamiento-liquido-darkflash-dh240d-rgb-negro-tdp-200-240mm-lcd-digital-display-segmentada-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104994",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A104994",
+   "imagen": "https://aeon.com.sv/web/image/product.template/104994/image_256"
   },
   {
    "producto": "Celular HONOR 600 Smart 5G, 6 GB RAM + 256 GB y 6.8\" pulgadas — CELULAR 600 SMART 6GB RAM 256GB ROM MORADO",
@@ -836,6 +916,22 @@
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/456204800012_1.jpg?width=300&height=300&canvas=300"
   },
   {
+   "producto": "Microondas Whirlpool WM1807B 0.7 ft3 Negro",
+   "marca": null,
+   "categoria": "Microondas",
+   "tienda": "La Curacao",
+   "precio": 79.0,
+   "precio_tachado": 99.0,
+   "linea_base": 89.0,
+   "precios_en_linea_base": 10,
+   "variacion_vs_base_pct": -11.2,
+   "veredicto": "oferta real",
+   "minimo_historico": 79.0,
+   "url_tienda": "https://www.lacuracaonline.com/elsalvador/microondas-whirlpool-wm1807b-0-7-ft3-negro-457460200011/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/curacao%3A457460200011",
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/5/457460200011_rwwwvsn4fvilbwpc.png?width=300&height=300&canvas=300"
+  },
+  {
    "producto": "Microondas Oster 20 L (0.7 PCU) titanium OGKCWG20040",
    "marca": "Oster",
    "categoria": "Microondas",
@@ -882,6 +978,38 @@
    "url_tienda": "https://sv.siman.com/refrigeradora-french-door-891-l-30-pcu-c-dispensador-silver-105201069/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8910411",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8289735-300-300/105201069-1.jpg"
+  },
+  {
+   "producto": "Enfriamiento Liquido Lian Li GA II TRINITY, 240mm Intel/AMD ARGB LED, L-Connect, 3200Rpm Pump - G89.GA2T24B.00",
+   "marca": null,
+   "categoria": "Enfriamiento para PC",
+   "tienda": "AEON",
+   "precio": 119.99,
+   "precio_tachado": 149.99,
+   "linea_base": 134.99,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -11.1,
+   "veredicto": "oferta real",
+   "minimo_historico": 119.99,
+   "url_tienda": "https://aeon.com.sv/shop/16531-enfriamiento-liquido-lian-li-ga-ii-trinity-240mm-intel-amd-argb-led-l-connect-3200rpm-pump-g89-ga2t24b-00-97965",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A97965",
+   "imagen": "https://aeon.com.sv/web/image/product.template/97965/image_256"
+  },
+  {
+   "producto": "Cocina 4 quemadores con horno eléctrico 76 cm (30\") RCCR7604EVC RCA",
+   "marca": "RCA",
+   "categoria": "Cocinas y estufas",
+   "tienda": "Simán",
+   "precio": 579.0,
+   "precio_tachado": 719.0,
+   "linea_base": 649.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -10.8,
+   "veredicto": "oferta real",
+   "minimo_historico": 579.0,
+   "url_tienda": "https://sv.siman.com/cocina-30-electrica-vitroceramica-104963010/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8578432",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7076515-300-300/104963010-1 -1-.jpg"
   },
   {
    "producto": "Cámara inteligente para interior 2K con movimiento y audio bidireccional VTA+",
@@ -1142,6 +1270,22 @@
    "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/7/b/7b14d677-1a37-42db-bffe-259e0b7ac5eb.jpg"
   },
   {
+   "producto": "UPS Forza NT-511 500VA/250W 6 Tomas",
+   "marca": null,
+   "categoria": "UPS y reguladores de voltaje",
+   "tienda": "AEON",
+   "precio": 37.0,
+   "precio_tachado": 44.9,
+   "linea_base": 40.95,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -9.7,
+   "veredicto": "baja leve",
+   "minimo_historico": 37.0,
+   "url_tienda": "https://aeon.com.sv/shop/3713-ups-forza-nt-511-500va-250w-6-tomas-103787",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A103787",
+   "imagen": "https://aeon.com.sv/web/image/product.template/103787/image_256"
+  },
+  {
    "producto": "Refrigeradora Side by Side 509 L (18 PCU) Inverter GS51BPP LG",
    "marca": "LG",
    "categoria": "Refrigeradoras",
@@ -1174,6 +1318,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5379601-300-300/104554907.jpg"
   },
   {
+   "producto": "Cocina 6 quemadores con horno a gas 76 cm (30\") RCCR7606V RCA",
+   "marca": "RCA",
+   "categoria": "Cocinas y estufas",
+   "tienda": "Simán",
+   "precio": 389.0,
+   "precio_tachado": 469.0,
+   "linea_base": 429.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -9.3,
+   "veredicto": "baja leve",
+   "minimo_historico": 389.0,
+   "url_tienda": "https://sv.siman.com/estufa-30-ss-rca-inox-103071019/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6163306",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6020745-300-300/RCCR7606V.jpg"
+  },
+  {
    "producto": "Control inalámbrico de XBOX Series X/S, XBOX One — CONTROL INALÁMBRICO BLANCO",
    "marca": "Microsoft",
    "categoria": "Controles de consola",
@@ -1188,6 +1348,22 @@
    "url_tienda": "https://sv.siman.com/control-inalambrico-blanco-105301866/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A9034340",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8304423-300-300/105301866.jpg"
+  },
+  {
+   "producto": "Cocina 4 quemadores con horno a gas 51 cm (20\") RCCR25 RCA",
+   "marca": "RCA",
+   "categoria": "Cocinas y estufas",
+   "tienda": "Simán",
+   "precio": 199.0,
+   "precio_tachado": 239.0,
+   "linea_base": 219.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -9.1,
+   "veredicto": "baja leve",
+   "minimo_historico": 199.0,
+   "url_tienda": "https://sv.siman.com/cocina-20-acero-inox-c-copete-103209300/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6363675",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5378254-300-300/103209300.jpg"
   },
   {
    "producto": "Audífonos inalámbricos on ear Mondo Freestyle con NC — AUDIFONOS ON EAR BT  FREESTYLE M1202 TRANSPARENTE",
@@ -1364,6 +1540,22 @@
    "url_tienda": "https://sv.siman.com/ropero-4-puertas-4-gavetas-105318856/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A9055085",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8360310-300-300/105318866-1.jpg"
+  },
+  {
+   "producto": "UPS centra ECO1200 LED, 1200VA/600W,  8 Salidas 4 Respaldo, 4 con regulacion de picos. - PBECO1200",
+   "marca": null,
+   "categoria": "UPS y reguladores de voltaje",
+   "tienda": "AEON",
+   "precio": 71.99,
+   "precio_tachado": 84.9,
+   "linea_base": 78.44,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -8.2,
+   "veredicto": "baja leve",
+   "minimo_historico": 71.99,
+   "url_tienda": "https://aeon.com.sv/shop/20178-ups-centra-eco1200-led-1200va-600w-8-salidas-4-respaldo-4-con-regulacion-de-picos-pbeco1200-107325",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107325",
+   "imagen": "https://aeon.com.sv/web/image/product.template/107325/image_256"
   },
   {
    "producto": "Refrigerador french door 618 L (22 PCU) smart inverter LM22SGPK LG — Refrigerador Frech Door 22 cu.ft",
@@ -1686,6 +1878,22 @@
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/961075-300-300/M-5_walmartsv_kzKEMlLNqS_123345_01.jpg"
   },
   {
+   "producto": "Cocina 5 quemadores con horno a gas 76 cm (30\") RCCR7631SS RCA",
+   "marca": "RCA",
+   "categoria": "Cocinas y estufas",
+   "tienda": "Simán",
+   "precio": 449.0,
+   "precio_tachado": 529.0,
+   "linea_base": 479.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -6.3,
+   "veredicto": "baja leve",
+   "minimo_historico": 449.0,
+   "url_tienda": "https://sv.siman.com/cocina-a-gas-rca-30-102345595/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A5653105",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5408985-300-300/102345595_50--1-.jpg"
+  },
+  {
    "producto": "Refrigeradora Durabrand DUFRF068CAM 18 pies cúbicos French",
    "marca": "Durabrand",
    "categoria": "Refrigeradoras",
@@ -1700,6 +1908,22 @@
    "url_tienda": "https://www.walmart.com.sv/refrigerador-durabrand-french-door-con-dispensador-de-agua-y-frost-free-1/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/walmart%3A88977",
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/673803-300-300/88985_01.jpg"
+  },
+  {
+   "producto": "Consola ASUS ROG XBOX Ally - AMD Ryzen Z2 A - 512GB - 16GB LPDDR5 - Blanco - 90NV00G1-M001E0",
+   "marca": "Asus",
+   "categoria": "Consolas",
+   "tienda": "AEON",
+   "precio": 789.0,
+   "precio_tachado": 839.9,
+   "linea_base": 839.9,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -6.1,
+   "veredicto": "baja leve",
+   "minimo_historico": 789.0,
+   "url_tienda": "https://aeon.com.sv/shop/18767-consola-asus-rog-xbox-ally-amd-ryzen-z2-a-512gb-16gb-lpddr5-blanco-90nv00g1-m001e0-105910",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A105910",
+   "imagen": "https://aeon.com.sv/web/image/product.template/105910/image_256"
   },
   {
    "producto": "Refrigeradora Oster OS DFMI173V 6 pies cúbicos inoxidable",
@@ -1725,7 +1949,7 @@
    "precio": 469.0,
    "precio_tachado": 519.0,
    "linea_base": 499.0,
-   "precios_en_linea_base": 5,
+   "precios_en_linea_base": 6,
    "variacion_vs_base_pct": -6.0,
    "veredicto": "baja leve",
    "minimo_historico": 469.0,
@@ -1796,6 +2020,22 @@
    "url_tienda": "https://sv.siman.com/tablet-9-tab-4gb-128gb-wifi-android-gris-folio-buds-e310-104889762/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8489087",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7042136-300-300/ZAEH0130PA--2-.png"
+  },
+  {
+   "producto": "Cama Comfort Life Doble Euro confort medio — CAMA QUEEN",
+   "marca": "Comfort life",
+   "categoria": "Camas y colchones",
+   "tienda": "Simán",
+   "precio": 499.0,
+   "precio_tachado": 1125.0,
+   "linea_base": 529.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -5.7,
+   "veredicto": "baja leve",
+   "minimo_historico": 499.0,
+   "url_tienda": "https://sv.siman.com/cama-matrimonial-104750758/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8328393",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6871541-300-300/104750759_1_AMBIENTADA.jpg"
   },
   {
    "producto": "Silla profesional ergonomica formula v line ergolux 3 lite mesh negro hasta 125kg.",
@@ -1892,6 +2132,22 @@
    "url_tienda": "https://sv.siman.com/audifonos-bt-momentum-4-cancelacion-de-ruido-negros-104824296/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8870103",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7839616-300-300/105172863.jpg"
+  },
+  {
+   "producto": "Cama Comfort life Ergomatress confort semi firme — Cama ergomatress queen",
+   "marca": "Comfort life",
+   "categoria": "Camas y colchones",
+   "tienda": "Simán",
+   "precio": 699.0,
+   "precio_tachado": 1305.0,
+   "linea_base": 739.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -5.4,
+   "veredicto": "baja leve",
+   "minimo_historico": 699.0,
+   "url_tienda": "https://sv.siman.com/cama-ergomatress-101109027/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A4642769",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7161720-300-300/103477122-6.jpg"
   },
   {
    "producto": "Lavasecadora Samsung 20 kg/12 kg carga frontal WD20T6300GP/AX",
@@ -2294,6 +2550,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5010234-300-300/104422819.jpg"
   },
   {
+   "producto": "UPS Centra Plus 2400VA LCD,  10 Salidas, 4 Respaldo/4Regulacion, CLCP2400",
+   "marca": null,
+   "categoria": "UPS y reguladores de voltaje",
+   "tienda": "AEON",
+   "precio": 179.0,
+   "precio_tachado": 194.0,
+   "linea_base": 186.5,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -4.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 179.0,
+   "url_tienda": "https://aeon.com.sv/shop/20177-ups-centra-plus-2400va-lcd-10-salidas-4-respaldo-4regulacion-clcp2400-107324",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107324",
+   "imagen": "https://aeon.com.sv/web/image/product.template/107324/image_256"
+  },
+  {
    "producto": "Lavadora automática carga superior Xpert Dual 22 kg 8MWTW2254WRM Whirlpool — UPPER(U450)",
    "marca": "Whirlpool",
    "categoria": "Lavadoras",
@@ -2324,6 +2596,22 @@
    "url_tienda": "https://sv.siman.com/playstation-5-slim-version-de-disco-1tb-ssd-blanco-105162514/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8855166",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8016510-300-300/105162514.jpg"
+  },
+  {
+   "producto": "Cama Comfort Life Black Orthopedica confort firme base 2 en 1 — Cama queen black orthopedic",
+   "marca": "Comfort life",
+   "categoria": "Camas y colchones",
+   "tienda": "Simán",
+   "precio": 629.0,
+   "precio_tachado": 1205.0,
+   "linea_base": 655.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -4.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 629.0,
+   "url_tienda": "https://sv.siman.com/cama-100788306/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A5705132",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7191025-300-300/100788306_301.jpg"
   },
   {
    "producto": "Refrigeradora INVERTER  RT42DG6734S9AP | 15'",
@@ -2404,22 +2692,6 @@
    "url_tienda": "https://www.walmart.com.sv/pantalla-xiaomi-qled-smart-4k-43-pulgadas-1-in-2-54-cm-5/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/walmart%3A111834",
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/846852-300-300/pantalla-xiaomi-qled-smart-4-k-43-pulgadas-1-in-2-54-cm-6941948705678.jpg"
-  },
-  {
-   "producto": "65\" Crystal UHD 4K U8000H Tizen OS Smart TV (2026) (UN65U8000HPXPA)",
-   "marca": "Samsung",
-   "categoria": "TV",
-   "tienda": "Samsung",
-   "precio": 519.0,
-   "precio_tachado": 849.0,
-   "linea_base": 539.0,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -3.7,
-   "veredicto": "baja leve",
-   "minimo_historico": 519.0,
-   "url_tienda": "https://shop.samsung.com/latin/cac/sv/65-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/samsung%3AUN65U8000HPXPA",
-   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb_1.png"
   },
   {
    "producto": "Refrigeradora Top mount 442 L (15 pcu) Energy saver RMP450YCAU Mabe — REFRIGERADORA TOP FREEZER 442 l (15 pcu) C/DISPENSADOR ACERO INOX",
@@ -2541,7 +2813,7 @@
    "precio": 319.0,
    "precio_tachado": 549.0,
    "linea_base": 329.0,
-   "precios_en_linea_base": 5,
+   "precios_en_linea_base": 6,
    "variacion_vs_base_pct": -3.0,
    "veredicto": "baja leve",
    "minimo_historico": 319.0,
