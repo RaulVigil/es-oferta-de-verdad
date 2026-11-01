@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-11-01T12:24:45-06:00",
+ "actualizado": "2026-11-01T17:39:30-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -644,7 +644,7 @@
    "modelo": "UN43U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/43-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -696,6 +696,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:39-06:00",
+     "precio": 339.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:39:30-06:00",
      "precio": 339.0,
      "precio_lista": 449.0,
      "disponible": true,

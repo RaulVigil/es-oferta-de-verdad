@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-11-01T12:06:03-06:00",
+ "actualizado": "2026-11-01T17:16:59-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -34969,7 +34969,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/tableta-hidratacion-gu-naranja-54gr-3/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -34989,6 +34989,14 @@
     },
     {
      "fecha": "2026-10-31T16:58:15-06:00",
+     "precio": 8.95,
+     "precio_lista": 8.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:16:59-06:00",
      "precio": 8.95,
      "precio_lista": 8.95,
      "disponible": true,
@@ -35169,7 +35177,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/tableta-hidratacion-gu-lima-limon-54gr-0/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -35181,6 +35189,14 @@
     },
     {
      "fecha": "2026-10-30T11:51:21-06:00",
+     "precio": 8.95,
+     "precio_lista": 8.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:16:59-06:00",
      "precio": 8.95,
      "precio_lista": 8.95,
      "disponible": true,
@@ -35338,7 +35354,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/tableta-hidratacion-gu-tri-berry-54gr-8/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -35358,6 +35374,14 @@
     },
     {
      "fecha": "2026-10-31T16:58:15-06:00",
+     "precio": 8.95,
+     "precio_lista": 8.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:16:59-06:00",
      "precio": 8.95,
      "precio_lista": 8.95,
      "disponible": true,
@@ -44196,6 +44220,29 @@
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/767345-300-300/84453_01.jpg"
+  },
+  "108925": {
+   "nombre": "Estufa de gas RCA RCCR22C 4 quemadores",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "RCA",
+   "modelo": "RCCR22C",
+   "url": "https://www.walmart.com.sv/estufa-rca-rccr22c-a-gas-negra-7/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:16:59-06:00",
+     "precio": 206.91,
+     "precio_lista": 209.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/921632-300-300/cocina-a-gas-rca-negra-rccr-22-c-20-pulgadas-7453021623490.jpg"
   }
  }
 }

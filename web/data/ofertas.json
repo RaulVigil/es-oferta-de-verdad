@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-01T12:24:57-06:00",
+ "generado": "2026-11-01T17:39:45-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -5412,6 +5412,22 @@
    "url_tienda": "https://sv.siman.com/refrigeradora-top-mount-13pcu-silver-c-dispensador-104998971/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8623229",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7203698-300-300/104998971-1.jpg"
+  },
+  {
+   "producto": "Refrigeradora Frío Húmedo RMU210FANU | 8'",
+   "marca": null,
+   "categoria": "Refrigeradoras",
+   "tienda": "Omnisport",
+   "precio": 279.0,
+   "precio_tachado": 410.0,
+   "linea_base": 289.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -3.5,
+   "veredicto": "baja leve",
+   "minimo_historico": 279.0,
+   "url_tienda": "https://omnisport.com/productos/refrigeradora-frio-humedo-rmu210fanu-8",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000009033",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/l6Tu1XRXKJWYUaVYUULwcidmVjtgLVzgkgODI4kY.jpeg"
   },
   {
    "producto": "Samsung Smart Tv Mini Led 4k 50",

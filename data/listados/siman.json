@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-11-01T12:02:54-06:00",
+ "actualizado": "2026-11-01T17:14:03-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -138573,7 +138573,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/grifo-led-para-lavabo-de-baño-con-3-colores-de-iluminacion-para-efecto-estetico-823475431/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -138665,6 +138665,14 @@
     },
     {
      "fecha": "2026-10-31T11:22:27-06:00",
+     "precio": 79.95,
+     "precio_lista": 79.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
      "precio": 79.95,
      "precio_lista": 79.95,
      "disponible": true,
@@ -221262,7 +221270,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/rizador-de-pelo-con-infusion-de-aceite-de-coco-104312676/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -221282,6 +221290,14 @@
     },
     {
      "fecha": "2026-10-31T11:22:27-06:00",
+     "precio": 40.41,
+     "precio_lista": 44.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
      "precio": 40.41,
      "precio_lista": 44.9,
      "disponible": true,
@@ -222280,7 +222296,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/ondulador-style-therapy-100405041/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -222300,6 +222316,14 @@
     },
     {
      "fecha": "2026-10-31T11:22:27-06:00",
+     "precio": 49.41,
+     "precio_lista": 54.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
      "precio": 49.41,
      "precio_lista": 54.9,
      "disponible": true,
@@ -227387,6 +227411,14 @@
     {
      "fecha": "2026-11-01T12:02:54-06:00",
      "precio": 199.0,
+     "precio_lista": 199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 189.0,
      "precio_lista": 199.0,
      "disponible": false,
      "fuente": "auto",
@@ -279673,6 +279705,144 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6939552-300-300/104822817.jpg"
+  },
+  "8701332": {
+   "nombre": "Celular Samsung Galaxy A17 256 GB 8 GB RAM Pantalla 6.7\" (17.02 cm) Octa-Core Cámara Trasera Triple 50MP — CELULAR 6.7\" (17.02 cm) A17 8GB RAM 256GB ROM CELESTE",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/celular-samsung-galaxy-a17-256-gb-8-gb-ram-pantalla-6-7---17-02-cm--octa-core-camara-trasera-triple-50mp-/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 269.0,
+     "precio_lista": 269.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7314565-300-300/105056702-1.jpg"
+  },
+  "8701333": {
+   "nombre": "Celular Samsung Galaxy A17 256 GB 8 GB RAM Pantalla 6.7\" (17.02 cm) Octa-Core Cámara Trasera Triple 50MP — CELULAR 6.7\" (17.02 cm) A17 8GB RAM 256GB ROM NEGRO",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/celular-samsung-galaxy-a17-256-gb-8-gb-ram-pantalla-6-7---17-02-cm--octa-core-camara-trasera-triple-50mp-/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 295.0,
+     "precio_lista": 329.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7314575-300-300/105056703-1.jpg"
+  },
+  "9081035": {
+   "nombre": "Celular Samsung Galaxy A17 256 GB 8 GB RAM Pantalla 6.7\" (17.02 cm) Octa-Core Cámara Trasera Triple 50MP — CELULAR 17.01 cm (6.7\") A17 8GB RAM 256GB ROM GRIS",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "",
+   "url": "https://sv.siman.com/celular-samsung-galaxy-a17-256-gb-8-gb-ram-pantalla-6-7---17-02-cm--octa-core-camara-trasera-triple-50mp-/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 295.0,
+     "precio_lista": 329.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8407096-300-300/105339595.jpg"
+  },
+  "8055373": {
+   "nombre": "Silla de comer Premium Bab16 5 en 1 E15ecutive — Silla de comer 5 en 1 executive azul",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Premium Baby",
+   "modelo": "E15ECUTIVE",
+   "url": "https://sv.siman.com/silla-de-comer-5-en-1-e15ecutive-gris-104703783/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5377078-300-300/104525650_1.jpg"
+  },
+  "8055374": {
+   "nombre": "Silla de comer Premium Bab16 5 en 1 E15ecutive — Silla de comer 5 en 1 e15ecutive rosado",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Premium Baby",
+   "modelo": "E15ECUTIVE",
+   "url": "https://sv.siman.com/silla-de-comer-5-en-1-e15ecutive-gris-104703783/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5377086-300-300/104525651_1.jpg"
+  },
+  "8273271": {
+   "nombre": "Silla de comer Premium Bab16 5 en 1 E15ecutive — SILLA DE COMER 5 EN 1 EXECUTIVE (GRIS)",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Premium Baby",
+   "modelo": "E15ECUTIVE",
+   "url": "https://sv.siman.com/silla-de-comer-5-en-1-e15ecutive-gris-104703783/p",
+   "primera_vez": "2026-11-01",
+   "ultima_vez": "2026-11-01",
+   "observaciones": [
+    {
+     "fecha": "2026-11-01T17:14:03-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6148006-300-300/104703783--1-.jpg"
   }
  }
 }

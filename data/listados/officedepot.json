@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-11-01T12:24:01-06:00",
+ "actualizado": "2026-11-01T17:38:43-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -642,7 +642,7 @@
    "modelo": "AMB581GL",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-TARGUS-COMPACTO-INALAMBRICO-AMB581GL/p/1303000110",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -678,6 +678,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -1366,7 +1374,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-ERGONOMICO-VERTICAL-ALA-/p/1303000582",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -1402,6 +1410,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 13.9,
      "precio_lista": null,
      "disponible": true,
@@ -2838,7 +2854,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-ACER-ASPIRE-CORE-I5---16GB---512GB---WIN-11-H/p/1301000744",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2874,6 +2890,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 839.0,
+     "precio_lista": 879.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 839.0,
      "precio_lista": 879.0,
      "disponible": true,
@@ -4822,7 +4846,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Televisores/TELEVISOR-XIAOMI-43-PLG-2026/p/1308000267",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -4858,6 +4882,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -6011,7 +6043,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-EJECUTIVA-DE-PU-COLOR-NEGRO-4TUNE/p/1102000023",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -6047,6 +6079,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -7893,7 +7933,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-VINTAGE/p/1101000138",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -7929,6 +7969,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 140.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 140.0,
      "precio_lista": null,
      "disponible": true,
@@ -7948,7 +7996,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-DE-VIDRIO/p/1101000127",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -7984,6 +8032,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -13311,7 +13367,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Android/TABLET-LENOVO-TAB-10-1-FHD/p/1301000575",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -13331,6 +13387,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 239.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 239.0,
      "precio_lista": null,
      "disponible": true,
@@ -14806,7 +14870,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Computadoras-y-all-in-one/COMPUTADORA-DE-ESCRITORIO-LENOVO-AIO-AMD-RYZEN-7/p/1301000741",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:06:14-06:00",
@@ -14818,6 +14882,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 1699.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 1699.0,
      "precio_lista": null,
      "disponible": true,
@@ -14837,7 +14909,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Computadoras-y-all-in-one/COMPUTADORA-DE-ESCRITORIO-LENOVO-AIO-AMD-RYZEN-7---16GB---512GB---WIN-11-H/p/1301000742",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-01",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:06:14-06:00",
@@ -14849,6 +14921,14 @@
     },
     {
      "fecha": "2026-10-31T11:40:07-06:00",
+     "precio": 1449.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T17:38:43-06:00",
      "precio": 1449.0,
      "precio_lista": null,
      "disponible": true,
