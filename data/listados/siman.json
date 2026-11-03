@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-11-02T15:50:47-06:00",
+ "actualizado": "2026-11-02T19:54:50-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -187244,7 +187244,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/winfun-bloc-bilingue-glow-learn-105245957/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T12:30:43-06:00",
@@ -187273,6 +187273,14 @@
     {
      "fecha": "2026-11-01T12:02:54-06:00",
      "precio": 29.9,
+     "precio_lista": 29.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
+     "precio": 25.42,
      "precio_lista": 29.9,
      "disponible": true,
      "fuente": "auto",
@@ -187291,7 +187299,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/winfun-portatil-junior-tiger-105245953/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T12:30:43-06:00",
@@ -187320,6 +187328,14 @@
     {
      "fecha": "2026-11-01T12:02:54-06:00",
      "precio": 24.9,
+     "precio_lista": 24.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
+     "precio": 21.16,
      "precio_lista": 24.9,
      "disponible": true,
      "fuente": "auto",
@@ -242031,6 +242047,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
+     "precio": 88.9,
+     "precio_lista": 88.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/1491515-300-300/100852116.jpg"
@@ -267558,7 +267582,7 @@
    "modelo": "CHM15BPL4",
    "url": "https://sv.siman.com/congelador-mabe-15-pies-429-litros-823487848/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267586,6 +267610,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 1025.0,
+     "precio_lista": 1025.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 1025.0,
      "precio_lista": 1025.0,
      "disponible": true,
@@ -267605,7 +267637,7 @@
    "modelo": "RCSF54DA",
    "url": "https://sv.siman.com/congelador-horizontal-152-9-litros--5-4-pcu--rcsf54da-rca-823485362/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267633,6 +267665,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 229.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 229.0,
      "precio_lista": 299.0,
      "disponible": true,
@@ -267652,7 +267692,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/congelador-de-9-pies-cubicos-1-puertas-solidas-101586585/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267680,6 +267720,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 339.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 339.0,
      "precio_lista": 389.0,
      "disponible": true,
@@ -267699,7 +267747,7 @@
    "modelo": "CHM7PPL0",
    "url": "https://sv.siman.com/congelador-horizontal-198l-7pc-blanco-105013120/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267727,6 +267775,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 249.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 249.0,
      "precio_lista": 299.0,
      "disponible": true,
@@ -267746,7 +267802,7 @@
    "modelo": "CHM5BPL40",
    "url": "https://sv.siman.com/congelador-horizontal-142l-5pc-104920429/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267774,6 +267830,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 199.0,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 199.0,
      "precio_lista": 279.0,
      "disponible": true,
@@ -267793,7 +267857,7 @@
    "modelo": "RCSF91DA",
    "url": "https://sv.siman.com/congelador-horizontal-257-68-l--9-1-pcu--rcsf91da-rca--823485363/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267821,6 +267885,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 299.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 299.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -267840,7 +267912,7 @@
    "modelo": "GF198ST",
    "url": "https://sv.siman.com/congelador-horizontal-198-l-7-pcu-1-puerta-blanco-105104483/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267868,6 +267940,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 249.0,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 249.0,
      "precio_lista": 279.0,
      "disponible": true,
@@ -267887,7 +267967,7 @@
    "modelo": "RCSF75DA",
    "url": "https://sv.siman.com/congelador-horizontal-212-376-litros--7-5-pcu--rcsf75da-rca-823485364/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267915,6 +267995,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 269.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 269.0,
      "precio_lista": 349.0,
      "disponible": true,
@@ -267934,7 +268022,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/congelador-11-pies-horizontal-103418849/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267962,6 +268050,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 459.0,
+     "precio_lista": 489.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 459.0,
      "precio_lista": 489.0,
      "disponible": true,
@@ -267981,7 +268077,7 @@
    "modelo": "160YX2",
    "url": "https://sv.siman.com/congelador-tapa-de-vidrio-curvo-6pc-103633671/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268009,6 +268105,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 489.0,
+     "precio_lista": 519.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 489.0,
      "precio_lista": 519.0,
      "disponible": true,
@@ -268028,7 +268132,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/congelador-horizontal-25-pc-2-puertas-104245885/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268056,6 +268160,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 879.0,
+     "precio_lista": 949.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 879.0,
      "precio_lista": 949.0,
      "disponible": true,
@@ -268075,7 +268187,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/congelador-vertical-9-pc-1-puerta-104203178/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268103,6 +268215,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 679.0,
+     "precio_lista": 729.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 679.0,
      "precio_lista": 729.0,
      "disponible": true,
@@ -268122,7 +268242,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/congelador-de-27-pies-cubicos-2-puertas-solidas-101586583/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268150,6 +268270,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 1099.0,
      "precio_lista": 1159.0,
      "disponible": true,
@@ -268169,7 +268297,7 @@
    "modelo": "RR16D6AGX1",
    "url": "https://sv.siman.com/frigobar-1-5pe-silver-104143355/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268197,6 +268325,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 129.0,
+     "precio_lista": 159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 129.0,
      "precio_lista": 159.0,
      "disponible": true,
@@ -268216,7 +268352,7 @@
    "modelo": "WUC2205B",
    "url": "https://sv.siman.com/frigobar-5-pies-cubicos-negro-104473086/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268244,6 +268380,14 @@
     },
     {
      "fecha": "2026-11-01T12:02:54-06:00",
+     "precio": 199.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
      "precio": 199.0,
      "precio_lista": 269.0,
      "disponible": true,
@@ -270755,6 +270899,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
+     "precio": 89.9,
+     "precio_lista": 89.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8312986-300-300/105274237_IA.jpg"
@@ -271939,6 +272091,14 @@
      "precio": 134.91,
      "precio_lista": 149.9,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
+     "precio": 149.9,
+     "precio_lista": 149.9,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -310027,6 +310187,14 @@
      "precio": 959.2,
      "precio_lista": 1199.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:54:50-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }

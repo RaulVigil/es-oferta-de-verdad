@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-11-02T16:04:17-06:00",
+ "actualizado": "2026-11-02T20:06:32-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -2945,6 +2945,14 @@
      "fecha": "2026-11-02T16:04:17-06:00",
      "precio": 181.99,
      "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:06:32-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
      "nota": ""

@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-02T16:12:23-06:00",
+ "generado": "2026-11-02T20:12:49-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -306,6 +306,22 @@
    "url_tienda": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-active5-5g.html",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/samsung%3ASM-X306BZGAL15-1",
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x306b_001_front_green_thumb_1.png"
+  },
+  {
+   "producto": "Galaxy Watch8 (Bluetooth, 40 mm) (SM-L320NDAALTA-1)",
+   "marca": "Samsung",
+   "categoria": "Smartwatches",
+   "tienda": "Samsung",
+   "precio": 149.0,
+   "precio_tachado": 379.0,
+   "linea_base": 259.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -42.5,
+   "veredicto": "oferta real",
+   "minimo_historico": 149.0,
+   "url_tienda": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-40mm-bluetooth-sm-l320.html",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/samsung%3ASM-L320NDAALTA-1",
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l320_000_set-cut-all_thumb_1.png"
   },
   {
    "producto": "Cafetera de 4 Estilos para frío y caliente de 1.5 L",
@@ -3044,22 +3060,6 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/470114_99.jpg?v=120261102"
   },
   {
-   "producto": "Olla de presión Practika Plus de 6 L",
-   "marca": "Magefesa",
-   "categoria": "Ollas arroceras y de presión",
-   "tienda": "Simán",
-   "precio": 67.42,
-   "precio_tachado": 89.9,
-   "linea_base": 89.9,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -25.0,
-   "veredicto": "oferta real",
-   "minimo_historico": 67.42,
-   "url_tienda": "https://sv.siman.com/olla-de-presion-practika-plus-de-6-l-105274237/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A9001759",
-   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8312986-300-300/105274237_IA.jpg"
-  },
-  {
    "producto": "Olla de presión de acero inoxidable 6 litros",
    "marca": "Magefesa",
    "categoria": "Ollas arroceras y de presión",
@@ -4996,22 +4996,6 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/485948.jpg?v=120261102"
   },
   {
-   "producto": "Monitor Acer KG270 W3biip - 27\" FHD - 240Hz - IPS - 0.5ms GTG - Negro - UM.HX0AA.307, HDMI 2.0 y DisplayPort",
-   "marca": "Acer",
-   "categoria": "Monitores",
-   "tienda": "AEON",
-   "precio": 181.99,
-   "precio_tachado": 225.0,
-   "linea_base": 225.0,
-   "precios_en_linea_base": 13,
-   "variacion_vs_base_pct": -19.1,
-   "veredicto": "oferta real",
-   "minimo_historico": 181.99,
-   "url_tienda": "https://aeon.com.sv/shop/20266-monitor-acer-kg270-w3biip-27-fhd-240hz-ips-0-5ms-gtg-negro-um-hx0aa-307-hdmi-2-0-y-displayport-107413",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107413",
-   "imagen": "https://aeon.com.sv/web/image/product.template/107413/image_256"
-  },
-  {
    "producto": "Escritorio de MDF café y negro (103 x 50 x 105) cm incluye 3 repisas",
    "marca": null,
    "categoria": "Escritorios",
@@ -6260,6 +6244,22 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/456911.jpg?v=120261102"
   },
   {
+   "producto": "Laptop Junior Winfun Tigre — Winfun Portátil Junior Tiger",
+   "marca": "Winfun",
+   "categoria": "Laptops",
+   "tienda": "Simán",
+   "precio": 21.16,
+   "precio_tachado": 24.9,
+   "linea_base": 24.9,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 21.16,
+   "url_tienda": "https://sv.siman.com/winfun-portatil-junior-tiger-105245953/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8967592",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8254158-300-300/105245953-1.jpg"
+  },
+  {
    "producto": "Lavamanos de sobreponer ovalado color blanco",
    "marca": "Oakbrook",
    "categoria": "Lavamanos",
@@ -6866,6 +6866,22 @@
    "url_tienda": "https://sv.siman.com/reloj-inteligente-viva-c-conexion-bluetooth-con-correa-de-silicon-color-blanco-105079537/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8748336",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7615420-300-300/105085374-1.jpg"
+  },
+  {
+   "producto": "Laptop Bilingüe Winfun Infantil — Winfun Bloc Bilingüe Glow & Learn",
+   "marca": "Winfun",
+   "categoria": "Laptops",
+   "tienda": "Simán",
+   "precio": 25.42,
+   "precio_tachado": 29.9,
+   "linea_base": 29.9,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 25.42,
+   "url_tienda": "https://sv.siman.com/winfun-bloc-bilingue-glow-learn-105245957/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8967596",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8254170-300-300/105245957-1.jpg"
   },
   {
    "producto": "Cama Florida comfort semi firme Euro top 6-1 — Cama Optima Euro Top 6 1 Euro KING",
@@ -14134,6 +14150,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7330837-300-300/104946579-1.jpg"
   },
   {
+   "producto": "Colchón Olympia Foam Imperial",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 105.0,
+   "precio_tachado": 140.0,
+   "linea_base": 109.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.7,
+   "veredicto": "baja leve",
+   "minimo_historico": 105.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2268",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  {
    "producto": "Cortadora de barba Remington para caballero — _SkuName",
    "marca": "Remington",
    "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
@@ -14148,6 +14180,22 @@
    "url_tienda": "https://sv.siman.com/cortadora-de-barba-remington-para-caballero-103520229/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6839755",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/1855707-300-300/103520229.jpg"
+  },
+  {
+   "producto": "Cama Completa Olympia EE Doble Box Top Queen",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 343.0,
+   "precio_tachado": 389.0,
+   "linea_base": 356.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.6,
+   "veredicto": "baja leve",
+   "minimo_historico": 343.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2430",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
   },
   {
    "producto": "Refrigeradora Top mount 442 L (15 pcu) Energy saver RMP450YCAU Mabe — REFRIGERADORA TOP FREEZER 442 l (15 pcu) C/DISPENSADOR ACERO INOX",
@@ -14212,6 +14260,22 @@
    "url_tienda": "https://www.almacenestropigas.com.sv/set-de-cama-regina-comfort-plus-matrimonial-458819100013/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/tropigas%3A458819100013",
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/5/458819100013_4_1.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "Cama Completa Olympia EE Doble Box Top Imperial",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 242.0,
+   "precio_tachado": 275.0,
+   "linea_base": 251.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.6,
+   "veredicto": "baja leve",
+   "minimo_historico": 242.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2428",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
   },
   {
    "producto": "Afeitadora Rotativa Style R5 Remington — AFEITADORA ROTATIVA NEGRA",
@@ -14454,6 +14518,22 @@
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/5/458819000016_4.jpg?width=300&height=300&canvas=300"
   },
   {
+   "producto": "Cama Completa Olympia Foam Matrimonial",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 180.0,
+   "precio_tachado": 237.0,
+   "linea_base": 186.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.2,
+   "veredicto": "baja leve",
+   "minimo_historico": 180.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2273",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  {
    "producto": "Cocina 5 quemadores con horno a gas 76 cm (30\") RCCR7631SS RCA",
    "marca": "RCA",
    "categoria": "Cocinas y estufas",
@@ -14468,6 +14548,38 @@
    "url_tienda": "https://sv.siman.com/cocina-a-gas-rca-30-102345595/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A5653105",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5408985-300-300/102345595_50--1-.jpg"
+  },
+  {
+   "producto": "Cama Completa Olympia EE One Box Top Queen",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 301.0,
+   "precio_tachado": 366.0,
+   "linea_base": 311.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.2,
+   "veredicto": "baja leve",
+   "minimo_historico": 301.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2417",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
+  },
+  {
+   "producto": "Cama Completa Olympia Foam Imperial",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 151.0,
+   "precio_tachado": 201.0,
+   "linea_base": 156.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.2,
+   "veredicto": "baja leve",
+   "minimo_historico": 151.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2272",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
   },
   {
    "producto": "Cocina de gas Indurama 4 Quemadores FERRARAZFO",
@@ -14532,6 +14644,38 @@
    "url_tienda": "https://sv.siman.com/refrigeradora-side-by-side-23pcu-silver-mono-cooling-c-disp-103183606/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6331803",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/3064761-300-300/103183606.jpg"
+  },
+  {
+   "producto": "Colchón Olympia Foam Matrimonial",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 127.0,
+   "precio_tachado": 167.0,
+   "linea_base": 131.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 127.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Matrimonial",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2269",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
+  },
+  {
+   "producto": "Colchón Olympia EE One Pillow Imperial",
+   "marca": "Olympia",
+   "categoria": "Camas y colchones",
+   "tienda": "Camas Olympia",
+   "precio": 128.0,
+   "precio_tachado": 156.0,
+   "linea_base": 132.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -3.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 128.0,
+   "url_tienda": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/olympia%3A2463",
+   "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
   }
  ]
 }

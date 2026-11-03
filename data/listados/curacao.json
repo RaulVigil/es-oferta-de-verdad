@@ -1,6 +1,6 @@
 {
  "comercial": "curacao",
- "actualizado": "2026-11-02T15:53:31-06:00",
+ "actualizado": "2026-11-02T19:57:13-06:00",
  "listados": {
   "465123300008": {
    "nombre": "Set de Cama Capri Matrimonial Exclusiva 2 en 1",
@@ -66068,7 +66068,7 @@
    "modelo": "RT35DG5124S9",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-samsung-top-mount-no-frost-354-litros-rt35dg5124s9-465278700012/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -66133,6 +66133,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
+     "precio": 455.0,
+     "precio_lista": 475.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/8/8/8806095363080.jpg?width=300&height=300&canvas=300"
@@ -66147,7 +66155,7 @@
    "modelo": "WA15CG5441BW",
    "url": "https://www.lacuracaonline.com/elsalvador/lavadora-samsung-wa15cg5441bw-superior-15kg-465279100019/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -66207,6 +66215,14 @@
     },
     {
      "fecha": "2026-11-01T12:06:31-06:00",
+     "precio": 345.0,
+     "precio_lista": 345.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
      "precio": 345.0,
      "precio_lista": 345.0,
      "disponible": false,
@@ -66226,7 +66242,7 @@
    "modelo": "RS23CB70NA12",
    "url": "https://www.lacuracaonline.com/elsalvador/refrigeradora-samsung-rs23cb70na12-no-frost-640l-464094400014/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -66286,6 +66302,14 @@
     },
     {
      "fecha": "2026-11-01T12:06:31-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
      "precio": 1299.0,
      "precio_lista": 1299.0,
      "disponible": false,
@@ -66305,7 +66329,7 @@
    "modelo": "QN50QN90DAPX",
    "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-tizentm-smart-tv-neoqled-50-4k-uhd-qn50qn90dapx-466016300013/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -66365,6 +66389,14 @@
     },
     {
      "fecha": "2026-11-01T12:06:31-06:00",
+     "precio": 999.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
      "precio": 999.0,
      "precio_lista": 999.0,
      "disponible": false,
@@ -149860,7 +149892,7 @@
    "modelo": "UN75DU7000PX",
    "url": "https://www.lacuracaonline.com/elsalvador/televisor-samsung-smart-tv-tizen-led-75-4k-uhd-un75du7000px-466017100018/p",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:04:07-06:00",
@@ -149904,6 +149936,14 @@
     },
     {
      "fecha": "2026-11-01T12:06:31-06:00",
+     "precio": 999.0,
+     "precio_lista": 999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
      "precio": 999.0,
      "precio_lista": 999.0,
      "disponible": false,
@@ -209419,7 +209459,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/tablet-samsung-s9-fe-6-gb-128-gb-10-9-gris-464237200013/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -209447,6 +209487,14 @@
     },
     {
      "fecha": "2026-11-01T12:06:31-06:00",
+     "precio": 749.0,
+     "precio_lista": 749.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
      "precio": 749.0,
      "precio_lista": 749.0,
      "disponible": false,
@@ -220956,7 +221004,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-samsung-256-gb-6-5-celeste-a15-465847000017/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -220984,6 +221032,14 @@
     },
     {
      "fecha": "2026-11-01T12:06:31-06:00",
+     "precio": 349.0,
+     "precio_lista": 349.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
      "precio": 349.0,
      "precio_lista": 349.0,
      "disponible": false,
@@ -221168,7 +221224,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-samsung-256-gb-6-6-negro-a35-465895400012/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -221197,6 +221253,14 @@
     {
      "fecha": "2026-11-01T12:06:31-06:00",
      "precio": 599.0,
+     "precio_lista": 599.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
+     "precio": 299.0,
      "precio_lista": 599.0,
      "disponible": false,
      "fuente": "auto",
@@ -235374,7 +235438,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-samsung-s24-ultra-256gb-6-8-468144000018-negro/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -235403,6 +235467,14 @@
     {
      "fecha": "2026-11-01T12:06:31-06:00",
      "precio": 1649.0,
+     "precio_lista": 1649.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T19:57:13-06:00",
+     "precio": 1049.0,
      "precio_lista": 1649.0,
      "disponible": false,
      "fuente": "auto",

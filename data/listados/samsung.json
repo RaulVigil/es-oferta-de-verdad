@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-11-02T16:12:10-06:00",
+ "actualizado": "2026-11-02T20:12:38-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -11760,7 +11760,7 @@
    "modelo": "SML320NDAALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-40mm-bluetooth-sm-l320.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-02",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11789,6 +11789,14 @@
     {
      "fecha": "2026-11-01T12:24:45-06:00",
      "precio": 259.0,
+     "precio_lista": 379.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:38-06:00",
+     "precio": 149.0,
      "precio_lista": 379.0,
      "disponible": true,
      "fuente": "auto",

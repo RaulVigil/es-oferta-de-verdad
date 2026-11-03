@@ -4,7 +4,7 @@
 > Black Friday (27 de noviembre de 2026) o Cyber Monday es real: compara el precio de hoy contra la mediana de
 > lo que costó antes del 1 de noviembre (línea base), no contra el precio tachado que anuncia la tienda.
 
-Actualizado el 2 nov 2026, 4:12 p. m. · 20,163 productos de 15 tiendas · 630 ofertas reales. Tiendas: AEON, Camas Olympia, EPA, Electrónica 2001, La Curacao, Office Depot, Omnisport, Prado, RadioShack, Samsung, Simán, Tropigas, Vidrí, Walmart, Zona Digital.
+Actualizado el 2 nov 2026, 8:12 p. m. · 20,163 productos de 15 tiendas · 631 ofertas reales. Tiendas: AEON, Camas Olympia, EPA, Electrónica 2001, La Curacao, Office Depot, Omnisport, Prado, RadioShack, Samsung, Simán, Tropigas, Vidrí, Walmart, Zona Digital.
 
 ## Cómo leer los datos
 
@@ -16,7 +16,7 @@ Actualizado el 2 nov 2026, 4:12 p. m. · 20,163 productos de 15 tiendas · 630 o
 
 ## Páginas
 
-- [Ofertas reales de hoy](https://es-oferta-de-verdad.vercel.app/ofertas/): 630 ofertas reales y 278 bajas leves, con precio y línea base
+- [Ofertas reales de hoy](https://es-oferta-de-verdad.vercel.app/ofertas/): 631 ofertas reales y 286 bajas leves, con precio y línea base
 - [TV](https://es-oferta-de-verdad.vercel.app/categoria/tv/): 402 productos disponibles
 - [Camas y colchones](https://es-oferta-de-verdad.vercel.app/categoria/cama/): 1,403 productos disponibles
 - [Teclados](https://es-oferta-de-verdad.vercel.app/categoria/teclado/): 257 productos disponibles
@@ -24,7 +24,7 @@ Actualizado el 2 nov 2026, 4:12 p. m. · 20,163 productos de 15 tiendas · 630 o
 - [Sillas de escritorio](https://es-oferta-de-verdad.vercel.app/categoria/silla/): 206 productos disponibles
 - [Controles de consola](https://es-oferta-de-verdad.vercel.app/categoria/control/): 125 productos disponibles
 - [Consolas](https://es-oferta-de-verdad.vercel.app/categoria/consola/): 45 productos disponibles
-- [Laptops](https://es-oferta-de-verdad.vercel.app/categoria/laptop/): 149 productos disponibles
+- [Laptops](https://es-oferta-de-verdad.vercel.app/categoria/laptop/): 152 productos disponibles
 - [Memorias RAM](https://es-oferta-de-verdad.vercel.app/categoria/ram/): 9 productos disponibles
 - [SSD y M.2](https://es-oferta-de-verdad.vercel.app/categoria/ssd/): 32 productos disponibles
 - [Repisas y estantes](https://es-oferta-de-verdad.vercel.app/categoria/repisa/): 340 productos disponibles
@@ -36,7 +36,7 @@ Actualizado el 2 nov 2026, 4:12 p. m. · 20,163 productos de 15 tiendas · 630 o
 - [Inodoros](https://es-oferta-de-verdad.vercel.app/categoria/inodoro/): 64 productos disponibles
 - [Lavamanos](https://es-oferta-de-verdad.vercel.app/categoria/lavamanos/): 57 productos disponibles
 - [Duchas y grifería](https://es-oferta-de-verdad.vercel.app/categoria/ducha/): 198 productos disponibles
-- [Refrigeradoras](https://es-oferta-de-verdad.vercel.app/categoria/refrigeradora/): 318 productos disponibles
+- [Refrigeradoras](https://es-oferta-de-verdad.vercel.app/categoria/refrigeradora/): 320 productos disponibles
 - [Lavadoras](https://es-oferta-de-verdad.vercel.app/categoria/lavadora/): 192 productos disponibles
 - [Microondas](https://es-oferta-de-verdad.vercel.app/categoria/microondas/): 114 productos disponibles
 - [Freidoras de aire](https://es-oferta-de-verdad.vercel.app/categoria/freidora/): 50 productos disponibles
@@ -49,7 +49,7 @@ Actualizado el 2 nov 2026, 4:12 p. m. · 20,163 productos de 15 tiendas · 630 o
 - [Ukuleles](https://es-oferta-de-verdad.vercel.app/categoria/ukulele/): 14 productos disponibles
 - [Celulares](https://es-oferta-de-verdad.vercel.app/categoria/celular/): 717 productos disponibles
 - [Tablets](https://es-oferta-de-verdad.vercel.app/categoria/tablet/): 109 productos disponibles
-- [Smartwatches](https://es-oferta-de-verdad.vercel.app/categoria/smartwatch/): 212 productos disponibles
+- [Smartwatches](https://es-oferta-de-verdad.vercel.app/categoria/smartwatch/): 213 productos disponibles
 - [Bocinas y barras de sonido](https://es-oferta-de-verdad.vercel.app/categoria/bocina/): 696 productos disponibles
 - [Aires acondicionados](https://es-oferta-de-verdad.vercel.app/categoria/climatizacion/): 97 productos disponibles
 - [Impresoras](https://es-oferta-de-verdad.vercel.app/categoria/impresora/): 56 productos disponibles
@@ -59,19 +59,19 @@ Actualizado el 2 nov 2026, 4:12 p. m. · 20,163 productos de 15 tiendas · 630 o
 - [Taladros](https://es-oferta-de-verdad.vercel.app/categoria/taladro/): 83 productos disponibles
 - [Cocinas y estufas](https://es-oferta-de-verdad.vercel.app/categoria/estufa/): 246 productos disponibles
 - [Secadoras de ropa](https://es-oferta-de-verdad.vercel.app/categoria/secadora/): 47 productos disponibles
-- [Congeladores y enfriadores](https://es-oferta-de-verdad.vercel.app/categoria/congelador/): 47 productos disponibles
+- [Congeladores y enfriadores](https://es-oferta-de-verdad.vercel.app/categoria/congelador/): 60 productos disponibles
 - [Cafeteras](https://es-oferta-de-verdad.vercel.app/categoria/cafetera/): 177 productos disponibles
-- [Ollas arroceras y de presión](https://es-oferta-de-verdad.vercel.app/categoria/olla/): 27 productos disponibles
-- [Batidoras](https://es-oferta-de-verdad.vercel.app/categoria/batidora/): 54 productos disponibles
+- [Ollas arroceras y de presión](https://es-oferta-de-verdad.vercel.app/categoria/olla/): 26 productos disponibles
+- [Batidoras](https://es-oferta-de-verdad.vercel.app/categoria/batidora/): 53 productos disponibles
 - [Hornos y tostadores](https://es-oferta-de-verdad.vercel.app/categoria/horno/): 108 productos disponibles
 - [Planchas de ropa](https://es-oferta-de-verdad.vercel.app/categoria/plancha/): 134 productos disponibles
-- [Secadoras de pelo, alisadoras y rasuradoras](https://es-oferta-de-verdad.vercel.app/categoria/cuidado/): 156 productos disponibles
+- [Secadoras de pelo, alisadoras y rasuradoras](https://es-oferta-de-verdad.vercel.app/categoria/cuidado/): 155 productos disponibles
 - [Proyectores](https://es-oferta-de-verdad.vercel.app/categoria/proyector/): 17 productos disponibles
 - [Cámaras](https://es-oferta-de-verdad.vercel.app/categoria/camara/): 185 productos disponibles
 - [Routers y redes WiFi](https://es-oferta-de-verdad.vercel.app/categoria/router/): 108 productos disponibles
-- [Discos duros y memorias USB](https://es-oferta-de-verdad.vercel.app/categoria/disco/): 177 productos disponibles
+- [Discos duros y memorias USB](https://es-oferta-de-verdad.vercel.app/categoria/disco/): 178 productos disponibles
 - [Tarjetas de video](https://es-oferta-de-verdad.vercel.app/categoria/gpu/): 18 productos disponibles
-- [Salas y sofás](https://es-oferta-de-verdad.vercel.app/categoria/sofa/): 377 productos disponibles
+- [Salas y sofás](https://es-oferta-de-verdad.vercel.app/categoria/sofa/): 376 productos disponibles
 - [Comedores](https://es-oferta-de-verdad.vercel.app/categoria/comedor/): 148 productos disponibles
 - [Hidrolavadoras](https://es-oferta-de-verdad.vercel.app/categoria/hidrolavadora/): 34 productos disponibles
 - [Videojuegos](https://es-oferta-de-verdad.vercel.app/categoria/videojuego/): 180 productos disponibles

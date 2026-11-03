@@ -1,6 +1,6 @@
 {
  "comercial": "olympia",
- "actualizado": "2026-11-02T16:11:49-06:00",
+ "actualizado": "2026-11-02T20:12:18-06:00",
  "listados": {
   "2215": {
    "nombre": "Colchón Olympia Antiestress Ortopédica Plus Imperial",
@@ -49,6 +49,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 173.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 170.0,
      "precio_lista": 205.0,
      "disponible": true,
      "fuente": "auto",
@@ -163,6 +171,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 236.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
@@ -214,6 +230,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 310.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 306.0,
      "precio_lista": 390.0,
      "disponible": true,
      "fuente": "auto",
@@ -273,6 +297,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 243.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
@@ -324,6 +356,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 280.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 279.0,
      "precio_lista": 341.0,
      "disponible": true,
      "fuente": "auto",
@@ -383,6 +423,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 340.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/03/Ortopedica-Plus-01-300x300.jpg"
@@ -434,6 +482,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 446.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 440.0,
      "precio_lista": 563.0,
      "disponible": true,
      "fuente": "auto",
@@ -493,6 +549,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 242.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
@@ -544,6 +608,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 281.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 273.0,
      "precio_lista": 341.0,
      "disponible": true,
      "fuente": "auto",
@@ -603,6 +675,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 343.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-2bts-set-marzo26-300x300.jpg"
@@ -654,6 +734,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 411.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 400.0,
      "precio_lista": 470.0,
      "disponible": true,
      "fuente": "auto",
@@ -878,6 +966,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 105.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
@@ -929,6 +1025,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 131.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 127.0,
      "precio_lista": 167.0,
      "disponible": true,
      "fuente": "auto",
@@ -988,6 +1092,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 162.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
@@ -1039,6 +1151,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 156.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 151.0,
      "precio_lista": 201.0,
      "disponible": true,
      "fuente": "auto",
@@ -1098,6 +1218,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 180.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_foam_2024-300x300.jpg"
@@ -1149,6 +1277,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 231.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 228.0,
      "precio_lista": 288.0,
      "disponible": true,
      "fuente": "auto",
@@ -1208,6 +1344,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 208.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
@@ -1259,6 +1403,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 256.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 250.0,
      "precio_lista": 305.0,
      "disponible": true,
      "fuente": "auto",
@@ -1318,6 +1470,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 301.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv-1bts-set-marzo26-300x300.jpg"
@@ -1369,6 +1529,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 366.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 373.0,
      "precio_lista": 455.0,
      "disponible": true,
      "fuente": "auto",
@@ -1428,6 +1596,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 283.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
@@ -1479,6 +1655,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 200.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 197.0,
      "precio_lista": 246.0,
      "disponible": true,
      "fuente": "auto",
@@ -1538,6 +1722,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 128.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
@@ -1593,6 +1785,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 181.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://camasolympiaonline.com/sv/wp-content/uploads/2023/04/sv_onepillow_2024-300x300.jpg"
@@ -1644,6 +1844,14 @@
     {
      "fecha": "2026-11-02T16:11:49-06:00",
      "precio": 221.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 216.0,
      "precio_lista": 264.0,
      "disponible": true,
      "fuente": "auto",
