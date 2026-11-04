@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-11-03T13:56:50-06:00",
+ "actualizado": "2026-11-03T18:34:19-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -2144,7 +2144,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-INALAMBRICO-LOGITECH-M185-1000DPI-ROJO/p/1303001145",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2196,6 +2196,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -2215,7 +2223,7 @@
    "modelo": "PLBK9801T",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-INALAMBRICO-SMART-PARA-TV-EN-COLOR-BLANCO-Y-NEGRO-PL-BK9801T/p/1303001165",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2267,6 +2275,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 57.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 57.0,
      "precio_lista": null,
      "disponible": true,
@@ -2286,7 +2302,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-DUAL-MODE-KEYBOARD-COLOR-ROSA%2C-BLANCO-CON-FUSCIA-QW07/p/1303001161",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2338,6 +2354,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -2357,7 +2381,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-INALAMBRICO-BLANCO-CON-NEGRO-QW06/p/1303001160",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2409,6 +2433,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -5295,7 +5327,7 @@
    "modelo": "S6EVWN740",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONO-SKULLCANDY-S6EVWN740/p/1303000608",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -5347,6 +5379,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -6077,7 +6117,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONOS-INALAMBRICOS-COBY-LED-CON-EFECTO-ESPEJO-INFINITO/p/1310000590",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -6129,6 +6169,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 60.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 60.0,
      "precio_lista": null,
      "disponible": true,
@@ -9782,7 +9830,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-PREMIUM-COLECCION-PRESIDENCIAL/p/1101000128",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -9839,6 +9887,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
+     "precio": 662.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000128.png?context=bWFzdGVyfHJvb3R8NjQyMDl8aW1hZ2UvcG5nfGFEaGpMMmhtWWk4eE16RTJNemN4TVRNek1qTTRNaTh6TURCbWRIZGZNVEV3TVRBd01ERXlPQzV3Ym1jfGRmOTM5Y2Y5NzdlODFjYzg2MjMyN2Y1MjM2YTc0ZDcwMjljYTkxZjg2MGJmZDJiOTNlN2ZkZDUxZWIwZDU1NDI"
@@ -9853,7 +9909,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-VINTAGE/p/1101000138",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -9905,6 +9961,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 140.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 140.0,
      "precio_lista": null,
      "disponible": true,
@@ -10398,7 +10462,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-DE-3-NIVELES-Y-3-GAVETAS-LIGHT-WOOD/p/1101000233",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -10450,6 +10514,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -14410,7 +14482,7 @@
    "modelo": "S21PWP740",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONO-SKULLCANDY-S21PW-P740/p/1303000605",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
@@ -14462,6 +14534,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -14639,7 +14719,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-TOP-VIDRIO/p/1101000137",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
@@ -14691,6 +14771,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 162.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 162.0,
      "precio_lista": null,
      "disponible": true,
@@ -14710,7 +14798,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-DE-VIDRIO-BLANCO/p/1101000135",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
@@ -14762,6 +14850,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 252.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 252.0,
      "precio_lista": null,
      "disponible": true,
@@ -15317,7 +15413,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-KINGSTON-USB-128GB-DTX-128GB/p/1305000052",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -15353,6 +15449,14 @@
     },
     {
      "fecha": "2026-11-02T16:11:09-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:34:19-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,

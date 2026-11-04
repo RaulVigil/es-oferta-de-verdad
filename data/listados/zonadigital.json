@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-11-03T13:49:18-06:00",
+ "actualizado": "2026-11-03T18:27:00-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -47838,6 +47838,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:27:00-06:00",
+     "precio": 54.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://apizd.zonadigitalsv.com/storage/productos/x5x8M6FYNMjJkf3mw3yG76EbDCt127levW2CCa96.png"
@@ -49184,6 +49192,14 @@
     {
      "fecha": "2026-11-03T13:49:18-06:00",
      "precio": 49.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:27:00-06:00",
+     "precio": 54.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",

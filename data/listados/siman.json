@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-11-03T13:36:07-06:00",
+ "actualizado": "2026-11-03T18:19:12-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -3513,6 +3513,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 549.0,
+     "precio_lista": 549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 494.0,
      "precio_lista": 549.0,
      "disponible": true,
      "fuente": "auto",
@@ -80609,6 +80617,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 150.0,
+     "precio_lista": 150.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 135.0,
      "precio_lista": 150.0,
      "disponible": true,
      "fuente": "auto",
@@ -200955,6 +200971,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 190.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7712791-300-300/image-e9465c314a614f05aa04b07d6bb82197.jpg"
@@ -201644,6 +201668,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 99.0,
+     "precio_lista": 99.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 84.15,
      "precio_lista": 99.0,
      "disponible": true,
      "fuente": "auto",
@@ -202908,6 +202940,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 38.0,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8350543-300-300/image-7d9be9173a4143c3873381a33215f0a8.jpg"
@@ -203538,6 +203578,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 349.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7932930-300-300/image-12546ae516514dd282d0ad9cd4b308a9.jpg"
@@ -203786,6 +203834,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 115.0,
+     "precio_lista": 115.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 97.0,
      "precio_lista": 115.0,
      "disponible": true,
      "fuente": "auto",
@@ -204857,6 +204913,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 579.0,
+     "precio_lista": 579.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 559.0,
      "precio_lista": 579.0,
      "disponible": true,
      "fuente": "auto",
@@ -267782,7 +267846,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-9-redmi-a7-pro-4g-ram-128g-rom-negro-105249355/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267810,6 +267874,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 159.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 159.0,
      "precio_lista": 189.0,
      "disponible": true,
@@ -267829,7 +267901,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-9-redmi-a7-pro-4g-ram-128g-rom-negro-105249355/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267857,6 +267929,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 159.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 159.0,
      "precio_lista": 189.0,
      "disponible": true,
@@ -267876,7 +267956,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-9-redmi-a7-pro-4g-ram-128g-rom-negro-105249355/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267904,6 +267984,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 159.0,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 159.0,
      "precio_lista": 189.0,
      "disponible": true,
@@ -267923,7 +268011,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-78-edge-70-fusion-8gb-ram-256gb-rom-verde-105207463/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267951,6 +268039,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 469.0,
+     "precio_lista": 489.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 469.0,
      "precio_lista": 489.0,
      "disponible": true,
@@ -267970,7 +268066,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-78-edge-70-fusion-8gb-ram-256gb-rom-verde-105207463/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -267998,6 +268094,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 469.0,
+     "precio_lista": 489.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 469.0,
      "precio_lista": 489.0,
      "disponible": true,
@@ -268143,7 +268247,7 @@
    "modelo": "SMS931BDBKGTO",
    "url": "https://sv.siman.com/celular-6-2-s25-12gb-ram-256gb-rom-azul-104832846/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268171,6 +268275,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 949.0,
+     "precio_lista": 1059.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 949.0,
      "precio_lista": 1059.0,
      "disponible": true,
@@ -268190,7 +268302,7 @@
    "modelo": "SMS931BDBKGTO",
    "url": "https://sv.siman.com/celular-6-2-s25-12gb-ram-256gb-rom-azul-104832846/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268218,6 +268330,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 749.0,
+     "precio_lista": 1059.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 749.0,
      "precio_lista": 1059.0,
      "disponible": false,
@@ -268237,7 +268357,7 @@
    "modelo": "SMS931BDBKGTO",
    "url": "https://sv.siman.com/celular-6-2-s25-12gb-ram-256gb-rom-azul-104832846/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268265,6 +268385,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 1059.0,
+     "precio_lista": 1059.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 1059.0,
      "precio_lista": 1059.0,
      "disponible": false,
@@ -268284,7 +268412,7 @@
    "modelo": "SMS931BDBKGTO",
    "url": "https://sv.siman.com/celular-6-2-s25-12gb-ram-256gb-rom-azul-104832846/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268312,6 +268440,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 949.0,
+     "precio_lista": 1059.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 949.0,
      "precio_lista": 1059.0,
      "disponible": false,
@@ -268331,7 +268467,7 @@
    "modelo": "SMS931BDBKGTO",
    "url": "https://sv.siman.com/celular-6-2-s25-12gb-ram-256gb-rom-azul-104832846/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268359,6 +268495,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 749.0,
+     "precio_lista": 1059.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 749.0,
      "precio_lista": 1059.0,
      "disponible": false,
@@ -268378,7 +268522,7 @@
    "modelo": "SMS931BDBKGTO",
    "url": "https://sv.siman.com/celular-6-2-s25-12gb-ram-256gb-rom-azul-104832846/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268406,6 +268550,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 1059.0,
+     "precio_lista": 1059.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 1059.0,
      "precio_lista": 1059.0,
      "disponible": false,
@@ -268425,7 +268577,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-6-600-elite-8gb-ram-256gb-rom-azul-marino-105333524/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268453,6 +268605,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 499.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 499.0,
      "precio_lista": 649.0,
      "disponible": true,
@@ -268472,7 +268632,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/celular-6-6-600-elite-8gb-ram-256gb-rom-azul-marino-105333524/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268505,6 +268665,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 499.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8633367-300-300/105413319.jpg"
@@ -268519,7 +268687,7 @@
    "modelo": "FOLD8",
    "url": "https://sv.siman.com/celular-20-32cm-8-0-z-fold-8-ultra-12gb-ram-256gb-rom-crema-105317866/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268560,6 +268728,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8320907-300-300/105317868.jpg"
@@ -268574,7 +268750,7 @@
    "modelo": "FOLD8",
    "url": "https://sv.siman.com/celular-20-32cm-8-0-z-fold-8-ultra-12gb-ram-256gb-rom-crema-105317866/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268615,6 +268791,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8320917-300-300/105317867.jpg"
@@ -268629,7 +268813,7 @@
    "modelo": "FOLD8",
    "url": "https://sv.siman.com/celular-20-32cm-8-0-z-fold-8-ultra-12gb-ram-256gb-rom-crema-105317866/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -268665,6 +268849,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 2999.0,
+     "precio_lista": 2999.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 2999.0,
      "precio_lista": 2999.0,
      "disponible": false,
@@ -269115,6 +269307,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 189.0,
+     "precio_lista": 199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 199.0,
      "precio_lista": 199.0,
      "disponible": false,
      "fuente": "auto",
@@ -274725,6 +274925,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 35.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7775641-300-300/image-d6f3507c54d84f11aa76e637217edc55.jpg"
@@ -274784,6 +274992,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 39.9,
+     "precio_lista": 39.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 35.9,
      "precio_lista": 39.9,
      "disponible": true,
      "fuente": "auto",
@@ -274973,6 +275189,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 80.0,
+     "precio_lista": 80.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 69.9,
      "precio_lista": 80.0,
      "disponible": true,
      "fuente": "auto",
@@ -279985,6 +280209,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 152.15,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8012557-300-300/image-edf1545ce46245aca51f2a16997e942b.jpg"
@@ -280170,6 +280402,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 25.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 21.25,
      "precio_lista": 25.0,
      "disponible": true,
      "fuente": "auto",
@@ -281306,7 +281546,7 @@
    "modelo": "1500W",
    "url": "https://sv.siman.com/licuadora-1500w-titanio-xtreme-mix-104948810/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-03",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -281342,6 +281582,14 @@
     },
     {
      "fecha": "2026-11-02T15:50:47-06:00",
+     "precio": 259.9,
+     "precio_lista": 259.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
      "precio": 259.9,
      "precio_lista": 259.9,
      "disponible": true,
@@ -293977,6 +294225,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 29.67,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8078079-300-300/image-a1a208bf308440f1a6c30191568d2081.jpg"
@@ -294036,6 +294292,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 30.0,
+     "precio_lista": 30.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T18:19:12-06:00",
+     "precio": 25.5,
      "precio_lista": 30.0,
      "disponible": true,
      "fuente": "auto",
@@ -322348,7 +322612,7 @@
    "tipo": "comedor",
    "pulgadas": null,
    "medida": null,
-   "marca": "Detalles",
+   "marca": "Home Furniture",
    "modelo": "",
    "url": "https://sv.siman.com/juego-de-comedor-6-personas-para-exteriores/p",
    "primera_vez": "2026-10-29",
@@ -322915,7 +323179,7 @@
    "tipo": "comedor",
    "pulgadas": null,
    "medida": null,
-   "marca": "Detalles",
+   "marca": "Home Furniture",
    "modelo": "",
    "url": "https://sv.siman.com/comedor-6-personas-exteriores-104940260/p",
    "primera_vez": "2026-10-29",
@@ -325214,7 +325478,7 @@
    "tipo": "comedor",
    "pulgadas": null,
    "medida": null,
-   "marca": "Detalles",
+   "marca": "Home Furniture",
    "modelo": "",
    "url": "https://sv.siman.com/comedor-6-personas-exteriores-104940259/p",
    "primera_vez": "2026-10-29",
