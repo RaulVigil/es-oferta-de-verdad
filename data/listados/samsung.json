@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-11-03T18:35:01-06:00",
+ "actualizado": "2026-11-04T14:08:36-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -12,7 +12,7 @@
    "modelo": "WA25DG5505AVAX",
    "url": "https://shop.samsung.com/latin/cac/sv/lavadora-wa5505d-top-load-large-capacity-activewave-agitator-25kg-black.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -88,6 +88,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 529.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 529.0,
      "precio_lista": 599.0,
      "disponible": true,
@@ -107,7 +115,7 @@
    "modelo": "ME21DB650012AA",
    "url": "https://shop.samsung.com/latin/cac/sv/microondas-bespoke-2-1-pies-otr-grill-ceramica-interior-wifi-blanco-y-negro.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -183,6 +191,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 449.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 449.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -202,7 +218,7 @@
    "modelo": "RS40H53XDTED",
    "url": "https://shop.samsung.com/latin/cac/sv/side-by-side-19-cu-ft-silver-rs40h53xdted.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -278,6 +294,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 799.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 799.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -297,7 +321,7 @@
    "modelo": "WA25DG5505AWAX",
    "url": "https://shop.samsung.com/latin/cac/sv/lavadora-25kg-carga-superior-activewave-con-smartthings-blanco.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -373,6 +397,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 479.0,
+     "precio_lista": 519.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 479.0,
      "precio_lista": 519.0,
      "disponible": true,
@@ -392,7 +424,7 @@
    "modelo": "RF80H30CETED",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerator-french-door-family-hub-28-5-cu-ft-silver-rf80h30ceted.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -468,6 +500,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2499.0,
+     "precio_lista": 2899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2499.0,
      "precio_lista": 2899.0,
      "disponible": true,
@@ -487,7 +527,7 @@
    "modelo": "RF80H30JETED",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerator-french-door-auto-view-28-5-cu-ft-silver-rf80h30jeted.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -568,6 +608,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 2299.0,
+     "precio_lista": 2599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/f/rf80h30jdtem_001_front_silver_300x300_1.png"
@@ -582,7 +630,7 @@
    "modelo": "UN58U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/58-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -663,6 +711,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 499.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb_1_4.png"
@@ -677,7 +733,7 @@
    "modelo": "UN50U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/50-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -758,6 +814,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 329.0,
+     "precio_lista": 549.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb_1_1_1.png"
@@ -772,7 +836,7 @@
    "modelo": "UN43U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/43-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -853,6 +917,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 289.0,
+     "precio_lista": 449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb_1_1.png"
@@ -867,7 +939,7 @@
    "modelo": "UN55U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/55-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -948,6 +1020,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 449.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb.png"
@@ -962,7 +1042,7 @@
    "modelo": "UN50M70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/50-mini-led-m70haf-4k-vision-ai-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1043,6 +1123,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 379.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65m70hafxza_001_front_titan-black_thumb_1_1_1.png"
@@ -1057,7 +1145,7 @@
    "modelo": "UN55M70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/55-mini-led-m70haf-4k-vision-ai-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1138,6 +1226,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 439.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65m70hafxza_001_front_titan-black_thumb_1_1.png"
@@ -1152,7 +1248,7 @@
    "modelo": "QN55QN70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/55-neo-qled-qn70h-4k-mini-led-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1233,6 +1329,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 699.0,
+     "precio_lista": 909.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/q/n/qn75qn70hafxza_001_front_black_thumb_1_1.png"
@@ -1247,7 +1351,7 @@
    "modelo": "QN55LS03HEPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/55-the-frame-ls03he-4k-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1323,6 +1427,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -1342,7 +1454,7 @@
    "modelo": "MRN55R85HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/55-micro-rgb-r85haf-4k-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1418,6 +1530,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1299.0,
+     "precio_lista": 2209.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1299.0,
      "precio_lista": 2209.0,
      "disponible": true,
@@ -1437,7 +1557,7 @@
    "modelo": "RF29DB9950QDED",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-f9000-t-style-french-door-rf29db9950qded-stainless-steel-810l.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1513,6 +1633,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 3499.0,
+     "precio_lista": 3999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 3499.0,
      "precio_lista": 3999.0,
      "disponible": true,
@@ -1532,7 +1660,7 @@
    "modelo": "LS27D366GANXZA",
    "url": "https://shop.samsung.com/latin/cac/sv/essential-monitor-s3-27-inch-100hz-ls27d366ganxza.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1608,6 +1736,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 199.0,
+     "precio_lista": 242.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 199.0,
      "precio_lista": 242.0,
      "disponible": true,
@@ -1627,7 +1763,7 @@
    "modelo": "MS40DG5505ATAX",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-de-microondas-1-4-pies-40-l-power-defrost-acero-inoxidable-ms40dg5505atax.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1703,6 +1839,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 149.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 149.0,
      "precio_lista": 199.0,
      "disponible": true,
@@ -1722,7 +1866,7 @@
    "modelo": "RF29DB965012APEPP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-bespoke-rf9000dc-t-style-french-door-820l-clean-blanco-epp.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1798,6 +1942,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 3629.0,
+     "precio_lista": 3629.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 3629.0,
      "precio_lista": 3629.0,
      "disponible": true,
@@ -1817,7 +1969,7 @@
    "modelo": "UN40F6000FPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/40-fhd-f6000f-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1898,6 +2050,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 179.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un32f6000ffxza_001_front_black_thumb.png"
@@ -1912,7 +2072,7 @@
    "modelo": "RM90F66C1WAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-french-door-rm90f-with-ai-home-cooling-657l-clean-white-rm90f66c1wap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -1988,6 +2148,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2599.0,
+     "precio_lista": 3199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2599.0,
      "precio_lista": 3199.0,
      "disponible": true,
@@ -2094,7 +2262,7 @@
    "modelo": "UN58U8000FPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/58-crystal-uhd-4k-u8000f-tizen-os-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2170,6 +2338,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 409.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 409.0,
      "precio_lista": 649.0,
      "disponible": true,
@@ -2189,7 +2365,7 @@
    "modelo": "RF29DB965012APBANCO",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-bespoke-rf9000dc-t-style-french-door-820l-clean-white-banco.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2265,6 +2441,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 3629.0,
+     "precio_lista": 3629.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 3629.0,
      "precio_lista": 3629.0,
      "disponible": true,
@@ -2284,7 +2468,7 @@
    "modelo": "LS27CG552ENXZA",
    "url": "https://shop.samsung.com/latin/cac/sv/monitor-gaming-odyssey-g5-g55c-27-inch-ls27cg552enxza.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2360,6 +2544,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 309.0,
+     "precio_lista": 364.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 309.0,
      "precio_lista": 364.0,
      "disponible": true,
@@ -2379,7 +2571,7 @@
    "modelo": "LS34C654TANXGO",
    "url": "https://shop.samsung.com/latin/cac/sv/34-viewfinity-s6-ultra-wqhd-ls34c654tanxgo.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2455,6 +2647,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 754.0,
+     "precio_lista": 887.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 754.0,
      "precio_lista": 887.0,
      "disponible": true,
@@ -2474,7 +2674,7 @@
    "modelo": "WA28B8375GV",
    "url": "https://shop.samsung.com/latin/cac/sv/lavadora-carga-superior-28-kg-inverter-ai-control-smartthings-negra.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2550,6 +2750,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -2569,7 +2777,7 @@
    "modelo": "WA26DG5500AWAP",
    "url": "https://shop.samsung.com/latin/cac/sv/lavadora-carga-superior-wa5500d-gran-capacidad-26-kg-wa26dg5500awap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2645,6 +2853,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 549.0,
+     "precio_lista": 629.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 549.0,
      "precio_lista": 629.0,
      "disponible": true,
@@ -2664,7 +2880,7 @@
    "modelo": "MS19DG8500SRAA",
    "url": "https://shop.samsung.com/latin/cac/sv/microondas-de-encimera-de-1-9-pies-con-sensor-de-coccion-en-acero-inoxidable.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2740,6 +2956,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 249.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 249.0,
      "precio_lista": 299.0,
      "disponible": true,
@@ -2759,7 +2983,7 @@
    "modelo": "LS27FG810SNXZA",
    "url": "https://shop.samsung.com/latin/cac/sv/monitor-gaming-27-pulgadas-odyssey-oled-g8-g81sf-4k-240-hz.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2835,6 +3059,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1199.0,
      "precio_lista": 1399.0,
      "disponible": true,
@@ -2854,7 +3086,7 @@
    "modelo": "LS27FG900XNXZA",
    "url": "https://shop.samsung.com/latin/cac/sv/monitor-gaming-odyssey-3d-g90xf-27-pulgadas-165hz.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -2930,6 +3162,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1599.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1599.0,
      "precio_lista": 2199.0,
      "disponible": true,
@@ -2949,7 +3189,7 @@
    "modelo": "WH46DBH100EWA3",
    "url": "https://shop.samsung.com/latin/cac/sv/centro-de-lavado-bespoke-wh9000d-lavadora-secadora-blanco.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3025,6 +3265,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1599.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1599.0,
      "precio_lista": 2099.0,
      "disponible": true,
@@ -3044,7 +3292,7 @@
    "modelo": "MS32DG4504ATAX",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-microondas-1-1-pies-32l-1000w.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3125,6 +3373,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 135.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/g/mg32dg4524atco_001_front_stss_thumb_2.png"
@@ -3139,7 +3395,7 @@
    "modelo": "MS40DG5504ATAP",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-microondas-1-4-pies-interior-de-ceramica.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3212,6 +3468,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 149.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/m/g/mg32dg4524atco_001_front_stss_thumb_1_1.png"
@@ -3226,7 +3490,7 @@
    "modelo": "MS23DG4504ATAP",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-microondas-panel-con-parrilla-mg23dg4504atap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3302,6 +3566,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 139.0,
+     "precio_lista": 199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 139.0,
      "precio_lista": 199.0,
      "disponible": true,
@@ -3321,7 +3593,7 @@
    "modelo": "RF23DB9650QLAPBANCO",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-rf9000dc-t-style-french-door-beverage-center-646l-stainless-steel-banco.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3397,6 +3669,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2599.0,
+     "precio_lista": 2599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2599.0,
      "precio_lista": 2599.0,
      "disponible": true,
@@ -3416,7 +3696,7 @@
    "modelo": "MS23K3513AK",
    "url": "https://shop.samsung.com/latin/cac/sv/microondas-ms23k3513-con-quick-defrost-23l.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3492,6 +3772,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 99.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 99.0,
      "precio_lista": 219.0,
      "disponible": true,
@@ -3511,7 +3799,7 @@
    "modelo": "QN43LS01BAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/43-ls01b-the-serif-qled-4k-smart-tv-2022.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3587,6 +3875,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 699.0,
+     "precio_lista": 949.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 699.0,
      "precio_lista": 949.0,
      "disponible": true,
@@ -3637,7 +3933,7 @@
    "modelo": "ME21DG6300SRAA",
    "url": "https://shop.samsung.com/latin/cac/sv/microondas-2-1-pies-fingerprint-resistant-acero-inoxidable.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3713,6 +4009,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 349.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 349.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -3732,7 +4036,7 @@
    "modelo": "QN50Q60DAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/50-qled-4k-q60d-smart-tv.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3808,6 +4112,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 429.0,
+     "precio_lista": 749.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 429.0,
      "precio_lista": 749.0,
      "disponible": true,
@@ -3827,7 +4139,7 @@
    "modelo": "RT35DG5224S9AP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-con-congelador-superior-rt35dg5224s9ap1.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3903,6 +4215,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 479.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 479.0,
      "precio_lista": 599.0,
      "disponible": true,
@@ -3922,7 +4242,7 @@
    "modelo": "RF22A4010S9",
    "url": "https://shop.samsung.com/latin/cac/sv/french-door-rf22a4010s9-ap-de-22-2-cu-ft-epp.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -3998,6 +4318,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1309.0,
+     "precio_lista": 1309.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1309.0,
      "precio_lista": 1309.0,
      "disponible": true,
@@ -4017,7 +4345,7 @@
    "modelo": "RF32CG5910B1APEPP",
    "url": "https://shop.samsung.com/latin/cac/sv/french-door-rf6500c-gran-capacidad-con-technologia-spacemax-30-cu-ft-black-rf32cg5910b1ap-epp.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4093,6 +4421,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 3059.0,
+     "precio_lista": 3059.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 3059.0,
      "precio_lista": 3059.0,
      "disponible": true,
@@ -4112,7 +4448,7 @@
    "modelo": "RF23DB9650QLAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-rf9000dc-t-style-french-door-beverage-center-646l-stainless-steel.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4188,6 +4524,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2199.0,
      "precio_lista": 2399.0,
      "disponible": true,
@@ -4207,7 +4551,7 @@
    "modelo": "RF29DB965012AP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-bespoke-rf9000dc-t-style-french-door-beverage-center-820l-clean-white.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4283,6 +4627,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 3099.0,
+     "precio_lista": 3599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 3099.0,
      "precio_lista": 3599.0,
      "disponible": true,
@@ -4302,7 +4654,7 @@
    "modelo": "WH22DBH570EVAP",
    "url": "https://shop.samsung.com/latin/cac/sv/centro-de-lavado-electrico-bespoke-wh9000d-washer-dryer-combo-laundry-hub-bespoke-22kg-black-wh22dbh570ev.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4378,6 +4730,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1699.0,
      "precio_lista": 2099.0,
      "disponible": true,
@@ -4397,7 +4757,7 @@
    "modelo": "RT35DG5124S9AP",
    "url": "https://shop.samsung.com/latin/cac/sv/rt5300d-top-mount-freezer-ai-energy-mode-345l-rt35dg5124s9ap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4473,6 +4833,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 549.0,
+     "precio_lista": 629.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 549.0,
      "precio_lista": 629.0,
      "disponible": true,
@@ -4492,7 +4860,7 @@
    "modelo": "RT31DG5224S9AP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-top-freezer-11-cu-ft-rt31dg5224s9ap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4565,6 +4933,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 499.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/t/rt31dg5224s9ap_001_front_silver_thumb.png"
@@ -4579,7 +4955,7 @@
    "modelo": "RT53DG6224S9AP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-top-freezer-523-l-rt53dg6224s9ap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4660,6 +5036,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 599.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/t/rt53dg6224s9ap_001_front_silver_thumb.png"
@@ -4674,7 +5058,7 @@
    "modelo": "RT38DG6224S9AP",
    "url": "https://shop.samsung.com/latin/cac/sv/rt6300d-freezer-superior-con-ai-energy-mode-387-l.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4763,6 +5147,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 499.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/t/rt38dg6224s9ap_001_front_silver_thumb.png"
@@ -4777,7 +5169,7 @@
    "modelo": "EOIC100BBEGWW",
    "url": "https://shop.samsung.com/latin/cac/sv/type-c-earphones-eo-ic100bbegww-1.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4858,6 +5250,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 16.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/e/o/eo-ic100_001_dynamic_black_thumb_2.png"
@@ -4872,7 +5272,7 @@
    "modelo": "RT53DB6754ETAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-top-freezer-bespoke-con-ai-energy-mode-rt53db6754etap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -4948,6 +5348,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 699.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 699.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -4967,7 +5375,7 @@
    "modelo": "RF32CG5910B1AP",
    "url": "https://shop.samsung.com/latin/cac/sv/french-door-rf6500c-gran-capacidad-con-technologia-spacemax-30-cu-ft-black-rf32cg5910b1ap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5043,6 +5451,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2999.0,
+     "precio_lista": 3299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2999.0,
      "precio_lista": 3299.0,
      "disponible": true,
@@ -5062,7 +5478,7 @@
    "modelo": "RF32CG5410S9AP",
    "url": "https://shop.samsung.com/latin/cac/sv/french-door-de-878-litros-rf32cg5410s9.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5143,6 +5559,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 2149.0,
+     "precio_lista": 2499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/f/rf32cg5410s9ap_001_front_silver_thumb.png"
@@ -5157,7 +5581,7 @@
    "modelo": "RF32CG5N10B1AP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-rf6500c-french-door.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5233,6 +5657,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1599.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1599.0,
      "precio_lista": 1999.0,
      "disponible": true,
@@ -5339,7 +5771,7 @@
    "modelo": "RS23CB700A7GAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-side-by-side-23cu-fc-rs23cb700a7gap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5420,6 +5852,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/s/rs23cb700a7gap_thumb.png"
@@ -5434,7 +5874,7 @@
    "modelo": "RS28CB760A7NAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-side-by-side-28-cu-fc-rs28cb760a7nap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5515,6 +5955,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/s/rs28cb760a7nap_thumb.png"
@@ -5529,7 +5977,7 @@
    "modelo": "RF24BB62006MAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigeradora-bespoke-counuter-depth-24-cu-ft-677l-rf24bb62006map.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5618,6 +6066,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/f/rf24bb62006map_001_front_clean-white-satin-gray_thumb_1.png"
@@ -5632,7 +6088,7 @@
    "modelo": "RF29BB8900JMAP",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-bespoke-familiy-hub-beverage-center-29-cu-ft-806l-rf29bb8900jmap.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5708,6 +6164,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 3199.0,
+     "precio_lista": 3599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 3199.0,
      "precio_lista": 3599.0,
      "disponible": true,
@@ -5782,7 +6246,7 @@
    "modelo": "EOIA500BBEGWW",
    "url": "https://shop.samsung.com/latin/cac/sv/audifonos-in-ear-ia500-3-5mm-con-mic.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5858,6 +6322,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 12.0,
+     "precio_lista": 12.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 12.0,
      "precio_lista": 12.0,
      "disponible": true,
@@ -5877,7 +6349,7 @@
    "modelo": "WF20T6000AW",
    "url": "https://shop.samsung.com/latin/cac/sv/lavadora-de-carga-frontal-wf6000r.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -5953,6 +6425,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 679.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 679.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -5972,7 +6452,7 @@
    "modelo": "QN43QN90BAPXPA1",
    "url": "https://shop.samsung.com/latin/cac/sv/43-qn90b-neo-qled-4k-smart-gaming-tv-2022.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -6048,6 +6528,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 699.0,
+     "precio_lista": 1349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 699.0,
      "precio_lista": 1349.0,
      "disponible": true,
@@ -6067,7 +6555,7 @@
    "modelo": "RS22A5561S9",
    "url": "https://shop.samsung.com/latin/cac/sv/side-by-side-rs22a5561s9-ap-de-609-l.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -6143,6 +6631,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1999.0,
      "precio_lista": 2199.0,
      "disponible": true,
@@ -6162,7 +6658,7 @@
    "modelo": "RF22A4220S9",
    "url": "https://shop.samsung.com/latin/cac/sv/refrigerador-rf4500a-french-door-dispensor-silver-rf22a4220s9.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -6238,6 +6734,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1299.0,
      "precio_lista": 1399.0,
      "disponible": true,
@@ -6257,7 +6761,7 @@
    "modelo": "RF22A4010S9",
    "url": "https://shop.samsung.com/latin/cac/sv/french-door-rf22a4010s9-ap-de-22-2-cu-ft.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -6338,6 +6842,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/f/rf22a4010s9-em_001_front_silver_thumb.png"
@@ -6352,7 +6864,7 @@
    "modelo": "RS27T5561B1",
    "url": "https://shop.samsung.com/latin/cac/sv/rs27t5561b1-side-by-side-27-5-cu-ft-785-l.html",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:50:23-06:00",
@@ -6428,6 +6940,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1999.0,
      "precio_lista": 2399.0,
      "disponible": true,
@@ -6478,7 +6998,7 @@
    "modelo": "AGE83X",
    "url": "https://shop.samsung.com/latin/cac/sv/microondas-shine-con-dorador-con-esmalte-ceramico-23l-age83x-xap.html",
    "primera_vez": "2026-10-26",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-26T12:57:47-06:00",
@@ -6559,6 +7079,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 89.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/g/age83-1_thumb.png"
@@ -6596,7 +7124,7 @@
    "modelo": "RS28T5B00S9",
    "url": "https://shop.samsung.com/latin/cac/sv/rs28t5b00s9-side-by-side-con-tecnologia-digital-inverter-28-1-cu-ft-798l.html",
    "primera_vez": "2026-10-26",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-26T12:57:47-06:00",
@@ -6669,6 +7197,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1149.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/r/s/rs28t5b00s9ap_01_gray_front_thumb_3.png"
@@ -6683,7 +7219,7 @@
    "modelo": "MRN65R85HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/65-micro-rgb-r85haf-4k-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -6743,6 +7279,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1799.0,
+     "precio_lista": 3569.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1799.0,
      "precio_lista": 3569.0,
      "disponible": true,
@@ -6762,7 +7306,7 @@
    "modelo": "UN85U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/85-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -6822,6 +7366,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 999.0,
+     "precio_lista": 1799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 999.0,
      "precio_lista": 1799.0,
      "disponible": true,
@@ -6841,7 +7393,7 @@
    "modelo": "UN85M70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/85-mini-led-m70haf-4k-vision-ai-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -6901,6 +7453,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1349.0,
+     "precio_lista": 2249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1349.0,
      "precio_lista": 2249.0,
      "disponible": true,
@@ -6920,7 +7480,7 @@
    "modelo": "UN75U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -6985,6 +7545,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 769.0,
+     "precio_lista": 1149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb_1_3.png"
@@ -6999,7 +7567,7 @@
    "modelo": "UN65U8000HPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/65-crystal-uhd-4k-u8000h-tizen-os-smart-tv-2026.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7056,6 +7624,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 509.0,
+     "precio_lista": 849.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65u8000hbxza_001_front_black_thumb_1.png"
@@ -7070,7 +7646,7 @@
    "modelo": "UN65M70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/65-mini-led-m70haf-4k-vision-ai-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7130,6 +7706,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 619.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 619.0,
      "precio_lista": 1049.0,
      "disponible": true,
@@ -7149,7 +7733,7 @@
    "modelo": "UN75M70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-mini-led-m70haf-4k-vision-ai-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7209,6 +7793,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -7228,7 +7820,7 @@
    "modelo": "QN65QN70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/65-neo-qled-qn70h-4k-mini-led-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7288,6 +7880,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1099.0,
      "precio_lista": 1169.0,
      "disponible": true,
@@ -7307,7 +7907,7 @@
    "modelo": "QN75QN70HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-neo-qled-qn70h-4k-mini-led-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7367,6 +7967,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1449.0,
+     "precio_lista": 1599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1449.0,
      "precio_lista": 1599.0,
      "disponible": true,
@@ -7386,7 +7994,7 @@
    "modelo": "QN75LS03HEPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-the-frame-ls03he-4k-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7446,6 +8054,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1999.0,
      "precio_lista": 2299.0,
      "disponible": true,
@@ -7465,7 +8081,7 @@
    "modelo": "QN83S85HAEXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/83-oled-s85h-4k-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7525,6 +8141,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2999.0,
+     "precio_lista": 3679.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2999.0,
      "precio_lista": 3679.0,
      "disponible": true,
@@ -7544,7 +8168,7 @@
    "modelo": "MRN75R85HAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-micro-rgb-r85haf-4k-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7604,6 +8228,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2599.0,
+     "precio_lista": 4459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2599.0,
      "precio_lista": 4459.0,
      "disponible": true,
@@ -7623,7 +8255,7 @@
    "modelo": "LH32BEFBVGPXZP",
    "url": "https://shop.samsung.com/latin/cac/sv/32-business-tv-befx-b-lh32befbvgpxzp.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7683,6 +8315,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 159.0,
+     "precio_lista": 229.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 159.0,
      "precio_lista": 229.0,
      "disponible": true,
@@ -7702,7 +8342,7 @@
    "modelo": "QN75LS03FAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-the-frame-4k-ls03f-vision-ai-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7762,6 +8402,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1499.0,
+     "precio_lista": 3399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1499.0,
      "precio_lista": 3399.0,
      "disponible": true,
@@ -7781,7 +8429,7 @@
    "modelo": "UN32H5000FPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/32-hd-h5000f-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7841,6 +8489,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 159.0,
+     "precio_lista": 249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 159.0,
      "precio_lista": 249.0,
      "disponible": true,
@@ -7860,7 +8516,7 @@
    "modelo": "UN70U8000FPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/70-crystal-uhd-4k-u8000f-tizen-os-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7920,6 +8576,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 729.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 729.0,
      "precio_lista": 1049.0,
      "disponible": true,
@@ -7939,7 +8603,7 @@
    "modelo": "UN65U8000FPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/65-crystal-uhd-4k-u8000f-tizen-os-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -7999,6 +8663,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 549.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 549.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -8018,7 +8690,7 @@
    "modelo": "QN75QN700BPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/qn700b-75-inch-neo-qled-8k-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8078,6 +8750,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2799.0,
+     "precio_lista": 5149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2799.0,
      "precio_lista": 5149.0,
      "disponible": true,
@@ -8097,7 +8777,7 @@
    "modelo": "UN70DU7000PXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/70-crystal-uhd-4k-du7000-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8157,6 +8837,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 659.0,
+     "precio_lista": 1049.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 659.0,
      "precio_lista": 1049.0,
      "disponible": true,
@@ -8176,7 +8864,7 @@
    "modelo": "UN65CU8200PXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/65-crystal-uhd-4k-cu8200.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8236,6 +8924,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 529.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 529.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -8255,7 +8951,7 @@
    "modelo": "QN75QN800DPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/75-neo-qled-8k-qn800d.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8315,6 +9011,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2999.0,
+     "precio_lista": 5149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2999.0,
      "precio_lista": 5149.0,
      "disponible": true,
@@ -8334,7 +9038,7 @@
    "modelo": "QN70Q65CAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/570-q65c-qled-4k-smart-tv.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8394,6 +9098,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 1449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 1449.0,
      "disponible": true,
@@ -8413,7 +9125,7 @@
    "modelo": "QN85QN85CAPXPA1",
    "url": "https://shop.samsung.com/latin/cac/sv/85-neo-qled-4k-qn85c.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8473,6 +9185,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2199.0,
+     "precio_lista": 4149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2199.0,
      "precio_lista": 4149.0,
      "disponible": true,
@@ -8492,7 +9212,7 @@
    "modelo": "QN85LS03BAPXPA",
    "url": "https://shop.samsung.com/latin/cac/sv/85-ls03b-the-frame-4k.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8557,6 +9277,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 2699.0,
+     "precio_lista": 4799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/k/q/kq85lsb03afxkr_002_front2_black_thumb_1_1__2.png"
@@ -8571,7 +9299,7 @@
    "modelo": "QN65QN85BAPXPA1",
    "url": "https://shop.samsung.com/latin/cac/sv/65-neo-qled-4k-qn85b.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8628,6 +9356,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1199.0,
+     "precio_lista": 2149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/q/n/qn65qn85bafxza_001_front1_bright-silver_thumb_2_2_1.png"
@@ -8642,7 +9378,7 @@
    "modelo": "UN32T4300APXPA1",
    "url": "https://shop.samsung.com/latin/cac/sv/32-t4300-hd-smart-tv-1.html",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:37-06:00",
@@ -8707,6 +9443,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 159.0,
+     "precio_lista": 249.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un32t4300apxpa_1_1_2.png"
@@ -8721,7 +9465,7 @@
    "modelo": "SMA085MDBDGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a08-lte-4gb-64gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -8765,6 +9509,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 209.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 209.0,
      "precio_lista": 219.0,
      "disponible": true,
@@ -8784,7 +9536,7 @@
    "modelo": "AR70H24D1FWNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ar70-motion-wind-wall-mount-ar70h24d1fwnap.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -8828,6 +9580,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1199.0,
      "precio_lista": 1399.0,
      "disponible": true,
@@ -8847,7 +9607,7 @@
    "modelo": "AR70H18D1FWNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ar70-motion-wind-wall-mount-ar70h18d1fwnap.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -8891,6 +9651,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 999.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 999.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -8910,7 +9678,7 @@
    "modelo": "SMA276BZKQGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-8gb-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -8954,6 +9722,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 499.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 499.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -8973,7 +9749,7 @@
    "modelo": "SMA085MDBGGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a08-lte-4gb-128gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9017,6 +9793,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 255.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 255.0,
      "precio_lista": 259.0,
      "disponible": true,
@@ -9036,7 +9820,7 @@
    "modelo": "SMA077MZGGGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a07s-lte-4gb-128gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9080,6 +9864,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 230.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 230.0,
      "precio_lista": 239.0,
      "disponible": true,
@@ -9099,7 +9891,7 @@
    "modelo": "SMA077MZKDGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a07s-lte-4gb-64gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9143,6 +9935,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 185.0,
+     "precio_lista": 190.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 185.0,
      "precio_lista": 190.0,
      "disponible": true,
@@ -9162,7 +9962,7 @@
    "modelo": "SMX840NZAAGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s12-plus-wifi-12-6-inch-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9206,6 +10006,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1459.0,
+     "precio_lista": 1459.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1459.0,
      "precio_lista": 1459.0,
      "disponible": true,
@@ -9225,7 +10033,7 @@
    "modelo": "SMX133NZAAL15",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-wi-fi-4gb-64gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9269,6 +10077,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 119.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 119.0,
      "precio_lista": 205.0,
      "disponible": true,
@@ -9288,7 +10104,7 @@
    "modelo": "SMA276BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-6gb-128gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9332,6 +10148,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 255.0,
+     "precio_lista": 426.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 255.0,
      "precio_lista": 426.0,
      "disponible": true,
@@ -9351,7 +10175,7 @@
    "modelo": "NSG80H60SWAA",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-air-fry-max-pro-style-design-nsg80h60swaa.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9395,6 +10219,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1399.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -9414,7 +10246,7 @@
    "modelo": "NSG80H60SWAX",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-air-fry-max-and-premium-glass-design-6-0-cu-ft-nsg80h60swax.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9458,6 +10290,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1399.0,
      "precio_lista": 1699.0,
      "disponible": true,
@@ -9477,7 +10317,7 @@
    "modelo": "AR70H12D1FWNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-windfree-ar70-motion-wind-wall-mount-ar70h12d1fwnap-12000-btu.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9521,6 +10361,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -9540,7 +10388,7 @@
    "modelo": "SMS741BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-fe-128gb-8gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9584,6 +10432,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 859.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 859.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -9603,7 +10459,7 @@
    "modelo": "SMS741BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-fe-256gb-8gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9647,6 +10503,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 990.0,
+     "precio_lista": 1019.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 990.0,
      "precio_lista": 1019.0,
      "disponible": true,
@@ -9666,7 +10530,7 @@
    "modelo": "AR40H18D0AM",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-ecowind-fast-cooling-18-000-btu-ar40h18d0am.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9710,6 +10574,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 599.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 599.0,
      "precio_lista": 599.0,
      "disponible": true,
@@ -9729,7 +10601,7 @@
    "modelo": "SMF776BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip8-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9773,6 +10645,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1169.0,
+     "precio_lista": 1299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1169.0,
      "precio_lista": 1299.0,
      "disponible": true,
@@ -9792,7 +10672,7 @@
    "modelo": "SMF976BZKLGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold8-ultra-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9836,6 +10716,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1979.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1979.0,
      "precio_lista": 2199.0,
      "disponible": true,
@@ -9855,7 +10743,7 @@
    "modelo": "SML715FZKAGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra2.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9899,6 +10787,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 649.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 649.0,
      "precio_lista": 649.0,
      "disponible": true,
@@ -9918,7 +10814,7 @@
    "modelo": "SML350NZKALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch9-44mm.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -9962,6 +10858,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 384.0,
+     "precio_lista": 384.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 384.0,
      "precio_lista": 384.0,
      "disponible": true,
@@ -9981,7 +10885,7 @@
    "modelo": "SML340NZKALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch9-40mm.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10025,6 +10929,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 355.0,
+     "precio_lista": 355.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 355.0,
      "precio_lista": 355.0,
      "disponible": true,
@@ -10044,7 +10956,7 @@
    "modelo": "SMF971BZKLGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold8-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10080,6 +10992,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1799.0,
+     "precio_lista": 2339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1799.0,
      "precio_lista": 2339.0,
      "disponible": true,
@@ -10099,7 +11019,7 @@
    "modelo": "SMF776BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip8-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10143,6 +11063,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1299.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -10162,7 +11090,7 @@
    "modelo": "SMF976BZKLGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold8-ultra-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10206,6 +11134,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2607.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2199.0,
      "precio_lista": 2607.0,
      "disponible": true,
@@ -10225,7 +11161,7 @@
    "modelo": "SML500NZKALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-classic-46mm-bluetooth-sm-l500nzkalta-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10269,6 +11205,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 359.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 359.0,
      "precio_lista": 529.0,
      "disponible": true,
@@ -10288,7 +11232,7 @@
    "modelo": "SMS948BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5g-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10332,6 +11276,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1369.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1369.0,
      "precio_lista": 1699.0,
      "disponible": true,
@@ -10374,7 +11326,7 @@
    "modelo": "SMA276BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-6gb-128gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10418,6 +11370,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 375.0,
+     "precio_lista": 379.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 375.0,
      "precio_lista": 379.0,
      "disponible": true,
@@ -10437,7 +11397,7 @@
    "modelo": "SMA276BZKQGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a27-5g-8gb-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10486,6 +11446,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 489.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a276_galaxya27_5g_setcut-all_00_thumb.png"
@@ -10500,7 +11468,7 @@
    "modelo": "SMS948BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5-g-512gb-12gb-ram.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10544,6 +11512,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1599.0,
+     "precio_lista": 1779.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1599.0,
      "precio_lista": 1779.0,
      "disponible": true,
@@ -10609,7 +11585,7 @@
    "modelo": "SMA376BDGJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-128gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10653,6 +11629,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 419.0,
+     "precio_lista": 475.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 419.0,
      "precio_lista": 475.0,
      "disponible": true,
@@ -10672,7 +11656,7 @@
    "modelo": "SMA376BDGKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10716,6 +11700,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 585.0,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 585.0,
      "precio_lista": 585.0,
      "disponible": true,
@@ -10735,7 +11727,7 @@
    "modelo": "SMA576BDBFGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10779,6 +11771,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 643.0,
+     "precio_lista": 643.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 643.0,
      "precio_lista": 643.0,
      "disponible": true,
@@ -10798,7 +11798,7 @@
    "modelo": "SMA576BDBKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-512gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10842,6 +11842,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 789.0,
+     "precio_lista": 848.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 789.0,
      "precio_lista": 848.0,
      "disponible": true,
@@ -10861,7 +11869,7 @@
    "modelo": "SMA576BDBKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-512gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10905,6 +11913,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 809.0,
+     "precio_lista": 829.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 809.0,
      "precio_lista": 829.0,
      "disponible": true,
@@ -10924,7 +11940,7 @@
    "modelo": "SMA576BDBFGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -10968,6 +11984,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 529.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 529.0,
      "precio_lista": 599.0,
      "disponible": true,
@@ -10987,7 +12011,7 @@
    "modelo": "SMA376BDGKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11031,6 +12055,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 479.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 479.0,
      "precio_lista": 529.0,
      "disponible": true,
@@ -11050,7 +12082,7 @@
    "modelo": "SMA376BDGJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-128gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11099,6 +12131,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 425.0,
+     "precio_lista": 439.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-a376_galaxya37_5g_set-cut-all_2_thumb_1.png"
@@ -11113,7 +12153,7 @@
    "modelo": "SMS948BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11157,6 +12197,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1239.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1239.0,
      "precio_lista": 1399.0,
      "disponible": true,
@@ -11199,7 +12247,7 @@
    "modelo": "SMS948BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26ultra-5g-512gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11243,6 +12291,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1999.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1999.0,
      "precio_lista": 1999.0,
      "disponible": true,
@@ -11262,7 +12318,7 @@
    "modelo": "SMS947BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26plus-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11306,6 +12362,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1299.0,
      "precio_lista": 1429.0,
      "disponible": true,
@@ -11325,7 +12389,7 @@
    "modelo": "SMS942BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-5g-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11369,6 +12433,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1199.0,
      "precio_lista": 1199.0,
      "disponible": true,
@@ -11388,7 +12460,7 @@
    "modelo": "SMS942BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11432,6 +12504,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1079.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1079.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -11451,7 +12531,7 @@
    "modelo": "SMX236BZAAGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-plus-5g-128gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11500,6 +12580,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 389.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxy-tab-a11-plus_001_product-image_combo_thumb.png"
@@ -11514,7 +12602,7 @@
    "modelo": "SMX230NZAAGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-wi-fi-128gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11550,6 +12638,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 289.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 289.0,
      "precio_lista": 349.0,
      "disponible": true,
@@ -11615,7 +12711,7 @@
    "modelo": "DVE24A5370W",
    "url": "https://shop.samsung.com/latin/cac/sv/secadora-24kg-electrica-carga-frontal-dve24a5370w-blanca.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11659,6 +12755,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 629.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 629.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -11678,7 +12782,7 @@
    "modelo": "SMX135GZAAL15",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-lte-4gb-64gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11722,6 +12826,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 219.0,
+     "precio_lista": 259.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 219.0,
      "precio_lista": 259.0,
      "disponible": true,
@@ -11741,7 +12853,7 @@
    "modelo": "SMX133NZAAL15",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-a11-wi-fi-4gb-64gb-2.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11785,6 +12897,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 169.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 169.0,
      "precio_lista": 205.0,
      "disponible": true,
@@ -11827,7 +12947,7 @@
    "modelo": "SMA175FZKHGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a17-lte-8gb-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11871,6 +12991,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 199.0,
+     "precio_lista": 295.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 199.0,
      "precio_lista": 295.0,
      "disponible": true,
@@ -11890,7 +13018,7 @@
    "modelo": "SMX730NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-wifi-128gb-con-keyboard-cover-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11934,6 +13062,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1059.0,
+     "precio_lista": 1059.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1059.0,
      "precio_lista": 1059.0,
      "disponible": true,
@@ -11953,7 +13089,7 @@
    "modelo": "SMX930NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-ultra-wifi-256gb-con-keyboard-cover-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -11997,6 +13133,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1499.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1499.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -12016,7 +13160,7 @@
    "modelo": "NV51T5511DG",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-pared-nv5300r-wi-fi-connectivity-nv51t5511dg-aa-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12060,6 +13204,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1699.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1699.0,
      "precio_lista": 2099.0,
      "disponible": true,
@@ -12079,7 +13231,7 @@
    "modelo": "SMA175FZKHGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a17-lte-8gb-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12123,6 +13275,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 349.0,
+     "precio_lista": 359.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 349.0,
      "precio_lista": 359.0,
      "disponible": true,
@@ -12142,7 +13302,7 @@
    "modelo": "SMX730NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-wifi-128gb-con-keyboard-cover.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12186,6 +13346,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 999.0,
+     "precio_lista": 1159.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 999.0,
      "precio_lista": 1159.0,
      "disponible": true,
@@ -12205,7 +13373,7 @@
    "modelo": "SMX930NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s11-ultra-wifi-256gb-con-keyboard-cover.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12249,6 +13417,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1459.0,
+     "precio_lista": 1549.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1459.0,
      "precio_lista": 1549.0,
      "disponible": true,
@@ -12268,7 +13444,7 @@
    "modelo": "SMX400NZRDGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-wi-fi-128gb-sm-x400.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12317,6 +13493,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 349.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x400_galaxy-tabs10lite-2_thumb.png"
@@ -12331,7 +13515,7 @@
    "modelo": "AR50F18D1DHNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-fast-cooling-quick-remote-set-18-000btu.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12380,6 +13564,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 749.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/a/r/ar50f18c1fhnzs_001_front_white_thumb_1.png"
@@ -12394,7 +13586,7 @@
    "modelo": "AR50F12D1DHNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-fast-cooling-quick-remote-set-12000-btu.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12438,6 +13630,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 559.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 559.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -12457,7 +13657,7 @@
    "modelo": "NZ30FG5332RKAAEPP",
    "url": "https://shop.samsung.com/latin/cac/sv/electric-cooktop-with-flexible-cooktop-front-controls-nz30fg5332rkaa-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12501,6 +13701,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 799.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 799.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -12520,7 +13728,7 @@
    "modelo": "SMX520NDBDGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-wifi-128gb-sm-x520-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12564,6 +13772,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 389.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 389.0,
      "precio_lista": 639.0,
      "disponible": true,
@@ -12583,7 +13799,7 @@
    "modelo": "DV90F24UESAP",
    "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-bespoke-ai-carga-frontal-24-kg-ai-home-y-ai-optidry-tm.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12627,6 +13843,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 999.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 999.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -12646,7 +13870,7 @@
    "modelo": "SML705FZB1GTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra-2025-47mm-sm-l705f-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12690,6 +13914,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 649.0,
+     "precio_lista": 649.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 649.0,
      "precio_lista": 649.0,
      "disponible": true,
@@ -12709,7 +13941,7 @@
    "modelo": "SML705FZB1GTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra-2025-47mm-sm-l705f.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12753,6 +13985,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 455.0,
+     "precio_lista": 605.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 455.0,
      "precio_lista": 605.0,
      "disponible": true,
@@ -12772,7 +14012,7 @@
    "modelo": "SML500NZKALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-classic-46mm-bluetooth-sm-l500nzkalta-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12816,6 +14056,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 529.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 529.0,
      "precio_lista": 529.0,
      "disponible": true,
@@ -12835,7 +14083,7 @@
    "modelo": "SML500NZKALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-classic-46mm-bluetooth-sm-l500.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12879,6 +14127,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 499.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 499.0,
      "precio_lista": 529.0,
      "disponible": true,
@@ -12898,7 +14154,7 @@
    "modelo": "SML330NDAALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-44mm-bluetooth-sm-l330-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -12942,6 +14198,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 409.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 409.0,
      "precio_lista": 409.0,
      "disponible": true,
@@ -12961,7 +14225,7 @@
    "modelo": "SML330NDAALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-44mm-bluetooth-sm-l330.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13010,6 +14274,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 299.0,
+     "precio_lista": 409.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l330_000_set-cut-all_thumb.png"
@@ -13024,7 +14296,7 @@
    "modelo": "SML320NDAALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-40mm-bluetooth-sm-l320.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13073,6 +14345,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 149.0,
+     "precio_lista": 379.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l320_000_set-cut-all_thumb_1.png"
@@ -13087,7 +14367,7 @@
    "modelo": "SMF966BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold7-5g-512gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13131,6 +14411,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2199.0,
      "precio_lista": 2199.0,
      "disponible": true,
@@ -13150,7 +14438,7 @@
    "modelo": "SMF761BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-fe-5g-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13194,6 +14482,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1099.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -13213,7 +14509,7 @@
    "modelo": "SMF966BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold7-5g-512gb-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13257,6 +14553,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 2199.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 2199.0,
      "precio_lista": 2199.0,
      "disponible": true,
@@ -13276,7 +14580,7 @@
    "modelo": "SMF766BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-5g-512gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13320,6 +14624,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1279.0,
+     "precio_lista": 1419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1279.0,
      "precio_lista": 1419.0,
      "disponible": true,
@@ -13339,7 +14651,7 @@
    "modelo": "SMF761BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-fe-5g-256gb-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13383,6 +14695,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1099.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -13402,7 +14722,7 @@
    "modelo": "SMF761BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip7-fe-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13446,6 +14766,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -13465,7 +14793,7 @@
    "modelo": "SMF966BZKKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold7-5g-512gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13509,6 +14837,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1899.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1899.0,
      "precio_lista": 2299.0,
      "disponible": true,
@@ -13551,7 +14887,7 @@
    "modelo": "NZ30FG5332RKAA",
    "url": "https://shop.samsung.com/latin/cac/sv/electric-cooktop-with-flexible-cooktop-front-controls-nz30fg5332rkaa.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13595,6 +14931,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 699.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 699.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -13614,7 +14958,7 @@
    "modelo": "AR60F12D1DWNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-windfree-rac-ai-energy-mode-set-12-000-btu.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13658,6 +15002,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 699.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 699.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -13677,7 +15029,7 @@
    "modelo": "AR60F18D1DWNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-windfree-rac-ai-energy-mode-18-000-btu.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13721,6 +15073,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 799.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 799.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -13740,7 +15100,7 @@
    "modelo": "AR60F24D1DWNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-windfree-rac-ai-energy-mode-24000-btu.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13784,6 +15144,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -13803,7 +15171,7 @@
    "modelo": "NE63F6311SR",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-30-smart-wi-fi-gran-capacidad-ne63f6311sr-ap.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13847,6 +15215,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 649.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 649.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -13866,7 +15242,7 @@
    "modelo": "NE63F6511SR",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-ne63f6511sr-ap-30-conveccion-por-ventilacion-wifi.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13910,6 +15286,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -13929,7 +15313,7 @@
    "modelo": "NE63F6711SR",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-cinco-quemadores-gran-capacidad-ne63f6711sr-ap.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -13973,6 +15357,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1099.0,
      "precio_lista": 1199.0,
      "disponible": true,
@@ -13992,7 +15384,7 @@
    "modelo": "SMX620NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-plus-wi-fi-128gb-sm-x620.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14036,6 +15428,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 659.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 659.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -14055,7 +15455,7 @@
    "modelo": "SMX520NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-wi-fi-128gb-sm-x520.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14099,6 +15499,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 499.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 499.0,
      "precio_lista": 639.0,
      "disponible": true,
@@ -14118,7 +15526,7 @@
    "modelo": "SMX620NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-plus-wifi-128gb-sm-x620-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14162,6 +15570,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 795.0,
+     "precio_lista": 795.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 795.0,
      "precio_lista": 795.0,
      "disponible": true,
@@ -14181,7 +15597,7 @@
    "modelo": "NSG6DG8700SRAXEPP",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-nsg6dg8700srax-air-fryer-camara-horno-epp.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14225,6 +15641,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1909.0,
+     "precio_lista": 1909.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1909.0,
      "precio_lista": 1909.0,
      "disponible": true,
@@ -14299,7 +15723,7 @@
    "modelo": "SMS938BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-5g-256gb-banco.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14348,6 +15772,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1145.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-1vlw60b41yr6hbnultra_set-cut-all_001_thumb_4_1.png"
@@ -14362,7 +15794,7 @@
    "modelo": "SMS938BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-5g-256gb-sm-s938.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14406,6 +15838,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 989.0,
+     "precio_lista": 1169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 989.0,
      "precio_lista": 1169.0,
      "disponible": true,
@@ -14471,7 +15911,7 @@
    "modelo": "SML705FDAAGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch-ultra.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14520,6 +15960,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 455.0,
+     "precio_lista": 605.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l705_000_thumb_3.png"
@@ -14534,7 +15982,7 @@
    "modelo": "NV51CB700S12AA",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-de-pared-nv7000c-premium-plus-single-con-ai-pro-cooking.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14578,6 +16026,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1999.0,
+     "precio_lista": 2199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1999.0,
      "precio_lista": 2199.0,
      "disponible": true,
@@ -14620,7 +16076,7 @@
    "modelo": "NV51T5511DG",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-pared-nv5300r-wi-fi-connectivity-nv51t5511dg-aa.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14664,6 +16120,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1799.0,
+     "precio_lista": 2099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1799.0,
      "precio_lista": 2099.0,
      "disponible": true,
@@ -14683,7 +16147,7 @@
    "modelo": "AR18BVHQAURNXL",
    "url": "https://shop.samsung.com/latin/cac/sv/wall-mount-digital-inverter-ar18bvhqaurnxl-2.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14727,6 +16191,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 549.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 549.0,
      "precio_lista": 699.0,
      "disponible": true,
@@ -14746,7 +16218,7 @@
    "modelo": "SMX920NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-ultra-wifi-256gb-con-keyboard-cover.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14790,6 +16262,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1209.0,
+     "precio_lista": 1499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1209.0,
      "precio_lista": 1499.0,
      "disponible": true,
@@ -14809,7 +16289,7 @@
    "modelo": "VS15A6032R7",
    "url": "https://shop.samsung.com/latin/cac/sv/aspiradora-inalambrica-jet-stick-60-pet-pink-gold-vs15a6032r7-aa.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14853,6 +16333,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 299.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 299.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -14872,7 +16360,7 @@
    "modelo": "NSG6DG8700SRAX",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-bespoke-nsg6dg8700srax-air-fryer-camara-horno-3.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14916,6 +16404,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1699.0,
      "precio_lista": 1999.0,
      "disponible": true,
@@ -14935,7 +16431,7 @@
    "modelo": "NA30R5310FS",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-empotrable-de-30pulgadas-na30r5310fs-aa.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -14979,6 +16475,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 399.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 399.0,
      "precio_lista": 429.0,
      "disponible": true,
@@ -15021,7 +16525,7 @@
    "modelo": "SML310NZGALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch7-bluetooth-44mm.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15065,6 +16569,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 269.0,
+     "precio_lista": 349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 269.0,
      "precio_lista": 349.0,
      "disponible": true,
@@ -15107,7 +16619,7 @@
    "modelo": "SMX306BZGAL15",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-active5-5g.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15151,6 +16663,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 399.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 399.0,
      "precio_lista": 399.0,
      "disponible": true,
@@ -15170,7 +16690,7 @@
    "modelo": "NX60B6515SS",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-nx5000a-nx60b6515ss-ap-con-gran-capacidad.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15214,6 +16734,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 929.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 929.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -15233,7 +16761,7 @@
    "modelo": "SMF721BZAJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-flip4-5g-128gb-sm-f721.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15277,6 +16805,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 699.0,
+     "precio_lista": 1399.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 699.0,
      "precio_lista": 1399.0,
      "disponible": false,
@@ -15319,7 +16855,7 @@
    "modelo": "SMT575NZKLGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-active3-64gb-sm-t575nzklgto.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15360,6 +16896,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 399.0,
+     "precio_lista": 399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-t575_002_front_black-name_thumb_2.png"
@@ -15397,7 +16941,7 @@
    "modelo": "SMA055MZSDGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a05-64gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15441,6 +16985,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 110.0,
+     "precio_lista": 119.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 110.0,
      "precio_lista": 119.0,
      "disponible": true,
@@ -15460,7 +17012,7 @@
    "modelo": "JBLFLIP6BLKAM1",
    "url": "https://shop.samsung.com/latin/cac/sv/jbl-flip-6-portable-waterproof-speaker.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15504,6 +17056,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 89.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 89.0,
      "precio_lista": 149.0,
      "disponible": true,
@@ -15523,7 +17083,7 @@
    "modelo": "JBLFLIP6WHTAM",
    "url": "https://shop.samsung.com/latin/cac/sv/jbl-flip-6-portable-waterproof-speaker-white.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15567,6 +17127,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 89.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 89.0,
      "precio_lista": 149.0,
      "disponible": true,
@@ -15586,7 +17154,7 @@
    "modelo": "JBLFLIP6BLKAM",
    "url": "https://shop.samsung.com/latin/cac/sv/jbl-flip-6-portable-waterproof-speaker-black.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15630,6 +17198,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 89.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 89.0,
      "precio_lista": 149.0,
      "disponible": true,
@@ -15649,7 +17225,7 @@
    "modelo": "DVE22C6370W",
    "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-dve22c6370w-de-22kg.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15698,6 +17274,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 649.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dve22c6370w-ap_001_front_white_thumb.png"
@@ -15712,7 +17296,7 @@
    "modelo": "DVE22C6370P",
    "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-dve22c6370p-con-multisteam-22kg.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15756,6 +17340,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 719.0,
+     "precio_lista": 799.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 719.0,
      "precio_lista": 799.0,
      "disponible": true,
@@ -15913,7 +17505,7 @@
    "modelo": "SMX810NZADGTO1",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s9-plus-wi-fi-256gb-con-keyboard-cover.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -15957,6 +17549,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1199.0,
+     "precio_lista": 1449.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1199.0,
      "precio_lista": 1449.0,
      "disponible": true,
@@ -15976,7 +17576,7 @@
    "modelo": "NZ30R5330RK",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-electrica-empotrable-30-nz30r5330rk-aa.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -16020,6 +17620,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 599.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 599.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -16039,7 +17647,7 @@
    "modelo": "NV51T5511SS",
    "url": "https://shop.samsung.com/latin/cac/sv/horno-de-pared-nv5300-conexion-wi-fi.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -16083,6 +17691,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1049.0,
+     "precio_lista": 1099.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1049.0,
      "precio_lista": 1099.0,
      "disponible": true,
@@ -16102,7 +17718,7 @@
    "modelo": "DVE24A5370V",
    "url": "https://shop.samsung.com/latin/cac/sv/secadora-electrica-dv5200r-dve24a5370v-ap-24k-con-smart-check.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -16146,6 +17762,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 799.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 799.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -16165,7 +17789,7 @@
    "modelo": "SMF936BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-z-fold4-5g-256gb.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -16209,6 +17833,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1399.0,
+     "precio_lista": 1999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1399.0,
      "precio_lista": 1999.0,
      "disponible": true,
@@ -16228,7 +17860,7 @@
    "modelo": "NX60A6115SS",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-nx60a6115ss-ap-con-gran-capacidad.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -16272,6 +17904,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 799.0,
+     "precio_lista": 899.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 799.0,
      "precio_lista": 899.0,
      "disponible": true,
@@ -16291,7 +17931,7 @@
    "modelo": "DVE22A3200W",
    "url": "https://shop.samsung.com/latin/cac/sv/secadora-carga-superior-dve22a3200w-con-sensor-dry.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:35-06:00",
@@ -16340,6 +17980,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 549.0,
+     "precio_lista": 699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/d/v/dvg24a3200w-ax_001_front_white_thumb_3.png"
@@ -16354,7 +18002,7 @@
    "modelo": "SMX940NZAAGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s12-ultra-wifi-14-6-inch-256gb.html",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-30T18:04:29-06:00",
@@ -16395,6 +18043,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 1699.0,
+     "precio_lista": 1699.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/g/a/galaxytabs12ultra_front-back-name_thumb.png"
@@ -16409,7 +18065,7 @@
    "modelo": "SMA576BDBFGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a57-5g-256gb-cus.html",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-02T16:12:10-06:00",
@@ -16421,6 +18077,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 529.0,
+     "precio_lista": 599.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 529.0,
      "precio_lista": 599.0,
      "disponible": true,
@@ -16440,7 +18104,7 @@
    "modelo": "SMA376BDGKGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-a37-5g-256gb-cus.html",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-02T16:12:10-06:00",
@@ -16452,6 +18116,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 479.0,
+     "precio_lista": 529.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 479.0,
      "precio_lista": 529.0,
      "disponible": true,
@@ -16471,7 +18143,7 @@
    "modelo": "SMS948BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s26-ultra-5g-256gb-cus.html",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-02T16:12:10-06:00",
@@ -16483,6 +18155,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 1239.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 1239.0,
      "precio_lista": 1399.0,
      "disponible": true,
@@ -16502,7 +18182,7 @@
    "modelo": "SML320NDAALTA",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-40mm-bluetooth-sm-l320-cus.html",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-02T16:12:10-06:00",
@@ -16514,6 +18194,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 149.0,
+     "precio_lista": 379.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 149.0,
      "precio_lista": 379.0,
      "disponible": true,
@@ -16533,7 +18221,7 @@
    "modelo": "SMS938BZKJGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-5g-256gb-sm-s938-cus.html",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-02T16:12:10-06:00",
@@ -16545,6 +18233,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 989.0,
+     "precio_lista": 1169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 989.0,
      "precio_lista": 1169.0,
      "disponible": true,
@@ -16564,7 +18260,7 @@
    "modelo": "SMX520NZADGTO",
    "url": "https://shop.samsung.com/latin/cac/sv/galaxy-tab-s10-fe-wi-fi-128gb-sm-x520-cus.html",
    "primera_vez": "2026-11-02",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-02T16:12:10-06:00",
@@ -16576,6 +18272,14 @@
     },
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 499.0,
+     "precio_lista": 639.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 499.0,
      "precio_lista": 639.0,
      "disponible": true,
@@ -16595,10 +18299,18 @@
    "modelo": "AR50F24D1DHNAP",
    "url": "https://shop.samsung.com/latin/cac/sv/aire-acondicionado-bespoke-ai-con-fast-cooling-quick-remote-set-24-000-btu.html",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 899.0,
+     "precio_lista": 999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 899.0,
      "precio_lista": 999.0,
      "disponible": true,
@@ -16618,10 +18330,18 @@
    "modelo": "NX52T5511LS",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-nx52t5511ls-ap.html",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 389.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 389.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -16641,10 +18361,18 @@
    "modelo": "NX52D3000MV",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-de-5-2-pies-cubicos-con-quemador-de-triple-potencia.html",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-03T18:35:01-06:00",
+     "precio": 379.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
      "precio": 379.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -16664,7 +18392,7 @@
    "modelo": "NX52T7522LS",
    "url": "https://shop.samsung.com/latin/cac/sv/estufa-a-gas-con-quemador-de-triple-potencia-nx52t7522ls-ap.html",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-11-03T18:35:01-06:00",
@@ -16673,9 +18401,63 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 449.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/n/x/nx52t7522ls-ap_001_front_mirror_thumb.png"
+  },
+  "SM-S938BZKJL15-1": {
+   "nombre": "Galaxy S25 Ultra 5G 256GB Enterprise Edition (SM-S938BZKJL15-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS938BZKJL15",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-ultra-5g-256gb-enterprise-edition.html",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "observaciones": [
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 989.0,
+     "precio_lista": 1169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-s938bzkjl15_enterprise-edition_thumb.png"
+  },
+  "SM-S731BZKKGTO-1": {
+   "nombre": "Galaxy S25 FE 256GB (SM-S731BZKKGTO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS731BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-fe-256gb-8ram.html",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "observaciones": [
+    {
+     "fecha": "2026-11-04T14:08:36-06:00",
+     "precio": 705.0,
+     "precio_lista": 739.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-s731_set-cut-all-3_thumb.png"
   }
  }
 }
