@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-11-04T18:49:23-06:00",
+ "actualizado": "2026-11-05T14:19:48-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -42,7 +42,7 @@
    "modelo": "GS25F2BM1USS",
    "url": "https://aeon.com.sv/shop/18393-monitor-gigabyte-gs25f2-24-5-fhd-bocinas-200hz-2-x-hdmi-x-displayport-3-5mm-osd-negro-20vm0-gs25f2bm-1uss-105540",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -179,6 +179,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 149.9,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105540/image_256"
@@ -193,7 +201,7 @@
    "modelo": "ED270",
    "url": "https://aeon.com.sv/shop/18405-monitor-gaming-acer-nitro-ed270-zbmiipx-curvo-lcd-27-fhd-280hz-1ms-um-he0aa-z01-105552",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -317,6 +325,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 259.0,
      "precio_lista": null,
      "disponible": true,
@@ -336,7 +352,7 @@
    "modelo": "27B30H",
    "url": "https://aeon.com.sv/shop/18753-monitor-aoc-27-1920-x-1080-fhd-1080p-1500r-ips-panel-100hz-hdmi-vga-interfaz-100x100-vesa-27b30h-105896",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -460,6 +476,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 179.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 179.0,
      "precio_lista": null,
      "disponible": true,
@@ -479,7 +503,7 @@
    "modelo": "DHILM25",
    "url": "https://aeon.com.sv/shop/18833-monitor-dahua-e231b-24-5-fhd-200hz-0-5ms-ips-300-cd-m2-dhi-lm25-e231bn-dp-hdmi-audio-out-105976",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -603,6 +627,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -820,7 +852,7 @@
    "modelo": "90LM0BJ0B011I1",
    "url": "https://aeon.com.sv/shop/19333-monitor-asus-tuf-vg279qe5a-27-ips-fhd-146hz-1ms-nvidia-g-sync-90lm0bj0-b011i1-106472",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -949,6 +981,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106472/image_256"
@@ -963,7 +1003,7 @@
    "modelo": "22B35HM",
    "url": "https://aeon.com.sv/shop/19343-monitor-aoc-22b35hm-22-21-5-fhd-1920x1080-120hz-vesa-led-vga-y-hdmi-hdr-106482",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -1100,6 +1140,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 89.9,
+     "precio_lista": 129.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106482/image_256"
@@ -1114,7 +1162,7 @@
    "modelo": "MAG276CXF",
    "url": "https://aeon.com.sv/shop/19386-monitor-msi-mag276cxf-curvo-27-fhd-280hz-0-5ms-106525",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -1238,6 +1286,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 259.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 259.0,
      "precio_lista": null,
      "disponible": true,
@@ -1257,7 +1313,7 @@
    "modelo": "3BC21M046",
    "url": "https://aeon.com.sv/shop/19387-monitor-msi-mag-255f-e20-24-5-ips-fhd-0-5ms-200hz-negro-9s6-3bc21m-046-106526",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -1381,6 +1437,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -1479,7 +1543,7 @@
    "modelo": "9S63CE89M",
    "url": "https://aeon.com.sv/shop/275upd-e14-106528",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -1616,6 +1680,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 369.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106528/image_256"
@@ -1630,7 +1702,7 @@
    "modelo": "9S63CE51T",
    "url": "https://aeon.com.sv/shop/19390-monitor-msi-mag-272f-x24-27-ips-fhd-0-5ms-1920x1080-240hz-negro-9s6-3ce51t-014-106529",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -1759,6 +1831,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106529/image_256"
@@ -1773,7 +1853,7 @@
    "modelo": "IPS1920",
    "url": "https://aeon.com.sv/shop/19651-monitor-led-aoc-24-24g4-fast-ips19201080-fhd-180hz-1ms-g-sync-hdr10-106792",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -1910,6 +1990,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 129.9,
+     "precio_lista": 179.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106792/image_256"
@@ -1924,7 +2012,7 @@
    "modelo": "VG249Q3R",
    "url": "https://aeon.com.sv/shop/19719-monitor-asus-tuf-gaming-vg249q3r-23-8-180hz-1ms-fast-ips-freesync-displayport-1-2-x-1-hdmi-v2-0-x-2-90lm0ae1-b01ei1-106860",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2048,6 +2136,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -2067,7 +2163,7 @@
    "modelo": "16T20",
    "url": "https://aeon.com.sv/shop/19777-monitor-portatil-aoc-15-6-fhd-ips-2ms-2-usb-c-alimenantacion-y-video-1-mini-hdmi-altavoces-integrados-21w-cover-16t20-106918",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2191,6 +2287,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 149.0,
      "precio_lista": null,
      "disponible": true,
@@ -2210,7 +2314,7 @@
    "modelo": "9S63BC41H",
    "url": "https://aeon.com.sv/shop/19825-monitor-msi-mag-244f-23-8-ips-fhd-0-5ms-200hz-negro-9s6-3bc41h-004-106966",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2334,6 +2438,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 179.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 179.0,
      "precio_lista": null,
      "disponible": true,
@@ -2353,7 +2465,7 @@
    "modelo": "3BC81M004",
    "url": "https://aeon.com.sv/shop/19976-monitor-msi-mag-245f-x24-24-ips-fhd-0-5ms-240hz-negro-9s6-3bc81m-004-107117",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2477,6 +2589,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -2496,7 +2616,7 @@
    "modelo": "24B35H3",
    "url": "https://aeon.com.sv/shop/20035-monitor-aoc-24-23-8-24b35h3-fhd-1920x1080-120hz-panel-ips-hdmi-vga-hdr-adaptive-sync-vesa-107176",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2620,6 +2740,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 134.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 134.0,
      "precio_lista": null,
      "disponible": true,
@@ -2639,7 +2767,7 @@
    "modelo": "9S63CE41H",
    "url": "https://aeon.com.sv/shop/20061-monitor-msi-2k-mag-274qf-x24-27-ips-qhd-0-5ms-2560x1440-240hz-negro-9s6-3ce41h-057-107202",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2763,6 +2891,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 329.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 329.0,
      "precio_lista": null,
      "disponible": true,
@@ -2869,7 +3005,7 @@
    "modelo": "27B35H3",
    "url": "https://aeon.com.sv/shop/20114-monitor-aoc-27-27b35h3-fhd-1920x1080-120hz-panel-ips-hdmi-vga-hdr-adaptive-sync-vesa-107261",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -2993,6 +3129,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -3012,7 +3156,7 @@
    "modelo": "27G50F2",
    "url": "https://aeon.com.sv/shop/20115-monitor-aoc-27-27g50f2-gaming-fhd-1920x1080-180hz-1-hdmi-1-displayport-1-4-salida-audio-3-5mm-vesa-adaptive-sync-107262",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -3141,6 +3285,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 189.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107262/image_256"
@@ -3155,7 +3307,7 @@
    "modelo": "W3BIIP",
    "url": "https://aeon.com.sv/shop/20266-monitor-acer-kg270-w3biip-27-fhd-240hz-ips-0-5ms-gtg-negro-um-hx0aa-307-hdmi-2-0-y-displayport-107413",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -3308,6 +3460,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 169.9,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107413/image_256"
@@ -3322,7 +3482,7 @@
    "modelo": "GC986B",
    "url": "https://aeon.com.sv/shop/16892-silla-xtrike-me-blue-gc-986b-104035",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -3446,6 +3606,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 169.0,
      "precio_lista": null,
      "disponible": true,
@@ -3592,7 +3760,7 @@
    "modelo": "MTCHR05",
    "url": "https://aeon.com.sv/shop/19463-silla-gamer-meetion-mt-chr05-negro-naranja-106602",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -3716,6 +3884,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 149.0,
      "precio_lista": null,
      "disponible": true,
@@ -3735,7 +3911,7 @@
    "modelo": "CHR14",
    "url": "https://aeon.com.sv/shop/19464-silla-gamer-meetion-chr14-negro-naranja-106603",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -3859,6 +4035,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 214.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 214.0,
      "precio_lista": null,
      "disponible": true,
@@ -3878,7 +4062,7 @@
    "modelo": "GC194",
    "url": "https://aeon.com.sv/shop/19481-silla-gamer-fantech-alpha-gc-194-color-negro-106620",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4002,6 +4186,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 249.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 249.0,
      "precio_lista": null,
      "disponible": true,
@@ -4021,7 +4213,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19482-silla-gamer-fantech-alpha-gc-194-color-azul-106621",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4145,6 +4337,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 249.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 249.0,
      "precio_lista": null,
      "disponible": true,
@@ -4164,7 +4364,7 @@
    "modelo": "GC194",
    "url": "https://aeon.com.sv/shop/19483-silla-gamer-fantech-alpha-gc-194-color-rojo-106622",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4288,6 +4488,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 249.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 249.0,
      "precio_lista": null,
      "disponible": true,
@@ -4307,7 +4515,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/veneno-107350",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4436,6 +4644,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 199.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107350/image_256"
@@ -4450,7 +4666,7 @@
    "modelo": "90NV00G1M001E0",
    "url": "https://aeon.com.sv/shop/18767-consola-asus-rog-xbox-ally-amd-ryzen-z2-a-512gb-16gb-lpddr5-blanco-90nv00g1-m001e0-105910",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4595,6 +4811,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 719.0,
+     "precio_lista": 839.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105910/image_256"
@@ -4655,7 +4879,7 @@
    "modelo": "SNPM04W6C",
    "url": "https://aeon.com.sv/shop/13923-memoria-ram-server-dell-16gb-2rx8-ddr4-rdimm-3200mhz-ecc-aa810826-snpm04w6c-16g-99746",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4779,6 +5003,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 365.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 365.0,
      "precio_lista": null,
      "disponible": true,
@@ -4798,7 +5030,7 @@
    "modelo": "SA400S37",
    "url": "https://aeon.com.sv/shop/08146-disco-de-estado-solido-a400-ssd-960gb-2-5-kingston-sa400s37-960g-97592",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -4922,6 +5154,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 189.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 189.9,
      "precio_lista": null,
      "disponible": true,
@@ -4979,7 +5219,7 @@
    "modelo": "S78440E350",
    "url": "https://aeon.com.sv/shop/17411-unidad-de-estado-solido-msi-480gb-spatium-s270-sata-2-5-ssd-s78-440e350-104575",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -5103,6 +5343,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 114.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 114.0,
      "precio_lista": null,
      "disponible": true,
@@ -5257,7 +5505,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/20228-almacenamiento-ssd-msi-spatium-s270-sata-2-5-960gb-107375",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -5381,6 +5629,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -5400,7 +5656,7 @@
    "modelo": "SNV3S",
    "url": "https://aeon.com.sv/shop/16789-disco-kingston-500g-nv3-m-2-2280-pcie-4-0-nvme-snv3s-500g-97806",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -5524,6 +5780,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 134.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 134.9,
      "precio_lista": null,
      "disponible": true,
@@ -5543,7 +5807,7 @@
    "modelo": "SNV3S",
    "url": "https://aeon.com.sv/shop/16254-almacenamiento-m-2-kingston-nv3-1tb-nvme-2280-ssd-pcie-4-0-snv3s-1000g-96026",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -5672,6 +5936,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/96026/image_256"
@@ -5686,7 +5958,7 @@
    "modelo": "82XQ00PRGJ",
    "url": "https://aeon.com.sv/shop/18255-laptop-lenovo-ideapad-slim-3-amd-ryzen-5-7520u-ram-8gb-ssd-512gb-m-2-amd-radeon-610m-15-6-82xq00prgj-105380",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -5823,6 +6095,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 649.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105380/image_256"
@@ -5837,7 +6117,7 @@
    "modelo": "13420H",
    "url": "https://aeon.com.sv/shop/19226-laptop-acer-nitro-v15-i5-13420h-16-gb-ddr4-rtx-5050-8-gb-ssd-512-gb-15-6-fhd-165-hz-ips-nh-qz7al-002-106370",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -5934,6 +6214,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1399.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/106370/image_256"
@@ -5948,7 +6236,7 @@
    "modelo": "9S715Q342",
    "url": "https://aeon.com.sv/shop/20062-laptop-msi-cyborg-15-i7-13620h-512gb-ssd-16gb-ddr5-rtx5060-8gb-translucent-black-9s7-15q342-663-107203",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6072,6 +6360,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 1850.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 1850.0,
      "precio_lista": null,
      "disponible": true,
@@ -6091,7 +6387,7 @@
    "modelo": "7730U",
    "url": "https://aeon.com.sv/shop/20263-laptop-acer-aspire-go-15-ryzen-7-7730u-16gb-ddr4-512gb-ssd-15-6-fhd-w11h-pure-silver-nx-jjhaa-003-107410",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6228,6 +6524,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 985.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107410/image_256"
@@ -6242,7 +6546,7 @@
    "modelo": "9S715Q342",
    "url": "https://aeon.com.sv/shop/20270-laptop-msi-cyborg-15-i5-13420h-512gb-ssd-16gb-ddr5-rtx5050-8gb-144-hz-ips-translucent-black-9s7-15q342-665-107417",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6331,6 +6635,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 1499.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107417/image_256"
@@ -6345,7 +6657,7 @@
    "modelo": "90NB15V1",
    "url": "https://aeon.com.sv/shop/20271-laptop-asus-vivobook-v16-intel-core-5-210h-ssd-512gb-16gb-ddr5-rtx3050-16-matte-black-w11h-v3607v-90nb15v1-m007d0-107418",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6437,6 +6749,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 1449.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 1449.0,
      "precio_lista": null,
      "disponible": true,
@@ -6502,7 +6822,7 @@
    "modelo": "15FC0047WM",
    "url": "https://aeon.com.sv/shop/20273-laptop-hp-15-fc0047wm-15-6-fhd-ips-ryzen-7-7730u-16gb-ddr4-ssd-512gb-w11-touchscreen-plateada-b8la8ua-a-107420",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6634,6 +6954,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 1209.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 1209.0,
      "precio_lista": null,
      "disponible": true,
@@ -6653,7 +6981,7 @@
    "modelo": "B5PB3UA",
    "url": "https://aeon.com.sv/shop/20274-laptop-hp-omnibook-5-16-2k-ips-ryzen-ai-7-350-16gb-lpddr5-ssd-512-gb-w11-plateada-b5pb3ua-aba-107421",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6790,6 +7118,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 1250.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107421/image_256"
@@ -6804,7 +7140,7 @@
    "modelo": "K552RGBBA",
    "url": "https://aeon.com.sv/shop/6980-teclado-y-mouse-gaming-essentials-redragon-k552rgb-ba-103376",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -6928,6 +7264,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.0,
      "precio_lista": null,
      "disponible": true,
@@ -6947,7 +7291,7 @@
    "modelo": "K630RGB",
    "url": "https://aeon.com.sv/shop/16435-teclado-mecanico-redragon-gaming-dragonborn-negro-rgb-switch-rojo-conexion-usb-k630rgb-103319",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -7071,6 +7415,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -7090,7 +7442,7 @@
    "modelo": "PKS093S",
    "url": "https://aeon.com.sv/shop/09681-teclado-mecanico-primus-ballista-91t-switch-red-pks-093s-103310",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -7214,6 +7566,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.9,
      "precio_lista": null,
      "disponible": true,
@@ -7233,7 +7593,7 @@
    "modelo": "K621RGB",
    "url": "https://aeon.com.sv/shop/16204-teclado-mecanico-gaming-redragon-horus-inalambrico-bluetooth-usbc-negro-rgb-tkl-switch-rojo-k621-rgb-103303",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -7357,6 +7717,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 109.0,
      "precio_lista": null,
      "disponible": true,
@@ -7463,7 +7831,7 @@
    "modelo": "K616RGB",
    "url": "https://aeon.com.sv/shop/16201-teclado-mecanico-gaming-redragon-fizz-pro-60-inalambrico-blanco-rosa-switch-red-usb-tipo-c-2-4ghz-bluetooth-k616-rgb-wp-103299",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -7587,6 +7955,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 75.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 75.0,
      "precio_lista": null,
      "disponible": true,
@@ -7606,7 +7982,7 @@
    "modelo": "MAXFIT87",
    "url": "https://aeon.com.sv/shop/16290-teclado-mecanico-gaming-fantech-mk856-maxfit87-rgb-black-103292",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -7730,6 +8106,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 74.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 74.9,
      "precio_lista": null,
      "disponible": true,
@@ -7892,7 +8276,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/3302-teclado-logitech-k120-alambrico-usb-espanol-920-004422-103264",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8016,6 +8400,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 16.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 16.9,
      "precio_lista": null,
      "disponible": true,
@@ -8035,7 +8427,7 @@
    "modelo": "KUF1256",
    "url": "https://aeon.com.sv/shop/09057-teclado-lenovo-preferred-pro-usb-lector-de-huellas-kuf1256-fra-103259",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8159,6 +8551,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 25.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 25.0,
      "precio_lista": 29.0,
      "disponible": true,
@@ -8178,7 +8578,7 @@
    "modelo": "KGOKEYBRBLK4",
    "url": "https://aeon.com.sv/shop/15597-teclado-inalambrio-jlab-go-bluetooth-y-usb-kgokeybrblk4-103255",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8302,6 +8702,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 33.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 33.99,
      "precio_lista": null,
      "disponible": true,
@@ -8351,7 +8759,7 @@
    "modelo": "KBAZ015",
    "url": "https://aeon.com.sv/shop/10899-teclado-azza-gaming-menbrana-kbaz-015-esp-103175",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8475,6 +8883,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 24.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 24.0,
      "precio_lista": null,
      "disponible": true,
@@ -8548,7 +8964,7 @@
    "modelo": "BALLISTA61T",
    "url": "https://aeon.com.sv/shop/17887-teclado-mecanico-primus-ballista61t-usb-espanol-switch-red-anti-ghosting-20-efectos-luz-125hz-blanco-negro-pks-060w-s-105055",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8672,6 +9088,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -8691,7 +9115,7 @@
    "modelo": "BALLISTA61T",
    "url": "https://aeon.com.sv/shop/17888-teclado-mecanico-primus-ballista61t-usb-espanol-switch-red-anti-ghosting-20-efectos-luz-125hz-negro-pks-060g-105056",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8815,6 +9239,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -8834,7 +9266,7 @@
    "modelo": "CH9194014",
    "url": "https://aeon.com.sv/shop/18688-teclado-corsair-k65-rgb-mini-ingles-60-negro-speed-rgb-silver-ch-9194014-na-105833",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -8958,6 +9390,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -9080,7 +9520,7 @@
    "modelo": "K552KR",
    "url": "https://aeon.com.sv/shop/18898-teclado-redragon-gaming-kumara-usb-negro-rainbow-tkl-switch-rojo-k552-kr-mecanico-106041",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -9204,6 +9644,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.99,
      "precio_lista": null,
      "disponible": true,
@@ -9223,7 +9671,7 @@
    "modelo": "K589RGB",
    "url": "https://aeon.com.sv/shop/18902-teclado-mecanico-redragon-shrapnel-negro-switch-azul-full-size-low-profile-usb-tipo-a-rgb-chroma-k589rgb-sp-blue-open-box-106045",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -9347,6 +9795,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.9,
      "precio_lista": null,
      "disponible": true,
@@ -9366,7 +9822,7 @@
    "modelo": "KJBUDSKEYRBLK4",
    "url": "https://aeon.com.sv/shop/19087-teclado-bluetooth-jlab-jbuds-keyboard-us-black-recargable-3-dispositivos-bt-usb-dongle-kjbudskeyrblk4-106231",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -9490,6 +9946,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 46.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 46.9,
      "precio_lista": null,
      "disponible": true,
@@ -9509,7 +9973,7 @@
    "modelo": "K617RGBMP",
    "url": "https://aeon.com.sv/shop/20191-teclado-mecanico-gaming-usb-redragon-fizz-magnetic-k617rgb-mp-60-rapid-trigger-y-dks-conexion-usb-c-107338",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -9638,6 +10102,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107338/image_256"
@@ -9652,7 +10124,7 @@
    "modelo": "K668WBORGB",
    "url": "https://aeon.com.sv/shop/trundle-107339",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-28",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -9725,6 +10197,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 59.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107339/image_256"
@@ -9739,7 +10219,7 @@
    "modelo": "K673RGBM",
    "url": "https://aeon.com.sv/shop/ucal-107340",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-28",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -9807,6 +10287,14 @@
     },
     {
      "fecha": "2026-10-28T12:34:21-06:00",
+     "precio": 54.0,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 54.0,
      "precio_lista": 59.9,
      "disponible": true,
@@ -10040,7 +10528,7 @@
    "modelo": "KMGOBUNDLE4",
    "url": "https://aeon.com.sv/shop/15598-combo-teclado-y-mouse-inalambrico-jlab-go-kmgobundle4-97218",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -10164,6 +10652,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.99,
      "precio_lista": null,
      "disponible": true,
@@ -10183,7 +10679,7 @@
    "modelo": "KCK270S",
    "url": "https://aeon.com.sv/shop/11726-combo-klip-xtreme-inalambrico-de-teclado-y-mouse-kck-270s-97188",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -10307,6 +10803,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 21.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 21.0,
      "precio_lista": null,
      "disponible": true,
@@ -10326,7 +10830,7 @@
    "modelo": "MK120",
    "url": "https://aeon.com.sv/shop/6807-combo-de-teclado-y-mouse-mk120-logitech-usb-920-004428-97169",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -10450,6 +10954,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 24.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 24.99,
      "precio_lista": null,
      "disponible": true,
@@ -10469,7 +10981,7 @@
    "modelo": "MK235",
    "url": "https://aeon.com.sv/shop/16006-mk235-teclado-wireless-y-mouse-logitech-espanol-920-007901-100080",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -10593,6 +11105,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -10612,7 +11132,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/17400-combo-mouse-y-teclado-logitech-pop-icon-graphite-espanol-920-013052-104564",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -10736,6 +11256,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.95,
      "precio_lista": null,
      "disponible": true,
@@ -10755,7 +11283,7 @@
    "modelo": "BS8343A",
    "url": "https://aeon.com.sv/shop/19787-combo-teclado-y-mouse-redragon-inalambrico-negro-bs-8343a-no-incluye-baterias-106928",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -10879,6 +11407,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.9,
      "precio_lista": null,
      "disponible": true,
@@ -10898,7 +11434,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/20194-combo-de-teclado-y-mouse-usb-gaming-redragon-s141-membrana-26-teclas-anti-ghosting-y-controles-multimedia-dedicados-107341",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -11022,6 +11558,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 35.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 35.9,
      "precio_lista": null,
      "disponible": true,
@@ -11041,7 +11585,7 @@
    "modelo": "CW295",
    "url": "https://aeon.com.sv/shop/20252-combo-teclado-y-mouse-meetion-cw295-inalambrico-esp-negro-cw295-107399",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:31:34-06:00",
@@ -11170,6 +11714,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107399/image_256"
@@ -11184,7 +11736,7 @@
    "modelo": "EBGOPODSRBLK124",
    "url": "https://aeon.com.sv/shop/19603-audifonos-jlab-go-pods-color-negro-ebgopodsrblk124-106744",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -11308,6 +11860,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 34.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 34.9,
      "precio_lista": null,
      "disponible": true,
@@ -11327,7 +11887,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19605-audifonos-jlab-go-pods-anc-color-lila-106746",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -11451,6 +12011,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 34.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 34.9,
      "precio_lista": null,
      "disponible": true,
@@ -11470,7 +12038,7 @@
    "modelo": "NOP02",
    "url": "https://aeon.com.sv/shop/11354-audifonos-3-5mm-broadcaster-for-ps4-y-ps5-nop-02-96104",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -11594,6 +12162,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.0,
      "precio_lista": null,
      "disponible": true,
@@ -11613,7 +12189,7 @@
    "modelo": "XTH500",
    "url": "https://aeon.com.sv/shop/09235-headset-xtech-voracis-wired-xth-500-3-5mm-98621",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -11737,6 +12313,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 12.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 12.0,
      "precio_lista": null,
      "disponible": true,
@@ -11756,7 +12340,7 @@
    "modelo": "0R3U1",
    "url": "https://aeon.com.sv/shop/09412-headset-razer-blackshark-v2-x-wired-green-rz04-0324010-0-r3u1-98598",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -11880,6 +12464,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.95,
      "precio_lista": null,
      "disponible": true,
@@ -11899,7 +12491,7 @@
    "modelo": "IME21911",
    "url": "https://aeon.com.sv/shop/6938-headset-imexx-diadema-jack-3-5mm-audio-mic-ime-21911-98554",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -12023,6 +12615,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 6.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 6.0,
      "precio_lista": null,
      "disponible": true,
@@ -12042,7 +12642,7 @@
    "modelo": "S6SYYP003",
    "url": "https://aeon.com.sv/shop/12276-headset-gaming-skullcandy-slyr-wired-black-multi-platform-digihype-pc-s6syy-p003-98535",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -12166,6 +12766,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -12223,7 +12831,7 @@
    "modelo": "GHNHTFALLRBLK4",
    "url": "https://aeon.com.sv/shop/15596-headset-gaming-jlab-nightfall-bk-ghnhtfallrblk4-98481",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -12360,6 +12968,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 34.9,
+     "precio_lista": 49.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/98481/image_256"
@@ -12374,7 +12990,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16440-headset-gamer-redragon-cybill-rgb-wired-h312-usb-sonido-7-1-microfono-desmontable-98434",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -12498,6 +13114,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 54.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 54.9,
      "precio_lista": null,
      "disponible": true,
@@ -12660,7 +13284,7 @@
    "modelo": "RZ0405180200",
    "url": "https://aeon.com.sv/shop/17896-headset-razer-kraken-v4-x-minecraft-edition-usb-c-a-rz04-05180200-r3m1-105064",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -12784,6 +13408,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -12946,7 +13578,7 @@
    "modelo": "CA9011235",
    "url": "https://aeon.com.sv/shop/18416-headset-corsair-hs80-rgb-wireless-carbon-pc-mac-playstation-4-y-5-ca-9011235-na-105563",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13070,6 +13702,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 149.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 149.9,
      "precio_lista": null,
      "disponible": true,
@@ -13089,7 +13729,7 @@
    "modelo": "CA9011370",
    "url": "https://aeon.com.sv/shop/18422-headset-corsair-virtuoso-pro-aluminio-3-5mm-open-headset-cue-ca-9011370-na-color-negro-105569",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13218,6 +13858,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 199.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105569/image_256"
@@ -13232,7 +13880,7 @@
    "modelo": "CA9011371",
    "url": "https://aeon.com.sv/shop/18423-headset-corsair-virtuoso-pro-aluminio-3-5mm-open-headset-cue-ca-9011371-na-color-blanco-105570",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13369,6 +14017,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 159.9,
+     "precio_lista": 199.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/105570/image_256"
@@ -13383,7 +14039,7 @@
    "modelo": "CA9011185",
    "url": "https://aeon.com.sv/shop/18427-headset-corsair-virtuoso-rgb-wireless-negro-ca-9011185-na-105574",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13507,6 +14163,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 229.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 229.0,
      "precio_lista": null,
      "disponible": true,
@@ -13526,7 +14190,7 @@
    "modelo": "CA9011261",
    "url": "https://aeon.com.sv/shop/18671-headset-corsair-hs55-stereo-blanco-ca-9011261-na-105816",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13650,6 +14314,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.0,
      "precio_lista": null,
      "disponible": true,
@@ -13669,7 +14341,7 @@
    "modelo": "JBLQTUM250BLKAM",
    "url": "https://aeon.com.sv/shop/19325-headset-jbl-quantum-250-gaming-jblqtum250blkam-106467",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13793,6 +14465,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.9,
+     "precio_lista": 54.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.9,
      "precio_lista": 54.9,
      "disponible": true,
@@ -13812,7 +14492,7 @@
    "modelo": "JBLQTUM100M2BLKAM",
    "url": "https://aeon.com.sv/shop/19326-headset-jbl-quantum-100-m2-gaming-black-jblqtum100m2blkam-pc-ps4-ps5-xbox-nintendo-switch-y-mac-106468",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -13936,6 +14616,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -13955,7 +14643,7 @@
    "modelo": "JBLQTUM100M2WHTAM",
    "url": "https://aeon.com.sv/shop/19397-headset-jbl-quantum-100-m2-gaming-white-jblqtum100m2whtam-106536",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14079,6 +14767,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -14098,7 +14794,7 @@
    "modelo": "RZ0405180300",
    "url": "https://aeon.com.sv/shop/19788-headset-razer-kraken-v4-x-pokemon-edition-amarillo-rz04-05180300-r3m1-106929",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14222,6 +14918,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 98.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 98.0,
      "precio_lista": null,
      "disponible": true,
@@ -14241,7 +14945,7 @@
    "modelo": "JBLQTUM250WHTAM",
    "url": "https://aeon.com.sv/shop/20041-headset-jbl-quantum-250-gaming-jblqtum250whtam-107182",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14365,6 +15069,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.9,
      "precio_lista": null,
      "disponible": true,
@@ -14384,7 +15096,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/cragblade-107342",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14508,6 +15220,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 34.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 34.9,
      "precio_lista": null,
      "disponible": true,
@@ -14527,7 +15247,7 @@
    "modelo": "CA9011379",
    "url": "https://aeon.com.sv/shop/20248-headset-corsair-void-wireless-v2-negro-dolby-atmos-bateria-de-70-horas-carga-rapida-pc-ps5-ps4-switch-movil-ca-9011379-ww-107395",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14651,6 +15371,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 134.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 134.0,
      "precio_lista": null,
      "disponible": true,
@@ -14670,7 +15398,7 @@
    "modelo": "XTMD406ST",
    "url": "https://aeon.com.sv/shop/16708-mouse-xtech-disney-stitch-usb-1200dpi-yellow-xtm-d406st-yl-101086",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14794,6 +15522,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 9.0,
+     "precio_lista": 12.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 9.0,
      "precio_lista": 12.99,
      "disponible": true,
@@ -14813,7 +15549,7 @@
    "modelo": "PAW2395",
    "url": "https://aeon.com.sv/shop/16421-mouse-redragon-fyzu-blanco-m995w-50-26000-dpi-6-botones-51grms-sensor-paw2395-usb-101045",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -14937,6 +15673,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.99,
      "precio_lista": null,
      "disponible": true,
@@ -14956,7 +15700,7 @@
    "modelo": "RZ0104870100",
    "url": "https://aeon.com.sv/shop/16665-mouse-razer-basilisk-v3-x-hyperspeed-ergonomic-wireless-rz01-04870100-r3u1-101039",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15080,6 +15824,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -15099,7 +15851,7 @@
    "modelo": "000DPI",
    "url": "https://aeon.com.sv/shop/09202-mouse-logitech-g203-linghtsync-rgb-8-000dpi-black-910-005790-100901",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15223,6 +15975,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 29.9,
      "precio_lista": null,
      "disponible": true,
@@ -15242,7 +16002,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/12459-mouse-gaming-xpg-slingshot-optico-botones-macro-usb-slingshot-bkcww-100869",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15366,6 +16126,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 45.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 45.0,
      "precio_lista": null,
      "disponible": true,
@@ -15385,7 +16153,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/12760-mouse-gaming-riotoro-nadix-rgb-10-000-dpi-optico-usb-100856",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15509,6 +16277,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 35.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 35.0,
      "precio_lista": null,
      "disponible": true,
@@ -15528,7 +16304,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/12762-mouse-gaming-riotoro-aurox-black-prism-rgb-10-000-dpi-optical-usb-100855",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15652,6 +16428,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -15671,7 +16455,7 @@
    "modelo": "P3325",
    "url": "https://aeon.com.sv/shop/16424-mouse-gaming-redragon-cobra-sensor-pixart-p3325-10-000dpi-rgb-chroma-8-botones-programables-m711w-blanco-100849",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15795,6 +16579,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 32.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 32.9,
      "precio_lista": null,
      "disponible": true,
@@ -15814,7 +16606,7 @@
    "modelo": "M711FPS",
    "url": "https://aeon.com.sv/shop/4896-mouse-gaming-redragon-cobra-fps-sensor-pixart-p3325-32-000-dpi-rgb-chroma-8-botones-programables-m711-fps-1-negro-100848",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -15938,6 +16730,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -15957,7 +16757,7 @@
    "modelo": "M719RGB",
    "url": "https://aeon.com.sv/shop/08474-mouse-gaming-redragon-invader-m719-rgb-black-125-hz-1-000-hz-ambidiestro-10k-dpi-78grms-8-botones-programables-100845",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16081,6 +16881,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 29.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 29.0,
      "precio_lista": null,
      "disponible": true,
@@ -16100,7 +16908,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16330-mouse-gaming-logitech-usb-g203-lightsync-blue-910-005792-100812",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16224,6 +17032,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 29.9,
      "precio_lista": null,
      "disponible": true,
@@ -16243,7 +17059,7 @@
    "modelo": "CH931C011",
    "url": "https://aeon.com.sv/shop/11366-mouse-gaming-corsair-katar-pro-wireless-slipstream-135hrs-ch-931c011-na-100782",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16367,6 +17183,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -16386,7 +17210,7 @@
    "modelo": "GM300",
    "url": "https://aeon.com.sv/shop/16667-mouse-gamer-msi-7200-dpi-5-modos-rgb-usb-gm300-100765",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16510,6 +17334,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -16529,7 +17361,7 @@
    "modelo": "CH9301111",
    "url": "https://aeon.com.sv/shop/16904-mouse-corsair-harpoon-pro-black-rg-ch-9301111-na-104013",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16653,6 +17485,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -16672,7 +17512,7 @@
    "modelo": "M616RGB",
    "url": "https://aeon.com.sv/shop/18892-mouse-redragon-trident-basic-m616-rgb-800-1200-1600-2400-10000-dpi-6-botones-106035",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16796,6 +17636,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 24.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 24.9,
      "precio_lista": null,
      "disponible": true,
@@ -16815,7 +17663,7 @@
    "modelo": "RZ0104650400",
    "url": "https://aeon.com.sv/shop/19793-mouse-razer-cobra-pokemon-edition-amarillo-58g-ultraligero-interruptores-opticos-de-gen-3-iluminacion-chroma-rgb-sensor-optico-preciso-de-8500-dpi-rz01-04650400-r3m1-106934",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -16939,6 +17787,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 59.0,
+     "precio_lista": 64.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 59.0,
      "precio_lista": 64.9,
      "disponible": true,
@@ -16958,7 +17814,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/k1ng-pro-107336",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -17082,6 +17938,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.9,
      "precio_lista": null,
      "disponible": true,
@@ -17101,7 +17965,7 @@
    "modelo": "400MAH",
    "url": "https://aeon.com.sv/shop/k1ng-ultra-107337",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -17225,6 +18089,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.9,
      "precio_lista": null,
      "disponible": true,
@@ -17244,7 +18116,7 @@
    "modelo": "CH931F000",
    "url": "https://aeon.com.sv/shop/m55w-107396",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:02:54-06:00",
@@ -17368,6 +18240,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 47.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 47.5,
      "precio_lista": null,
      "disponible": true,
@@ -17450,7 +18330,7 @@
    "modelo": "KG962SPR",
    "url": "https://aeon.com.sv/shop/18260-teclado-marvo-tipo-c-entrada-usb-tipo-a-salida-color-negro-rainbow-switch-red-kg962sp-r-105383",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-23T11:21:52-06:00",
@@ -17550,6 +18430,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.0,
      "precio_lista": null,
      "disponible": true,
@@ -17569,7 +18457,7 @@
    "modelo": "CA9011202",
    "url": "https://aeon.com.sv/shop/voidrgbelite-107455",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-23T11:21:52-06:00",
@@ -17669,6 +18557,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 125.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 125.0,
      "precio_lista": null,
      "disponible": true,
@@ -17688,7 +18584,7 @@
    "modelo": "RZ0405420100",
    "url": "https://aeon.com.sv/shop/20307-headset-razer-blackshark-v3-x-hyperspeed-negro-mac-ps5-nintendo-switch-conexion-2-4-ghz-bluetooth-usb-rz04-05420100-r3u1-107456",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-23T11:21:52-06:00",
@@ -17793,6 +18689,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107456/image_256"
@@ -17807,7 +18711,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/20310-teclado-logitech-g515-tkl-black-lightspeed-usb-c-uso-cableado-rgb-teclas-pbt-doble-inyeccion-920-012868-107459",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-23T16:47:33-06:00",
@@ -17907,6 +18811,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -17926,7 +18838,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/20314-teclado-numerico-argom-rectractil-conexion-usb-arg-kb-1076-107463",
    "primera_vez": "2026-10-23",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-23T16:47:33-06:00",
@@ -18031,6 +18943,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 9.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107463/image_256"
@@ -18045,7 +18965,7 @@
    "modelo": "24G50F",
    "url": "https://aeon.com.sv/shop/20327-monitor-aoc-24-23-8-gaming-1920x1080-165-hz-led-full-hd-2-hdmi-1-displayport-amd-freesync-hsr-24g50f-24g50f-107476",
    "primera_vez": "2026-10-26",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-26T17:31:24-06:00",
@@ -18121,6 +19041,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.9,
      "precio_lista": null,
      "disponible": true,
@@ -18140,7 +19068,7 @@
    "modelo": "CH931D102",
    "url": "https://aeon.com.sv/shop/m75air-107397",
    "primera_vez": "2026-10-26",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-26T17:31:24-06:00",
@@ -18221,6 +19149,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 42.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107397/image_256"
@@ -18235,7 +19171,7 @@
    "modelo": "MP275",
    "url": "https://aeon.com.sv/shop/20337-monitor-msi-pro-mp275-e2-27-ips-full-hd-120hz-1ms-freesync-3pd3-107486",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:42:02-06:00",
@@ -18308,6 +19244,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 184.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107486/image_256"
@@ -18322,7 +19266,7 @@
    "modelo": "CH9317011",
    "url": "https://aeon.com.sv/shop/20338-mouse-gamer-corsair-ironclaw-rgb-wireless-18000-dpi-bluetooth-slipstream-10-botones-ch-9317011-n-107487",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T12:40:21-06:00",
@@ -18379,6 +19323,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107487/image_256"
@@ -18393,7 +19345,7 @@
    "modelo": "ZAF00113PA",
    "url": "https://aeon.com.sv/shop/19699-tableta-lenovo-tab-one-zaf00113pa-106840",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18445,6 +19397,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -18464,7 +19424,7 @@
    "modelo": "LBSWQ4M",
    "url": "https://aeon.com.sv/shop/14066-smartwatch-lamborghini-aventador-q4-metal-reloj-inteligente-lb-swq4m-outlet-102648",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18516,6 +19476,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 165.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 165.0,
      "precio_lista": null,
      "disponible": true,
@@ -18535,7 +19503,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/14065-smartwatch-lamborghini-aventador-cerchio-nero-reloj-inteligente-lb-swnero-outlet-open-box-102647",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18587,6 +19555,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 145.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 145.0,
      "precio_lista": null,
      "disponible": true,
@@ -18606,7 +19582,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16702-smartwatch-xiaomi-redmi-5-active-midnight-black-pantalla-lcd-bateria-18-dias-llamadas-bluetooth-57760-103964",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18658,6 +19634,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -18677,7 +19661,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16703-smartwatch-xiaomi-redmi-5-active-silver-matte-pantalla-lcd-bateria-18-dias-llamadas-bluetooth-57766-103963",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18729,6 +19713,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -18748,7 +19740,7 @@
    "modelo": "V12GTN",
    "url": "https://aeon.com.sv/shop/16875-smartwatch-lamborghini-v12-ip67-7-10-dias-bluetooth-lb-sw-v12gtn-104039",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18800,6 +19792,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 99.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 99.99,
      "precio_lista": null,
      "disponible": true,
@@ -18819,7 +19819,7 @@
    "modelo": "HIFZONE3BLK",
    "url": "https://aeon.com.sv/shop/20142-reloj-inteligente-smartwatch-hifuture-zone-3-con-monitor-de-salud-y-actividad-fisica-puede-recibir-llamadas-certificacion-ip68-bateria-hasta-7-dias-100-modos-deportes-color-negro-hif-zone3blk-107289",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18871,6 +19871,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.99,
      "precio_lista": null,
      "disponible": true,
@@ -18890,7 +19898,7 @@
    "modelo": "HIFZONE3RGD",
    "url": "https://aeon.com.sv/shop/20143-reloj-inteligente-smartwatch-hifuture-zone-3-con-monitor-de-salud-y-actividad-fisica-puede-recibir-llamadas-certificacion-ip68-bateria-hasta-7-dias-100-modos-deportes-color-rosa-hifzone3rgd-107290",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -18942,6 +19950,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.99,
      "precio_lista": null,
      "disponible": true,
@@ -18961,7 +19977,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/20144-reloj-inteligente-samartwach-hifuture-edge-con-monitor-de-salud-y-actividad-fisica-100-mmodos-deporte-puede-recibir-llamadas-ip67-hasta-7-dias-de-bateria-negro-1-72-hif-edgeblk-107291",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19013,6 +20029,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 54.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 54.99,
      "precio_lista": null,
      "disponible": true,
@@ -19032,7 +20056,7 @@
    "modelo": "HIFFLEX2BLK",
    "url": "https://aeon.com.sv/shop/20145-reloj-inteligente-smartwatch-hifuture-flex-2-con-monitor-de-salud-oxigeno-en-sangre-y-actividad-fisica-100-modos-puede-recibir-llamadas-ip67-con-hasta-10-dias-de-bateria-hif-flex2blk-107292",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19084,6 +20108,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 56.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 56.99,
      "precio_lista": null,
      "disponible": true,
@@ -19103,7 +20135,7 @@
    "modelo": "2SKSK1848O0L2",
    "url": "https://aeon.com.sv/shop/15834-bocina-skullcandy-terrain-xl-gris-claro-2sksk1848o0l2-96350",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19155,6 +20187,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 85.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 85.0,
      "precio_lista": null,
      "disponible": true,
@@ -19174,7 +20214,7 @@
    "modelo": "2SKSK1847M0L2",
    "url": "https://aeon.com.sv/shop/15830-bocina-skullcandy-terrain-rojo-astro-dust-2sksk1847m0l2-96348",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19226,6 +20266,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 74.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 74.99,
      "precio_lista": null,
      "disponible": true,
@@ -19245,7 +20293,7 @@
    "modelo": "2SKSK1847N0L2",
    "url": "https://aeon.com.sv/shop/16362-bocina-skullcandy-terrain-azul-blaze-2sksk1847n0l2-96345",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19297,6 +20345,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 74.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 74.99,
      "precio_lista": null,
      "disponible": true,
@@ -19316,7 +20372,7 @@
    "modelo": "2SKSK2010B0L2",
    "url": "https://aeon.com.sv/shop/15825-bocinas-skullcandy-ounce-negra-bluetooth-5-3-ipx7-resistente-al-agua-16hrs-usb-c-2sksk2010b0l2-96343",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19368,6 +20424,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 34.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 34.99,
      "precio_lista": null,
      "disponible": true,
@@ -19387,7 +20451,7 @@
    "modelo": "2SKSK1845O0L2",
    "url": "https://aeon.com.sv/shop/15826-bocinas-skullcandy-kilo-gris-bluetooth-5-3-ipx7-resistente-al-agua-24hrs-usb-c-2sksk1845o0l2-96342",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19439,6 +20503,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 47.0,
      "precio_lista": null,
      "disponible": true,
@@ -19458,7 +20530,7 @@
    "modelo": "2SKSK1845N0L2",
    "url": "https://aeon.com.sv/shop/15827-bocinas-skullcandy-kilo-azul-bluetooth-5-3-ipx7-resistente-al-agua-24hrs-usb-c-2sksk1845n0l2-96341",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19510,6 +20582,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 47.0,
      "precio_lista": null,
      "disponible": true,
@@ -19529,7 +20609,7 @@
    "modelo": "MDC013H",
    "url": "https://aeon.com.sv/shop/15762-bocina-mdc-usb-output-2-5w-black-mdc-013h-96309",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19581,6 +20661,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 6.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 6.0,
      "precio_lista": null,
      "disponible": true,
@@ -19600,7 +20688,7 @@
    "modelo": "2SKSK1845B0L2",
    "url": "https://aeon.com.sv/shop/17534-bocina-skullcandy-kilo-negra-bluetooth-5-3-ipx7-resistente-al-agua-24hrs-usb-c-2sksk1845b0l2-104701",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19652,6 +20740,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 47.0,
      "precio_lista": null,
      "disponible": true,
@@ -19671,7 +20767,7 @@
    "modelo": "2SKSK1846B0L2",
    "url": "https://aeon.com.sv/shop/17536-bocina-skullcandy-terrain-mini-negro-2sksk1846b0l2-104703",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19723,6 +20819,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.99,
      "precio_lista": null,
      "disponible": true,
@@ -19742,7 +20846,7 @@
    "modelo": "2SKSK2010N0L2",
    "url": "https://aeon.com.sv/shop/17663-bocinas-skullcandy-ounce-azul-navy-bluetooth-5-3-ipx7-resistente-al-agua-16hrs-usb-c-2sksk2010n0l2-104830",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19794,6 +20898,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 34.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 34.99,
      "precio_lista": null,
      "disponible": true,
@@ -19813,7 +20925,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/18375-parlante-edifier-es60-bluetooth-ivory-105522",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19865,6 +20977,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -19884,7 +21004,7 @@
    "modelo": "G1500",
    "url": "https://aeon.com.sv/shop/18373-parlante-edifier-g1500-max-bluetooth-5-3-usb-a-usb-c-and-3-5mm-aux-rgb-negro-105520",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -19936,6 +21056,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.99,
      "precio_lista": null,
      "disponible": true,
@@ -19955,7 +21083,7 @@
    "modelo": "S2000MKLLL",
    "url": "https://aeon.com.sv/shop/19513-parlante-edifier-clasico-hi-fi-bluetooth-cafe-s2000mklll-106652",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20007,6 +21135,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 539.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 539.0,
      "precio_lista": null,
      "disponible": true,
@@ -20026,7 +21162,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19530-bocina-portatil-jbl-grip-bluetooth-negra-jblgripblkam-106669",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20078,6 +21214,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.95,
      "precio_lista": null,
      "disponible": true,
@@ -20097,7 +21241,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19532-bocina-portatil-jbl-grip-bluetooth-azul-jblgripbluam-106671",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20149,6 +21293,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.95,
      "precio_lista": null,
      "disponible": true,
@@ -20168,7 +21320,7 @@
    "modelo": "SG118",
    "url": "https://aeon.com.sv/shop/20094-bocinas-usb-marvo-2-0-3-watts-iluminacion-rgb-sg-118-107235",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20220,6 +21372,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 12.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 12.0,
      "precio_lista": null,
      "disponible": true,
@@ -20270,7 +21430,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/4404-camara-web-logitech-c270-hd-720p-960-000694-96682",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20322,6 +21482,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 24.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 24.95,
      "precio_lista": null,
      "disponible": true,
@@ -20341,7 +21509,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/13829-camara-web-logitech-brio-100-1080p-full-hd-usb-graphite-960-001586-96681",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20393,6 +21561,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 54.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 54.99,
      "precio_lista": null,
      "disponible": true,
@@ -20412,7 +21588,7 @@
    "modelo": "WGOCAMRBLK124",
    "url": "https://aeon.com.sv/shop/15600-camara-web-jlab-go-cam-wgocamrblk124-96678",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20464,6 +21640,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 55.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 55.0,
      "precio_lista": null,
      "disponible": true,
@@ -20483,7 +21667,7 @@
    "modelo": "MABC1PB",
    "url": "https://aeon.com.sv/shop/11546-camara-para-vehiculo-moto-bicicleta-riotoro-rcam-vision-2k-dashcam-infrared-laser-mabc1pb-96671",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20535,6 +21719,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 285.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 285.0,
      "precio_lista": null,
      "disponible": true,
@@ -20554,7 +21746,7 @@
    "modelo": "C930E",
    "url": "https://aeon.com.sv/shop/09695-camara-logitech-webcam-c930e-1920x1080-960-000971-96670",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20606,6 +21798,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 135.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 135.0,
      "precio_lista": null,
      "disponible": true,
@@ -20625,7 +21825,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/10855-camara-hik-turbo-1080p-camara-bala-2-8mm-ir-20m-metal-ip66-96661",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20677,6 +21877,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 25.0,
+     "precio_lista": 30.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 25.0,
      "precio_lista": 30.0,
      "disponible": true,
@@ -20696,7 +21904,7 @@
    "modelo": "C920S",
    "url": "https://aeon.com.sv/shop/09690-logitech-hd-pro-webcam-c920s-webcam-color-1920-x-1080-audio-960-001257-99529",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20748,6 +21956,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 94.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 94.9,
      "precio_lista": null,
      "disponible": true,
@@ -20767,7 +21983,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16929-camara-logitech-gaming-c922-pro-stream-webcam-960-001087-104053",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20819,6 +22035,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 124.0,
+     "precio_lista": 149.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 124.0,
      "precio_lista": 149.0,
      "disponible": true,
@@ -20838,7 +22062,7 @@
    "modelo": "NHCOP10",
    "url": "https://aeon.com.sv/shop/17445-camara-ptz-nexxt-home-outdoor-nhc-op10-104609",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20890,6 +22114,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -20909,7 +22141,7 @@
    "modelo": "KWC750",
    "url": "https://aeon.com.sv/shop/kwc-750-107115",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -20961,6 +22193,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -20980,7 +22220,7 @@
    "modelo": "NHCIP16",
    "url": "https://aeon.com.sv/shop/20318-camara-ptz-nexxt-home-interior-camera-2k-3mp-dv-edition-nhc-ip16-dv-107467",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21032,6 +22272,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -21051,7 +22299,7 @@
    "modelo": "AC1300",
    "url": "https://aeon.com.sv/shop/13894-adaptador-usb-inalambrico-tp-link-usb-archer-t3u-nano-doble-banda-ac1300-5ghz-867-mbps-5-ghz-400-banda-de-2-4-ghz-95971",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21103,6 +22351,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 24.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 24.9,
      "precio_lista": null,
      "disponible": true,
@@ -21122,7 +22378,7 @@
    "modelo": "XTC376",
    "url": "https://aeon.com.sv/shop/13948-adaptador-de-red-xtech-con-conector-usb-3-0-a-rj-45-xtc-376-95944",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21174,6 +22430,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 14.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 14.0,
      "precio_lista": null,
      "disponible": true,
@@ -21193,7 +22457,7 @@
    "modelo": "RGEW1200",
    "url": "https://aeon.com.sv/shop/13145-router-ruijie-rg-ew1200-mesh-de-4-pts-doble-banda-ac-1200-mu-mino-102387",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21245,6 +22509,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -21264,7 +22536,7 @@
    "modelo": "AC600",
    "url": "https://aeon.com.sv/shop/17631-tarjeta-de-red-inalambrica-pci-tp-link-doble-banda-ac600-archer-t2e-los-profile-433-mbps-5-ghz-y-200-mbps-banda-de-2-4-ghz-rtpl-archer-t2e-104798",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21316,6 +22588,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.9,
      "precio_lista": null,
      "disponible": true,
@@ -21335,7 +22615,7 @@
    "modelo": "AC1200",
    "url": "https://aeon.com.sv/shop/17649-router-mesh-nexxt-bolt-ac1200-1-nodo-mbps-1200mbps-wifi-5-104816",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21387,6 +22667,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -21406,7 +22694,7 @@
    "modelo": "NCMC1200",
    "url": "https://aeon.com.sv/shop/17650-router-mesh-nexxt-bolt-ac1200-2-nodos-mbps-1200mbps-wifi-5-ncm-c1200-2pk-104817",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21458,6 +22746,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.9,
      "precio_lista": null,
      "disponible": true,
@@ -21477,7 +22773,7 @@
    "modelo": "RTAC1200",
    "url": "https://aeon.com.sv/shop/18503-router-asus-ac1200-dual-band-wi-fi-router-with-four-antennas-rt-ac1200-v2-105650",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21529,6 +22825,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -21548,7 +22852,7 @@
    "modelo": "AX1500",
    "url": "https://aeon.com.sv/shop/18505-router-tp-link-archer-ax12-router-wifi6-ax1500-dualband-gigabit-105652",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21600,6 +22904,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 57.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 57.9,
      "precio_lista": null,
      "disponible": true,
@@ -21690,7 +23002,7 @@
    "modelo": "AC600",
    "url": "https://aeon.com.sv/shop/19068-adaptador-usb-inalambrico-tp-link-archer-t2u-plus-ac600-433-mbps-5-0-ghz-2-4-ghz-wi-fi-5-doble-banda-puerto-usb-2-0-0152502274-106212",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21742,6 +23054,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.9,
      "precio_lista": null,
      "disponible": true,
@@ -21761,7 +23081,7 @@
    "modelo": "AX5400",
    "url": "https://aeon.com.sv/shop/19243-adaptador-usb-wifi-cudy-ax5400-tri-band-wifi-6e-wu5400-106387",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21813,6 +23133,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 27.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 27.0,
      "precio_lista": null,
      "disponible": true,
@@ -21832,7 +23160,7 @@
    "modelo": "AC1300",
    "url": "https://aeon.com.sv/shop/19249-adaptador-wifi-usb-cudy-ac1300-wireless-duali-band-wu1400-106393",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21884,6 +23212,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 16.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 16.5,
      "precio_lista": null,
      "disponible": true,
@@ -21903,7 +23239,7 @@
    "modelo": "AX1500",
    "url": "https://aeon.com.sv/shop/19251-mesh-cudy-ax1500-blanco-m1500-2-pack-eu-wifi-6-dual-band-cubre-hasta-1000-pies-cuadrados-3-puertos-gigabit-por-unidad-106395",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -21955,6 +23291,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -21974,7 +23318,7 @@
    "modelo": "AX1800",
    "url": "https://aeon.com.sv/shop/19717-router-tp-link-archer-ax23-wifi-6-ax1800-106858",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22026,6 +23370,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.9,
      "precio_lista": null,
      "disponible": true,
@@ -22045,7 +23397,7 @@
    "modelo": "WU1300S",
    "url": "https://aeon.com.sv/shop/19750-adaptador-wifi-usb-cudy-ac1300-wireless-doble-banda-wu1300s-106891",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22097,6 +23449,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 14.9,
      "precio_lista": null,
      "disponible": true,
@@ -22116,7 +23476,7 @@
    "modelo": "AC1200",
    "url": "https://aeon.com.sv/shop/19791-router-cudy-ac1200-dual-band-blanco-wr1200-eu-4-stream-dual-band-wi-fi-5-867-mbps-300-mbps-antenas-de-alta-ganancia-106932",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22168,6 +23528,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 26.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 26.9,
      "precio_lista": null,
      "disponible": true,
@@ -22187,7 +23555,7 @@
    "modelo": "AX3000",
    "url": "https://aeon.com.sv/shop/19792-adaptador-wifi-bluetooth-pcie-cudy-ax3000-dual-band-wifi-6-we3000-106933",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22239,6 +23607,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 32.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 32.9,
      "precio_lista": null,
      "disponible": true,
@@ -22258,7 +23634,7 @@
    "modelo": "AX900",
    "url": "https://aeon.com.sv/shop/20000-adaptador-usb-wifi-cudy-ax900-dual-band-wifi6-wu900-107141",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22310,6 +23686,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 12.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 12.9,
      "precio_lista": null,
      "disponible": true,
@@ -22329,7 +23713,7 @@
    "modelo": "AX1500",
    "url": "https://aeon.com.sv/shop/20066-router-mercusys-mr60x-ax1500-dualband-wifi-6-router-107207",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22381,6 +23765,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -22400,7 +23792,7 @@
    "modelo": "BE6500",
    "url": "https://aeon.com.sv/shop/20290-adaptador-usb-wifi-cudy-be6500-tri-band-wifi-7-wu6500-107437",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22457,6 +23849,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 34.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107437/image_256"
@@ -22471,7 +23871,7 @@
    "modelo": "SXS1000",
    "url": "https://aeon.com.sv/shop/16230-disco-ssd-externo-kingston-xs1000-2-tb-usb-3-2-usb-c-sxs1000-2000g-97816",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22536,6 +23936,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 319.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/97816/image_256"
@@ -22550,7 +23958,7 @@
    "modelo": "AHV3201TU31",
    "url": "https://aeon.com.sv/shop/5159-disco-duro-externo-adata-1tb-usb-3-1-slim-black-ahv320-1tu31-cbk-97666",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22602,6 +24010,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -22621,7 +24037,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/12089-memoria-usb-kingston-exodia-m-unidad-flash-usb-64-gb-dtxm-64gb-99989",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22673,6 +24089,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 9.9,
      "precio_lista": null,
      "disponible": true,
@@ -22692,7 +24116,7 @@
    "modelo": "KCU2L128",
    "url": "https://aeon.com.sv/shop/16259-memoria-usb-kingston-exodia-m-128gb-kc-u2l128-7ln-99988",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22744,6 +24168,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 13.9,
      "precio_lista": null,
      "disponible": true,
@@ -22763,7 +24195,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/09834-memoria-usb-kingston-64gb-usb-3-2-gen-1-exodia-black-teal-dtx-64gb-99978",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22815,6 +24247,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 9.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 9.9,
      "precio_lista": null,
      "disponible": true,
@@ -22834,7 +24274,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/09835-memoria-usb-kingston-128gb-usb3-2-gen1-exodia-black-yellow-dtx-128gb-99972",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22886,6 +24326,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 14.9,
      "precio_lista": null,
      "disponible": true,
@@ -22905,7 +24353,7 @@
    "modelo": "ACHOUC300",
    "url": "https://aeon.com.sv/shop/11278-memoria-usb-c-adata-64gb-usb3-2-gen1-type-c-black-green-acho-uc300-64g-rbk-gn-99953",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -22957,6 +24405,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 5.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 5.99,
      "precio_lista": null,
      "disponible": true,
@@ -22976,7 +24432,7 @@
    "modelo": "ACHOUC300",
    "url": "https://aeon.com.sv/shop/11277-memoria-usb-c-adata-32gb-usb3-2-gen1-type-c-black-green-acho-uc300-32g-rbk-gn-99952",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23028,6 +24484,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 4.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 4.99,
      "precio_lista": null,
      "disponible": true,
@@ -23047,7 +24511,7 @@
    "modelo": "ACHOUC300",
    "url": "https://aeon.com.sv/shop/11279-memoria-usb-c-adata-256gb-usb3-2-gen1-type-c-black-green-acho-uc300-256g-rbk-gn-99951",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23099,6 +24563,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 21.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 21.0,
      "precio_lista": null,
      "disponible": true,
@@ -23118,7 +24590,7 @@
    "modelo": "ASDX512GUI3V30SR",
    "url": "https://aeon.com.sv/shop/12832-memoria-sd-adata-512gb-premier-pro-tarjeta-de-memoria-sd-v30s-sdxc-uhs-i-u3-v30-clase-10-full-hd-y-4k-uhd-asdx512gui3v30s-r-99918",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23170,6 +24642,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 65.0,
      "precio_lista": null,
      "disponible": true,
@@ -23189,7 +24669,7 @@
    "modelo": "KCU2G128",
    "url": "https://aeon.com.sv/shop/17247-memoria-kingston-128gb-usb-3-2-dt-exodia-latam-dtx-white-kc-u2g128-5r-104430",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23241,6 +24721,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 14.9,
      "precio_lista": null,
      "disponible": true,
@@ -23260,7 +24748,7 @@
    "modelo": "SDCG4",
    "url": "https://aeon.com.sv/shop/18982-memoria-kingston-flash-memory-card-microsdhc-kingston-512gb-microsdxc-canvas-go-plus-sdcg4-512gb-106126",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23312,6 +24800,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 169.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 169.0,
      "precio_lista": null,
      "disponible": true,
@@ -23331,7 +24827,7 @@
    "modelo": "100MB",
    "url": "https://aeon.com.sv/shop/18991-microsd-kingston-64gb-microsdxc-canvas-select-plus-gen3-100mb-s-a1-c-sdcs3-64gb-106135",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23383,6 +24879,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 22.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 22.9,
      "precio_lista": null,
      "disponible": true,
@@ -23402,7 +24906,7 @@
    "modelo": "150MB",
    "url": "https://aeon.com.sv/shop/18994-micro-sdxc-kingston-128gb-canvas-select-plus-gen3-150mb-s-a1-sdcs3-128gb-106138",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23454,6 +24958,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 29.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 29.9,
      "precio_lista": null,
      "disponible": true,
@@ -23473,7 +24985,7 @@
    "modelo": "AUSDX512GUICL10A1RA1",
    "url": "https://aeon.com.sv/shop/19958-memoria-microsd-adata-512-gb-uhs-i-ausdx512guicl10a1-ra1-107099",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23525,6 +25037,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.9,
      "precio_lista": null,
      "disponible": true,
@@ -23544,7 +25064,7 @@
    "modelo": "KCU3C128",
    "url": "https://aeon.com.sv/shop/20209-memoria-us-kingston-128gb-usb-3-0-dt-exodia-s-latam-blue-casing-kc-u3c128-7tb-107356",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23596,6 +25116,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 14.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 14.9,
      "precio_lista": null,
      "disponible": true,
@@ -23615,7 +25143,7 @@
    "modelo": "DTDEG2",
    "url": "https://aeon.com.sv/shop/20211-kingston-128gb-usb-a-usb-c-3-2-gen-1-datatraveler-duog2-dtdeg2-128gb-107358",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23667,6 +25195,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 17.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 17.9,
      "precio_lista": null,
      "disponible": true,
@@ -23686,7 +25222,7 @@
    "modelo": "VC661MSI98",
    "url": "https://aeon.com.sv/shop/20025-msi-geforce-rtx-3050-lp-6g-oc-vc661msi98-107166",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:47:15-06:00",
@@ -23743,6 +25279,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 359.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107166/image_256"
@@ -23757,7 +25301,7 @@
    "modelo": "SC740",
    "url": "https://aeon.com.sv/shop/20247-disco-adata-sc740-1-tb-usb-tipo-c-3-2-gen-2-3-1-gen-2-negro-azul-107394",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -23801,6 +25345,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 124.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 124.0,
      "precio_lista": null,
      "disponible": true,
@@ -23820,7 +25372,7 @@
    "modelo": "BX8071514400F",
    "url": "https://aeon.com.sv/shop/13175-procesador-intel-i5-14400f-core-2-5ghz-20mb-lga1700-14th-gen-no-graphic-bx8071514400f-102165",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -23864,6 +25416,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -23883,7 +25443,7 @@
    "modelo": "BX8071513100F",
    "url": "https://aeon.com.sv/shop/11302-procesador-intel-i3-13100f-3-40ghz-4-cores-13th-lga-1700-no-gpu-bx8071513100f-102152",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -23927,6 +25487,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": 165.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": 165.0,
      "disponible": true,
@@ -23946,7 +25514,7 @@
    "modelo": "LGA1155",
    "url": "https://aeon.com.sv/shop/1558-procesador-intel-g2030-pentium-3-0ghz-3mb-lga1155-102147",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -23990,6 +25558,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 70.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 70.0,
      "precio_lista": null,
      "disponible": true,
@@ -24009,7 +25585,7 @@
    "modelo": "BX8071512400F",
    "url": "https://aeon.com.sv/shop/12557-procesador-intel-core-i5-12400f-core-i5-12th-gen-alder-lake-6-core-2-5-ghz-lga-1700-65w-bx8071512400f-102133",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24053,6 +25629,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -24072,7 +25656,7 @@
    "modelo": "BX8071512100",
    "url": "https://aeon.com.sv/shop/09909-procesador-intel-core-i3-12100-3-3ghz-socket-1700-bx8071512100-102128",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24116,6 +25700,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 195.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 195.0,
      "precio_lista": null,
      "disponible": true,
@@ -24135,7 +25727,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/3535-procesador-i3-7100-7th-generacion-3-9ghz-lga-1151-intel-outlet-102114",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24179,6 +25771,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -24198,7 +25798,7 @@
    "modelo": "8600G",
    "url": "https://aeon.com.sv/shop/13279-procesador-amd-ryzen-5-8600g-4-3-ghz-socket-am5-65w-tdp-amd-radeon-760m-100-100001237-102089",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24242,6 +25842,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 285.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 285.0,
      "precio_lista": null,
      "disponible": true,
@@ -24261,7 +25869,7 @@
    "modelo": "8500G",
    "url": "https://aeon.com.sv/shop/13278-procesador-amd-ryzen-5-8500g-de-6-nucleos-y-12-hilos-graficos-radeon-740m-am5-100-100000931-65w-tdp-102088",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24305,6 +25913,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -24324,7 +25940,7 @@
    "modelo": "3200G",
    "url": "https://aeon.com.sv/shop/5375-procesador-amd-ryzen-3-3200g-3-6ghz-con-graficos-radeontm-vega-8-102067",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24368,6 +25984,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -24387,7 +26011,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/2103-procesador-amd-amd-9370-fx-4-4-4-7-ghz-8mb-220w-am3-102063",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24431,6 +26055,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.0,
+     "precio_lista": 289.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.0,
      "precio_lista": 289.0,
      "disponible": true,
@@ -24450,7 +26082,7 @@
    "modelo": "I312100F",
    "url": "https://aeon.com.sv/shop/16874-procesador-intel-core-i3-12100f-3-30ghz-12mb-lga1700-12th-gen-no-graphics-104031",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24494,6 +26126,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -24513,7 +26153,7 @@
    "modelo": "BX80701G5905",
    "url": "https://aeon.com.sv/shop/17105-procesador-itl-celeron-g5905-dual-core-3-5ghz-2m-lga1200-bx80701g5905-104300",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24557,6 +26197,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -24576,7 +26224,7 @@
    "modelo": "E5300",
    "url": "https://aeon.com.sv/shop/19115-procesador-intel-e5300-pentium-dual-core-oem-106259",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24620,6 +26268,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 40.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 40.0,
      "precio_lista": null,
      "disponible": true,
@@ -24639,7 +26295,7 @@
    "modelo": "90MXBJ70",
    "url": "https://aeon.com.sv/shop/14044-motherboard-asrock-x670e-pro-rs-am5-90-mxbj70-a0uayz-100503",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24683,6 +26339,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 390.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 390.0,
      "precio_lista": null,
      "disponible": true,
@@ -24702,7 +26366,7 @@
    "modelo": "90MB1H70M0EAY0",
    "url": "https://aeon.com.sv/shop/18387-motherboard-asus-prime-h610m-f-d4-r2-0-ddr4-90mb1h70-m0eay0-105534",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24746,6 +26410,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 119.0,
      "precio_lista": null,
      "disponible": true,
@@ -24765,7 +26437,7 @@
    "modelo": "9117E76",
    "url": "https://aeon.com.sv/shop/19287-motherboard-msi-b840m-b-ddr5-am5-911-7e76-002-106431",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24809,6 +26481,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -24828,7 +26508,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19598-motherboard-gigabyte-z790-eagle-ax-lga-1700-atx-support-intel-core-14th-13th-12th-gen-ddr5-12-1-1-power-phase-3x-m-2-pcie-5-0-usb-c-3-2-106739",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24872,6 +26552,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 349.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 349.0,
      "precio_lista": null,
      "disponible": true,
@@ -24891,7 +26579,7 @@
    "modelo": "0600NHFAWU1",
    "url": "https://aeon.com.sv/shop/13204-fuente-de-poder-thermaltake-smart-rgb-600w-80-plus-white-ps-spr-0600nhfawu-1-98298",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24935,6 +26623,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 74.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 74.0,
      "precio_lista": null,
      "disponible": true,
@@ -24954,7 +26650,7 @@
    "modelo": "A550BN",
    "url": "https://aeon.com.sv/shop/12021-fuente-de-poder-msi-mag-a550bn-550w-80-bronce-mag-a550bn-98272",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -24998,6 +26694,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -25017,7 +26721,7 @@
    "modelo": "0750NNFABU1",
    "url": "https://aeon.com.sv/shop/17413-fuente-de-poder-thermaltake-smart-series-bx1-750w-80-plus-bronce-ps-spd-0750nnfabu-1-open-box-104577",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25061,6 +26765,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -25080,7 +26792,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/18821-fuente-de-poder-antec-g750-750w-80plus-gold-105964",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25124,6 +26836,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 109.0,
      "precio_lista": null,
      "disponible": true,
@@ -25143,7 +26863,7 @@
    "modelo": "A850GL",
    "url": "https://aeon.com.sv/shop/19687-fuente-de-poder-msi-power-mag-a850gl-pcie5-80-plus-gold-full-modular-106828",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25187,6 +26907,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -25206,7 +26934,7 @@
    "modelo": "GCPS021",
    "url": "https://aeon.com.sv/shop/19984-fuente-de-poder-redragon-rgps-500w-80-plus-gc-ps021-107125",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25250,6 +26978,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 47.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 47.0,
      "precio_lista": null,
      "disponible": true,
@@ -25269,7 +27005,7 @@
    "modelo": "A750GN",
    "url": "https://aeon.com.sv/shop/20244-fuente-de-poder-msi-mag-a750gn-pcie5-80-plus-gold-no-modular-107391",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25313,6 +27049,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -25332,7 +27076,7 @@
    "modelo": "A700DN",
    "url": "https://aeon.com.sv/shop/20245-fuente-de-poder-msi-mag-a700dn-ii-80-plus-white-protecciones-ovp-otp-scp-opp-uvp-107392",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25376,6 +27120,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.9,
      "precio_lista": null,
      "disponible": true,
@@ -25395,7 +27147,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/13013-case-thermaltake-the-tower-100-mini-itx-edition-usb-3-2-tipo-c-temp-glass-turquesa-97097",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25439,6 +27191,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -25458,7 +27218,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/13011-case-thermaltake-the-tower-100-mini-itx-edition-usb-3-2-tipo-c-temp-glass-racing-green-97095",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25502,6 +27262,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -25521,7 +27289,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/13010-case-thermaltake-the-tower-100-mini-itx-edition-metalic-gold-97094",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25565,6 +27333,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -25584,7 +27360,7 @@
    "modelo": "CC9011272",
    "url": "https://aeon.com.sv/shop/16902-case-corsair-480t-rgb-airflow-black-ar120-3-fans-rgb-cc-9011272-ww-103996",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25628,6 +27404,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 109.0,
      "precio_lista": null,
      "disponible": true,
@@ -25647,7 +27431,7 @@
    "modelo": "AIRONE3XMW",
    "url": "https://aeon.com.sv/shop/17967-case-xyz-airone-300-x-mesh-blanco-atx-micro-atx-itx-x-cs-airone3xm-w-105142",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25691,6 +27475,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -25733,7 +27525,7 @@
    "modelo": "120MM",
    "url": "https://aeon.com.sv/shop/17985-case-xyz-airone-300-x-mesh-negro-6-x-120mm-argb-fans-usb-3-0-port-usb-type-c-gen2-atx-micro-atx-itx-105160",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25777,6 +27569,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -25796,7 +27596,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/18068-case-xtech-phobos-atx-mid-tower-case-gamer-blk-w-logo-xt-gmr-4-105230",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25840,6 +27640,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.99,
      "precio_lista": null,
      "disponible": true,
@@ -25859,7 +27667,7 @@
    "modelo": "CAS2304",
    "url": "https://aeon.com.sv/shop/19200-case-extreme-series-oberon-gaming-cas2304-106344",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25903,6 +27711,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 45.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 45.0,
      "precio_lista": null,
      "disponible": true,
@@ -25922,7 +27738,7 @@
    "modelo": "XTQ200",
    "url": "https://aeon.com.sv/shop/19228-case-xtech-xtq-200-micro-atx-fuente-600w-106372",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -25966,6 +27782,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.0,
      "precio_lista": null,
      "disponible": true,
@@ -25985,7 +27809,7 @@
    "modelo": "X50GWW",
    "url": "https://aeon.com.sv/shop/19535-case-hyte-x50-vidrio-laminado-snow-white-cs-hyte-x50g-ww-106674",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26029,6 +27853,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 199.0,
      "precio_lista": null,
      "disponible": true,
@@ -26048,7 +27880,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19624-case-xyz-neutron-x-pro-negro-mid-tower-pantalla-lcd-4-fans-argb-vidrio-templado-x-cs-neutronx-p-b-xyz-sa-1018-106765",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26092,6 +27924,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 215.0,
      "precio_lista": null,
      "disponible": true,
@@ -26111,7 +27951,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/19734-case-xyz-neutron-x-pro-blanco-mid-tower-pantalla-lcd-4-fans-argb-vidrio-templado-xyz-sa-1018-106875",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26155,6 +27995,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 215.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 215.0,
      "precio_lista": null,
      "disponible": true,
@@ -26174,7 +28022,7 @@
    "modelo": "AIRONE70M",
    "url": "https://aeon.com.sv/shop/20048-case-xyz-airone-70-mesh-4-ventiladores-a-rgb-atx-micro-atx-mini-itx-x-cs-airone70-m-b-xyz-sa-1005-107189",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26218,6 +28066,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -26237,7 +28093,7 @@
    "modelo": "CC9011263",
    "url": "https://aeon.com.sv/shop/20340-case-corsair-2500d-airflow-semi-torre-doble-camara-matx-mini-itx-negro-cc-9011263-ww-107489",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26281,6 +28137,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -26300,7 +28164,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/09731-disipador-de-aire-cooler-amd-am4-original-97844",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26344,6 +28208,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 15.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 15.0,
      "precio_lista": null,
      "disponible": true,
@@ -26363,7 +28235,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16540-disipador-de-aire-antec-a30-neo-argb-12v-socket-1200-1700-am5-am4-tdp-125w-97838",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26407,6 +28279,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 29.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 29.0,
      "precio_lista": null,
      "disponible": true,
@@ -26426,7 +28306,7 @@
    "modelo": "LEVANTEX240BKCWW",
    "url": "https://aeon.com.sv/shop/15965-enfriamiento-liquido-xpg-levante-x-240-all-in-one-argb-cpu-liquid-cooler-2000-rpm-levantex240-bkcww-97998",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26470,6 +28350,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 149.0,
      "precio_lista": null,
      "disponible": true,
@@ -26489,7 +28377,7 @@
    "modelo": "GA2T24B",
    "url": "https://aeon.com.sv/shop/16531-enfriamiento-liquido-lian-li-ga-ii-trinity-240mm-intel-amd-argb-led-l-connect-3200rpm-pump-g89-ga2t24b-00-97965",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26541,6 +28429,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 149.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 149.99,
      "precio_lista": null,
      "disponible": true,
@@ -26560,7 +28456,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/11314-disipador-de-aire-intel-socket-1700-12th-y-13th-original-97857",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26604,6 +28500,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.0,
      "precio_lista": null,
      "disponible": true,
@@ -26623,7 +28527,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/12766-ventilador-riotoro-cross-x-clear-led-120-fan-white-103891",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26667,6 +28571,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 12.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 12.0,
      "precio_lista": null,
      "disponible": true,
@@ -26686,7 +28598,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/16914-disipador-basico-am4-104055",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26730,6 +28642,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 10.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 10.0,
      "precio_lista": null,
      "disponible": true,
@@ -26749,7 +28669,7 @@
    "modelo": "240MM",
    "url": "https://aeon.com.sv/shop/17766-enfriamiento-liquido-xyz-aquapulse-240mm-negro-xyz-sa-840-240mm-lga-115x-1366-2011-1700-1200-1851-am4-y-am5-pwm-4-pines-argb-3-pines-5v-104934",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26793,6 +28713,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -26812,7 +28740,7 @@
    "modelo": "360MM",
    "url": "https://aeon.com.sv/shop/17767-enfriamiento-liquido-xyz-aquapulse-360mm-negro-a-rgb-xyz-sa-845-lga-115x-1366-2011-1700-1200-1851-am4-y-am5-pantalla-lcd-104935",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26856,6 +28784,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 129.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 129.0,
      "precio_lista": null,
      "disponible": true,
@@ -26875,7 +28811,7 @@
    "modelo": "240MM",
    "url": "https://aeon.com.sv/shop/17768-enfriamiento-liquido-xyz-aquapulse-fusion-manguera-argb-240mm-xyz-sa-841-lga-115x-1366-2011-1700-1200-1851-am4-y-am5-pantalla-lcd-104936",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26919,6 +28855,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -26938,7 +28882,7 @@
    "modelo": "240MM",
    "url": "https://aeon.com.sv/shop/17770-enfriamiento-liquido-xyz-hydrotemp-240mm-negro-xyz-sa-850-lga-115x-1366-2011-1700-1200-1851-am4-y-am5-pantalla-lcd-extraible-ventiladores-pwm-vortex-pro-104938",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -26982,6 +28926,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -27001,7 +28953,7 @@
    "modelo": "GA2L24RB",
    "url": "https://aeon.com.sv/shop/17791-enfriamiento-liquido-lian-li-ga-ii-lite-240-240mm-intel-amd-negro-g89-ga2l24rb-00-104959",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27045,6 +28997,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -27064,7 +29024,7 @@
    "modelo": "DN240D",
    "url": "https://aeon.com.sv/shop/17804-enfriamiento-liquido-darkflash-nebula-dn240d-rgb-blanco-240mm-1-inch-lcd-digital-display-screen-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104972",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27108,6 +29068,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 89.0,
      "precio_lista": null,
      "disponible": true,
@@ -27127,7 +29095,7 @@
    "modelo": "DN360D",
    "url": "https://aeon.com.sv/shop/17805-enfriamiento-liquido-darkflash-nebula-dn360d-rgb-negro-360mm-250-tdp-1-inch-lcd-digital-display-screen-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104973",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27171,6 +29139,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -27190,7 +29166,7 @@
    "modelo": "DN360D",
    "url": "https://aeon.com.sv/shop/17806-enfriamiento-liquido-darkflash-nebula-dn360d-rgb-blanco-360mm-250-tdp-1-inch-lcd-digital-display-screen-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104974",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27234,6 +29210,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,
@@ -27253,7 +29237,7 @@
    "modelo": "DH240D",
    "url": "https://aeon.com.sv/shop/17810-enfriamiento-liquido-darkflash-dh240d-argb-240mm-tdp-200w-lcd-digital-display-segmentada-software-intel-amd-250300-w-blanco-104978",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27305,6 +29289,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 95.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 95.0,
      "precio_lista": null,
      "disponible": true,
@@ -27324,7 +29316,7 @@
    "modelo": "DV240S",
    "url": "https://aeon.com.sv/shop/17812-enfriamiento-liquido-darkflash-dv240s-rgb-blanco-tdp-200-240mm-320-320-resolution-ips-lcd-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104980",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27368,6 +29360,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 125.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 125.0,
      "precio_lista": null,
      "disponible": true,
@@ -27387,7 +29387,7 @@
    "modelo": "DV360S",
    "url": "https://aeon.com.sv/shop/17813-enfriamiento-liquido-darkflash-dv360s-rgb-negro-tdp-240-360mm-320-320-resolution-ips-lcd-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104981",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27431,6 +29431,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -27450,7 +29458,7 @@
    "modelo": "DH240D",
    "url": "https://aeon.com.sv/shop/17826-enfriamiento-liquido-darkflash-dh240d-rgb-negro-tdp-200-240mm-lcd-digital-display-segmentada-control-via-software-3-stage-bomba-de-agua-intel-amd-compatible-con-aura-mystic-fusion-polychrome-104994",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27502,6 +29510,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 95.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 95.0,
      "precio_lista": null,
      "disponible": true,
@@ -27521,7 +29537,7 @@
    "modelo": "240MM",
    "url": "https://aeon.com.sv/shop/17977-enfriamiento-liquido-xyz-hydrotemp-240mm-blanco-xyz-sa-851-lga-115x-1366-2011-1700-1200-1851-am4-y-am5-pantalla-lcd-extraible-ventiladores-pwm-vortex-pro-105152",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27565,6 +29581,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -27584,7 +29608,7 @@
    "modelo": "HYDROVIEW240B",
    "url": "https://aeon.com.sv/shop/17978-enfriamiento-liquido-xyz-hydroview-240mm-negro-xyz-ventiladores-2500rpm-pantalla-lcd-3-5-ventiladores-pwm-vortex-pro-x-wc-hydroview-240b-xyz-sa-855-105153",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27628,6 +29652,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -27647,7 +29679,7 @@
    "modelo": "HYDROVIEW240W",
    "url": "https://aeon.com.sv/shop/17979-enfriamiento-liquido-xyz-hydroview-240mm-blanco-xyz-ventiladores-2500rpm-pantalla-lcd-3-5-ventiladores-pwm-vortex-pro-x-wc-hydroview-240w-xyz-sa-856-105154",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27691,6 +29723,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -27710,7 +29750,7 @@
    "modelo": "HYDROVIEW360B",
    "url": "https://aeon.com.sv/shop/17980-enfriamiento-liquido-xyz-hydroview-360mm-negro-xyz-ventiladores-2500rpm-pantalla-lcd-3-5-ventiladores-pwm-vortex-pro-x-wc-hydroview-360b-xyz-sa-857-105155",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27754,6 +29794,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -27773,7 +29821,7 @@
    "modelo": "HYDROVIEW360W",
    "url": "https://aeon.com.sv/shop/17981-enfriamiento-liquido-xyz-hydroview-360mm-blanco-xyz-ventiladores-2500rpm-pantalla-lcd-3-5-ventiladores-pwm-vortex-pro-x-wc-hydroview-360w-xyz-sa-858-105156",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27817,6 +29865,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -27836,7 +29892,7 @@
    "modelo": "CW9060092",
    "url": "https://aeon.com.sv/shop/18667-enfriamiento-liquido-corsair-nautilus-240-rs-argb-negro-cw-9060092-ww-105812",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27880,6 +29936,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.9,
      "precio_lista": null,
      "disponible": true,
@@ -27899,7 +29963,7 @@
    "modelo": "CW9060094",
    "url": "https://aeon.com.sv/shop/18666-enfriamiento-liquido-corsair-nautilus-240-rs-argb-blanco-cw-9060094-ww-105811",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -27943,6 +30007,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.9,
      "precio_lista": null,
      "disponible": true,
@@ -27962,7 +30034,7 @@
    "modelo": "LGA1700",
    "url": "https://aeon.com.sv/shop/20311-enfriamiento-liquido-msi-coreliquid-a12-360mm-lga1700-1851-am5-am4-824142394960-107460",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28006,6 +30078,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -28025,7 +30105,7 @@
    "modelo": "LGA1700",
    "url": "https://aeon.com.sv/shop/20312-enfriamiento-liquido-msi-coreliquid-a12-240mm-lga1700-1851-am5-am4-824142394953-107461",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28074,6 +30154,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 89.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107461/image_256"
@@ -28088,7 +30176,7 @@
    "modelo": "NT511",
    "url": "https://aeon.com.sv/shop/3713-ups-forza-nt-511-500va-250w-6-tomas-103787",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28145,6 +30233,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/103787/image_256"
@@ -28159,7 +30255,7 @@
    "modelo": "NT1011",
    "url": "https://aeon.com.sv/shop/3769-ups-forza-nt-1011-1000va-103773",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28203,6 +30299,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 69.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 69.0,
      "precio_lista": null,
      "disponible": true,
@@ -28222,7 +30326,7 @@
    "modelo": "700VA",
    "url": "https://aeon.com.sv/shop/08557-ups-centra-eco-700va-350w-led-8-salidas-103756",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28266,6 +30370,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -28285,7 +30397,7 @@
    "modelo": "CP1000",
    "url": "https://aeon.com.sv/shop/2823-ups-centra-cp1000-led-8-outs-1000va-500w-103751",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28329,6 +30441,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -28348,7 +30468,7 @@
    "modelo": "ECO500",
    "url": "https://aeon.com.sv/shop/2998-ups-500va-eco-led-centra-250w-eco500-103706",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28392,6 +30512,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 38.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 38.0,
      "precio_lista": null,
      "disponible": true,
@@ -28411,7 +30539,7 @@
    "modelo": "AVR800A",
    "url": "https://aeon.com.sv/shop/10499-regulador-de-voltaje-maruson-800va-400w-4-salidas-led-avr-800a-102309",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28455,6 +30583,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 18.0,
+     "precio_lista": 20.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 18.0,
      "precio_lista": 20.0,
      "disponible": true,
@@ -28474,7 +30610,7 @@
    "modelo": "AVR1000A",
    "url": "https://aeon.com.sv/shop/10500-regulador-de-voltaje-maruson-1000va-500w-logic-avr-6-salidas-led-avr-1000a-102308",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28518,6 +30654,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.0,
      "precio_lista": 25.0,
      "disponible": true,
@@ -28537,7 +30681,7 @@
    "modelo": "FVR1011USB",
    "url": "https://aeon.com.sv/shop/09992-regulador-de-voltaje-forza-1000va-500w-2-usb-fvr-1011usb-102303",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28581,6 +30725,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 24.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 24.0,
      "precio_lista": null,
      "disponible": true,
@@ -28600,7 +30752,7 @@
    "modelo": "BPB011BTBL",
    "url": "https://aeon.com.sv/shop/17185-cargador-portatil-belkin-azul-10000-mah-15watt-conectores-de-salida-2-x-usb-24-pin-usb-c-bpb011btbl-power-bank-104372",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28644,6 +30796,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 29.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 29.0,
      "precio_lista": null,
      "disponible": true,
@@ -28663,7 +30823,7 @@
    "modelo": "CH700LCD",
    "url": "https://aeon.com.sv/shop/17510-ups-centra-eco-700-lcd-700va-350w-8-salidas-con-usb-a-y-usb-c-ch700lcd-104677",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28707,6 +30867,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 59.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 59.0,
      "precio_lista": null,
      "disponible": true,
@@ -28726,7 +30894,7 @@
    "modelo": "BE425M",
    "url": "https://aeon.com.sv/shop/17541-ups-apc-6-tomas-de-salida-425-va-120-v-be425m-104708",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28770,6 +30938,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 65.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 65.0,
      "precio_lista": null,
      "disponible": true,
@@ -28789,7 +30965,7 @@
    "modelo": "NT2401PRO",
    "url": "https://aeon.com.sv/shop/17653-ups-forza-smart-ups-nt-2401pro-2400v-104820",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28833,6 +31009,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -28852,7 +31036,7 @@
    "modelo": "",
    "url": "https://aeon.com.sv/shop/18776-ups-centra-eco-500-lcd-8-salidas-4-respaldo-4-regulacion-105919",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28896,6 +31080,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.9,
      "precio_lista": null,
      "disponible": true,
@@ -28915,7 +31107,7 @@
    "modelo": "A1334H21",
    "url": "https://aeon.com.sv/shop/19523-power-bank-anker-323-white-10000mah-12w-1-x-usb-type-c-1-x-usb-a-a1334h21-106662",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -28959,6 +31151,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 19.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 19.0,
      "precio_lista": null,
      "disponible": true,
@@ -28978,7 +31178,7 @@
    "modelo": "CLCP1500",
    "url": "https://aeon.com.sv/shop/19653-ups-centra-plus-1500va-lcd-750w-10-salidas-4-respaldo-4regulacion-clcp1500-106794",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -29022,6 +31222,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -29088,7 +31296,7 @@
    "modelo": "CLCP2400",
    "url": "https://aeon.com.sv/shop/20177-ups-centra-plus-2400va-lcd-10-salidas-4-respaldo-4regulacion-clcp2400-107324",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -29140,6 +31348,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 194.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 194.0,
      "precio_lista": null,
      "disponible": true,
@@ -29159,7 +31375,7 @@
    "modelo": "PBECO1200",
    "url": "https://aeon.com.sv/shop/20178-ups-centra-eco1200-led-1200va-600w-8-salidas-4-respaldo-4-con-regulacion-de-picos-pbeco1200-107325",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:01:02-06:00",
@@ -29216,6 +31432,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 84.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107325/image_256"
@@ -29230,7 +31454,7 @@
    "modelo": "90NR0LB1",
    "url": "https://aeon.com.sv/shop/20342-laptop-asus-rog-strix-g615j-16-fhd-165hz-i7-14650hx-ssd-1tb-16gb-ddr5-w11h-rtx-5060-8gb-90nr0lb1-m000m0-107491",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T17:56:02-06:00",
@@ -29279,6 +31503,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 1999.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107491/image_256"
@@ -29293,7 +31525,7 @@
    "modelo": "14HU0050LA",
    "url": "https://aeon.com.sv/shop/20361-laptop-hp-omnibook-clamshell-14-hu0050la-14-core-5-120u-8gb-ram-ssd-512gb-w11h-d4eu0la-107510",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T17:56:02-06:00",
@@ -29350,6 +31582,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 959.0,
+     "precio_lista": 1199.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107510/image_256"
@@ -29364,7 +31604,7 @@
    "modelo": "S1143CEP01",
    "url": "https://aeon.com.sv/shop/gk600sky-107505",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T17:56:02-06:00",
@@ -29408,6 +31648,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 94.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 94.9,
      "precio_lista": null,
      "disponible": true,
@@ -29427,7 +31675,7 @@
    "modelo": "AX3000",
    "url": "https://aeon.com.sv/shop/16200-repetidor-cudy-2402mbps-dual-band-5ghz-wifi-6-ax3000-re3000-102319",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T17:56:02-06:00",
@@ -29471,6 +31719,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 49.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 49.0,
      "precio_lista": null,
      "disponible": true,
@@ -29490,7 +31746,7 @@
    "modelo": "WDBU6Y0020BBKWESN",
    "url": "https://aeon.com.sv/shop/10620-disco-duro-externo-wd-elements-2-5-2000gb-2tb-usb-3-0-wdbu6y0020bbk-wesn-97724",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T17:56:02-06:00",
@@ -29539,6 +31795,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 199.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/97724/image_256"
@@ -29553,7 +31817,7 @@
    "modelo": "SFYR2S",
    "url": "https://aeon.com.sv/shop/20116-kingston-ssd-1024gb-fury-renegade-g5-pcie-5-0-m-2-nvme-ss-sfyr2s-1t0-107263",
    "primera_vez": "2026-10-31",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-31T17:08:02-06:00",
@@ -29589,6 +31853,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 299.0,
      "precio_lista": null,
      "disponible": true,
@@ -29608,7 +31880,7 @@
    "modelo": "SXS1000R",
    "url": "https://aeon.com.sv/shop/16843-disco-ssd-externo-kingston-xs1000r-1tb-up-to-1050mb-s-usb-3-2-sxs1000r-1000g-97817",
    "primera_vez": "2026-10-31",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-31T17:08:02-06:00",
@@ -29649,6 +31921,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 199.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/97817/image_256"
@@ -29663,7 +31943,7 @@
    "modelo": "CS101MSI12",
    "url": "https://aeon.com.sv/shop/20362-fuente-de-poder-msi-mag-a1000gl-pcie5-white-80-plus-gold-atx-cs101msi12-107511",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-11-03T13:49:56-06:00",
@@ -29688,6 +31968,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
+     "precio": 139.9,
+     "precio_lista": 189.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/107511/image_256"
@@ -29702,7 +31990,7 @@
    "modelo": "A1000PL",
    "url": "https://aeon.com.sv/shop/20363-fuente-de-poder-msi-pro-a1000pl-pcie5-80-plus-platinum-atx-3-1-y-pcie-5-1-824142441398-107512",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-11-03T13:49:56-06:00",
@@ -29714,6 +32002,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 225.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 225.0,
      "precio_lista": null,
      "disponible": true,
@@ -29733,7 +32029,7 @@
    "modelo": "A850PL",
    "url": "https://aeon.com.sv/shop/20364-fuente-de-poder-msi-pro-a850pl-pcie5-80-plus-platinum-atx-3-1-soporte-gpu-pcie-5-1-full-modular-107513",
    "primera_vez": "2026-11-03",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-11-03T13:49:56-06:00",
@@ -29745,6 +32041,14 @@
     },
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 199.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 199.9,
      "precio_lista": null,
      "disponible": true,
@@ -29764,10 +32068,18 @@
    "modelo": "NT751",
    "url": "https://aeon.com.sv/shop/3776-ups-forza-nt-751-750v-103775",
    "primera_vez": "2026-11-04",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 52.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 52.0,
      "precio_lista": null,
      "disponible": true,
@@ -29787,10 +32099,18 @@
    "modelo": "FVR3001",
    "url": "https://aeon.com.sv/shop/10167-regulador-de-voltaje-forza-fvr-3001-4-salidas-102291",
    "primera_vez": "2026-11-04",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-11-04T14:02:34-06:00",
+     "precio": 44.99,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:19:48-06:00",
      "precio": 44.99,
      "precio_lista": null,
      "disponible": true,
