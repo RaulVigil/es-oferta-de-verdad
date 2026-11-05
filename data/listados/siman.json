@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-11-04T13:50:50-06:00",
+ "actualizado": "2026-11-04T18:37:54-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -282605,6 +282605,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 82.9,
+     "precio_lista": 82.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5034679-300-300/104427860.jpg"
@@ -283244,6 +283252,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 25.9,
+     "precio_lista": 25.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5887288-300-300/103405773_100.jpg"
@@ -283457,6 +283473,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 59.9,
+     "precio_lista": 59.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/5949588-300-300/104594366.jpg"
@@ -283524,6 +283548,14 @@
     {
      "fecha": "2026-11-04T13:50:50-06:00",
      "precio": 67.92,
+     "precio_lista": 84.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 84.9,
      "precio_lista": 84.9,
      "disponible": true,
      "fuente": "auto",
@@ -283808,6 +283840,14 @@
     {
      "fecha": "2026-11-04T13:50:50-06:00",
      "precio": 56.72,
+     "precio_lista": 70.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 70.9,
      "precio_lista": 70.9,
      "disponible": true,
      "fuente": "auto",
@@ -297743,7 +297783,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/bocinas-6-4ch-350w-823476167/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -297787,6 +297827,14 @@
     },
     {
      "fecha": "2026-11-03T13:36:07-06:00",
+     "precio": 79.0,
+     "precio_lista": 79.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
      "precio": 79.0,
      "precio_lista": 79.0,
      "disponible": true,
@@ -297806,7 +297854,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/sala-curva-piel-symphony-slate-105191101/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -297851,6 +297899,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 4999.0,
+     "precio_lista": 4999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 3999.0,
      "precio_lista": 4999.0,
      "disponible": true,
      "fuente": "auto",
@@ -297869,7 +297925,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/sala-curva-piel-symphony-slate-105191101/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -297914,6 +297970,14 @@
     {
      "fecha": "2026-11-03T13:36:07-06:00",
      "precio": 4999.0,
+     "precio_lista": 4999.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 3999.0,
      "precio_lista": 4999.0,
      "disponible": true,
      "fuente": "auto",
@@ -304053,7 +304117,7 @@
    "modelo": "1700W",
    "url": "https://sv.siman.com/licuadora-pure-power-1700w-2litros-negra-104981401/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -304097,6 +304161,14 @@
     },
     {
      "fecha": "2026-11-03T13:36:07-06:00",
+     "precio": 197.1,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
      "precio": 197.1,
      "precio_lista": 219.0,
      "disponible": true,
@@ -304116,7 +304188,7 @@
    "modelo": "1700W",
    "url": "https://sv.siman.com/licuadora-pure-power-1700w-2litros-negra-104981401/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -304160,6 +304232,14 @@
     },
     {
      "fecha": "2026-11-03T13:36:07-06:00",
+     "precio": 512.91,
+     "precio_lista": 569.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
      "precio": 512.91,
      "precio_lista": 569.9,
      "disponible": true,
@@ -304179,7 +304259,7 @@
    "modelo": "1700W",
    "url": "https://sv.siman.com/licuadora-pure-power-1700w-2litros-negra-104981401/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -304223,6 +304303,14 @@
     },
     {
      "fecha": "2026-11-03T13:36:07-06:00",
+     "precio": 368.91,
+     "precio_lista": 409.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
      "precio": 368.91,
      "precio_lista": 409.9,
      "disponible": true,
@@ -304242,7 +304330,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/licuadora-pure-power-1700w-2litros-negra-104981401/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -304286,6 +304374,14 @@
     },
     {
      "fecha": "2026-11-03T13:36:07-06:00",
+     "precio": 197.1,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
      "precio": 197.1,
      "precio_lista": 219.0,
      "disponible": true,
@@ -363618,7 +363714,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/apple-tv-4k-128gb-wi-fi-ethernet-103988553/p",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-01",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-30T11:49:09-06:00",
@@ -363641,6 +363737,14 @@
      "precio": 274.0,
      "precio_lista": 274.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:37:54-06:00",
+     "precio": 274.0,
+     "precio_lista": 274.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }

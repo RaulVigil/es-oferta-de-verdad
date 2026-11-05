@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-11-04T14:07:47-06:00",
+ "actualizado": "2026-11-04T18:54:30-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -1617,7 +1617,7 @@
    "modelo": "KKM252S",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-ALAMBRICO-KLIP-KKM252S/p/1303000575",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -1677,6 +1677,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,
@@ -1696,7 +1704,7 @@
    "modelo": "KMB001GR",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-BLUETOOTH-KLIP-KMB001GR/p/1303000577",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -1756,6 +1764,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 13.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 13.9,
      "precio_lista": null,
      "disponible": true,
@@ -12094,16 +12110,16 @@
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000251.jpg?context=bWFzdGVyfHJvb3R8Mjg0MDh8aW1hZ2UvanBlZ3xhR1UxTDJneU5pOHhNalU0TVRVM05UWTRPREl5TWk4ek1EQm1kSGRmTVRFd01UQXdNREkxTVM1cWNHY3w2OWIwYzhlZDIwZmJhNGUzOTYxYTdkNzRjY2E3ZDg4YzM1Nzc0Y2M0MWZmNGNmN2Q1OTBiMzMxNTNhMThhNWIy"
   },
   "1101000255": {
-   "nombre": "Escritorio Ejecutivo Personal Cafe",
+   "nombre": "Escritorio Ejecutivo Personal Café",
    "categoria": "escritorio",
    "tipo": "escritorio",
    "pulgadas": null,
    "medida": null,
    "marca": "MOBELT",
    "modelo": "",
-   "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EJECUTIVO-PERSONAL-CAFE/p/1101000255",
+   "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EJECUTIVO-PERSONAL-CAF%C3%89/p/1101000255",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -12163,6 +12179,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 210.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 210.0,
      "precio_lista": null,
      "disponible": true,
@@ -12182,7 +12206,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EN-L-CAFE-Y-GRIS-CON-ENTREPANOS-Y-3-GAVETAS/p/1101000256",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -12242,6 +12266,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 462.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 462.0,
      "precio_lista": null,
      "disponible": true,
@@ -14419,7 +14451,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-PERSONAL-NOGAL-Y-NEGRO/p/1101000247",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -14484,6 +14516,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
+     "precio": 210.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1101000247.jpg?context=bWFzdGVyfHJvb3R8MjA3ODZ8aW1hZ2UvanBlZ3xhRFprTDJnME1DOHhNams1TmpReU5qTXdNVFEzTUM4ek1EQm1kSGRmTVRFd01UQXdNREkwTnk1cWNHY3w1NGE0MDVhNjg3YzYyNjZmZTZkMjI2MzVhNTg4ZmU3ODA1ODY0MGQzOTAzMmMxY2RmNjYzZGQwMWZkNWFiMDg2"
@@ -14498,7 +14538,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios-en-%22L%22/ESCRITORIO-EN-L-NOGAL-CON-2-ESTANTES-Y-DETALLES-EN-MESH-METAL/p/1101000244",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -14558,6 +14598,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 298.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 298.0,
      "precio_lista": null,
      "disponible": true,
@@ -14577,7 +14625,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Escritorios/ESCRITORIO-NOGAL-Y-GRIS-CON-GAVETAS-Y-DIVISIONES/p/1101000246",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -14637,6 +14685,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 158.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 158.0,
      "precio_lista": null,
      "disponible": true,
@@ -17966,7 +18022,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Memorias-USB/MEMORIA-USB-KINGSTON-128GB-3-2-DT-EXODIA-M-NEON-AQUA-BLUE/p/1305000281",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-03",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -18010,6 +18066,14 @@
     },
     {
      "fecha": "2026-11-03T13:56:50-06:00",
+     "precio": 15.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:54:30-06:00",
      "precio": 15.9,
      "precio_lista": null,
      "disponible": true,

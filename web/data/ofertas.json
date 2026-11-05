@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-04T14:08:49-06:00",
+ "generado": "2026-11-04T18:55:22-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -2274,6 +2274,22 @@
    "url_tienda": "https://www.radioshackla.com/elsalvador/control-gamer-inalambrico-nintendo-negro-lumectra-pac-man-retro-470927100013/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/radioshack%3A470927100013",
    "imagen": "https://www.radioshackla.com/media/catalog/product/4/7/470927100013_2.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "Headset Gaming JLAB Nightfall BK - GHNHTFALLRBLK4",
+   "marca": "JLab",
+   "categoria": "Audífonos",
+   "tienda": "AEON",
+   "precio": 34.9,
+   "precio_tachado": 49.99,
+   "linea_base": 49.99,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -30.2,
+   "veredicto": "oferta real",
+   "minimo_historico": 34.9,
+   "url_tienda": "https://aeon.com.sv/shop/15596-headset-gaming-jlab-nightfall-bk-ghnhtfallrblk4-98481",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A98481",
+   "imagen": "https://aeon.com.sv/web/image/product.template/98481/image_256"
   },
   {
    "producto": "Cerámica de piso 60 X 60 Cm madera iguazú fd ex mix",
@@ -4740,6 +4756,22 @@
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/7/472543200016_10_.jpg?width=300&height=300&canvas=300"
   },
   {
+   "producto": "Monitor Acer KG270 W3biip - 27\" FHD - 240Hz - IPS - 0.5ms GTG - Negro - UM.HX0AA.307, HDMI 2.0 y DisplayPort",
+   "marca": "Acer",
+   "categoria": "Monitores",
+   "tienda": "AEON",
+   "precio": 169.9,
+   "precio_tachado": 225.0,
+   "linea_base": 225.0,
+   "precios_en_linea_base": 13,
+   "variacion_vs_base_pct": -24.5,
+   "veredicto": "oferta real",
+   "minimo_historico": 169.9,
+   "url_tienda": "https://aeon.com.sv/shop/20266-monitor-acer-kg270-w3biip-27-fhd-240hz-ips-0-5ms-gtg-negro-um-hx0aa-307-hdmi-2-0-y-displayport-107413",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107413",
+   "imagen": "https://aeon.com.sv/web/image/product.template/107413/image_256"
+  },
+  {
    "producto": "Samsung Galaxy-A16 4GB + 128GB Light Gray",
    "marca": "Samsung",
    "categoria": "Celulares",
@@ -6148,6 +6180,22 @@
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/6/468747900012_1.jpg?width=300&height=300&canvas=300"
   },
   {
+   "producto": "Laptop HP OMNIBOOK Clamshell 14-hu0050la 14\" Core 5-120U 8GB Ram,  SSD 512GB, W11H, D4EU0LA",
+   "marca": "HP",
+   "categoria": "Laptops",
+   "tienda": "AEON",
+   "precio": 959.0,
+   "precio_tachado": 1199.0,
+   "linea_base": 1199.0,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -20.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 959.0,
+   "url_tienda": "https://aeon.com.sv/shop/20361-laptop-hp-omnibook-clamshell-14-hu0050la-14-core-5-120u-8gb-ram-ssd-512gb-w11h-d4eu0la-107510",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107510",
+   "imagen": "https://aeon.com.sv/web/image/product.template/107510/image_256"
+  },
+  {
    "producto": "Sala 3-2-1 Grecia — Sala 3-2-1 Chocolate",
    "marca": "Muebles nuvesa",
    "categoria": "Salas y sofás",
@@ -6290,6 +6338,22 @@
    "url_tienda": "https://www.vidri.com.sv/producto/476392/mueble-sala-plastica-color-cafe-3-piezas.html",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A476392",
    "imagen": "https://www.ferreteriavidri.com/images/items/large/476392_99.jpg?v=120261104"
+  },
+  {
+   "producto": "Headset Corsair Virtuoso Pro, aluminio, 3.5mm, Open headset, CUE,   - CA-9011371-NA - COLOR BLANCO",
+   "marca": "Corsair",
+   "categoria": "Audífonos",
+   "tienda": "AEON",
+   "precio": 159.9,
+   "precio_tachado": 199.9,
+   "linea_base": 199.9,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -20.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 159.9,
+   "url_tienda": "https://aeon.com.sv/shop/18423-headset-corsair-virtuoso-pro-aluminio-3-5mm-open-headset-cue-ca-9011371-na-color-blanco-105570",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A105570",
+   "imagen": "https://aeon.com.sv/web/image/product.template/105570/image_256"
   },
   {
    "producto": "Audífonos Inalámbricos Radioshack In Ear Negro 3304397",
@@ -9076,6 +9140,22 @@
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/6/466714800013_3_.jpg?width=300&height=300&canvas=300"
   },
   {
+   "producto": "Consola ASUS ROG XBOX Ally - AMD Ryzen Z2 A - 512GB - 16GB LPDDR5 - Blanco - 90NV00G1-M001E0",
+   "marca": "Asus",
+   "categoria": "Consolas",
+   "tienda": "AEON",
+   "precio": 719.0,
+   "precio_tachado": 839.9,
+   "linea_base": 839.9,
+   "precios_en_linea_base": 13,
+   "variacion_vs_base_pct": -14.4,
+   "veredicto": "oferta real",
+   "minimo_historico": 719.0,
+   "url_tienda": "https://aeon.com.sv/shop/18767-consola-asus-rog-xbox-ally-amd-ryzen-z2-a-512gb-16gb-lpddr5-blanco-90nv00g1-m001e0-105910",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A105910",
+   "imagen": "https://aeon.com.sv/web/image/product.template/105910/image_256"
+  },
+  {
    "producto": "Samsung Galaxy S26 Ultra 12GB RAM 256GB Negro",
    "marca": "Samsung",
    "categoria": "Celulares",
@@ -10900,22 +10980,6 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8289735-300-300/105201069-1.jpg"
   },
   {
-   "producto": "Plancha Alisadora Ultra Straight 1\" Negra — _SkuName",
-   "marca": "Revlon",
-   "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
-   "tienda": "Simán",
-   "precio": 20.72,
-   "precio_tachado": 25.9,
-   "linea_base": 23.31,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -11.1,
-   "veredicto": "oferta real",
-   "minimo_historico": 20.72,
-   "url_tienda": "https://sv.siman.com/revlon-plan-essentials-ultra-straight-1-103405773/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6650004",
-   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5887288-300-300/103405773_100.jpg"
-  },
-  {
    "producto": "Audífonos inalámbricos JBL In Ear Negro Endurance Run 3",
    "marca": null,
    "categoria": "Audífonos",
@@ -10962,70 +11026,6 @@
    "url_tienda": "https://www.almacenestropigas.com.sv/ventilador-mastertech-50-w-mttbtfn151-464012600014/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/tropigas%3A464012600014",
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/6/464012600014.jpg?width=300&height=300&canvas=300"
-  },
-  {
-   "producto": "Plancha alisadora  Revlon perfect smooth brilliance",
-   "marca": "Revlon",
-   "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
-   "tienda": "Simán",
-   "precio": 47.92,
-   "precio_tachado": 59.9,
-   "linea_base": 53.91,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -11.1,
-   "veredicto": "oferta real",
-   "minimo_historico": 47.92,
-   "url_tienda": "https://sv.siman.com/plancha-alisadora-perfect-smooth-brilliance-104594366/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8138589",
-   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5949588-300-300/104594366.jpg"
-  },
-  {
-   "producto": "Rizador Mix Curler Barril Ajustable 1\" (2.54 cm)  -  1 ½\" (3.81 cm) 420°F",
-   "marca": "Revlon",
-   "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
-   "tienda": "Simán",
-   "precio": 56.72,
-   "precio_tachado": 70.9,
-   "linea_base": 63.81,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -11.1,
-   "veredicto": "oferta real",
-   "minimo_historico": 56.72,
-   "url_tienda": "https://sv.siman.com/rizador-mix-curler-barril-ajustable-1-1-1-2-420-f-103858742/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A7270215",
-   "imagen": "https://siman.vteximg.com.br/arquivos/ids/3301061-300-300/102858742.jpg"
-  },
-  {
-   "producto": "Plancha Alisadora  Dual Plates 230°F110V",
-   "marca": "Ga.Ma",
-   "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
-   "tienda": "Simán",
-   "precio": 66.32,
-   "precio_tachado": 82.9,
-   "linea_base": 74.61,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -11.1,
-   "veredicto": "oferta real",
-   "minimo_historico": 66.32,
-   "url_tienda": "https://sv.siman.com/plancha-gama-dual-plates-104427860/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A7942178",
-   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5034679-300-300/104427860.jpg"
-  },
-  {
-   "producto": "Plancha Alisadora Copper Smooth 1 ½ Negra — _SkuName",
-   "marca": "Revlon",
-   "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
-   "tienda": "Simán",
-   "precio": 67.92,
-   "precio_tachado": 84.9,
-   "linea_base": 76.41,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -11.1,
-   "veredicto": "oferta real",
-   "minimo_historico": 67.92,
-   "url_tienda": "https://sv.siman.com/plancha-revlon-pro-collection-salon-straight-fast-glide-cop-103286665/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6470727",
-   "imagen": "https://siman.vteximg.com.br/arquivos/ids/2562924-300-300/103286665.jpg"
   },
   {
    "producto": "Cerámica de piso 45 X 45 Cm terrasa beige brillante",
@@ -14742,6 +14742,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7735979-300-300/105141887.jpg"
   },
   {
+   "producto": "Laptop Acer Nitro V15 - i5 13420H - 16 GB DDR4 - RTX 5050 8 GB - SSD 512 GB - 15.6\" FHD 165 Hz - IPS, NH.QZ7AL.002",
+   "marca": "Acer",
+   "categoria": "Laptops",
+   "tienda": "AEON",
+   "precio": 1299.0,
+   "precio_tachado": 1399.0,
+   "linea_base": 1399.0,
+   "precios_en_linea_base": 7,
+   "variacion_vs_base_pct": -7.2,
+   "veredicto": "baja leve",
+   "minimo_historico": 1299.0,
+   "url_tienda": "https://aeon.com.sv/shop/19226-laptop-acer-nitro-v15-i5-13420h-16-gb-ddr4-rtx-5050-8-gb-ssd-512-gb-15-6-fhd-165-hz-ips-nh-qz7al-002-106370",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A106370",
+   "imagen": "https://aeon.com.sv/web/image/product.template/106370/image_256"
+  },
+  {
    "producto": "Licuadora digital con Auto iQ 1400 W 4 velocidades 1.9 L Ninja",
    "marca": "Ninja",
    "categoria": "Licuadoras",
@@ -15108,6 +15124,22 @@
    "url_tienda": "https://sv.siman.com/sala-311-con-mesa-para-exteriores-105078469/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8735748",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7786580-300-300/105078470-ia.jpg"
+  },
+  {
+   "producto": "MONITOR LED AOC 24\" 24G4 Fast IPS1920×1080 (FHD) 180Hz 1ms, G-Sync, HDR10",
+   "marca": "AOC",
+   "categoria": "Monitores",
+   "tienda": "AEON",
+   "precio": 129.9,
+   "precio_tachado": 179.0,
+   "linea_base": 139.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -6.5,
+   "veredicto": "baja leve",
+   "minimo_historico": 129.9,
+   "url_tienda": "https://aeon.com.sv/shop/19651-monitor-led-aoc-24-24g4-fast-ips19201080-fhd-180hz-1ms-g-sync-hdr10-106792",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A106792",
+   "imagen": "https://aeon.com.sv/web/image/product.template/106792/image_256"
   },
   {
    "producto": "Refrigeradora Frío Seco WRW25DKTWW | 9'",
@@ -20132,6 +20164,22 @@
    "url_tienda": "https://sv.siman.com/set-plancha-y-secadora-terapia-aguacate-103447867/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A6711295",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7549086-300-300/103447867_500.jpg"
+  },
+  {
+   "producto": "Monitor Gigabyte GS25F2 - 24.5\" FHD, BOCINAS - 200Hz, 2 x HDMI x Displayport,  3.5mm - OSD - Negro - 20VM0- GS25F2BM-1USS",
+   "marca": "Gigabyte",
+   "categoria": "Monitores",
+   "tienda": "AEON",
+   "precio": 149.9,
+   "precio_tachado": 179.0,
+   "linea_base": 155.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -3.3,
+   "veredicto": "baja leve",
+   "minimo_historico": 149.9,
+   "url_tienda": "https://aeon.com.sv/shop/18393-monitor-gigabyte-gs25f2-24-5-fhd-bocinas-200hz-2-x-hdmi-x-displayport-3-5mm-osd-negro-20vm0-gs25f2bm-1uss-105540",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A105540",
+   "imagen": "https://aeon.com.sv/web/image/product.template/105540/image_256"
   },
   {
    "producto": "Set De Cama Regina Queen Comfort Plus",

@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-11-04T14:02:05-06:00",
+ "actualizado": "2026-11-04T18:48:56-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -61860,6 +61860,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 649.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6abadad69dbc0.jpg"
@@ -61998,6 +62006,14 @@
     {
      "fecha": "2026-11-04T14:02:05-06:00",
      "precio": 599.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 649.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -64313,6 +64329,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 649.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a6b76f3e79da.jpg"
@@ -65516,6 +65540,14 @@
     {
      "fecha": "2026-11-04T14:02:05-06:00",
      "precio": 579.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 599.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -69680,6 +69712,14 @@
     {
      "fecha": "2026-11-04T14:02:05-06:00",
      "precio": 549.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 599.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -81045,14 +81085,14 @@
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada69cbea64c7928.jpg"
   },
   "15075": {
-   "nombre": "Fuente de poder msi mag a750bn pcie5 750w 80+bronce",
+   "nombre": "Fuente de poder msi mag a750bn pcie5 750w 80+bronce 306-7zptx23-hd8",
    "categoria": "fuente",
    "tipo": "fuente",
    "pulgadas": null,
    "medida": null,
    "marca": "MSI",
-   "modelo": "A750BN",
-   "url": "https://zonadigitalsv.com/product/fuente-de-poder-msi-mag-a750bn-pcie5-750w-80bronce",
+   "modelo": "3067ZPTX23",
+   "url": "https://zonadigitalsv.com/product/fuente-de-poder-msi-mag-a750bn-pcie5-750w-80bronce-306-7zptx23-hd8",
    "primera_vez": "2026-10-30",
    "ultima_vez": "2026-11-04",
    "observaciones": [
@@ -88092,14 +88132,14 @@
    "imagen": "https://apizd.zonadigitalsv.com/storage/productos/uOaxPkUvRq8Odsw6hgpXLIfSPfXzXIdieJXfQXXq.png"
   },
   "13014": {
-   "nombre": "Fuente de poder msi mag a750bn pcie5 750w 80+bronce",
+   "nombre": "Fuente de poder msi mag a750bn pcie5 750w 80+bronce 306-7zp2c23-ce0",
    "categoria": "fuente",
    "tipo": "fuente",
    "pulgadas": null,
    "medida": null,
    "marca": "MSI",
-   "modelo": "A750BN",
-   "url": "https://zonadigitalsv.com/product/fuente-de-poder-msi-mag-a750bn-pcie5-750w-80bronce",
+   "modelo": "3067ZP2C23",
+   "url": "https://zonadigitalsv.com/product/fuente-de-poder-msi-mag-a750bn-pcie5-750w-80bronce-306-7zp2c23-ce0",
    "primera_vez": "2026-10-30",
    "ultima_vez": "2026-11-04",
    "observaciones": [
@@ -90874,6 +90914,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 229.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada64750c0d7d967.jpg"
@@ -91140,7 +91188,7 @@
    "modelo": "",
    "url": "https://zonadigitalsv.com/product/procesador-amd-ryzen-5-5500-am4-6c12t-19mb-requiere-gpu",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-02",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:00:34-06:00",
@@ -91168,6 +91216,14 @@
     },
     {
      "fecha": "2026-11-02T16:03:42-06:00",
+     "precio": 159.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
      "precio": 159.0,
      "precio_lista": null,
      "disponible": true,
@@ -92510,6 +92566,52 @@
     }
    ],
    "imagen": "https://apizd.zonadigitalsv.com/storage/productos/FnlksYSri7poEMYQwPrw3tGFU1JLBcVHuSXs57cX.png"
+  },
+  "15541": {
+   "nombre": "Fuente de poder msi mag a750gn pcie5 750w 80+gold",
+   "categoria": "fuente",
+   "tipo": "fuente",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "A750GN",
+   "url": "https://zonadigitalsv.com/product/fuente-de-poder-msi-mag-a750gn-pcie5-750w-80gold",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "observaciones": [
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 119.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a445d3f8c65a.jpg"
+  },
+  "15379": {
+   "nombre": "Fuente de poder msi mag a850gn pcie5 850w 80+gold",
+   "categoria": "fuente",
+   "tipo": "fuente",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MSI",
+   "modelo": "A850GN",
+   "url": "https://zonadigitalsv.com/product/fuente-de-poder-msi-mag-a850gn-pcie5-850w-80gold",
+   "primera_vez": "2026-11-04",
+   "ultima_vez": "2026-11-04",
+   "observaciones": [
+    {
+     "fecha": "2026-11-04T18:48:56-06:00",
+     "precio": 139.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://api.zonadigitalsv.com/storage/products/imagen_generada6a161d5f8c479.jpg"
   }
  }
 }

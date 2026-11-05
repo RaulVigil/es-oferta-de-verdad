@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-11-04T14:05:44-06:00",
+ "actualizado": "2026-11-04T18:52:32-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -71514,7 +71514,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/476414/ventilador-de-pedestal-4572-cm.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-04",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -71531,9 +71531,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T18:52:32-06:00",
+     "precio": 84.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/476414_99.jpg?v=120261030"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/476414_99.jpg?v=120261104"
   },
   "483646": {
    "nombre": "Ventilador de pedestal 45 Cm",
