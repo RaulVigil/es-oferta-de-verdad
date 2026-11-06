@@ -1,6 +1,6 @@
 {
  "comercial": "omnisport",
- "actualizado": "2026-11-05T14:18:47-06:00",
+ "actualizado": "2026-11-05T19:05:26-06:00",
  "listados": {
   "00401034161": {
    "nombre": "Cama Exclusiva 3 en 1 (1.40 m)",
@@ -282,7 +282,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-master-technology-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:56-06:00",
@@ -406,6 +406,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 379.0,
+     "precio_lista": 510.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 379.0,
      "precio_lista": 510.0,
      "disponible": true,
@@ -576,7 +584,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-rest-master-160-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:20:53-06:00",
@@ -669,6 +677,14 @@
     {
      "fecha": "2026-10-31T11:40:40-06:00",
      "precio": 319.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:05:26-06:00",
+     "precio": 299.0,
      "precio_lista": 390.0,
      "disponible": true,
      "fuente": "auto",
@@ -805,7 +821,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-deluxe-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:07-06:00",
@@ -934,6 +950,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 269.0,
+     "precio_lista": 365.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/qErXgNdxHIUHUOg1fbzOJNQxUWGRK1d8UnIWbrq1.png"
@@ -948,7 +972,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-dream-sleeper-2-en-1-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:12-06:00",
@@ -1045,6 +1069,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 359.0,
+     "precio_lista": 535.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Ms5EzdbJD5ZuQ0vKUnWIUocJM0RY5Y8vsDdsWyCZ.jpeg"
@@ -1059,7 +1091,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-luxurious-comfort-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:15-06:00",
@@ -1156,6 +1188,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 469.0,
+     "precio_lista": 660.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/NYF7kqqSxfjwOqfcK1uGUZANWmGPEmDML7IqEecn.png"
@@ -1170,7 +1210,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-triple-crown-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:18-06:00",
@@ -1267,6 +1307,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 499.0,
+     "precio_lista": 655.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/KYO5q0NTbYmijHvB0XQzrQL4QPrGuKakF6dkSCUA.png"
@@ -1281,7 +1329,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-wonder-full-2-en-1",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:21:04-06:00",
@@ -1373,6 +1421,14 @@
     },
     {
      "fecha": "2026-10-31T11:34:04-06:00",
+     "precio": 289.0,
+     "precio_lista": 373.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 289.0,
      "precio_lista": 373.0,
      "disponible": true,
@@ -4054,7 +4110,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-super-rest-master-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -4151,6 +4207,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 339.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/sAD6aQ3VBf6pLXmKyumC2fpQa0e1Q8dt67mlp8er.jpeg"
@@ -4165,7 +4229,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-back-care-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -4289,6 +4353,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 599.0,
+     "precio_lista": 1100.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 599.0,
      "precio_lista": 1100.0,
      "disponible": true,
@@ -4578,7 +4650,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-natural-sleep-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -4702,6 +4774,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 379.0,
+     "precio_lista": 557.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 379.0,
      "precio_lista": 557.0,
      "disponible": true,
@@ -4959,7 +5039,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-simmons-beauty-sleep-super-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -5083,6 +5163,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 529.0,
+     "precio_lista": 835.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 529.0,
      "precio_lista": 835.0,
      "disponible": true,
@@ -5483,7 +5571,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-super-rest-master-3-en-1-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -5607,6 +5695,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 379.0,
+     "precio_lista": 480.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 379.0,
      "precio_lista": 480.0,
      "disponible": true,
@@ -5745,7 +5841,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-beauty-rest-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -5869,6 +5965,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 689.0,
+     "precio_lista": 1270.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 689.0,
      "precio_lista": 1270.0,
      "disponible": true,
@@ -5888,7 +5992,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-br-world-class-pillow-top-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -6012,6 +6116,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 879.0,
+     "precio_lista": 1545.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 879.0,
      "precio_lista": 1545.0,
      "disponible": true,
@@ -6150,7 +6262,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-ortho-advanced-full",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -6279,6 +6391,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 329.0,
+     "precio_lista": 425.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/q8KSl9Vy6ySBTQyUTkfiF8yreMTb8X4SItRx28j1.png"
@@ -6293,7 +6413,7 @@
    "modelo": "",
    "url": "https://omnisport.com/productos/cama-ortho-rest-es-140-m",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:39:04-06:00",
@@ -6385,6 +6505,14 @@
     },
     {
      "fecha": "2026-10-31T11:34:04-06:00",
+     "precio": 429.0,
+     "precio_lista": 520.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 429.0,
      "precio_lista": 520.0,
      "disponible": true,
@@ -12986,7 +13114,7 @@
    "modelo": "WM20EGNT6PC",
    "url": "https://omnisport.com/productos/lavadora-inverter-wm20egnt6pc-44-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -13078,6 +13206,14 @@
     },
     {
      "fecha": "2026-10-31T11:34:04-06:00",
+     "precio": 769.0,
+     "precio_lista": 1000.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 769.0,
      "precio_lista": 1000.0,
      "disponible": true,
@@ -13596,7 +13732,7 @@
    "modelo": "WT25PBTX6",
    "url": "https://omnisport.com/productos/lavadora-wt25pbtx6-55-lb",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T13:01:26-06:00",
@@ -13720,6 +13856,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 639.0,
+     "precio_lista": 1035.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 639.0,
      "precio_lista": 1035.0,
      "disponible": true,
@@ -15201,7 +15345,7 @@
    "modelo": "UN43U8000",
    "url": "https://omnisport.com/productos/4k-tv-un43u8000-43",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-10-24",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:46:47-06:00",
@@ -15234,8 +15378,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 289.0,
+     "precio_lista": 445.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
-   ]
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
   },
   "00000014428": {
    "nombre": "4K TV NEO QLED QN43QN90F | 43\"",
@@ -16545,7 +16698,7 @@
    "modelo": "UN75U8000",
    "url": "https://omnisport.com/productos/4k-tv-un75u8000-75",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:11:18-06:00",
@@ -16613,6 +16766,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 749.0,
+     "precio_lista": 1135.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 749.0,
      "precio_lista": 1135.0,
      "disponible": true,
@@ -16727,7 +16888,7 @@
    "modelo": "K65XR30M",
    "url": "https://omnisport.com/productos/4k-tv-bravia-3-ii-k-65xr30m-65",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:11:18-06:00",
@@ -16795,6 +16956,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1795.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 1299.0,
      "precio_lista": 1795.0,
      "disponible": true,
@@ -16909,7 +17078,7 @@
    "modelo": "UN70U8000",
    "url": "https://omnisport.com/productos/4k-tv-un70u8000-70",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:11:18-06:00",
@@ -16977,6 +17146,14 @@
     },
     {
      "fecha": "2026-11-04T14:01:48-06:00",
+     "precio": 699.0,
+     "precio_lista": 1030.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
      "precio": 699.0,
      "precio_lista": 1030.0,
      "disponible": true,
@@ -19607,6 +19784,167 @@
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/uYRMyzBTB6cpd7OzJvrJcXOeSbYDJgjjlHRv4gO5.jpeg"
+  },
+  "00000012278": {
+   "nombre": "4K TV BRAVIA 2 K-55S20M | 55\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 55,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K55S20M",
+   "url": "https://omnisport.com/productos/4k-tv-bravia-2-k-55s20m-55",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 699.0,
+     "precio_lista": 1130.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/hPDb8zjDUk7aCJVotZTQDteYkV1lRzQF6aucZ3KP.jpeg"
+  },
+  "00000012279": {
+   "nombre": "4K TV BRAVIA 2 K-65S20M | 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K65S20M",
+   "url": "https://omnisport.com/productos/4k-tv-bravia-2-k-65s20m-65",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 899.0,
+     "precio_lista": 1400.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/WxrUX7lBRN1JSmXFhhWyoMaZCRob9h4WVVa80gpT.jpeg"
+  },
+  "00000012280": {
+   "nombre": "4K TV BRAVIA 2 K-75S20M | 75\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 75,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K75S20M",
+   "url": "https://omnisport.com/productos/4k-tv-bravia-2-k-75s20m-75",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1860.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/VodqAxaCYU6NBbwxFmAZmaxk0U9sbV38vD9WJ0az.jpeg"
+  },
+  "00000014485": {
+   "nombre": "4K TV BRAVIA 3 II K-85XR30M |  85\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 85,
+   "medida": null,
+   "marca": "Sony",
+   "modelo": "K85XR30M",
+   "url": "https://omnisport.com/productos/4k-tv-bravia-3-ii-k-85xr30m-85",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 2099.0,
+     "precio_lista": 2865.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/fVSRDcUQeMm9tUN6b0kQeGbgOdrWpOrnHWGDoJks.jpeg"
+  },
+  "00000014613": {
+   "nombre": "4K TV 43NU800 | 43\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 43,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "43NU800",
+   "url": "https://omnisport.com/productos/4k-tv-43nu800-43",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 289.0,
+     "precio_lista": 440.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
+  },
+  "00000014615": {
+   "nombre": "4K TV 58NU850 | 58\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 58,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "58NU850",
+   "url": "https://omnisport.com/productos/4k-tv-58nu850-58",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 499.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
+  },
+  "00000014285": {
+   "nombre": "4K TV 65NU850 | 65\"",
+   "categoria": "tv",
+   "tipo": "tv",
+   "pulgadas": 65,
+   "medida": null,
+   "marca": "LG",
+   "modelo": "65NU850",
+   "url": "https://omnisport.com/productos/4k-tv-65nu850-65",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:55:19-06:00",
+     "precio": 569.0,
+     "precio_lista": 840.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
   }
  }
 }

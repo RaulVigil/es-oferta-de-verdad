@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-11-05T14:03:46-06:00",
+ "actualizado": "2026-11-05T18:40:43-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -4853,7 +4853,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/cama-individual-105106338/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:43-06:00",
@@ -4980,6 +4980,14 @@
      "precio": 219.0,
      "precio_lista": 305.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 219.0,
+     "precio_lista": 305.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -5608,7 +5616,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/cama-healthy-bed-ortopedica/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:36:43-06:00",
@@ -5735,6 +5743,14 @@
      "precio": 499.0,
      "precio_lista": 835.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 499.0,
+     "precio_lista": 835.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -106358,6 +106374,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 18.99,
+     "precio_lista": 31.9,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6768582-300-300/104888235.jpg"
@@ -175049,7 +175073,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/ducha-tipo-telefono-con-extension-823479817/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:50:41-06:00",
@@ -175173,6 +175197,14 @@
     },
     {
      "fecha": "2026-11-04T13:50:50-06:00",
+     "precio": 23.63,
+     "precio_lista": 26.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
      "precio": 23.63,
      "precio_lista": 26.25,
      "disponible": true,
@@ -182026,6 +182058,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 245.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7130274-300-300/RI289D01.jpg"
@@ -186058,6 +186098,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 379.0,
+     "precio_lista": 462.89,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7832873-300-300/HYWM181-2-3-.jpg"
@@ -186205,6 +186253,14 @@
     {
      "fecha": "2026-11-05T14:03:46-06:00",
      "precio": 449.0,
+     "precio_lista": 496.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 399.0,
      "precio_lista": 496.0,
      "disponible": true,
      "fuente": "auto",
@@ -186507,6 +186563,14 @@
     {
      "fecha": "2026-11-05T14:03:46-06:00",
      "precio": 490.12,
+     "precio_lista": 511.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 445.0,
      "precio_lista": 511.75,
      "disponible": true,
      "fuente": "auto",
@@ -204692,6 +204756,14 @@
      "precio": 269.91,
      "precio_lista": 299.9,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 299.9,
+     "precio_lista": 299.9,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -256959,7 +257031,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/cama-individual-105106338/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -257014,6 +257086,14 @@
      "precio": 169.0,
      "precio_lista": 260.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 169.0,
+     "precio_lista": 260.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -257030,7 +257110,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/cama-individual-105106338/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -257085,6 +257165,14 @@
      "precio": 199.0,
      "precio_lista": 280.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 199.0,
+     "precio_lista": 280.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -259076,7 +259164,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/cama-healthy-bed-ortopedica/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -259131,6 +259219,14 @@
      "precio": 779.0,
      "precio_lista": 1250.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 779.0,
+     "precio_lista": 1250.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }
@@ -259147,7 +259243,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/cama-healthy-bed-ortopedica/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -259202,6 +259298,14 @@
      "precio": 569.0,
      "precio_lista": 950.0,
      "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:40:43-06:00",
+     "precio": 569.0,
+     "precio_lista": 950.0,
+     "disponible": false,
      "fuente": "auto",
      "nota": ""
     }

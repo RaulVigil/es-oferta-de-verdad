@@ -1,6 +1,6 @@
 {
  "comercial": "samsung",
- "actualizado": "2026-11-05T14:29:09-06:00",
+ "actualizado": "2026-11-05T19:05:24-06:00",
  "listados": {
   "WA25DG5505AVAX": {
    "nombre": "Lavadora carga superior con gran capacidad (25 Kg) y Agitador ActiveWave con SmartThings, negro (WA25DG5505AVAX)",
@@ -20160,6 +20160,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:05:24-06:00",
+     "precio": 989.0,
+     "precio_lista": 1169.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-s938bzkjl15_enterprise-edition_thumb.png"
@@ -20187,6 +20195,29 @@
     {
      "fecha": "2026-11-05T14:29:09-06:00",
      "precio": 705.0,
+     "precio_lista": 739.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-s731_set-cut-all-3_thumb.png"
+  },
+  "SM-S731BZKKGTO-BANCO-1": {
+   "nombre": "Galaxy S25 FE 256GB (SM-S731BZKKGTO-BANCO-1)",
+   "categoria": "celular",
+   "tipo": "celular",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Samsung",
+   "modelo": "SMS731BZKKGTO",
+   "url": "https://shop.samsung.com/latin/cac/sv/galaxy-s25-fe-256gb-8ram-banco.html",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T19:05:24-06:00",
+     "precio": 549.0,
      "precio_lista": 739.0,
      "disponible": true,
      "fuente": "auto",

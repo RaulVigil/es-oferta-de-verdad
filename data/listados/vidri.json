@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-11-05T14:25:57-06:00",
+ "actualizado": "2026-11-05T19:02:21-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -1804,6 +1804,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 11.75,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/164278.jpg?v=120261105"
@@ -1947,6 +1955,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/164275.jpg?v=120261105"
@@ -2086,6 +2102,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 6.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 6.65,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -5375,7 +5399,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/458972/estante-multiuso-de-5-paneles-de-9144-x-4572-x-18288-cm.html",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-21T10:49:31-06:00",
@@ -5496,9 +5520,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 79.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/458972.jpg?v=120261104"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/458972.jpg?v=120261105"
   },
   "460581": {
    "nombre": "Freidora de aire pro 4 En 1 Digital 4.7 L (5 Qt)",
@@ -33292,6 +33324,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 6.65,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/114129.jpg?v=120261105"
@@ -36762,6 +36802,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 11.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/164290.jpg?v=120261105"
@@ -37906,6 +37954,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 13.2,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/164269.jpg?v=120261105"
@@ -38045,6 +38101,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 9.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -38192,6 +38256,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 6.65,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/164267.jpg?v=120261105"
@@ -38335,6 +38407,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 16.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/164265.jpg?v=120261105"
@@ -38474,6 +38554,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 10.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 11.75,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -38760,6 +38848,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 12.75,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 13.2,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -44055,6 +44151,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 18.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/446185.jpg?v=120261105"
@@ -44627,6 +44731,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 16.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/55601.jpg?v=120261105"
@@ -44913,6 +45025,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 19.1,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/55597.jpg?v=120261105"
@@ -45052,6 +45172,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 18.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 19.1,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -45481,6 +45609,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 8.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 9.95,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -46200,6 +46336,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 19.1,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/75991.jpg?v=120261105"
@@ -46339,6 +46483,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 15.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 16.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -47201,6 +47353,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 19.1,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.ferreteriavidri.com/images/items/large/92337.jpg?v=120261105"
@@ -47340,6 +47500,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 15.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 16.0,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -47769,6 +47937,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 18.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 19.1,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -48341,6 +48517,14 @@
     {
      "fecha": "2026-11-05T14:25:57-06:00",
      "precio": 6.5,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 6.65,
      "precio_lista": null,
      "disponible": true,
      "fuente": "auto",
@@ -73027,7 +73211,7 @@
    "modelo": "33X33",
    "url": "https://www.vidri.com.sv/producto/486114/ceramica-de-piso-33x33-cm-argelia-verde-caja-133-m2.html",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-21T17:01:00-06:00",
@@ -73148,9 +73332,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 13.2,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/486114.jpg?v=120261104"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/486114.jpg?v=120261105"
   },
   "33123": {
    "nombre": "Repisa para closet 12 Pulg x 6 Pies (30.48 Cm x 1.82 M)",
@@ -86379,7 +86571,7 @@
      "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/455636_99.jpg?v=120261105"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/455636.jpg?v=120261105"
   },
   "477252": {
    "nombre": "Ventilador led de techo blanco 22.8 Cm",
@@ -87489,7 +87681,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/23973/taladro-percutor-10-mm-3-8-pulgada-120-v----600-w.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -87546,9 +87738,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 85.45,
+     "precio_lista": 94.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/23973.jpg?v=120261104"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/23973.jpg?v=120261105"
   },
   "456911": {
    "nombre": "Taladro rotacional 10 Mm (3/8 Pulgada) 120 V - 450 W",
@@ -90181,7 +90381,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/409762/cafetera-blanca-con-filtro-permanente-12-tazas.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -90230,9 +90430,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 18.35,
+     "precio_lista": 29.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/409762_99.jpg?v=120261104"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/409762_99.jpg?v=120261105"
   },
   "177182": {
    "nombre": "Cafetera personal de 473.17 Ml color negro",
@@ -93695,7 +93903,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/433615/plancha-antiadherente-hamilton-beach.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -93752,9 +93960,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:02:21-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/433615_99.jpg?v=120261104"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/433615_99.jpg?v=120261105"
   },
   "77327": {
    "nombre": "Plancha clásica para uso en seco de 1000 W",

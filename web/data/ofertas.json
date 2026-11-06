@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-05T14:29:20-06:00",
+ "generado": "2026-11-05T19:05:28-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -162,38 +162,6 @@
    "url_tienda": "https://www.radioshackla.com/elsalvador/audifonos-inalambricos-jbl-over-ear-azul-jblt770ncblu-466672300013/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/radioshack%3A466672300013",
    "imagen": "https://www.radioshackla.com/media/catalog/product/4/6/466672300013_3.png?width=300&height=300&canvas=300"
-  },
-  {
-   "producto": "Barra de sonido Sony HTS20R 5.1 Negro",
-   "marca": "Sony",
-   "categoria": "Bocinas y barras de sonido",
-   "tienda": "La Curacao",
-   "precio": 100.0,
-   "precio_tachado": 299.0,
-   "linea_base": 269.0,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -62.8,
-   "veredicto": "oferta real",
-   "minimo_historico": 100.0,
-   "url_tienda": "https://www.lacuracaonline.com/elsalvador/barra-de-sonido-sony-hts20r-5-1-negro-456517200011/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/curacao%3A456517200011",
-   "imagen": "https://www.lacuracaonline.com/media/catalog/product/5/6/565172_02_kqelgisyztnxqcjf.jpg?width=300&height=300&canvas=300"
-  },
-  {
-   "producto": "Barra de sonido Sony HTS20R 5.1 Negro",
-   "marca": "Sony",
-   "categoria": "Bocinas y barras de sonido",
-   "tienda": "RadioShack",
-   "precio": 100.0,
-   "precio_tachado": 299.0,
-   "linea_base": 269.0,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -62.8,
-   "veredicto": "oferta real",
-   "minimo_historico": 100.0,
-   "url_tienda": "https://www.radioshackla.com/elsalvador/barra-de-sonido-sony-hts20r-5-1-negro-456517200011/p",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/radioshack%3A456517200011",
-   "imagen": "https://www.radioshackla.com/media/catalog/product/5/6/565172_02_kqelgisyztnxqcjf.jpg?width=300&height=300&canvas=300"
   },
   {
    "producto": "Audífonos inalámbricos in ear Oracle Red Bull Racing RB-EB200 — AUDIFONOS IN EAR RED BULL RACING RB-EB200 NEGRO",
@@ -900,6 +868,22 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/473190_99.jpg?v=120261105"
   },
   {
+   "producto": "Cafetera blanca con filtro permanente 12 Tazas",
+   "marca": "Black+decker",
+   "categoria": "Cafeteras",
+   "tienda": "Vidrí",
+   "precio": 18.35,
+   "precio_tachado": 29.95,
+   "linea_base": 29.95,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -38.7,
+   "veredicto": "oferta real",
+   "minimo_historico": 18.35,
+   "url_tienda": "https://www.vidri.com.sv/producto/409762/cafetera-blanca-con-filtro-permanente-12-tazas.html",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A409762",
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/409762_99.jpg?v=120261105"
+  },
+  {
    "producto": "Freidora de aire portatil crispi® 4 En 1 Verde menta",
    "marca": "Ninja",
    "categoria": "Freidoras de aire",
@@ -1041,7 +1025,7 @@
    "minimo_historico": 70.9,
    "url_tienda": "https://www.vidri.com.sv/producto/455636/plancha-a-vapor+-licuadora-ice-crush+-cafetera-12-tazas-3-unidades.html",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A455636",
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/455636_99.jpg?v=120261105"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/455636.jpg?v=120261105"
   },
   {
    "producto": "Sala seccional esquinera izquierda Sidney — SALA SECCIONAL  CAFÉ",
@@ -2546,6 +2530,54 @@
    "url_tienda": "https://www.vidri.com.sv/producto/409760/ducha-con-columna+ducha-de-mano-cromada-tenet.html",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A409760",
    "imagen": "https://www.ferreteriavidri.com/images/items/large/409760.jpg?v=120261105"
+  },
+  {
+   "producto": "Barra de sonido Sony HTS20R 5.1 Negro",
+   "marca": "Sony",
+   "categoria": "Bocinas y barras de sonido",
+   "tienda": "La Curacao",
+   "precio": 189.0,
+   "precio_tachado": 299.0,
+   "linea_base": 269.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -29.7,
+   "veredicto": "oferta real",
+   "minimo_historico": 100.0,
+   "url_tienda": "https://www.lacuracaonline.com/elsalvador/barra-de-sonido-sony-hts20r-5-1-negro-456517200011/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/curacao%3A456517200011",
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/5/6/565172_02_kqelgisyztnxqcjf.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "Barra de sonido Sony HTS20R 5.1 Negro",
+   "marca": "Sony",
+   "categoria": "Bocinas y barras de sonido",
+   "tienda": "RadioShack",
+   "precio": 189.0,
+   "precio_tachado": 299.0,
+   "linea_base": 269.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -29.7,
+   "veredicto": "oferta real",
+   "minimo_historico": 100.0,
+   "url_tienda": "https://www.radioshackla.com/elsalvador/barra-de-sonido-sony-hts20r-5-1-negro-456517200011/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/radioshack%3A456517200011",
+   "imagen": "https://www.radioshackla.com/media/catalog/product/5/6/565172_02_kqelgisyztnxqcjf.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "Barra de sonido Sony HTS20R 5.1 Negro",
+   "marca": "Sony",
+   "categoria": "Bocinas y barras de sonido",
+   "tienda": "Tropigas",
+   "precio": 189.0,
+   "precio_tachado": 299.0,
+   "linea_base": 269.0,
+   "precios_en_linea_base": 2,
+   "variacion_vs_base_pct": -29.7,
+   "veredicto": "oferta real",
+   "minimo_historico": 189.0,
+   "url_tienda": "https://www.almacenestropigas.com.sv/barra-de-sonido-sony-hts20r-5-1-negro-456517200011/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/tropigas%3A456517200011",
+   "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/5/6/565172_02_kqelgisyztnxqcjf.jpg?width=300&height=300&canvas=300"
   },
   {
    "producto": "Ventilador led de techo blanco 22.8 Cm",
@@ -7204,6 +7236,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6586755-300-300/104844642.jpg"
   },
   {
+   "producto": "Refrigeradora Indurama 15.2 cm (6\") c/e gris RI289D 1p c/di — Refrigeradora Indurama 6\" c/e gris RI289D 1p c/di",
+   "marca": "Indurama",
+   "categoria": "Refrigeradoras",
+   "tienda": "Simán",
+   "precio": 245.0,
+   "precio_tachado": 299.0,
+   "linea_base": 299.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -18.1,
+   "veredicto": "oferta real",
+   "minimo_historico": 245.0,
+   "url_tienda": "https://sv.siman.com/refrigeradora-indurama-6--c-e-gris-ri289d-1p-c-di-823483121/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10041138",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7130274-300-300/RI289D01.jpg"
+  },
+  {
    "producto": "Audífono inalámbrico on ear Bose QuietComfort con cancelación activa de ruido — AUDIFONOS ON EAR QUITCOMFORT TWILIGHT BLUE",
    "marca": "Bose",
    "categoria": "Audífonos",
@@ -9636,6 +9684,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7408840-300-300/AF1218-E_A.jpg"
   },
   {
+   "producto": "Lavadora Hyundai 18 kg gris HYWM181",
+   "marca": "Hyundai",
+   "categoria": "Lavadoras",
+   "tienda": "Simán",
+   "precio": 379.0,
+   "precio_tachado": 462.89,
+   "linea_base": 436.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -13.1,
+   "veredicto": "oferta real",
+   "minimo_historico": 379.0,
+   "url_tienda": "https://sv.siman.com/lavadora-hyundai-18-kg-gris-hywm181-823487870/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10054781",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7832873-300-300/HYWM181-2-3-.jpg"
+  },
+  {
    "producto": "Cama Florida Comfort Suave Base Acolchonada - Fresh Supreme — Matrimonial",
    "marca": "Florida",
    "categoria": "Camas y colchones",
@@ -10644,6 +10708,22 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/486025_99.jpg?v=120261105"
   },
   {
+   "producto": "4K TV UN75U8000 | 75\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 749.0,
+   "precio_tachado": 1135.0,
+   "linea_base": 849.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -11.8,
+   "veredicto": "oferta real",
+   "minimo_historico": 749.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-un75u8000-75",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000012113",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
+  },
+  {
    "producto": "Pantalla Samsung The Frame 55\" (139.7 cm) QLED UHD 4K HDR10+ QN55LS03FAPXPA — Pantalla Samsung QLED 2025 Smart 55\" (139.7 cm) The Frame UHD/4K Art Mode Vision AI //  QN55LS03FAPXPA",
    "marca": "Samsung",
    "categoria": "TV",
@@ -11026,6 +11106,22 @@
    "url_tienda": "https://www.radioshackla.com/elsalvador/parlante-jbl-100w-rms-bluetooth-integrado-negro-partybox-encore-2-plus-472474900016/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/radioshack%3A472474900016",
    "imagen": "https://www.radioshackla.com/media/catalog/product/9/2/9204500001_2__1.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "Lavadora Hyundai 21 kg gris HYWM211",
+   "marca": "Hyundai",
+   "categoria": "Lavadoras",
+   "tienda": "Simán",
+   "precio": 399.0,
+   "precio_tachado": 496.0,
+   "linea_base": 449.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -11.1,
+   "veredicto": "oferta real",
+   "minimo_historico": 399.0,
+   "url_tienda": "https://sv.siman.com/lavadora-hyundai-21-kg-gris-hywm211-823487869/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10054780",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7832877-300-300/HYWM211-2-3-.jpg"
   },
   {
    "producto": "Cama Florida Comfort Suave  Base Semi Acolchonada - Tikal Doble Euro — Queen",
@@ -13238,6 +13334,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8186492-300-300/image-3ce2e00c01cb406bb0c9e1478ff4dfd2.jpg"
   },
   {
+   "producto": "Ducha tipo teléfono con extensión",
+   "marca": "Ici",
+   "categoria": "Duchas y grifería",
+   "tienda": "Simán",
+   "precio": 23.63,
+   "precio_tachado": 26.25,
+   "linea_base": 26.25,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -10.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 23.63,
+   "url_tienda": "https://sv.siman.com/ducha-tipo-telefono-con-extension-823479817/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10037642",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6939844-300-300/image-c5a8e78a07394f7b8b76ef61ed29bd57.jpg"
+  },
+  {
    "producto": "Juego de Sala Seccional Diesa 5 piezas Praga",
    "marca": null,
    "categoria": "Salas y sofás",
@@ -13284,6 +13396,22 @@
    "url_tienda": "https://aeon.com.sv/shop/ucal-107340",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/aeon%3A107340",
    "imagen": "https://aeon.com.sv/web/image/product.template/107340/image_256"
+  },
+  {
+   "producto": "Celular Samsung A27 con 6 GB de RAM y 128 GB de almacenamiento",
+   "marca": "Samsung",
+   "categoria": "Celulares",
+   "tienda": "Walmart",
+   "precio": 324.38,
+   "precio_tachado": 389.0,
+   "linea_base": 359.66,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -9.8,
+   "veredicto": "baja leve",
+   "minimo_historico": 324.38,
+   "url_tienda": "https://www.walmart.com.sv/samsung-celular-a27-6-128gb-sv581-5-8/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/walmart%3A121831",
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/922631-300-300/celular-samsung-a-27-6-gb-ram-128-gb-almacenamiento-8806099361570.jpg"
   },
   {
    "producto": "Pantalla Samsung 75\" LED 4K UHD UN75U8000HPX",
@@ -13444,6 +13572,22 @@
    "url_tienda": "https://www.almacenestropigas.com.sv/ropero-quattro-6-puertas-2-cajones-mdp-cafe-183x150-6x46-5-cm-rp2621-470057500011/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/tropigas%3A470057500011",
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/7/470057500011_1_1.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "LAVADORA INDURAMA BL 22 KG LRI22SP",
+   "marca": "Indurama",
+   "categoria": "Lavadoras",
+   "tienda": "Simán",
+   "precio": 445.0,
+   "precio_tachado": 511.75,
+   "linea_base": 490.12,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -9.2,
+   "veredicto": "baja leve",
+   "minimo_historico": 445.0,
+   "url_tienda": "https://sv.siman.com/lavadora-indurama-bl-22-kg-lri22sp-823492096/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10070104",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8436578-300-300/image-1b0b8c7f716c4dc48369099c0f7236de.jpg"
   },
   {
    "producto": "Control inalámbrico de XBOX Series X/S, XBOX One — CONTROL INALÁMBRICO BLANCO",
@@ -15990,6 +16134,22 @@
    "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/4/b/4b8133f2-153e-47ab-aa9c-7e8cd8097834.jpg"
   },
   {
+   "producto": "Cama Rest Master (1.60 m)",
+   "marca": null,
+   "categoria": "Camas y colchones",
+   "tienda": "Omnisport",
+   "precio": 299.0,
+   "precio_tachado": 390.0,
+   "linea_base": 319.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -6.3,
+   "veredicto": "baja leve",
+   "minimo_historico": 299.0,
+   "url_tienda": "https://omnisport.com/productos/cama-rest-master-160-m",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00401030123",
+   "imagen": null
+  },
+  {
    "producto": "Colchón Super con Tecnología Master Tech — Colchón individual",
    "marca": "Capri",
    "categoria": "Camas y colchones",
@@ -17574,6 +17734,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7076515-300-300/104963010-1 -1-.jpg"
   },
   {
+   "producto": "Celular Poco X8 Pro 8 GB 512 GB Almacenamiento",
+   "marca": "Xiaomi",
+   "categoria": "Celulares",
+   "tienda": "Walmart",
+   "precio": 489.02,
+   "precio_tachado": 560.0,
+   "linea_base": 518.42,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -5.7,
+   "veredicto": "baja leve",
+   "minimo_historico": 489.02,
+   "url_tienda": "https://www.walmart.com.sv/celular-poco-x8-pro-8gb-512gb-sv9201-5-6/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/walmart%3A123333",
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/891109-300-300/M-5_walmartsv_tbfIKYXAns_123346_01.jpg"
+  },
+  {
    "producto": "58\" Crystal UHD 4K U8000H Tizen OS Smart TV (2026) (UN58U8000HPXPA)",
    "marca": "Samsung",
    "categoria": "TV",
@@ -17604,6 +17780,22 @@
    "url_tienda": "https://sv.siman.com/cama-104014206/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A7450891",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7899890-300-300/104014206--4-.jpg"
+  },
+  {
+   "producto": "Cama Super Rest Master (1.40 m)",
+   "marca": null,
+   "categoria": "Camas y colchones",
+   "tienda": "Omnisport",
+   "precio": 339.0,
+   "precio_tachado": 455.0,
+   "linea_base": 359.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -5.6,
+   "veredicto": "baja leve",
+   "minimo_historico": 339.0,
+   "url_tienda": "https://omnisport.com/productos/cama-super-rest-master-140-m",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00401030166",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/sAD6aQ3VBf6pLXmKyumC2fpQa0e1Q8dt67mlp8er.jpeg"
   },
   {
    "producto": "Bocina JBL 200 W RMS Bluetooth Integrado Negro PartyBox 130",
@@ -18004,6 +18196,22 @@
    "url_tienda": "https://sv.siman.com/colchon-semimatrimonial-804318/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A2021473",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/371059-300-300/exclusiva-base-normal-colchon-_-grande-1.jpg"
+  },
+  {
+   "producto": "4K TV UN70U8000 | 70\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 699.0,
+   "precio_tachado": 1030.0,
+   "linea_base": 739.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -5.4,
+   "veredicto": "baja leve",
+   "minimo_historico": 699.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-un70u8000-70",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000012112",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
   },
   {
    "producto": "Cerámica para piso 51 X 51 Cm patagonia fd ex blanco",
@@ -18644,6 +18852,38 @@
    "url_tienda": "https://sv.siman.com/colchon-909379/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A2013621",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7113780-300-300/490937900007-1.jpg"
+  },
+  {
+   "producto": "Cama Master Technology (1.40 m)",
+   "marca": null,
+   "categoria": "Camas y colchones",
+   "tienda": "Omnisport",
+   "precio": 379.0,
+   "precio_tachado": 510.0,
+   "linea_base": 399.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -5.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 379.0,
+   "url_tienda": "https://omnisport.com/productos/cama-master-technology-140-m",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00401033084",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/1UN7KqOEFyhF7D7Jht9ZVUBUYzumcwzM04RD0aXq.jpeg"
+  },
+  {
+   "producto": "Cama Natural Sleep Full",
+   "marca": null,
+   "categoria": "Camas y colchones",
+   "tienda": "Omnisport",
+   "precio": 379.0,
+   "precio_tachado": 557.0,
+   "linea_base": 399.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -5.0,
+   "veredicto": "baja leve",
+   "minimo_historico": 379.0,
+   "url_tienda": "https://omnisport.com/productos/cama-natural-sleep-full",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000006539",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/gLV75HzFptu2sWUin3TiwnERWKNAqxWVdCXtaPk3.png"
   },
   {
    "producto": "Cama Indufoam Natural Sleep confort suave tecnología HeiQ Viroblock — Cama matrimonial Natural Sleeper",

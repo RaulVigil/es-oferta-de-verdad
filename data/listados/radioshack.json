@@ -1,6 +1,6 @@
 {
  "comercial": "radioshack",
- "actualizado": "2026-11-05T14:07:46-06:00",
+ "actualizado": "2026-11-05T18:44:26-06:00",
  "listados": {
   "472051200010": {
    "nombre": "Pantalla TCL 50\" QLED FHD 50S5K",
@@ -142857,6 +142857,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:26-06:00",
+     "precio": 189.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.radioshackla.com/media/catalog/product/5/6/565172_02_kqelgisyztnxqcjf.jpg?width=300&height=300&canvas=300"
@@ -220506,6 +220514,14 @@
     {
      "fecha": "2026-11-05T14:07:46-06:00",
      "precio": 1949.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:26-06:00",
+     "precio": 2299.0,
      "precio_lista": 2299.0,
      "disponible": true,
      "fuente": "auto",

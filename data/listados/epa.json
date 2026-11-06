@@ -1,6 +1,6 @@
 {
  "comercial": "epa",
- "actualizado": "2026-11-05T14:12:43-06:00",
+ "actualizado": "2026-11-05T18:49:23-06:00",
  "listados": {
   "SV-1938000": {
    "nombre": "Cerrojo electrónico con teclado kwikset",
@@ -112884,6 +112884,29 @@
     }
    ],
    "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/a/f/afc7cdd5-552c-4eb2-a625-8e08e1466ee1.jpg"
+  },
+  "SV-2310053": {
+   "nombre": "Estufa eléctrica de vitrocerámica 5 discos (5 x 90 x 52) cm Drija",
+   "categoria": "estufa",
+   "tipo": "estufa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Drija",
+   "modelo": "",
+   "url": "https://sv.epaenlinea.com/estufa-electrica-de-vitroceramica-5-discos-5-x-90-x-52-cm-drija.html",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:49:23-06:00",
+     "precio": 695.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://sv.epaenlinea.com/media/catalog/product/cache/5573621d13c7638304abcc5f0c73da7c/b/f/bf7e1cbb-562d-4c96-a358-ba82c7258a9a.jpg"
   }
  }
 }

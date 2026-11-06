@@ -1,6 +1,6 @@
 {
  "comercial": "curacao",
- "actualizado": "2026-11-05T14:07:32-06:00",
+ "actualizado": "2026-11-05T18:44:12-06:00",
  "listados": {
   "465123300008": {
    "nombre": "Set de Cama Capri Matrimonial Exclusiva 2 en 1",
@@ -19722,7 +19722,7 @@
    "modelo": "VG270P6BIP",
    "url": "https://www.lacuracaonline.com/elsalvador/monitor-gaming-acer-led-27-fhd-negro-vg270p6bip-470302600015/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T11:54:28-06:00",
@@ -19830,6 +19830,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 159.0,
+     "precio_lista": 219.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 159.0,
      "precio_lista": 219.0,
      "disponible": true,
@@ -25933,7 +25941,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/nintendo-switch-edicion-oled-64-gb-hrgskaasd-super-mario-brostm-wonder-470537500012/p",
    "primera_vez": "2026-10-20",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-20T12:07:34-06:00",
@@ -26041,6 +26049,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 479.0,
+     "precio_lista": 479.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 479.0,
      "precio_lista": 479.0,
      "disponible": true,
@@ -173760,7 +173776,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/consola-playstation-5-bundle-con-astro-bot-y-gran-turismo-7-1000038893-470529300019/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -173849,6 +173865,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
+     "precio": 949.0,
+     "precio_lista": 949.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/470529300019_1.jpg?width=300&height=300&canvas=300"
@@ -173863,7 +173887,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/consola-playstation-5-bundle-digital-con-astro-bot-y-gran-turismo-7-1000038898-470529400016/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -173947,6 +173971,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 889.0,
+     "precio_lista": 889.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 889.0,
      "precio_lista": 889.0,
      "disponible": false,
@@ -174410,7 +174442,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/nintendo-switch-2-edicion-hk-256-gb-mario-kart-world-470548300014/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -174494,6 +174526,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 799.0,
+     "precio_lista": 799.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 799.0,
      "precio_lista": 799.0,
      "disponible": false,
@@ -175179,7 +175219,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/laptop-asus-tuf-gaming-a15-16-gb-ssd-512-gb-15-6-negro-470831800016/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -175268,6 +175308,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
+     "precio": 929.0,
+     "precio_lista": 1369.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/470831800016_1_1.jpg?width=300&height=300&canvas=300"
@@ -175282,7 +175330,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/laptop-asus-v16-16-gb-ssd-512-gb-16-negro-470832000019/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -175366,6 +175414,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1609.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 1299.0,
      "precio_lista": 1609.0,
      "disponible": false,
@@ -175829,7 +175885,7 @@
    "modelo": "15FB3020LA",
    "url": "https://www.lacuracaonline.com/elsalvador/laptop-hp-15-fb3020la-r716g512-procesador-amd-ryzentm-16-gb-ssd-512-gb-15-6-pulgadas-negro-470899400012/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -175913,6 +175969,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 989.0,
+     "precio_lista": 1229.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 989.0,
      "precio_lista": 1229.0,
      "disponible": false,
@@ -176923,7 +176987,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/consola-playstation-5-bundle-con-astro-bot-y-gran-turismo-7-1000050671-471281100015/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -177007,6 +177071,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 1049.0,
+     "precio_lista": 1049.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 1049.0,
      "precio_lista": 1049.0,
      "disponible": false,
@@ -225634,6 +225706,14 @@
     {
      "fecha": "2026-11-05T14:07:32-06:00",
      "precio": 100.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
+     "precio": 189.0,
      "precio_lista": 299.0,
      "disponible": true,
      "fuente": "auto",
@@ -369297,6 +369377,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
+     "precio": 2299.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/1/_/1_452.jpg?width=300&height=300&canvas=300"
@@ -376745,7 +376833,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/computadora-gaming-acer-nitro-lite-16-16-gb-ssd-512-gb-16-negro/p",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T11:51:44-06:00",
@@ -376789,6 +376877,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 919.0,
+     "precio_lista": 1099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 919.0,
      "precio_lista": 1099.0,
      "disponible": false,
@@ -381139,7 +381235,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/computadora-gaming-dell-alienware-nvidia-rtx-5050-intel-i7-16-gb-1tb-ssd-16-indigo-470533600013/p",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-30T11:51:44-06:00",
@@ -381183,6 +381279,14 @@
     },
     {
      "fecha": "2026-11-04T13:53:09-06:00",
+     "precio": 1799.0,
+     "precio_lista": 2199.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:12-06:00",
      "precio": 1799.0,
      "precio_lista": 2199.0,
      "disponible": false,

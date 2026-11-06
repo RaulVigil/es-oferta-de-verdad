@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-11-05T14:28:22-06:00",
+ "actualizado": "2026-11-05T19:04:38-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -297,7 +297,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-LOGITECH-POP-920011519/p/1303000560",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -365,6 +365,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 109.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 109.0,
      "precio_lista": null,
      "disponible": true,
@@ -2552,7 +2560,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-INALAMBRICO-LOGITECH-M185-1000DPI-ROJO/p/1303001145",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2620,6 +2628,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -2639,7 +2655,7 @@
    "modelo": "PLBK9801T",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-INALAMBRICO-SMART-PARA-TV-EN-COLOR-BLANCO-Y-NEGRO-PL-BK9801T/p/1303001165",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2707,6 +2723,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 57.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 57.0,
      "precio_lista": null,
      "disponible": true,
@@ -2726,7 +2750,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-DUAL-MODE-KEYBOARD-COLOR-ROSA%2C-BLANCO-CON-FUSCIA-QW07/p/1303001161",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2794,6 +2818,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -2813,7 +2845,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-INALAMBRICO-BLANCO-CON-NEGRO-QW06/p/1303001160",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2881,6 +2913,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -9573,7 +9613,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-GAMMA-DE-4-NIVELES-COLOR-BLANCO-MODUTEC/p/1101000076",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -9641,6 +9681,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 79.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 79.0,
      "precio_lista": null,
      "disponible": true,
@@ -13175,7 +13223,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-EJECUTIVO-PERSONAL-CAF%C3%89/p/1101000255",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -13243,6 +13291,14 @@
     },
     {
      "fecha": "2026-11-04T18:54:30-06:00",
+     "precio": 210.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 210.0,
      "precio_lista": null,
      "disponible": true,
@@ -13634,7 +13690,7 @@
    "modelo": "150X75X30CM",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESTANTERIA-4-NIVELES-DE-METAL-Y-MDF-150X75X30CM%2C-CAPACIDAD-DE-CARGA-100KG/p/1101000281",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -13702,6 +13758,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 44.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 44.0,
      "precio_lista": null,
      "disponible": true,
@@ -17789,7 +17853,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-RETRO-DE-CUATRO-NIVELES-MODUTEC/p/1101000079",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:46:45-06:00",
@@ -17857,6 +17921,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 99.0,
      "precio_lista": null,
      "disponible": true,
@@ -20143,7 +20215,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Android/TABLET-LENOVO-TAB-10-1-FHD/p/1301000575",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -20195,6 +20267,14 @@
     },
     {
      "fecha": "2026-11-04T14:07:47-06:00",
+     "precio": 239.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T19:04:38-06:00",
      "precio": 239.0,
      "precio_lista": null,
      "disponible": true,

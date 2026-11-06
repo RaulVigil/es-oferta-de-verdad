@@ -1,6 +1,6 @@
 {
  "comercial": "aeon",
- "actualizado": "2026-11-05T14:19:48-06:00",
+ "actualizado": "2026-11-05T18:56:19-06:00",
  "listados": {
   "105288": {
    "nombre": "Monitor Acer EK220Q  (21.5\") Full HD 1920x1080 VA Panel LCD  1 MS VRB I 100 Hz,  HDMI y VGA",
@@ -32119,6 +32119,52 @@
     }
    ],
    "imagen": "https://aeon.com.sv/web/image/product.template/102291/image_256"
+  },
+  "107527": {
+   "nombre": "Monitor Dahua E330CA - 34\" WQHD - 200Hz 1Ms, Curvo 1,500R, HDR10,  2 × DP 1.4 (3440 × 1440@200 Hz) - 1.0.99.12.10729-9003",
+   "categoria": "monitor",
+   "tipo": "monitor",
+   "pulgadas": 34,
+   "medida": null,
+   "marca": "Dahua",
+   "modelo": "E330CA",
+   "url": "https://aeon.com.sv/shop/20378-monitor-dahua-e330ca-34-wqhd-200hz-1ms-curvo-1-500r-hdr10-2-dp-1-4-3440-1440-200-hz-1-0-99-12-10729-9003-107527",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:56:19-06:00",
+     "precio": 389.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/107527/image_256"
+  },
+  "105032": {
+   "nombre": "Disco Duro Externo Adata 1TB Color Blanco 3.1 USB AHV320-1TU31-CWH",
+   "categoria": "disco",
+   "tipo": "disco",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "AHV3201TU31",
+   "url": "https://aeon.com.sv/shop/17864-disco-duro-externo-adata-1tb-color-blanco-3-1-usb-ahv320-1tu31-cwh-105032",
+   "primera_vez": "2026-11-05",
+   "ultima_vez": "2026-11-05",
+   "observaciones": [
+    {
+     "fecha": "2026-11-05T18:56:19-06:00",
+     "precio": 119.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://aeon.com.sv/web/image/product.template/105032/image_256"
   }
  }
 }

@@ -1,6 +1,6 @@
 {
  "comercial": "tropigas",
- "actualizado": "2026-11-05T14:08:17-06:00",
+ "actualizado": "2026-11-05T18:44:56-06:00",
  "listados": {
   "400889300107": {
    "nombre": "Set De Cama Indufoam Individual Triple Crown Ortopédico",
@@ -47918,6 +47918,14 @@
     {
      "fecha": "2026-11-05T14:08:17-06:00",
      "precio": 299.0,
+     "precio_lista": 299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:56-06:00",
+     "precio": 189.0,
      "precio_lista": 299.0,
      "disponible": true,
      "fuente": "auto",
@@ -283294,6 +283302,14 @@
     {
      "fecha": "2026-11-05T14:08:17-06:00",
      "precio": 1949.0,
+     "precio_lista": 2299.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:44:56-06:00",
+     "precio": 2299.0,
      "precio_lista": 2299.0,
      "disponible": true,
      "fuente": "auto",

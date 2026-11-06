@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-11-05T14:06:57-06:00",
+ "actualizado": "2026-11-05T18:43:38-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -44391,7 +44391,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/apple-iphone-18-pro-max-negro-256gb-sv3396-5-0/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -44443,6 +44443,14 @@
     },
     {
      "fecha": "2026-11-04T13:52:45-06:00",
+     "precio": 2260.0,
+     "precio_lista": 2260.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:43:38-06:00",
      "precio": 2260.0,
      "precio_lista": 2260.0,
      "disponible": true,
@@ -44462,7 +44470,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/samsung-celular-a27-8-256gb-sv3179-5-1/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -44514,6 +44522,14 @@
     },
     {
      "fecha": "2026-11-04T13:52:45-06:00",
+     "precio": 445.0,
+     "precio_lista": 545.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:43:38-06:00",
      "precio": 445.0,
      "precio_lista": 545.0,
      "disponible": true,
@@ -44533,7 +44549,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/celular-redmi-note-14-pro-5g-8gb-256gb-5/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -44590,6 +44606,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:43:38-06:00",
+     "precio": 429.0,
+     "precio_lista": 429.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/860319-300-300/celular-xiaomi-note-14-pro-5-g-8-gb-ram-256-gb-almacenamiento-6941812757765.jpg"
@@ -44604,7 +44628,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/celular-poco-x8-pro-8gb-512gb-sv9201-5-6/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -44645,6 +44669,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:43:38-06:00",
+     "precio": 489.02,
+     "precio_lista": 560.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/891109-300-300/M-5_walmartsv_tbfIKYXAns_123346_01.jpg"
@@ -44659,7 +44691,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/iphone-17-pro-max-12gb-256gb-sv265-5-0/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -44708,6 +44740,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:43:38-06:00",
+     "precio": 1679.0,
+     "precio_lista": 1865.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/806094-300-300/iphone-17-pro-max-12-gb-256-gb-0195949805196.jpg"
@@ -44722,7 +44762,7 @@
    "modelo": "",
    "url": "https://www.walmart.com.sv/samsung-celular-a27-6-128gb-sv581-5-8/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-04",
+   "ultima_vez": "2026-11-05",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:38:47-06:00",
@@ -44766,6 +44806,14 @@
     },
     {
      "fecha": "2026-11-04T13:52:45-06:00",
+     "precio": 324.38,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T18:43:38-06:00",
      "precio": 324.38,
      "precio_lista": 389.0,
      "disponible": true,
