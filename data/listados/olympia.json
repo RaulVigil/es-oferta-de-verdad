@@ -1,6 +1,6 @@
 {
  "comercial": "olympia",
- "actualizado": "2026-10-30T12:06:28-06:00",
+ "actualizado": "2026-11-06T13:45:27-06:00",
  "listados": {
   "2215": {
    "nombre": "Colchón Olympia Antiestress Ortopédica Plus Imperial",
@@ -12,7 +12,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -25,6 +25,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 173.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 173.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 173.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 173.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 170.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 170.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 170.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 170.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 170.0,
      "precio_lista": 205.0,
      "disponible": true,
      "fuente": "auto",
@@ -43,7 +107,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -55,6 +119,62 @@
     },
     {
      "fecha": "2026-10-30T12:06:28-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 196.0,
+     "precio_lista": 239.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
      "precio": 196.0,
      "precio_lista": 239.0,
      "disponible": true,
@@ -74,7 +194,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -87,6 +207,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 240.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 240.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 240.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 240.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 236.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 236.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 236.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 236.0,
+     "precio_lista": 290.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 236.0,
      "precio_lista": 290.0,
      "disponible": true,
      "fuente": "auto",
@@ -105,7 +289,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Colch%C3%B3n&attribute_tamano=King",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -118,6 +302,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 310.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 310.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 310.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 310.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 306.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 306.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 306.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 306.0,
+     "precio_lista": 390.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 306.0,
      "precio_lista": 390.0,
      "disponible": true,
      "fuente": "auto",
@@ -136,7 +384,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -149,6 +397,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 246.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 246.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 246.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 246.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 243.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 243.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 243.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 243.0,
+     "precio_lista": 294.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 243.0,
      "precio_lista": 294.0,
      "disponible": true,
      "fuente": "auto",
@@ -167,7 +479,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -180,6 +492,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 280.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 280.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 280.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 280.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 279.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 279.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 279.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 279.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 279.0,
      "precio_lista": 341.0,
      "disponible": true,
      "fuente": "auto",
@@ -198,7 +574,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -211,6 +587,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 346.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 346.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 346.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 346.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 340.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 340.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 340.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 340.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 340.0,
      "precio_lista": 419.0,
      "disponible": true,
      "fuente": "auto",
@@ -229,7 +669,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-antiestress-ortopedica-plus/?attribute_tipo=Cama+Completa&attribute_tamano=King",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -242,6 +682,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 446.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 446.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 446.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 446.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 440.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 440.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 440.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 440.0,
+     "precio_lista": 563.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 440.0,
      "precio_lista": 563.0,
      "disponible": true,
      "fuente": "auto",
@@ -260,7 +764,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -273,6 +777,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 251.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 251.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 251.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 251.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 242.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 242.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 242.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 242.0,
+     "precio_lista": 275.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 242.0,
      "precio_lista": 275.0,
      "disponible": true,
      "fuente": "auto",
@@ -291,7 +859,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -304,6 +872,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 281.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 281.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 281.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 281.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 273.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 273.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 273.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 273.0,
+     "precio_lista": 341.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 273.0,
      "precio_lista": 341.0,
      "disponible": true,
      "fuente": "auto",
@@ -322,7 +954,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -335,6 +967,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 356.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 356.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 356.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 356.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 343.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 343.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 343.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 343.0,
+     "precio_lista": 389.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 343.0,
      "precio_lista": 389.0,
      "disponible": true,
      "fuente": "auto",
@@ -353,7 +1049,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-doble-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=King",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -366,6 +1062,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 411.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 411.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 411.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 411.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 400.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 400.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 400.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 400.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 400.0,
      "precio_lista": 470.0,
      "disponible": true,
      "fuente": "auto",
@@ -384,7 +1144,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-edicion-especial-futbolera/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -396,6 +1156,62 @@
     },
     {
      "fecha": "2026-10-30T12:06:28-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 219.0,
+     "precio_lista": 269.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
      "precio": 219.0,
      "precio_lista": 269.0,
      "disponible": true,
@@ -415,7 +1231,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-edicion-especial-futbolera/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -427,6 +1243,62 @@
     },
     {
      "fecha": "2026-10-30T12:06:28-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 269.0,
+     "precio_lista": 339.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
      "precio": 269.0,
      "precio_lista": 339.0,
      "disponible": true,
@@ -446,7 +1318,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-edicion-especial-futbolera/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -458,6 +1330,62 @@
     },
     {
      "fecha": "2026-10-30T12:06:28-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 309.0,
+     "precio_lista": 395.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
      "precio": 309.0,
      "precio_lista": 395.0,
      "disponible": true,
@@ -477,7 +1405,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -490,6 +1418,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 109.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 109.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 109.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 109.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 105.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 105.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 105.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 105.0,
+     "precio_lista": 140.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 105.0,
      "precio_lista": 140.0,
      "disponible": true,
      "fuente": "auto",
@@ -508,7 +1500,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -521,6 +1513,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 131.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 131.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 131.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 131.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 127.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 127.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 127.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 127.0,
+     "precio_lista": 167.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 127.0,
      "precio_lista": 167.0,
      "disponible": true,
      "fuente": "auto",
@@ -539,7 +1595,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -552,6 +1608,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 165.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 165.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 165.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 165.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 162.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 162.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 162.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 162.0,
+     "precio_lista": 205.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 162.0,
      "precio_lista": 205.0,
      "disponible": true,
      "fuente": "auto",
@@ -570,7 +1690,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -583,6 +1703,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 156.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 156.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 156.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 156.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 151.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 151.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 151.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 151.0,
+     "precio_lista": 201.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 151.0,
      "precio_lista": 201.0,
      "disponible": true,
      "fuente": "auto",
@@ -601,7 +1785,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -614,6 +1798,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 186.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 186.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 186.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 186.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 180.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 180.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 180.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 180.0,
+     "precio_lista": 237.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 180.0,
      "precio_lista": 237.0,
      "disponible": true,
      "fuente": "auto",
@@ -632,7 +1880,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-foam/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -645,6 +1893,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 231.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 231.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 231.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 231.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 228.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 228.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 228.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 228.0,
+     "precio_lista": 288.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 228.0,
      "precio_lista": 288.0,
      "disponible": true,
      "fuente": "auto",
@@ -663,7 +1975,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -676,6 +1988,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 211.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 211.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 211.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 211.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 208.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 208.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 208.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 208.0,
+     "precio_lista": 253.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 208.0,
      "precio_lista": 253.0,
      "disponible": true,
      "fuente": "auto",
@@ -694,7 +2070,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -707,6 +2083,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 256.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 256.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 256.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 256.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 250.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 250.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 250.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 250.0,
+     "precio_lista": 305.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 250.0,
      "precio_lista": 305.0,
      "disponible": true,
      "fuente": "auto",
@@ -725,7 +2165,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -738,6 +2178,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 311.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 311.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 311.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 311.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 301.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 301.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 301.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 301.0,
+     "precio_lista": 366.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 301.0,
      "precio_lista": 366.0,
      "disponible": true,
      "fuente": "auto",
@@ -756,7 +2260,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-boxtop/?attribute_tipo=Cama+Completa&attribute_tamano=King",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -769,6 +2273,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 366.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 366.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 366.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 366.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 373.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 373.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 373.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 373.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 373.0,
      "precio_lista": 455.0,
      "disponible": true,
      "fuente": "auto",
@@ -787,7 +2355,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Cama+Completa&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -800,6 +2368,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 286.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 286.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 286.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 286.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 283.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 283.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 283.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 283.0,
+     "precio_lista": 354.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 283.0,
      "precio_lista": 354.0,
      "disponible": true,
      "fuente": "auto",
@@ -818,7 +2450,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Queen",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -831,6 +2463,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 200.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 200.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 200.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 200.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 197.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 197.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 197.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 197.0,
+     "precio_lista": 246.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 197.0,
      "precio_lista": 246.0,
      "disponible": true,
      "fuente": "auto",
@@ -849,7 +2545,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Colch%C3%B3n&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -862,6 +2558,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 132.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 132.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 132.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 132.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 128.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 128.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 128.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 128.0,
+     "precio_lista": 156.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 128.0,
      "precio_lista": 156.0,
      "disponible": true,
      "fuente": "auto",
@@ -880,7 +2640,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Cama+Completa&attribute_tamano=Imperial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -893,6 +2653,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 186.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 186.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 186.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 186.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 181.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 181.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 181.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 181.0,
+     "precio_lista": 221.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 181.0,
      "precio_lista": 221.0,
      "disponible": true,
      "fuente": "auto",
@@ -911,7 +2735,7 @@
    "modelo": "",
    "url": "https://camasolympiaonline.com/sv/producto/cama-completa-one-pillow/?attribute_tipo=Cama+Completa&attribute_tamano=Matrimonial",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-10-30",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:15-06:00",
@@ -924,6 +2748,70 @@
     {
      "fecha": "2026-10-30T12:06:28-06:00",
      "precio": 221.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-10-31T11:40:19-06:00",
+     "precio": 221.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-01T12:24:21-06:00",
+     "precio": 221.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T16:11:49-06:00",
+     "precio": 221.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-02T20:12:18-06:00",
+     "precio": 216.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-03T13:57:16-06:00",
+     "precio": 216.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-04T14:08:11-06:00",
+     "precio": 216.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-05T14:28:45-06:00",
+     "precio": 216.0,
+     "precio_lista": 264.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T13:45:27-06:00",
+     "precio": 216.0,
      "precio_lista": 264.0,
      "disponible": true,
      "fuente": "auto",
