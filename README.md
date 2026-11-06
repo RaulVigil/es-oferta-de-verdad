@@ -1,6 +1,6 @@
 # ¿Es oferta de verdad?
 
-**¿Esa oferta de Black Friday es real?** Historial de precios de 15 tiendas de El Salvador para
+**¿Esa oferta de Black Friday es real?** Historial de precios de 16 tiendas de El Salvador para
 comparar lo que anuncian en noviembre contra lo que costaba antes.
 
 **Sitio:** https://es-oferta-de-verdad.vercel.app
@@ -19,7 +19,7 @@ la **mediana de lo que costó antes del 1 de noviembre**, no contra el precio ta
 ```
  GitHub Actions (6:17 a. m. diario, respaldo a la 1:47 p. m.)
    └─ scripts/precios.py capturar
-        ├─ consulta 15 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
+        ├─ consulta 16 tiendas ─────────► data/listados/<tienda>.json   (historial completo)
         └─ scripts/exportar.py ─────────► web/data/catalogo.json        (estadísticas ya calculadas)
                                           web/data/historial/<tienda>.json
            └─ scripts/paginas.py ───────► web/ofertas/, web/categoria/  (HTML para buscadores e IA)
@@ -51,6 +51,7 @@ Cada tienda expone el mismo catálogo que usa su propio sitio web; no hay scrapi
 | AEON | tienda Odoo (HTML con schema.org) | categorías de cómputo, componentes, redes, cámaras y almacenamiento |
 | Omnisport | HTML de categorías y productos | TV, camas, electrodomésticos |
 | Electrónica 2001 | HTML de categorías + API por código | categorías de instrumentos y audio |
+| Farmacias San Nicolás | HTML de sus listados por marca y de cuidado de la piel | dermocosmética (sin medicamentos ni maquillaje) |
 
 Sin incluir: Freund (claves de búsqueda ofuscadas), Steren (rechaza a los servidores de GitHub) y
 COOPESA (su dominio dejó de existir el 26-oct; se conserva su historial). Tropigas se agregó el 30-oct:
@@ -72,7 +73,8 @@ secadoras de ropa, congeladores, cafeteras, ollas arroceras y de presión, batid
 tostadores, planchas de ropa, secadoras de pelo y rasuradoras, proyectores, cámaras, routers,
 discos duros y memorias USB, tarjetas de video, salas y sofás, comedores, hidrolavadoras, videojuegos,
 computadoras de escritorio, procesadores, tarjetas madre, fuentes de poder, gabinetes, enfriamiento
-para PC, reproductores de streaming, power banks, UPS y reguladores de voltaje, y drones.
+para PC, reproductores de streaming, power banks, UPS y reguladores de voltaje, drones y
+dermocosmética (La Roche-Posay, Vichy, CeraVe, Eucerin, Bioderma, ISDIN, Sesderma y otras marcas de farmacia).
 
 ```json
 "inodoro": {
@@ -173,7 +175,10 @@ vercel.json                publica web/ sin paso de compilación
 
 - Precio publicado en línea, de contado, sin envío. El de tienda física o a crédito puede variar.
 - EPA muestra precios de su sucursal de Soyapango.
-- AEON y Electrónica 2001 no publican existencias en el listado: se asumen disponibles.
+- AEON, Electrónica 2001 y Farmacias San Nicolás no publican existencias en el listado: se asumen disponibles.
+- Farmacias San Nicolás también publica precios para clientes VIP y con su tarjeta de crédito; se
+  compara el precio que paga cualquier persona.
+- La dermocosmética se agregó el 30-oct: su línea base para Black Friday es de pocos días.
 - Los nombres de las tiendas no siempre traen el modelo exacto: la comparación entre tiendas
   es automática en TV, monitores y similares, y manual (equivalencias) en camas.
 - La clasificación por reglas puede dejar pasar algún accesorio: se corrige agregando su

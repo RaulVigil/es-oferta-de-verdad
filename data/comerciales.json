@@ -137,6 +137,14 @@
       "tipo": "fabricante de camas",
       "captura": "auto (WooCommerce: variantes de cada ficha)",
       "notas": "Cada variante (cama completa o colchón × medida) es un producto. Su Store API devuelve siempre la misma página por un caché, así que se leen las fichas del mapa del sitio."
+    },
+    {
+      "id": "sannicolas",
+      "nombre": "Farmacias San Nicolás",
+      "url": "https://www.farmaciasannicolas.com",
+      "tipo": "farmacia",
+      "captura": "auto (HTML de sus listados por marca y de cuidado de la piel)",
+      "notas": "Solo dermocosmética: sin medicamentos ni maquillaje. También publica precio 'Cliente VIP' y con tarjeta San Nicolás Agrícola; quedan en la nota y se compara el que paga cualquiera. El listado no publica existencias: se asume disponible."
     }
   ]
 }

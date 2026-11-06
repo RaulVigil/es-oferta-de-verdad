@@ -1058,6 +1058,32 @@
       ],
       "incluir": "^\\s*(drones?\\b|cuadric[oó]ptero|(\\S+\\s+)?dji\\s+(mini|air|avata|mavic|neo|flip)\\b)",
       "excluir": "bater[ií]a|h[eé]lices?|repuesto|estuche|malet[ií]n|mochila|cargador|protector|\\bfiltros?\\b|tren\\s+de\\s+aterrizaje|juguete\\s+de\\s+agua"
+    },
+    "dermo": {
+      "nombre": "Dermocosmética",
+      "buscar": [
+        "la roche posay",
+        "vichy",
+        "cerave",
+        "eucerin",
+        "bioderma",
+        "isdin",
+        "avene",
+        "cetaphil",
+        "sesderma",
+        "uriage",
+        "heliocare",
+        "neutrogena",
+        "aveeno",
+        "mustela"
+      ],
+      "pistas": [
+        "dermocosmetica",
+        "dermocosmetico",
+        "skincare"
+      ],
+      "incluir": "\\b(la\\s*roche[\\s-]*posay|lrp|vichy|cerave|eucerin|bioderma|isdin|av[eè]ne|cetaphil|sesderma|uriage|ducray|a-derma|svr|heliocare|neutrogena|aveeno|mustela|physiogel|nuxe|filorga|noreva|topicrem|eximia|dermagl[oó]s|martiderm|skinceuticals)\\b",
+      "excluir": "catal[aá]n|\\bmuestras?\\b|\\btester\\b|exhibidor"
     }
   },
   "categorias": {

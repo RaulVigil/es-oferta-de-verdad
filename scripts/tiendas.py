@@ -78,6 +78,23 @@ MAGENTO = {
                "marca": "Steren"},
 }
 OLYMPIA_WEB = "https://camasolympiaonline.com/sv"  # fabricante de camas (WooCommerce)
+SANNICOLAS_WEB = "https://www.farmaciasannicolas.com"
+# categorias de su tienda con dermocosmetica: cuidado facial (cremas y serums, desmaquillantes,
+# acne, proteccion solar, mascarillas) y corporal (cremas, proteccion solar, jabones, aceites).
+# Sin maquillaje ni medicamentos (la categoria "piel" 01020 es de medicamentos)
+SANNICOLAS_CATEGORIAS = [
+    "cremas-y-serums/02103001", "desmaquillantes-y-tonicos/02103002", "acne/02103003",
+    "proteccion-solar-facial/02103004", "mascarillas-y-exfoliantes/02103005", "cremas-corporales/02107001",
+    "proteccion-solar/02107002", "jabones-y-gel-de-bano/02107008", "aceites-y-exfoliantes-corporales/02107010",
+    "cremas-corporales/02024001",
+]
+# marcas dermocosmeticas con listado propio (/productos/keyword/?brandName=): muchos nombres no
+# dicen la marca ("Acglicolic Serum" es Sesderma, La Roche-Posay sale como "Lrp") y se agrega
+SANNICOLAS_MARCAS = {
+    "LA ROCHE POSAY": "La Roche-Posay", "VICHY": "Vichy", "CERAVE": "CeraVe", "EUCERIN": "Eucerin",
+    "BIODERMA": "Bioderma", "ISDIN": "ISDIN", "CETAPHIL": "Cetaphil", "SESDERMA": "Sesderma",
+    "URIAGE": "Uriage", "HELIOCARE": "Heliocare", "NEUTROGENA": "Neutrogena", "MUSTELA": "Mustela",
+}
 OFFICEDEPOT_WEB = "https://www.officedepot.com.sv"
 # categorias de su buscador (SAP Commerce): 04 tecnologia, 05 electronica, 03 muebles (sillas,
 # escritorios); 01, 02 y 07 son papeleria
@@ -125,7 +142,8 @@ class ErrorTienda(Exception):
 
 def soportado(comercial: str) -> bool:
     return comercial in VTEX or comercial in LIVESEARCH or comercial in MAGENTO or comercial in ALGOLIA or \
-        comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001", "officedepot", "olympia")
+        comercial in ("omnisport", "zonadigital", "aeon", "vidri", "coopesa", "electronica2001", "officedepot", "olympia",
+                      "sannicolas")
 
 
 # Fuera del barrido, con su historial conservado (la web marca sus productos como "la tienda no
@@ -133,7 +151,8 @@ def soportado(comercial: str) -> bool:
 #   coopesa  su dominio no existe (sin DNS desde el 26-oct-2026)
 #   steren   responde 403 a los servidores de GitHub Actions (28-oct); desde una PC si funciona
 COMERCIALES_BARRIDO = list(VTEX) + list(LIVESEARCH) + ["prado", "epa", "omnisport", "zonadigital", "aeon", "vidri",
-                                                       "electronica2001", "officedepot", "olympia", "samsung"]
+                                                       "electronica2001", "officedepot", "olympia", "samsung",
+                                                       "sannicolas"]
 
 
 def fijar_limite(segundos: float | None) -> None:
@@ -955,6 +974,121 @@ def _olympia_barrer() -> list:
 
 
 # --------------------------------------------------------------------------- #
+# Farmacias San Nicolas (Blazor: el servidor manda el HTML ya armado, 20 productos por pagina)
+# --------------------------------------------------------------------------- #
+def _sn_url(ruta: str) -> str:
+    """Las rutas traen acentos ("Hialur&#xF3;nico"): urllib necesita la URL codificada."""
+    return SANNICOLAS_WEB + urllib.parse.quote(html.unescape(ruta), safe="/?=&%")
+
+
+def _sn_extras(bloque: str) -> str:
+    """Precios para socios o con tarjeta ("Cliente VIP", "San Nicolas Agricola"): van a la nota."""
+    extras = []
+    for etiqueta, valor in re.findall(r'<div class="pp-item"[^>]*><span class="pp-label"[^>]*>(.*?)</span>\s*'
+                                      r'<strong class="pp-price"[^>]*>([^<]+)<', bloque, re.S):
+        etiqueta = " ".join(html.unescape(re.sub(r"<[^>]+>", " ", etiqueta)).split())
+        extras.append(f"{etiqueta} {valor.strip()}")
+    return " · ".join(extras)
+
+
+def _sn_bloques(fuente: str) -> list:
+    salida = []
+    for bloque in fuente.split('<div class="product-item">')[1:]:
+        enlace = re.search(r'<h3 class="prod-name"[^>]*><a href="(/producto/[^"]+)"[^>]*>(.*?)</a>', bloque, re.S)
+        # con descuento: "before" (tachado) y "price"; sin descuento: un solo "pp-price" ("price-alone")
+        precio = re.search(r'class="price"[^>]*>([^<]+)<', bloque) or \
+            re.search(r'price-alone"[^>]*>.*?class="pp-price"[^>]*>([^<]+)<', bloque, re.S)
+        if not (enlace and precio):
+            continue
+        antes = re.search(r'class="before"[^>]*>([^<]+)<', bloque)
+        imagen = re.search(r'<figure>.*?<img src="([^"]+)"', bloque, re.S)
+        p = _numero(precio.group(1))
+        lista = _numero(antes.group(1)) if antes else None
+        ruta = html.unescape(enlace.group(1))
+        salida.append({
+            "sku": ruta.rstrip("/").rsplit("/", 1)[-1],
+            "nombre": " ".join(html.unescape(re.sub(r"<[^>]+>", "", enlace.group(2))).split()),
+            "marca": "",
+            "url": SANNICOLAS_WEB + ruta,
+            "imagen": imagen.group(1) if imagen else "",
+            "precio": p if p else None,
+            "precio_lista": lista if lista and p and lista > p else None,
+            "disponible": True,  # el listado no publica existencias
+            "nota": _sn_extras(bloque),
+        })
+    return salida
+
+
+def _sannicolas(url: str) -> dict:
+    if not url:
+        raise ErrorTienda("San Nicolas necesita la url del producto")
+    fuente = _pedir(_sn_url(url.replace(SANNICOLAS_WEB, "")))
+    nombre = re.search(r'<h1 class="prod-name"[^>]*>([^<]+)<', fuente)
+    precio = re.search(r'price-box-item general.*?class="price"[^>]*>([^<]+)<', fuente, re.S)
+    antes = re.search(r'pri-before[^>]*>\s*Antes:\s*<strong>([^<]+)<', fuente)
+    if not (nombre and precio):
+        raise ErrorTienda("no encontre el nombre o el precio en la pagina")
+    p = _numero(precio.group(1))
+    lista = _numero(antes.group(1)) if antes else None
+    return {
+        "sku": url.split("?", 1)[0].rstrip("/").rsplit("/", 1)[-1],
+        "nombre": " ".join(html.unescape(nombre.group(1)).split()),
+        "marca": "",
+        "url": url,
+        "precio": p,
+        "precio_lista": lista if lista and lista > p else None,
+        "disponible": True,
+        "nota": "",
+    }
+
+
+def _sn_pagina(ruta: str) -> str:
+    """Un reintento: a ratos una pagina no responde en 20 s y a la siguiente sale en 1 s."""
+    try:
+        return _pedir(_sn_url(ruta))
+    except ErrorTienda:
+        time.sleep(5)
+        return _pedir(_sn_url(ruta))
+
+
+def _sn_listado(ruta: str) -> list:
+    """Todas las paginas de un listado (categoria o marca); sin paginador es una sola."""
+    salida: dict[str, dict] = {}
+    total = 1
+    for pagina in range(1, 100):
+        sep = "&" if "?" in ruta else "?"
+        fuente = _sn_pagina(f"{ruta}{sep}page={pagina}")
+        if pagina == 1:
+            m = re.search(r'data-pg-total="(\d+)"', fuente)
+            total = int(m.group(1)) if m else 1
+        items = _sn_bloques(fuente)
+        nuevos = [i for i in items if i["sku"] not in salida]
+        for i in items:
+            salida.setdefault(i["sku"], i)
+        time.sleep(PAUSA)
+        if pagina >= total or not nuevos:
+            break
+    return list(salida.values())
+
+
+def _sannicolas_barrer() -> list:
+    """Primero por marca (para saber la marca), despues las categorias de cuidado de la piel: la
+    marca de su ficha no siempre coincide (Uriage casi no sale por marca, pero si en las categorias)."""
+    letras = lambda t: re.sub(r"[^a-z]", "", t.lower())  # "La Roche-Posay" ~ "La Roche Posay"
+    vistos: dict[str, dict] = {}
+    for clave, marca in SANNICOLAS_MARCAS.items():
+        for i in _sn_listado(f"/productos/keyword/?brandName={urllib.parse.quote(clave)}"):
+            if letras(marca) not in letras(i["nombre"]):
+                i["nombre"] = f"{i['nombre']} — {marca}"
+            i["marca"] = marca
+            vistos.setdefault(i["sku"], i)
+    for cat in SANNICOLAS_CATEGORIAS:
+        for i in _sn_listado(f"/category/{cat}"):
+            vistos.setdefault(i["sku"], i)
+    return list(vistos.values())
+
+
+# --------------------------------------------------------------------------- #
 # Entrada publica
 # --------------------------------------------------------------------------- #
 def consultar(comercial: str, sku: str, url: str = "") -> dict:
@@ -982,6 +1116,8 @@ def consultar(comercial: str, sku: str, url: str = "") -> dict:
         return _officedepot(sku)
     if comercial == "olympia":
         return _olympia(sku, url)
+    if comercial == "sannicolas":
+        return _sannicolas(url)
     raise ErrorTienda(f"no se como consultar '{comercial}' automaticamente")
 
 
@@ -1024,4 +1160,6 @@ def barrer(comercial: str, filtros: dict | None = None) -> list:
         return _officedepot_barrer()
     if comercial == "olympia":
         return _olympia_barrer()
+    if comercial == "sannicolas":
+        return _sannicolas_barrer()
     raise ErrorTienda(f"no hay barrido para '{comercial}'")
