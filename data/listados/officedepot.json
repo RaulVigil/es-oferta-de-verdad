@@ -1,6 +1,6 @@
 {
  "comercial": "officedepot",
- "actualizado": "2026-11-06T13:45:08-06:00",
+ "actualizado": "2026-11-06T18:17:14-06:00",
  "listados": {
   "1303000075": {
    "nombre": "Microfono USB ICE LOG98 Snowball Negro",
@@ -2649,7 +2649,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-LOGITECH-OPTICO-M240%2C-SILENCIOSO%2C-INALAMBRICO%2C-BLUETOOTH%2C-400DPI-COLOR-ROSA/p/1303001148",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2730,6 +2730,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 24.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303001148.jpg?context=bWFzdGVyfHJvb3R8MTc2NzF8aW1hZ2UvanBlZ3xhR0ZrTDJneFl5OHhNalV4TURnME1qVTROVEV4T0M4ek1EQm1kSGRmTVRNd016QXdNVEUwT0M1cWNHY3wwZGI0ZDhmZGMxYWViNWIyZjZiYWU1YWFlY2FjOTAyOWUzM2Y3YzE2YmE2YTliZmY4ZTRkNDk0YzMzYjA0N2Q3"
@@ -2744,7 +2752,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-INALAMBRICO-LOGITECH-M185-1000DPI-ROJO/p/1303001145",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2820,6 +2828,14 @@
     },
     {
      "fecha": "2026-11-05T19:04:38-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 23.9,
      "precio_lista": null,
      "disponible": true,
@@ -2839,7 +2855,7 @@
    "modelo": "PLBK9801T",
    "url": "https://www.officedepot.com.sv/Teclados/TECLADO-INALAMBRICO-SMART-PARA-TV-EN-COLOR-BLANCO-Y-NEGRO-PL-BK9801T/p/1303001165",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -2915,6 +2931,14 @@
     },
     {
      "fecha": "2026-11-05T19:04:38-06:00",
+     "precio": 57.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 57.0,
      "precio_lista": null,
      "disponible": true,
@@ -2934,7 +2958,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-DUAL-MODE-KEYBOARD-COLOR-ROSA%2C-BLANCO-CON-FUSCIA-QW07/p/1303001161",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -3010,6 +3034,14 @@
     },
     {
      "fecha": "2026-11-05T19:04:38-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -3029,7 +3061,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Paquetes-teclado-y-mouse/SET-TECLADO-Y-MOUSE-INALAMBRICO-BLANCO-CON-NEGRO-QW06/p/1303001160",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -3105,6 +3137,14 @@
     },
     {
      "fecha": "2026-11-05T19:04:38-06:00",
+     "precio": 39.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 39.9,
      "precio_lista": null,
      "disponible": true,
@@ -6546,7 +6586,7 @@
    "modelo": "AMK131",
    "url": "https://www.officedepot.com.sv/Audio-y-Video/MICROFONO-SPECTRA-WIRELESS-CREADOR-DE-CONTENIDO-A-MK131-TC/p/1304000081",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -6622,6 +6662,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 19.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 19.9,
      "precio_lista": null,
      "disponible": true,
@@ -7877,7 +7925,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONOS-INALAMBRICOS-COBY-LED-CON-EFECTO-ESPEJO-INFINITO/p/1310000590",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -7958,6 +8006,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 60.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1310000590.jpg?context=bWFzdGVyfHJvb3R8MzA4NDV8aW1hZ2UvanBlZ3xhR05qTDJnMk5TOHhNekl6TVRRNU16STFNVEV3TWk4ek1EQm1kSGRmTVRNeE1EQXdNRFU1TUM1cWNHY3w2NzVkOTViMWY2ODE0OTljZjUxNGI5MzE2ZjVmNjE1YTZhZWIxYWI3OTZkNTcwN2E2ZDA0NWRlMjZhYTc4YzNi"
@@ -7972,7 +8028,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-on-ear/AUDIFONOS-INALAMBRICOS-COBY-COMPACTOS-Y-PLEGABLES-COLOR-BLANCO/p/1310000589",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -8048,6 +8104,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 27.9,
      "precio_lista": null,
      "disponible": true,
@@ -8067,7 +8131,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Televisores/TELEVISOR-RCA-58-PLG-ROKU-TV/p/1308000189",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -8143,6 +8207,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 459.0,
+     "precio_lista": 499.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 459.0,
      "precio_lista": 499.0,
      "disponible": true,
@@ -11252,7 +11324,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/LIBRERO-DE-4-NIVELES-INDUSTRIAL-4TUNE/p/1101000099",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -11328,6 +11400,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 189.0,
      "precio_lista": null,
      "disponible": true,
@@ -11347,7 +11427,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-GERENCIAL-DE-PU-CONFORT-PRO-4TUNE/p/1102000097",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -11423,6 +11503,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 179.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 179.0,
      "precio_lista": null,
      "disponible": true,
@@ -11442,7 +11530,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/ESCRITORIO-PERSONAL-CON-LIBRERA-LATERAL-ABIERTA-4TUNE/p/1101000100",
    "primera_vez": "2026-10-27",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-27T17:17:15-06:00",
@@ -11518,6 +11606,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 139.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 139.0,
      "precio_lista": null,
      "disponible": true,
@@ -19656,7 +19752,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Aud%C3%ADfonos-in-ear/AUDIFONOS-INALAMBRICOS-COBY-COMPACTOS-Y-PLEGABLES-COLOR-NEGRO/p/1310000588",
    "primera_vez": "2026-10-28",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-28T12:38:35-06:00",
@@ -19724,6 +19820,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 27.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 27.9,
      "precio_lista": null,
      "disponible": true,
@@ -20352,7 +20456,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/C%C3%A1maras-web/CAMARA-WEB-LOGITECH-960-001440/p/1303000566",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -20412,6 +20516,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 82.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 82.9,
      "precio_lista": null,
      "disponible": true,
@@ -20431,7 +20543,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/C%C3%A1maras-web/CAMARA-WEB-960-001446/p/1303000568",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -20491,6 +20603,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 93.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 93.9,
      "precio_lista": null,
      "disponible": true,
@@ -21878,7 +21998,7 @@
    "modelo": "15FC0276LA",
    "url": "https://www.officedepot.com.sv/Laptop/COMPUTADORA-LAPTOP-HP-15-FC0276LA---RYZEN-7---16GB---1TB---WIN-11H/p/1301000632",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -21938,6 +22058,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 1345.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 1345.0,
      "precio_lista": null,
      "disponible": true,
@@ -23855,7 +23983,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-PEQUE%C3%91A-INALAMBRICA-COBY-PARA-FIESTA/p/1310000584",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -23915,6 +24043,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 60.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 60.0,
      "precio_lista": null,
      "disponible": true,
@@ -23934,7 +24070,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Bocinas-bluetooth/BOCINA-INALAMBRICA-COBY-PARA-FIESTA-CON-5-MODOS-LED/p/1310000585",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -23994,6 +24130,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 47.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 47.9,
      "precio_lista": null,
      "disponible": true,
@@ -24013,7 +24157,7 @@
    "modelo": "",
    "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/Proyector-Epson-EF-30-Gris-Full-HD-Smart-L%C3%A1ser-Port%C3%A1til-para-Cine-en-Casa-y-Streaming/p/1308000290",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:52:02-06:00",
@@ -24073,6 +24217,14 @@
     },
     {
      "fecha": "2026-11-05T14:28:22-06:00",
+     "precio": 824.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
      "precio": 824.0,
      "precio_lista": null,
      "disponible": true,
@@ -24877,6 +25029,236 @@
     }
    ],
    "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000762.jpg?context=bWFzdGVyfHJvb3R8Mzg0Mzd8aW1hZ2UvanBlZ3xhRGMyTDJnek5pOHhNekk1T0RZek5ERXlPVFF6T0M4ek1EQm1kSGRmTVRNd01UQXdNRGMyTWk1cWNHY3xjMzBlMThhODE5OTI5MGE4NDliZTQ5ODM2NWEzNDI5MzZhY2Y4NTMyZDhmMGZlOTUxZTM1YmU0NDIyNjU4Yjk3"
+  },
+  "1303001199": {
+   "nombre": "Mouse Wireless 4D 2.4GHZ Color Negro CM896G",
+   "categoria": "mouse",
+   "tipo": "mouse",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "SPECTRA",
+   "modelo": "CM896G",
+   "url": "https://www.officedepot.com.sv/Mouse-inal%C3%A1mbrico/MOUSE-WIRELESS-4D-2-4GHZ-COLOR-NEGRO-CM896G/p/1303001199",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 9.95,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1303001199.jpg?context=bWFzdGVyfHJvb3R8MTI2OTF8aW1hZ2UvanBlZ3xhRFkxTDJneVlTOHhNekU1TnpjeU9ESTRORGN3TWk4ek1EQm1kSGRmTVRNd016QXdNVEU1T1M1cWNHY3w1NzQ4ZDNjOWJkNDBlZjYwYTMxOWUzZGY1YmYwMThjYjE2NjZiM2MyODYzMzJiMzQ3YmI2MGZmMjZiMzJhZGVi"
+  },
+  "1301000576": {
+   "nombre": "Tablet Lenovo M11 11 Wuxga",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LENOVO",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Android/TABLET-LENOVO-M11-11-WUXGA/p/1301000576",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 299.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000576.jpg?context=bWFzdGVyfHJvb3R8Mjc3MDB8aW1hZ2UvanBlZ3xhRE5qTDJneU15OHhNekkyTVRVek5EYzRPVFkyTWk4ek1EQm1kSGRmTVRNd01UQXdNRFUzTmk1cWNHY3wzNDMyYzI0Y2RjNjhiMjgyNDhhODZjMjA1MDM1MTM1ZjBjZTVlNDUyZTRhNGIxNWQ0NWE3ZDJiNjM5MTViNzdh"
+  },
+  "1301000669": {
+   "nombre": "Tableta Acer A10 HD - 4GB - 64GB - Android 10\"",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "ACER",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Tablets/TABLETA-ACER-A10-HD---4GB---64GB---ANDROID/p/1301000669",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 149.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000669.png?context=bWFzdGVyfHJvb3R8NTE0MzN8aW1hZ2UvcG5nfGFEa3lMMmd6WXk4eE16QTROVEV4TlRBeU16TTVNQzh6TURCbWRIZGZNVE13TVRBd01EWTJPUzV3Ym1jfDIzYzBkYTNhNzczZGY4MGQ1ODEyOTEzMmM0NmIzNDNlMGZhMWVlOGVjNzYyMmQxMjU4ZjIwNmQ4OTU2ZGUyYWI"
+  },
+  "1301000677": {
+   "nombre": "Tableta TCL 14 Nxtpaper 8GB - 256GB",
+   "categoria": "tablet",
+   "tipo": "tablet",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "TCL",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Tablets/TABLETA-TCL-14-NXTPAPER-8GB---256GB/p/1301000677",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 435.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1301000677.jpg?context=bWFzdGVyfHJvb3R8MzQ2NDJ8aW1hZ2UvanBlZ3xhRFprTDJnd09TOHhNekV3TmpNeE9EUTBNalV5Tmk4ek1EQm1kSGRmTVRNd01UQXdNRFkzTnk1cWNHY3xmMTNhYWZjODRlMTkzYzI4ZTMzMjZmNmIxODc5NGRhNDM0OGE0NjdjZTJhZDgzMmFkYmRjZTM1MTkyNDMyNDQ1"
+  },
+  "1303000223": {
+   "nombre": "Powerbank I2GO 10000MAH I2GBAT011",
+   "categoria": "powerbank",
+   "tipo": "powerbank",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "I2GO",
+   "modelo": "I2GBAT011",
+   "url": "https://www.officedepot.com.sv/Power-bank/POWERBANK-I2GO-10000MAH-I2GBAT011/p/1303000223",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 25.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/36656.jpg-300ftw?context=bWFzdGVyfHJvb3R8MjY3MDR8aW1hZ2UvanBlZ3xhR0V4TDJneVl5OHhNVFF6TmpVek16SXhPVE0xT0M4ek5qWTFOaTVxY0dkZk16QXdablIzfDMyYWI1MzE3NTRlMWY4ZDVmY2MzMDBlYWUyMWM0MDgxYzRkNTFmZmM0YmY3MzY5OWQxOWE0MTZmMDY4NGFmNTM"
+  },
+  "1308000063": {
+   "nombre": "Proyector Epson PowerLite X49 XGA 3600 Lúmenes 3LCD HDMI para Educación y Oficina",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EPSON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/Proyector-Epson-PowerLite-X49-XGA-3600-L%C3%BAmenes-3LCD-HDMI-para-Educaci%C3%B3n-y-Oficina/p/1308000063",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 799.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/36943.jpg-300ftw?context=bWFzdGVyfHJvb3R8MTk1ODZ8aW1hZ2UvanBlZ3xhR1ZrTDJnek9TOHhNakU0TnpJeU5USXlOekk1TkM4ek5qazBNeTVxY0dkZk16QXdablIzfDFmNWRkOTE1Njc5ZjZlNzlmZGE1Njg0MmNhYzg2ZmJmYzhhMTNiYWRmNjFiMWFlNTNiYjZmYTI0MGY4OWRkMzU"
+  },
+  "1308000281": {
+   "nombre": "Proyector Epson E24 XGA 3600 Lúmenes 3LCD HDMI para Aulas, Oficinas y Presentaciones",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EPSON",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/Proyector-Epson-E24-XGA-3600-L%C3%BAmenes-3LCD-HDMI-para-Aulas%2C-Oficinas-y-Presentaciones/p/1308000281",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 619.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1308000281.jpg?context=bWFzdGVyfHJvb3R8MTUwNjR8aW1hZ2UvanBlZ3xhRGcyTDJoaU15OHhNekV5TkRBM05UUTFORFE1TkM4ek1EQm1kSGRmTVRNd09EQXdNREk0TVM1cWNHY3xlNWE2MGJiMjg5MjQ3ZjA4ZTFlMzlmMzI1OTljMmViZmZkMjM2MGFhYjVkOTEyOWQ5MjllNjUxMDA2MWFmMDQ4"
+  },
+  "1308000292": {
+   "nombre": "Proyector Epson LifeStudio Pop Plus EF-62N Navy Full HD Smart Láser con Google TV",
+   "categoria": "proyector",
+   "tipo": "proyector",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EPSON",
+   "modelo": "EF62N",
+   "url": "https://www.officedepot.com.sv/Proyectores-y-accesorios/Proyector-Epson-LifeStudio-Pop-Plus-EF-62N-Navy-Full-HD-Smart-L%C3%A1ser-con-Google-TV/p/1308000292",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 1124.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1308000292.jpg?context=bWFzdGVyfHJvb3R8MTM3ODR8aW1hZ2UvanBlZ3xhRFpqTDJneFlTOHhNekV6TXpFeE9UUXlNalE1TkM4ek1EQm1kSGRmTVRNd09EQXdNREk1TWk1cWNHY3wzN2YxNjBmYWY4OWI0MjZmZmFhNmQyZGYyYWFhYTg3N2YxNzg5NmRiYzM0ZjNmZTZhY2Y5YzcxYTliNmQ1N2Ni"
+  },
+  "1102000019": {
+   "nombre": "Silla Ejecutiva Respaldo de PVC Color Negro 4TUNE",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "4TUNE",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Sillas-ejecutivas/SILLA-EJECUTIVA-RESPALDO-DE-PVC-COLOR-NEGRO-4TUNE/p/1102000019",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 99.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1102000019.jpg?context=bWFzdGVyfHJvb3R8MjAyNzF8aW1hZ2UvanBlZ3xhREkwTDJneE5TOHhNekkxT0RRMU9EQTNNVEEzTUM4ek1EQm1kSGRmTVRFd01qQXdNREF4T1M1cWNHY3w1MGY3MWZiOGVlN2YxZDFlNjFmYzUxNGI2ZmVjMzI4MGFjNTFhYTk5MDlhYzgxN2I1NTJkM2FiMDE5Yjc4NWJk"
+  },
+  "1102000100": {
+   "nombre": "Silla Ejecutiva de Mesh Ergonomica Gris 4TUNE",
+   "categoria": "silla",
+   "tipo": "silla",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "4TUNE",
+   "modelo": "",
+   "url": "https://www.officedepot.com.sv/Muebles-y-Decoraci%C3%B3n/SILLA-EJECUTIVA-DE-MESH-ERGONOMICA-GRIS-4TUNE/p/1102000100",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T18:17:14-06:00",
+     "precio": 189.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.officedepot.com.sv/medias/300ftw-1102000100.jpg?context=bWFzdGVyfHJvb3R8MTY2MDN8aW1hZ2UvanBlZ3xhREEwTDJoak15OHhNekkxT1RRM01UTTRPRGN3TWk4ek1EQm1kSGRmTVRFd01qQXdNREV3TUM1cWNHY3wyZjQ5MzNlYzc2MjQ4MmI5MjMyZjM4OTg2Mjk4Y2Q4M2Y3NTNjYmVkMTllYTYxMGUwYzBjMDBiNWQ5NTAwMGQy"
   }
  }
 }

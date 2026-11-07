@@ -1,6 +1,6 @@
 {
  "comercial": "omnisport",
- "actualizado": "2026-11-06T13:45:50-06:00",
+ "actualizado": "2026-11-06T18:09:17-06:00",
  "listados": {
   "00401034161": {
    "nombre": "Cama Exclusiva 3 en 1 (1.40 m)",
@@ -1808,6 +1808,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 379.0,
+     "precio_lista": 585.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/sjpjGYXTl1yAW16D5zSRtJzNfGT4n4Oi6Y4EN6c4.jpeg"
@@ -1963,6 +1971,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 429.0,
+     "precio_lista": 555.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 349.0,
      "precio_lista": 555.0,
      "disponible": true,
      "fuente": "auto",
@@ -2123,6 +2139,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 499.0,
+     "precio_lista": 645.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 409.0,
      "precio_lista": 645.0,
      "disponible": true,
      "fuente": "auto",
@@ -2548,6 +2572,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 339.0,
+     "precio_lista": 400.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/n78SLihBSzp0aG3y17khFrgBvoGY4wSistGU1q1b.jpeg"
@@ -2679,6 +2711,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 449.0,
+     "precio_lista": 575.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 359.0,
      "precio_lista": 575.0,
      "disponible": true,
      "fuente": "auto",
@@ -2997,6 +3037,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 529.0,
+     "precio_lista": 660.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 409.0,
      "precio_lista": 660.0,
      "disponible": true,
      "fuente": "auto",
@@ -3366,6 +3414,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 209.0,
+     "precio_lista": 315.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Jg90qjBn28cGVr81Ho04nB4dft56baCxeCjXdYfq.jpeg"
@@ -3521,6 +3577,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 319.0,
+     "precio_lista": 385.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 309.0,
      "precio_lista": 385.0,
      "disponible": true,
      "fuente": "auto",
@@ -3684,6 +3748,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 469.0,
+     "precio_lista": 635.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/TeDMP5JlxC7sYfLq1QCLggmfGTAClmz878h8dWeh.jpeg"
@@ -3843,6 +3915,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 279.0,
+     "precio_lista": 370.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/l8TD0sbOBMPLWc5XZPOMfNH0AnlVbdad9Po9Rz3X.jpeg"
@@ -3998,6 +4078,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 359.0,
+     "precio_lista": 455.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 369.0,
      "precio_lista": 455.0,
      "disponible": true,
      "fuente": "auto",
@@ -16066,6 +16154,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 289.0,
+     "precio_lista": 445.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
@@ -16219,6 +16315,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 1299.0,
+     "precio_lista": 1620.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 1099.0,
      "precio_lista": 1620.0,
      "disponible": true,
      "fuente": "auto",
@@ -17104,6 +17208,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 149.0,
+     "precio_lista": 225.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/5xjHbAylhki9W2KQLdLXYdmsOIMKjkuHtbskmzRB.jpeg"
@@ -17420,6 +17532,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 549.0,
+     "precio_lista": 840.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
@@ -17523,6 +17643,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 749.0,
+     "precio_lista": 1135.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
@@ -17622,6 +17750,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 899.0,
+     "precio_lista": 1155.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 829.0,
      "precio_lista": 1155.0,
      "disponible": true,
      "fuente": "auto",
@@ -17832,6 +17968,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 589.0,
+     "precio_lista": 885.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/vCuAD0vBy0pfXYv4bGqMfabaQuwGM8rX8eyCyUcU.png"
@@ -17931,6 +18075,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 779.0,
+     "precio_lista": 1030.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 699.0,
      "precio_lista": 1030.0,
      "disponible": true,
      "fuente": "auto",
@@ -18038,6 +18190,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 1129.0,
+     "precio_lista": 1630.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
@@ -18137,6 +18297,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 1999.0,
+     "precio_lista": 2458.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 1599.0,
      "precio_lista": 2458.0,
      "disponible": true,
      "fuente": "auto",
@@ -18303,6 +18471,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 199.0,
+     "precio_lista": 240.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 169.0,
      "precio_lista": 240.0,
      "disponible": true,
      "fuente": "auto",
@@ -18493,6 +18669,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 1149.0,
+     "precio_lista": 1430.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 1049.0,
      "precio_lista": 1430.0,
      "disponible": true,
      "fuente": "auto",
@@ -19461,6 +19645,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 219.0,
+     "precio_lista": 315.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/4RKm2kJvCYjYgCszbECjC6uAJ79FAo1OalVJZjqJ.jpeg"
@@ -19544,6 +19736,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 359.0,
+     "precio_lista": 470.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 339.0,
      "precio_lista": 470.0,
      "disponible": true,
      "fuente": "auto",
@@ -20464,6 +20664,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 409.0,
+     "precio_lista": 600.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/vCuAD0vBy0pfXYv4bGqMfabaQuwGM8rX8eyCyUcU.png"
@@ -20522,6 +20730,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 279.0,
+     "precio_lista": 335.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 259.0,
      "precio_lista": 335.0,
      "disponible": true,
      "fuente": "auto",
@@ -20960,6 +21176,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 279.0,
+     "precio_lista": 440.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
@@ -20991,6 +21215,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 489.0,
+     "precio_lista": 700.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ysxGKDMH8Tpxo96zW1jjZpX0iBpvCZJllSzKjpDR.jpeg"
@@ -21018,6 +21250,14 @@
     {
      "fecha": "2026-11-06T13:39:09-06:00",
      "precio": 679.0,
+     "precio_lista": 840.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:17-06:00",
+     "precio": 559.0,
      "precio_lista": 840.0,
      "disponible": true,
      "fuente": "auto",

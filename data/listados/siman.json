@@ -1,6 +1,6 @@
 {
  "comercial": "siman",
- "actualizado": "2026-11-06T13:28:32-06:00",
+ "actualizado": "2026-11-06T17:55:31-06:00",
  "listados": {
   "2067036": {
    "nombre": "Cama Exclusiva Exclusiva 3 en 1 confort suave tela Knit — Cama Exclusiva dos en una matrimonial",
@@ -50841,6 +50841,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 1099.0,
+     "precio_lista": 1349.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8282939-300-300/105291026-1.jpg"
@@ -63222,6 +63230,14 @@
     {
      "fecha": "2026-11-06T13:28:32-06:00",
      "precio": 829.0,
+     "precio_lista": 829.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 799.0,
      "precio_lista": 829.0,
      "disponible": true,
      "fuente": "auto",
@@ -155532,6 +155548,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 23.8,
+     "precio_lista": 28.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/6688950-300-300/image-9afff70891d144289285aba054631d96.jpg"
@@ -235973,6 +235997,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 699.0,
+     "precio_lista": 769.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8351637-300-300/ZAG60172PA.png"
@@ -237104,6 +237136,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 259.0,
+     "precio_lista": 279.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7042136-300-300/ZAEH0130PA--2-.png"
@@ -237606,6 +237646,14 @@
     {
      "fecha": "2026-11-06T13:28:32-06:00",
      "precio": 289.0,
+     "precio_lista": 289.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 269.0,
      "precio_lista": 289.0,
      "disponible": true,
      "fuente": "auto",
@@ -320094,7 +320142,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/rizador-de-pelo-con-infusion-de-aceite-de-coco-104312676/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -320154,6 +320202,14 @@
     },
     {
      "fecha": "2026-11-05T14:03:46-06:00",
+     "precio": 44.9,
+     "precio_lista": 44.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
      "precio": 44.9,
      "precio_lista": 44.9,
      "disponible": true,
@@ -320608,7 +320664,7 @@
    "modelo": "",
    "url": "https://sv.siman.com/alisador-de-pelo-con-infusion-de-aceite-de-coco-104312675/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -320668,6 +320724,14 @@
     },
     {
      "fecha": "2026-11-05T14:03:46-06:00",
+     "precio": 45.9,
+     "precio_lista": 45.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
      "precio": 45.9,
      "precio_lista": 45.9,
      "disponible": true,
@@ -323162,7 +323226,7 @@
    "modelo": "WET2STYLE",
    "url": "https://sv.siman.com/cepillo-de-aire-caliente-wet2style-rosado-103845965/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:36:48-06:00",
@@ -323222,6 +323286,14 @@
     },
     {
      "fecha": "2026-11-05T14:03:46-06:00",
+     "precio": 58.41,
+     "precio_lista": 64.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
      "precio": 58.41,
      "precio_lista": 64.9,
      "disponible": true,
@@ -332526,6 +332598,14 @@
     {
      "fecha": "2026-11-06T13:28:32-06:00",
      "precio": 175.0,
+     "precio_lista": 175.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 148.75,
      "precio_lista": 175.0,
      "disponible": true,
      "fuente": "auto",
@@ -360019,6 +360099,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.0,
+     "precio_lista": 40.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7240944-300-300/image-bf02edf9b9164040a4012f7d6a0e1d11.jpg"
@@ -368207,6 +368295,14 @@
     {
      "fecha": "2026-11-06T13:28:32-06:00",
      "precio": 22.0,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 18.7,
      "precio_lista": 22.0,
      "disponible": true,
      "fuente": "auto",
@@ -431716,6 +431812,3686 @@
     }
    ],
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8710193-300-300/105428519.jpg"
+  },
+  "8696200": {
+   "nombre": "Protector solar Eucerin facial toque seco tono claro FPS50 50ml — EUCERIN SUN FAC TOQ SECO TC 1/12/50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "FPS50",
+   "url": "https://sv.siman.com/eucerin-sun-fac-toq-seco-tc-1-12-50ml-105052801/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 47.1,
+     "precio_lista": 47.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824329-300-300/105052801-1.jpg"
+  },
+  "8696162": {
+   "nombre": "Protector solar Eucerin facial toque seco tono medio FPS50 50ml — EUCERIN SUN FAC TOQ SECO TM 1/12/50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "FPS50",
+   "url": "https://sv.siman.com/eucerin-sun-fac-toq-seco-tm-1-12-50ml-105052802/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 47.1,
+     "precio_lista": 47.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824330-300-300/105052802-1.jpg"
+  },
+  "5096398": {
+   "nombre": "Gel de Ducha Corporal La Roche Posay Lipikar Syndet AP+ 400ml — Lipikar Syndet AP+  400ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "400ML",
+   "url": "https://sv.siman.com/lipikar-syndet-ap-400ml-101559597/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 44.33,
+     "precio_lista": 44.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095746-300-300/101559597-1A.jpg"
+  },
+  "7019642": {
+   "nombre": "Limpiadora Hidratante Cerave 236ml — CREMA LIMPIADORA HIDRATANTE",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "236ML",
+   "url": "https://sv.siman.com/crema-limpiadora-hidratante-103684014/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 26.0,
+     "precio_lista": 26.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156149-300-300/103684014-1.jpg"
+  },
+  "5913119": {
+   "nombre": "Lavadora automática carga superior 14 kg WWI14ASHLS Whirlpool — UPPER(U334)",
+   "categoria": "lavadora",
+   "tipo": "lavadora",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Whirlpool",
+   "modelo": "WWI14ASHLS",
+   "url": "https://sv.siman.com/lavadora-automatica-de-14kg-silver-102774270/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 319.0,
+     "precio_lista": 369.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6092817-300-300/102774270_20.jpg"
+  },
+  "7624028": {
+   "nombre": "Vichy Liftactiv Retinol Serum Anti Edad 30ml — LIFTACTIV SPECIALIST RETINOL SERUM 30ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/liftactiv-specialist-retinol-serum-30ml-104156200/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 76.32,
+     "precio_lista": 76.32,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095968-300-300/104156200-1A.jpg"
+  },
+  "8696167": {
+   "nombre": "Eucerin Antipigmento Facial de Noche 50 ml — EUCERIN AntiPigme CrNoche 50",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-antipigme-crnoche-50-105052769/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 64.3,
+     "precio_lista": 64.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319162-300-300/105052769-1.jpg"
+  },
+  "8696201": {
+   "nombre": "Eucerin Anti-pigment Crema Corporal 200 ml — EUCERIN AntPig 200ml CremCor",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/eucerin-antpig-200ml-cremcor-105052764/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 35.8,
+     "precio_lista": 35.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319153-300-300/105052764-1.jpg"
+  },
+  "4257317": {
+   "nombre": "Tratamiento La Roche Posay Anti Edad Redermic R Ojos 15ml — Redermic R Ojos 15 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/redermic-r-ojos-15-ml-100698368/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 73.78,
+     "precio_lista": 73.78,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095568-300-300/100698368-1A.jpg"
+  },
+  "8696184": {
+   "nombre": "Eucerin Hyaluron Filler Elasticity Crema de Día SPF30 50 ml — EUCERIN Hyaluron Filler Elasticity Dia FPS30 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SPF30",
+   "url": "https://sv.siman.com/eucerin-hyaluron-filler-elasticity-dia-fps30-50ml-105052786/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 74.7,
+     "precio_lista": 74.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824384-300-300/105052786-1.jpg"
+  },
+  "8696174": {
+   "nombre": "Eucerin hyaluron Filler + Elasticity Serum 30 ml — EUCERIN HyaluElasticity Srum",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyaluelasticity-srum-105052776/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 69.85,
+     "precio_lista": 69.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8648587-300-300/4005800269776 -1-.jpg"
+  },
+  "6626521": {
+   "nombre": "Mineral 89 Vichy Probiotic Fractions Serum Regenerador & Reparador 30ml — Mineral 89 Probiotic Fraction",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/mineral-89-probiotic-fraction-103393293/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 46.13,
+     "precio_lista": 46.13,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095891-300-300/103393293-1A.jpg"
+  },
+  "8409608": {
+   "nombre": "Aire Acondicionado Mini Split inverter 12,000 BTU MMI12CABWCC32M1 Mabe — AIRE ACONDICIONADO INVERTER MINISPLIT 12.000BTU 115V",
+   "categoria": "climatizacion",
+   "tipo": "climatizacion",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mabe",
+   "modelo": "MMI12CABWCC32M1",
+   "url": "https://sv.siman.com/aire-acondicionado-inverter-minisplit-12-000btu-115v-104825118/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 399.0,
+     "precio_lista": 419.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8515204-300-300/104825118-1.jpg"
+  },
+  "4257398": {
+   "nombre": "Protector Solar Vichy Facial Capital Soleil Anti Manchas 3 En 1 SPF50+ 50ml — Idéal Soleil 3en1 SPF50 - Anti Dark",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/ideal-soleil-3en1-spf50-anti-dark-100698440/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 53.7,
+     "precio_lista": 53.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095582-300-300/100698440-1A.jpg"
+  },
+  "7019631": {
+   "nombre": "Crema Corporal Hidratante SA Cerave 170ml — CREMA ALISADORA ANTI-RUGOSIDADES",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "170ML",
+   "url": "https://sv.siman.com/crema-alisadora-anti-rugosidades-103684021/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.0,
+     "precio_lista": 27.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156172-300-300/103684021-1.jpg"
+  },
+  "4993917": {
+   "nombre": "Agua Termal La Roche Posay 300ml — Thermal Spring Water 300ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "300ML",
+   "url": "https://sv.siman.com/thermal-spring-water-300ml-101453773/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 32.71,
+     "precio_lista": 32.71,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095723-300-300/101453773-1A.jpg"
+  },
+  "4257205": {
+   "nombre": "Bálsamo de Labios La Roche Posay Cicaplast 7.5ml — Cicaplast levres labios B5 7.5ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/cicaplast-levres-labios-b5-7-5ml-100698284/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 16.94,
+     "precio_lista": 16.94,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095548-300-300/100698284-1A.jpg"
+  },
+  "4257270": {
+   "nombre": "Bruma de Agua Termal La Roche Posay 150ml — Agua termal 150ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "150ML",
+   "url": "https://sv.siman.com/agua-termal-150ml-100698337/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 24.5,
+     "precio_lista": 24.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095563-300-300/100698337-1A.jpg"
+  },
+  "4484689": {
+   "nombre": "Agua Micelar La Roche Posay Effaclar Ultra 200ml — Effaclar agua micelar Ultra Purificante 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/effaclar-agua-micelar-ultra-purificante-200ml-100911221/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.38,
+     "precio_lista": 38.38,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095639-300-300/100911221-1A.jpg"
+  },
+  "4257267": {
+   "nombre": "Limpiador Facial La Roche Posay Toleriane Ultra 40ml — Toleriane Ultra 40 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/toleriane-ultra-40-ml-100698335/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 56.25,
+     "precio_lista": 56.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095560-300-300/100698335-2A.jpg"
+  },
+  "5040451": {
+   "nombre": "La Roche Posay Gel Effaclar para Piel Grasa 400ml — Effaclar Foaming Gel 400ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "400ML",
+   "url": "https://sv.siman.com/effaclar-foaming-gel-400ml-101496254/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 50.02,
+     "precio_lista": 50.02,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095734-300-300/101496254-1A.jpg"
+  },
+  "6197850": {
+   "nombre": "La Roche Posay Redermic Retinol Serum Anti Edad B3 30ml — Retinol B3 Serum",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/retinol-b3-serum-103099147/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 82.78,
+     "precio_lista": 82.78,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095852-300-300/103099147-1A.jpg"
+  },
+  "5040447": {
+   "nombre": "La Roche Posay Effaclar Gel Limpiador Para Piel Grasa 300ml — Effaclar gel mousse 300ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "300ML",
+   "url": "https://sv.siman.com/effaclar-gel-mousse-300ml-101496253/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 36.0,
+     "precio_lista": 36.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095731-300-300/101496253-1A.jpg"
+  },
+  "6626621": {
+   "nombre": "La Roche Posay Effaclar Ultra Concentrado Serum anti imperfecciones 30ml. — Effaclar Ultra concentrate Serum - Anti inperfecciones",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/effaclar-ultra-concentrate-serum-anti-inperfecciones-103393294/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 48.45,
+     "precio_lista": 48.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095898-300-300/103393294-1A.jpg"
+  },
+  "4257404": {
+   "nombre": "Hidratante Facial La Roche Posay Matificante Effaclar Mat 40ml — Effaclar Mat Anti-Shine + 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/effaclar-mat-anti-shine-40ml-100698446/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 50.16,
+     "precio_lista": 50.16,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095587-300-300/100698446-1A.jpg"
+  },
+  "4257354": {
+   "nombre": "Crema Cicatrizante La Roche Posay Cicaplast Baume B5 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/cicaplast-baume-b5-40ml-100698402/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 17.15,
+     "precio_lista": 17.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095576-300-300/100698402-1A.jpg"
+  },
+  "7291541": {
+   "nombre": "Protector solar La Roche Posay Anthelios Age Correct SPF50+ 50ml — ANTHELIOS AGE CORRECT 50 SPF 50 ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/anthelios-age-correct-50-spf-50-ml-103876261/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.32,
+     "precio_lista": 45.32,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095937-300-300/103876261-1A.jpg"
+  },
+  "6197852": {
+   "nombre": "Gel Limpiador Facial La Roche Posay Purificante Effaclar Gel 200ml — Effaclar Gel Micro Exfoliante",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/effaclar-gel-micro-exfoliante-103099144/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 37.0,
+     "precio_lista": 37.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8213864-300-300/103099144-1.jpg"
+  },
+  "4672543": {
+   "nombre": "Protector Solar La Roche Posay Facial Anthelios Bruma Invisible SPF50+ 75ml — Anthelios Bruma SPF 50 Invisible Face Mist Anti Shine + 75ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/anthelios-bruma-spf-50-invisible-face-mist-anti-shine-75ml-101141098/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 43.3,
+     "precio_lista": 43.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095645-300-300/101141098-1A.jpg"
+  },
+  "5259262": {
+   "nombre": "Crema Ácido Hialurónico La Roche Posay Anti Edad Hyalu B5 40ml — Hyalu B5 Care 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/hyalu-b5-care-40ml-101750147/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 78.84,
+     "precio_lista": 78.84,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095813-300-300/101750147-1A.jpg"
+  },
+  "7046878": {
+   "nombre": "Gel Humectante La Roche Posay Hyalu B5 Aquagel + SPF30 50ml — HYALU B5 AQUA GEL 50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF30",
+   "url": "https://sv.siman.com/hyalu-b5-aqua-gel-50ml-103707459/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 48.53,
+     "precio_lista": 48.53,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095906-300-300/103707459-1A.jpg"
+  },
+  "4257331": {
+   "nombre": "Tratamiento La Roche Posay Anti Edad Redermic Hyalu C Ojos 15ml — Redermic C Anti-arrugas para Ojos Seinsibles 15ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "",
+   "url": "https://sv.siman.com/redermic-c-anti-arrugas-para-ojos-seinsibles-15ml-100698382/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 68.31,
+     "precio_lista": 68.31,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095572-300-300/100698382-1A.jpg"
+  },
+  "7783181": {
+   "nombre": "La Roche Posay Anthelios Uvmune 400 Oil Control Fluido Protector solar  SPF50+ 50ml — ANTHELIOS UVMUNE FLUID OIL CONTROL 50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/anthelios-uvmune-fluid-oil-control-50ml-104286102/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 32.33,
+     "precio_lista": 32.33,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8096314-300-300/104286102-1A.jpg"
+  },
+  "4257257": {
+   "nombre": "Protector Solar La Roche Posay Corporal Anthelios XL Bruma Invisible SPF50+ 200ml — Anthelios Bruma Cuerpo SPF50+",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/anthelios-brume-corp-xl50-200-ml-100698330/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 47.24,
+     "precio_lista": 47.24,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095557-300-300/100698330-1A.jpg"
+  },
+  "7291539": {
+   "nombre": "Protector Solar La Roche Posay Anthelios UVMUNE 400 con color SPF50+ 50ml — ANTHELIOS UVMUNE TINTE APTT50+ F50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "APTT50",
+   "url": "https://sv.siman.com/anthelios-uvmune-tinte-aptt50-f50ml-103876259/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 37.17,
+     "precio_lista": 37.17,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8213871-300-300/103876259-1.jpg"
+  },
+  "4726291": {
+   "nombre": "Tratamiento La Roche Posay Facial Anti Imperfecciones Effaclar Duo [+] SPF30+ 40ml — Effaclar Dúo + SPF30 - 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF30",
+   "url": "https://sv.siman.com/effaclar-duo-spf30-40ml-101193532/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 55.15,
+     "precio_lista": 55.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095727-300-300/101193532-1A.jpg"
+  },
+  "4257464": {
+   "nombre": "Protector Solar La Roche Posay Anti Brillo Anthelios Gel toque seco SPF50+ 50ml — Anthelios touche SPF50 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/anthelios-touche-spf50-50-ml-100698495/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 43.72,
+     "precio_lista": 43.72,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095591-300-300/100698495-1A.jpg"
+  },
+  "4257486": {
+   "nombre": "Protector Solar La Roche Posay Anti Brillo Anthelios Gel toque seco con color SPF50+ 50ml — Anthelios tinted dry touch gel 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "La Roche Posay",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/anthelios-tinted-dry-touch-gel-50-ml-100698513/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 51.99,
+     "precio_lista": 51.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095599-300-300/100698513-1A.jpg"
+  },
+  "4257329": {
+   "nombre": "Agua Termal Vichy 150ml — Agua Termalizadora Mineralizante 150g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "150ML",
+   "url": "https://sv.siman.com/agua-termalizadora-mineralizante-150g-100698381/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.58,
+     "precio_lista": 27.58,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8094694-300-300/100698381-1A.jpg"
+  },
+  "7900751": {
+   "nombre": "Vichy Dercos Shampoo Anti Caspa — DERCOS TECHNIQUE CHAMPU ANTICASPA 390 ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/dercos-technique-champu-anticaspa-390-ml-104392760/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 48.0,
+     "precio_lista": 48.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8096003-300-300/104392760-1A.jpg"
+  },
+  "5729934": {
+   "nombre": "Vichy Normaderm Phytosolution Gel Limpiador Anti Imperfecciones 200ml — Normaderm Phytosolution Gel Limpiador Purificante",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/normaderm-phytosolution-gel-limpiador-purificante-102479234/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 33.95,
+     "precio_lista": 33.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095819-300-300/102479234-1A.jpg"
+  },
+  "8482513": {
+   "nombre": "VICHY Capital Soleil UV Clear Fluido Anti-imperfecciones SPF50 — CAPITAL SOLEIL UV CLEAR SPF 50+ 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/capital-soleil-uv-clear-spf-50-40ml-104884879/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.0,
+     "precio_lista": 38.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095767-300-300/104884879-1A.jpg"
+  },
+  "7713609": {
+   "nombre": "Vichy Mineral 89 Booster Crema hidratante 72h 50ml — MINERAL 89 CREMA X 50 ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/mineral-89-crema-x-50-ml-104231159/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.02,
+     "precio_lista": 38.02,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095978-300-300/104231159-IA.jpg"
+  },
+  "4726273": {
+   "nombre": "Vichy Mineral 89 Booster Serum Fortalecedor 50ml — Minéral 89",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/mineral-89-101193521/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 52.77,
+     "precio_lista": 52.77,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095648-300-300/101193521-1A.jpg"
+  },
+  "8861148": {
+   "nombre": "Vichy Dercos Refill Shampoo Anti Caspa 390ml — VICHY DERCOS REFILL DS SHAMPOO ANTICASPA 390 ML.",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "390ML",
+   "url": "https://sv.siman.com/vichy-dercos-refill-ds-shampoo-anticaspa-390-ml-105166659/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 46.0,
+     "precio_lista": 46.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8096137-300-300/105166659-1A.jpg"
+  },
+  "7291543": {
+   "nombre": "Serum Anti Imperfecciones Vichy Normaderm 30ml — NORMADERM ANTI-IMPERFECTIONS  CONCENTRATE 30ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/normaderm-anti-imperfections-concentrate-30ml-103876264/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 50.81,
+     "precio_lista": 50.81,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095956-300-300/103876264-1A.jpg"
+  },
+  "6197851": {
+   "nombre": "Gel Purificante Vichy Normaderm Phytosolution 400ml — Normaderm Phytosolutions Gel 400ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "400ML",
+   "url": "https://sv.siman.com/normaderm-phytosolutions-gel-400ml-103099148/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 42.0,
+     "precio_lista": 42.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095858-300-300/103099148-1A.jpg"
+  },
+  "4257581": {
+   "nombre": "Vichy Dercos Shampoo Anti Caspa 200ml — Dercos Shampoo Anti-Caspa 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/anti-caspa-sensitive-sin-sulfatos-200ml-100698597/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 36.24,
+     "precio_lista": 36.24,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8208503-300-300/3337871330286_1--1-.jpg"
+  },
+  "7046879": {
+   "nombre": "Vichy Liftactiv B3 Sérum 30 ml — LIFTACTIV DARK SPOTS B3 SERUM 30ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/liftactiv-dark-spots-b3-serum-30ml-103707461/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 80.52,
+     "precio_lista": 80.52,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095918-300-300/103707461-1A.jpg"
+  },
+  "4257598": {
+   "nombre": "Vichy Dercos Shampoo Energizante Anti caida 200ml — Dercos Shampoo Energizante Anti-Caída",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/dercos-estimulante-200ml-100698607/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 36.24,
+     "precio_lista": 36.24,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095625-300-300/100698607-1A.jpg"
+  },
+  "7046880": {
+   "nombre": "Serum Vichy Liftactiv Supreme Vitamin C 20ml — LIFTACTIV SUPREME VITAMIN C15 SERUM 20ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/liftactiv-supreme-vitamin-c15-serum-20ml-103707462/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 71.15,
+     "precio_lista": 71.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095926-300-300/103707462-1A.jpg"
+  },
+  "6506030": {
+   "nombre": "Liftactiv anti edad Vichy H.A Filler 30ml — LIFTACTIV EPIDERMIC FILLER 30ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/liftactiv-epidermic-filler-30ml-103312899/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 68.54,
+     "precio_lista": 68.54,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095871-300-300/103312899-1A.jpg"
+  },
+  "4257355": {
+   "nombre": "Desmaquillante 3 en 1 Vichy Pureté Thermale 200ml — Pureté Thermale 3-In-1 One Step Cleanser  200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/purete-thermale-3-in-1-one-step-cleanser-200ml-100698405/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.66,
+     "precio_lista": 38.66,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8213833-300-300/100698405-1.jpg"
+  },
+  "7453251": {
+   "nombre": "Tratamiento Anti edad Vichy Liftactiv Collagen Specialist 50ml — LIFTACTIV COLLAGEN SPECIALIST DIA 50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/liftactiv-collagen-specialist-dia-50ml-104015960/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 71.89,
+     "precio_lista": 71.89,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095960-300-300/104015960-1A.jpg"
+  },
+  "5991810": {
+   "nombre": "Mineral 89 Vichy Contorno de Ojos con Ácido Hialurónico 15ml — Hidra/750992/Vichy",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/hidratante-fortalecedor-contorno-de-ojos-minerals-89-ojos-102859317/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 40.71,
+     "precio_lista": 40.71,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095838-300-300/102859317-1A.jpg"
+  },
+  "5729936": {
+   "nombre": "Tratamiento Vichy Piel Grasa con Imperfecciones Normaderm Phytosolution 50ml — Normaderm Phytosolution Tratamiento Diario",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/normaderm-phytosolution-tratamiento-diario-102479236/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 49.39,
+     "precio_lista": 49.39,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095827-300-300/102479236-1A.jpg"
+  },
+  "5106379": {
+   "nombre": "Mineral 89 Vichy Fortalecedor diario con Ácido Hialurónico 30ml — GEL/VICHY/MB076100",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "MB076100",
+   "url": "https://sv.siman.com/mineral-89-f30ml-101572199/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.37,
+     "precio_lista": 38.37,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095790-300-300/101572199-1A.jpg"
+  },
+  "8523514": {
+   "nombre": "Baby Tous My First Vichy Vanity Case Eau de Cologne — BBT MY FIRST VANITY CASE EDC 100ML+BL",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Tous",
+   "modelo": "100ML",
+   "url": "https://sv.siman.com/bbt-my-first-vanity-case-edc-100ml-bl-104917693/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 63.75,
+     "precio_lista": 85.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6853215-300-300/104917693_1.jpg"
+  },
+  "4726284": {
+   "nombre": "Desodorante Vichy Anti Transpirante 48Hr Roll On Mineral 50ml — Desodorante mineral 48 horas roll-on - 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/desodorante-mineral-48-horas-roll-on-50ml-101193528/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.63,
+     "precio_lista": 25.63,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095720-300-300/101193528-1A.jpg"
+  },
+  "7291540": {
+   "nombre": "Protector Solar Vichy Capital Soleil UV Age SPF50+ 40 ml — Capital Soleil UV Age con Color",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/capital-soleil-uv-age-con-color-103876260/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 44.73,
+     "precio_lista": 44.73,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095944-300-300/103876260-1A.jpg"
+  },
+  "4257556": {
+   "nombre": "Desodorante Vichy Roll On Anti Transpirante 72 Hrs Stress Resist 50ml — Desodorante A Prueba De Estrés",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/desodorante-a-prueba-de-estres-100698572/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.63,
+     "precio_lista": 25.63,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095612-300-300/100698572-1A.jpg"
+  },
+  "4257545": {
+   "nombre": "Desodorante Vichy Roll On Anti Transpirante 48 Hrs Piel Sensible 50ml — Desodorante Anti-Transpirante 48 horas",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "",
+   "url": "https://sv.siman.com/desodorante-anti-transparente-48h-100698562/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.63,
+     "precio_lista": 25.63,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095610-300-300/100698562-1A.jpg"
+  },
+  "6197847": {
+   "nombre": "Protector Solar Vichy Capital Soleil Face and Body SPF50+ 300 ml — Capital Soleil Leche Corporal FPS 50",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/capital-soleil-leche-corporal-fps-50-103099149/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 48.68,
+     "precio_lista": 48.68,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095865-300-300/103099149-1A.jpg"
+  },
+  "6197843": {
+   "nombre": "Protector Solar Vichy Facial Capital Soleil Matificante 3 En 1 SPF50+ 50ml — Capital Soleil Matificante 3n1 FPS 50",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/capital-soleil-matificante-3n1-fps-50-103099150/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 46.04,
+     "precio_lista": 46.04,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095867-300-300/103099150-1A.jpg"
+  },
+  "6604003": {
+   "nombre": "Protector Solar Vichy Facial Antiedad Capital Soleil UV Age Daily SPF50+ 40ml — Capital Soleil UV-AGE Daily Fluid Antifotoenvejecimiento SPF50+ 50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Vichy",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/capital-soleil-uv-age-daily-fluid-antifotoenvejecimiento-spf50-50ml-103376154/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 43.63,
+     "precio_lista": 43.63,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8095880-300-300/103376154-1A.jpg"
+  },
+  "7019638": {
+   "nombre": "Crema Hidratante Cerave 170gr — CREMA HIDRATANTE - TUBO",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "170GR",
+   "url": "https://sv.siman.com/crema-hidratante-tubo-103684016/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 22.0,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156153-300-300/103684016-1.jpg"
+  },
+  "7019637": {
+   "nombre": "CeraVe Crema Hidratante — CREMA HIDRATANTE - TARRO",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/crema-hidratante-tarro-103684015/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4461050-300-300/103684015-1B.jpg"
+  },
+  "8505063": {
+   "nombre": "Cerave Ácido Hialuronico 30ml — CERAVE Acido Hialuronico 30ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/cerave-acido-hialuronico-30ml-104903434/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 33.0,
+     "precio_lista": 33.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156201-300-300/104903434-1.jpg"
+  },
+  "7019639": {
+   "nombre": "Loción Hidratante Cerave 236ml — LOCIÓN HIDRATANTE ULTRA LIGERA",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "236ML",
+   "url": "https://sv.siman.com/locion-hidratante-ultra-ligera-103684017/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.0,
+     "precio_lista": 27.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156157-300-300/103684017-1.jpg"
+  },
+  "7019636": {
+   "nombre": "Hidratante Facial PM Cerave 52ml — CREMA FACUAL HIDRATANTE NOCTUNA",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/crema-facual-hidratante-noctuna-103684020/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.0,
+     "precio_lista": 27.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156166-300-300/103684020-1.jpg"
+  },
+  "7019633": {
+   "nombre": "Crema Reparadora de Manos Cerave 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/crema-reparadora-de-manos-103684023/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 12.0,
+     "precio_lista": 12.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156182-300-300/103684023-1.jpg"
+  },
+  "8453599": {
+   "nombre": "Cerave Crema-Gel Hidratante 52ml — CERAVE OIL CONTROL 52ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/cerave-oil-control-52ml-104862192/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.0,
+     "precio_lista": 27.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156199-300-300/104862192-1.jpg"
+  },
+  "7019640": {
+   "nombre": "Loción Hidratante CeraVe 473 ml — LOCIÓN HIDRATANTE ULTRA LIGERA (EX)",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/locion-hidratante-ultra-ligera-ex-103684018/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156162-300-300/103684018-1.jpg"
+  },
+  "8029044": {
+   "nombre": "Cerave loción hidratante FPS30 para piel seca — CERAVE Loc Facial AMSPF30 52ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "AMSPF30",
+   "url": "https://sv.siman.com/cerave-loc-facial-amspf30-52ml-104503832/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.0,
+     "precio_lista": 27.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156193-300-300/104503832-1.jpg"
+  },
+  "7267887": {
+   "nombre": "Gel Limpiador SA Anti Rugosidades Cerave 236ml — Smoothing Cleanser 236ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "236ML",
+   "url": "https://sv.siman.com/smoothing-cleanser-236ml-103856371/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 32.0,
+     "precio_lista": 32.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156186-300-300/103856371-1.jpg"
+  },
+  "7019632": {
+   "nombre": "Crema Facial Reparadora Para Contorno de Ojos Cerave 14ml — CREMA REPARADORA CONTORNO DE OJOS",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "",
+   "url": "https://sv.siman.com/crema-reparadora-contorno-de-ojos-103684022/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156177-300-300/103684022-1.jpg"
+  },
+  "7532094": {
+   "nombre": "CeraVe Gel Limpiador Espumoso Piel Normal a Grasa 473 ml — Gel Limpiador Espumoso 473ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "473ML",
+   "url": "https://sv.siman.com/gel-limpiador-espumoso-473ml-104080994/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156189-300-300/104080994-1.jpg"
+  },
+  "8868471": {
+   "nombre": "Refill Gel Limpiador Espumoso 473ml — CERAVE REFILL GEL LIMPIADOR ESPUMOSO 16 OZ",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "473ML",
+   "url": "https://sv.siman.com/cerave-refill-gel-limpiador-espumoso-16-oz-105171668/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.0,
+     "precio_lista": 27.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156238-300-300/105171668-1.jpg"
+  },
+  "8864446": {
+   "nombre": "Limpiador Air Foam Reequilibrante 148ml — CERAVE Air Foam Cleanser 148ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Cerave",
+   "modelo": "148ML",
+   "url": "https://sv.siman.com/cerave-air-foam-cleanser-148ml-105168981/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.0,
+     "precio_lista": 25.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8156215-300-300/105168981-1.jpg"
+  },
+  "8696168": {
+   "nombre": "Eucerin Aquaphor Lips — EUCERIN Aquaphor 9.5g ProtLa",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-aquaphor-9-5g-protla-105052770/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 11.06,
+     "precio_lista": 11.06,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319163-300-300/105052770-1.jpg"
+  },
+  "6215105": {
+   "nombre": "Eucerin Higiene Íntima 250 ml — Jabón líquido íntimo",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-jab-intimo-250ml-103111746/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 16.95,
+     "precio_lista": 16.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/1056941-300-300/103111746_1.jpg"
+  },
+  "8696165": {
+   "nombre": "Eucerin Antipigmento Antiojeras 15 ml — EUCERIN AntiPig 15ml ContOjo",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-antipig-15ml-contojo-105052767/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 60.0,
+     "precio_lista": 60.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319160-300-300/105052767-1.jpg"
+  },
+  "8696177": {
+   "nombre": "Eucerin PH5 Loción Corporal 250 ml — EUCERIN PH5 250ml LocionInte",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "250ML",
+   "url": "https://sv.siman.com/eucerin-ph5-250ml-locioninte-105052779/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 44.1,
+     "precio_lista": 44.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319175-300-300/105052779-1.jpg"
+  },
+  "8696166": {
+   "nombre": "Eucerin Antipigmento Dual Serum Facial 30 ml — EUCERIN AntiPig 30ml Serum",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-antipig-30ml-serum-105052768/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 64.3,
+     "precio_lista": 64.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319161-300-300/105052768-1.jpg"
+  },
+  "6215103": {
+   "nombre": "Eucerin PH5 Syndet Gel 250 ml — EUCERIN GEL SYNDET PH5 250ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "250ML",
+   "url": "https://sv.siman.com/eucerin-gel-syndet-ph5-250ml-103111744/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.95,
+     "precio_lista": 34.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319148-300-300/103111744-1.jpg"
+  },
+  "8696190": {
+   "nombre": "Eucerin Hyaluron-Filler Pore Minimizer 30ml — EUCERIN HYL FLR PORE MIN SRM 1/24/30ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyl-flr-pore-min-srm-1-24-30ml-105052792/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 28.35,
+     "precio_lista": 28.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824321-300-300/105052792-1.jpg"
+  },
+  "8700655": {
+   "nombre": "Eucerin Aquaphor Crema Reparadora 80 g — EUCERIN Aquaphor 80g Tarro",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-aquaphor-80g-tarro-105056106/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 16.45,
+     "precio_lista": 16.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319189-300-300/105056106-1.jpg"
+  },
+  "6215098": {
+   "nombre": "Eucerin Baby Crema Corporal 400 ml — EUCERIN BABY CREM/CORP 400ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "400ML",
+   "url": "https://sv.siman.com/eucerin-baby-crem-corp-400ml-103111740/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 46.45,
+     "precio_lista": 46.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/1192820-300-300/103111740_1.jpg"
+  },
+  "8696163": {
+   "nombre": "Eucerin Antipigmento Crema de Manos 75 ml — EUCERIN AntPig 75ml MnosSPF3",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "MNOSSPF3",
+   "url": "https://sv.siman.com/eucerin-antpig-75ml-mnosspf3-105052765/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.4,
+     "precio_lista": 25.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319158-300-300/105052765-1.jpg"
+  },
+  "8696181": {
+   "nombre": "Eucerin Protector Solar Pigment Control Sun Fluid SPF50 50 ml — EUCERIN SolF50 50ml PigmntCt",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-50ml-pigmntct-105052783/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.75,
+     "precio_lista": 45.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319179-300-300/105052783-1.jpg"
+  },
+  "8696170": {
+   "nombre": "Eucerin Dermato Clean Gel Limpiador 200 ml — EUCERIN Derma Clean Gel 200m",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-derma-clean-gel-200m-105052772/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 22.5,
+     "precio_lista": 22.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8648609-300-300/4005808583348 -1-.jpg"
+  },
+  "6215109": {
+   "nombre": "Eucerin Protector Solar Sun Facial Toque Seco SPF50 50 ml — EUCERIN PROT SOLAR FAC",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/eucerin-prot-solar-fac-103111750/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.75,
+     "precio_lista": 45.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319150-300-300/103111750-1.jpg"
+  },
+  "8696182": {
+   "nombre": "Eucerin Protector Solar Pigment Control SPF50 Tono Claro 50 ml — EUCERIN SolF50 50ml PigmntTC",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-50ml-pigmnttc-105052784/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 46.25,
+     "precio_lista": 46.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319180-300-300/105052784-1.jpg"
+  },
+  "8696178": {
+   "nombre": "Eucerin PH5 Crema Corporal Advance Repair 450 ml — EUCERIN PH5 450ml Tarro AdvR",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "450ML",
+   "url": "https://sv.siman.com/eucerin-ph5-450ml-tarro-advr-105052780/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 31.85,
+     "precio_lista": 31.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319176-300-300/105052780-1.jpg"
+  },
+  "8696164": {
+   "nombre": "Eucerin Antipigmento Serum Áreas Especificas 75 ml — EUCERIN AntPig 75mlSerAreaSe",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-antpig-75mlserarease-105052766/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 44.35,
+     "precio_lista": 44.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319159-300-300/105052766-1.jpg"
+  },
+  "8696171": {
+   "nombre": "Eucerin Dermatoclean 3en1 Solución Micelar 200 ml — EUCERIN DermatClean200ml3en1",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "DERMATCLEAN200ML3EN1",
+   "url": "https://sv.siman.com/eucerin-dermatclean200ml3en1-105052773/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 22.5,
+     "precio_lista": 22.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8648612-300-300/4005808583805 -1-.jpg"
+  },
+  "8696198": {
+   "nombre": "Eucerin Anti-pigment Gel Limpiador Facial 400 ml — EUCERIN PIGM CNT GEL DE LIMP 1/12/400ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "400ML",
+   "url": "https://sv.siman.com/eucerin-pigm-cnt-gel-de-limp-1-12-400ml-105052799/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 53.55,
+     "precio_lista": 53.55,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319187-300-300/105052799-1.jpg"
+  },
+  "8696173": {
+   "nombre": "Eucerin Hyaluron Filler + Elasticity Contorno de Ojos 15 ml — EUCERIN HyaluElasticit CntOj",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyaluelasticit-cntoj-105052775/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 56.1,
+     "precio_lista": 56.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319168-300-300/105052775-1.jpg"
+  },
+  "8696172": {
+   "nombre": "Eucerin Dermo Pure Triple Effect Gel Limpiador 150 ml — EUCERIN DermoPure 150ml GelL",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "150ML",
+   "url": "https://sv.siman.com/eucerin-dermopure-150ml-gell-105052774/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 24.4,
+     "precio_lista": 24.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8648565-300-300/4006000183558--7-.jpg"
+  },
+  "8696180": {
+   "nombre": "Eucerin Protector Solar Hydro Fluid SPF50 50 ml — EUCERIN SolF50 50ml Hydroflu",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-50ml-hydroflu-105052782/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.75,
+     "precio_lista": 45.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319178-300-300/105052782-1.jpg"
+  },
+  "6215110": {
+   "nombre": "Eucerin Sun Fluido Facial Anti Edad SPF50 50ml — EUCERIN PROT SOLAR FAC/ANTARR LIQ",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/eucerin-prot-solar-fac-antarr-liq-103111751/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.75,
+     "precio_lista": 45.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319151-300-300/103111751-1.jpg"
+  },
+  "8700661": {
+   "nombre": "Eucerin Hyaluron Filler Crema de Noche 50 ml — EUCERIN Hyaluron CrNoche50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "CRNOCHE50ML",
+   "url": "https://sv.siman.com/eucerin-hyaluron-crnoche50ml-105056116/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 71.25,
+     "precio_lista": 71.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319195-300-300/105056116-1.jpg"
+  },
+  "8700660": {
+   "nombre": "Eucerin Hyaluron Filler Hydrating Booster 30 ml — EUCERIN Hyaluron HdrBst 30ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyaluron-hdrbst-30ml-105056117/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.55,
+     "precio_lista": 39.55,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319196-300-300/105056117-1.jpg"
+  },
+  "8696193": {
+   "nombre": "Eucerin Elasticity+Filler Crema facial de noche antiarrugas 50ml — EUCERIN HYL FLR ELAST NOCHE 1/12/50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyl-flr-elast-noche-1-12-50ml-105052795/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 74.7,
+     "precio_lista": 74.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824326-300-300/105052795-1.jpg"
+  },
+  "8696186": {
+   "nombre": "Eucerin Protector Solar Pigment Control SPF50 Tono Medio 50 ml — EUCERIN Sun Facial Antipigmento FPS50 Tono Medio 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/eucerin-sun-facial-antipigmento-fps50-tono-medio-50ml-105052788/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 46.25,
+     "precio_lista": 46.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319184-300-300/105052788-1.jpg"
+  },
+  "8696185": {
+   "nombre": "Eucerin Hyaluron Filler Booster Vitamina C 8 ml — EUCERIN Hyaluron Filler VitC Booster 8ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyaluron-filler-vitc-booster-8ml-105052787/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.85,
+     "precio_lista": 38.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319183-300-300/105052787-1.jpg"
+  },
+  "8696169": {
+   "nombre": "Eucerin Baby Baño & Shampoo 400 ml — EUCERIN Baby400ml Wash&Shamp",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "BABY400ML",
+   "url": "https://sv.siman.com/eucerin-baby400ml-wash-shamp-105052771/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 40.4,
+     "precio_lista": 40.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319164-300-300/105052771-1.jpg"
+  },
+  "8696179": {
+   "nombre": "Eucerin Protector Solar SPF50 Gel Toque Seco 200 ml — EUCERIN SolF50 200ml Gel TSe",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-200ml-gel-tse-105052781/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.05,
+     "precio_lista": 39.05,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319177-300-300/105052781-1.jpg"
+  },
+  "8696176": {
+   "nombre": "Eucerin Hyaluron Filler Epigenetic Serum 30 ml — EUCERIN Hyaluron EpigenSer30",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "EPIGENSER30",
+   "url": "https://sv.siman.com/eucerin-hyaluron-epigenser30-105052778/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 64.3,
+     "precio_lista": 64.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319174-300-300/105052778-1.jpg"
+  },
+  "8696175": {
+   "nombre": "Eucerin Hyaluron Filler Contorno de Ojos 15 ml — EUCERIN Hyaluron ContOjos 15",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyaluron-contojos-15-105052777/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 53.5,
+     "precio_lista": 53.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319173-300-300/105052777-1.jpg"
+  },
+  "8696161": {
+   "nombre": "Eucerin Antipigmento Crema Facial de Día SPF30 50 ml — EUCERIN ActiPig CrDiaF30 50m",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "CRDIAF30",
+   "url": "https://sv.siman.com/eucerin-actipig-crdiaf30-50m-105052763/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 64.3,
+     "precio_lista": 64.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319152-300-300/105052763-1.jpg"
+  },
+  "8924409": {
+   "nombre": "Eucerin Sun Face Hydro Fluid FPS 50+ — EUCERIN SolF50 50ml HydFluTonC",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-50ml-hydflutonc-105211540/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.85,
+     "precio_lista": 38.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8491085-300-300/105211540-1.jpg"
+  },
+  "8924410": {
+   "nombre": "Eucerin Sun Face Hydro Fluid FPS 50+ — EUCERIN SolF50 50ml HydFluTonM",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-50ml-hydflutonc-105211540/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.85,
+     "precio_lista": 38.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8491091-300-300/105211541-1.jpg"
+  },
+  "8696191": {
+   "nombre": "Eucerin Hyaluron-Filler 3X Effect Crema facial de día antiarrugas FPS30 50ml — EUCERIN HYL FLR CREMA DE DIA 1/12/50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "FPS30",
+   "url": "https://sv.siman.com/eucerin-hyl-flr-crema-de-dia-1-12-50ml-105052793/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 71.25,
+     "precio_lista": 71.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824323-300-300/105052793-1.jpg"
+  },
+  "6215097": {
+   "nombre": "Eucerin Dermo Pure Oil Exfoliante 100 ml — EUCERIN  DERMO PURE GEL/EXFO 100ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "100ML",
+   "url": "https://sv.siman.com/eucerin-dermo-pure-gel-exfo-100ml-103111739/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 30.55,
+     "precio_lista": 30.55,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8648572-300-300/4006000183589 -7-.jpg"
+  },
+  "8696197": {
+   "nombre": "Eucerin Anti-pigment Gel Limpiador Facial 200 ml — EUCERIN PIGM CNT GEL DE LIMP 1/12/200ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/eucerin-pigm-cnt-gel-de-limp-1-12-200ml-105052798/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.15,
+     "precio_lista": 34.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319186-300-300/105052798-1.jpg"
+  },
+  "8696187": {
+   "nombre": "Eucerin Protector Solar Sun Kids Toque Seco Kids SPF50 200 ml — EUCERIN Sun Toque Seco FPS50 Kids 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/eucerin-sun-toque-seco-fps50-kids-200ml-105052789/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 47.3,
+     "precio_lista": 47.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319185-300-300/105052789-1.jpg"
+  },
+  "8696183": {
+   "nombre": "Eucerin Protector Solar Facial Photoaging SPF50 Tono Medio 50ml — EUCERIN SolF50 Facial C/Colo",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "SOLF50",
+   "url": "https://sv.siman.com/eucerin-solf50-facial-c-colo-105052785/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 47.1,
+     "precio_lista": 47.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7319181-300-300/105052785-1.jpg"
+  },
+  "8696192": {
+   "nombre": "Crema facial Eucerin hyaluron filler noche 50ml — EUCERIN HYL FLR HYDR&REPAIR 1/12/50ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/eucerin-hyl-flr-hydr-repair-1-12-50ml-105052794/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 41.05,
+     "precio_lista": 41.05,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7824325-300-300/105052794-1.jpg"
+  },
+  "9051267": {
+   "nombre": "Serum Eucerin Hyaluron Filler 3X Effect Reafirmante 30ml — Serum Eucerin Hyaluron Filler 3X Effect Reafirmante 30 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "",
+   "url": "https://sv.siman.com/serum-eucerin-hyaluron-filler-3x-effect-reafirmante-30-ml-105315020/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 40.25,
+     "precio_lista": 40.25,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8441321-300-300/105315020-1.jpg"
+  },
+  "8696195": {
+   "nombre": "Dermopure Clinical Gel Limpiador Purificante — EUCERIN DERM PURE GEL LIMP 1/12/200ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Eucerin",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/eucerin-derm-pure-gel-limp-1-12-200ml-105052796/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.1,
+     "precio_lista": 34.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8648353-300-300/4005900436986--9-.jpg"
+  },
+  "10025649": {
+   "nombre": "Sebium Hydra 40Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "",
+   "url": "https://sv.siman.com/sebium-hydra-40ml-bioderma-823473015/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.91,
+     "precio_lista": 45.91,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959565-300-300/image-da43de735a324c39a03a19d34ef7fb36.jpg"
+  },
+  "10025655": {
+   "nombre": "Sebium Global 30Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "",
+   "url": "https://sv.siman.com/sebium-global-30ml-bioderma-823473021/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 50.47,
+     "precio_lista": 50.47,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959571-300-300/image-49900766b3df4b67afe0448467b36ffa.jpg"
+  },
+  "10025659": {
+   "nombre": "Sebium Gel Moussant 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/sebium-gel-moussant-200ml-bioderma-823473025/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 30.95,
+     "precio_lista": 30.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959615-300-300/image-7a554fa0d11842989bb611a9e23bb77c.jpg"
+  },
+  "10025660": {
+   "nombre": "Sebium Gel Moussant 200Ml Bioderma — Sebium Gel Moussant 500Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/sebium-gel-moussant-200ml-bioderma-823473025/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 47.83,
+     "precio_lista": 47.83,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959616-300-300/image-824025bc7356425bb476d61048c80712.jpg"
+  },
+  "10025736": {
+   "nombre": "Atoderm Intensive Baume 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/atoderm-intensive-baume-200ml-bioderma-823473084/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 43.22,
+     "precio_lista": 43.22,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5967572-300-300/image-6c4baa7bf8ad4af3aa05ebe572010d46.jpg"
+  },
+  "10025735": {
+   "nombre": "Pigmentbio Foaming Cream 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/pigmentbio-foaming-cream-200ml-bioderma-823473083/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 32.13,
+     "precio_lista": 32.13,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5967571-300-300/image-2544af8189014b678ff354d2c229f8d0.jpg"
+  },
+  "10025734": {
+   "nombre": "Atoderm Gel Douche 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/atoderm-gel-douche-200ml-bioderma-823473082/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 24.24,
+     "precio_lista": 24.24,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5967570-300-300/image-1059c23a64744824b960e4200ac3779b.jpg"
+  },
+  "10025652": {
+   "nombre": "Atoderm Huile De Douche 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/atoderm-huile-de-douche-200ml-bioderma-823473018/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959568-300-300/image-c4d9435f75b64094a8c9e3ab713c5e84.jpg"
+  },
+  "10025651": {
+   "nombre": "Sensibio Gel Moussant 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/sensibio-gel-moussant-200ml-bioderma-823473017/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 32.71,
+     "precio_lista": 32.71,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959567-300-300/image-8c938cb463d8469fafd392b873a6750d.jpg"
+  },
+  "10025654": {
+   "nombre": "Atoderm Crema Ultra Hidratante 200Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/atoderm-crema-ultra-hidratante-200ml-bioderma-823473020/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 37.28,
+     "precio_lista": 37.28,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959570-300-300/image-b989b0f9a168404dba2516cf96ee2f02.jpg"
+  },
+  "10025688": {
+   "nombre": "Pigmentbio Daily Care Spf50+ 40Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/pigmentbio-daily-care-spf50--40ml-bioderma-823473040/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 63.08,
+     "precio_lista": 63.08,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5965892-300-300/image-fe50e85e355644b18cc5a498c9806bbc.jpg"
+  },
+  "10025647": {
+   "nombre": "Photoderm Aquafluide Spf50+ C/Color 40Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/photoderm-aquafluide-spf50--c-color-40ml-bioderma-823473013/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 30.95,
+     "precio_lista": 30.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959563-300-300/image-b5142a70af6e4eb1a895590d7ff578fb.jpg"
+  },
+  "10025643": {
+   "nombre": "Pigmentbio H2O Agua Micelar 250Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "250ML",
+   "url": "https://sv.siman.com/pigmentbio-h2o-agua-micelar-250ml-bioderma-823473009/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.4,
+     "precio_lista": 34.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959558-300-300/image-7faf2ec1457e4533a5b346154e1b2c61.jpg"
+  },
+  "10025733": {
+   "nombre": "Sensibio H2O Agua Micelar 500Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "500ML",
+   "url": "https://sv.siman.com/sensibio-h2o-agua-micelar-500ml-bioderma-823473081/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 45.85,
+     "precio_lista": 45.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5967569-300-300/image-390a50e815b246d7823efcef68ec367a.jpg"
+  },
+  "10025644": {
+   "nombre": "Sensibio H2O Agua Micelar 250Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "250ML",
+   "url": "https://sv.siman.com/sensibio-h2o-agua-micelar-250ml-bioderma-823473010/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 32.13,
+     "precio_lista": 32.13,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959559-300-300/image-e66b9d872ab14652b6df1548a0350061.jpg"
+  },
+  "10025642": {
+   "nombre": "Sebium H2O Agua Micelar 250Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "250ML",
+   "url": "https://sv.siman.com/sebium-h2o-agua-micelar-250ml-bioderma-823473008/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.41,
+     "precio_lista": 34.41,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959557-300-300/image-a68b3c6a785b42eeb3947918919a1cb0.jpg"
+  },
+  "10025645": {
+   "nombre": "Photoderm M Spf50+ Gel Crema C/Color 40Ml Bioderma",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Bioderma",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/photoderm-m-spf50--gel-crema-c-color-40ml-bioderma-823473011/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.43,
+     "precio_lista": 34.43,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/5959560-300-300/image-50e0b8a5e1e344d78a6d5c9108897a4a.jpg"
+  },
+  "8239740": {
+   "nombre": "Sesderma Sesbalance Crema Gel Seboregulador",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sesderma",
+   "modelo": "",
+   "url": "https://sv.siman.com/sesbalance-crema-gel-seboregulador-104675993/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 51.62,
+     "precio_lista": 51.62,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6037509-300-300/104675993-1.jpg"
+  },
+  "8527196": {
+   "nombre": "Sesderma Sesmahal Retinol Sérum 30ml — SESMAHAL RETINOL SERUM",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sesderma",
+   "modelo": "",
+   "url": "https://sv.siman.com/sesmahal-retinol-serum-104920524/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 44.5,
+     "precio_lista": 44.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6820570-300-300/104920524_1.jpg"
+  },
+  "8239743": {
+   "nombre": "Sesderma Sesbalance Gel Seboregulador Plus 30ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sesderma",
+   "modelo": "",
+   "url": "https://sv.siman.com/sesbalance-gel-seboregulador-plus-104675994/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 36.45,
+     "precio_lista": 36.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6026763-300-300/104675994-1.jpg"
+  },
+  "9066294": {
+   "nombre": "Set Sesderma The Power of 5 — PROMO MINI TALLAS",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sesderma",
+   "modelo": "",
+   "url": "https://sv.siman.com/promo-mini-tallas-105326881/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 57.07,
+     "precio_lista": 57.07,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/8441337-300-300/105326881-1.jpg"
+  },
+  "8527197": {
+   "nombre": "Protector solar Sesderma Repaskin Urban 365 SPF50+ — REPASKIN URBAN 365 DESPIGMENTANTE SPF50+",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sesderma",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/repaskin-urban-365-despigmentante-spf50-104920525/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 49.95,
+     "precio_lista": 49.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6820572-300-300/104920525_1.jpg"
+  },
+  "8527198": {
+   "nombre": "Protector solar Sesderma Repaskin Urban 365 Pieles Grasas SPF50+ — REPASKIN URBAN 365 PIEL GRASA SPF50+",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Sesderma",
+   "modelo": "SPF50",
+   "url": "https://sv.siman.com/repaskin-urban-365-piel-grasa-spf50-104920526/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 49.95,
+     "precio_lista": 49.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6820576-300-300/104920526_1.jpg"
+  },
+  "10006431": {
+   "nombre": "Heliocare 60 Capsulas",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Industrial Farmaceutica Cantabria IFC",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-60-capsulas--823458482/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.49,
+     "precio_lista": 39.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4251797-300-300/image-6a57aa4e001e4050b1a7c04f978837f2.jpg"
+  },
+  "10016008": {
+   "nombre": "Heliocare x 60 capsulas",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-x-60-capsulas-823466805/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.49,
+     "precio_lista": 39.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824331-300-300/image-f3af308ceab44b548588a258db099c26.jpg"
+  },
+  "10015997": {
+   "nombre": "Heliocare 360grados  pediatrics mineral 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-360grados--pediatrics-mineral-50ml-823466794/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 33.99,
+     "precio_lista": 33.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824320-300-300/image-df632cb974d7445cb1123b4a72aed0b2.jpg"
+  },
+  "10015999": {
+   "nombre": "Heliocare 360grados  water gel 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-360grados--water-gel-50ml-823466796/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.49,
+     "precio_lista": 38.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824322-300-300/image-5bb229631e4c49db937c3ed85b293d4e.jpg"
+  },
+  "10016004": {
+   "nombre": "Heliocare 360grados  pigment solution fluid 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-360grados--pigment-solution-fluid-50ml-823466801/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.49,
+     "precio_lista": 39.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824327-300-300/image-826d84d91ea54dcd8419ec967392eef0.jpg"
+  },
+  "10016003": {
+   "nombre": "Heliocare 360grados  pediatrico spray transparente 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/heliocare-360grados--pediatrico-spray-transparente-200ml-823466800/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 41.49,
+     "precio_lista": 41.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824326-300-300/image-59615e4df25a4a77a669a526cbf7d7ea.jpg"
+  },
+  "10016006": {
+   "nombre": "Heliocare 360grados  ak fluido fps 100 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-360grados--ak-fluido-fps-100-50ml-823466803/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.49,
+     "precio_lista": 39.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824329-300-300/image-9c9bae46d6854f35add155afc799f9b8.jpg"
+  },
+  "10015998": {
+   "nombre": "Heliocare ultra gel spf 90 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-ultra-gel-spf-90-50-ml-823466795/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 33.99,
+     "precio_lista": 33.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824321-300-300/image-2f90d441294640ebac4221dcddb1d87a.jpg"
+  },
+  "10016001": {
+   "nombre": "Heliocare 360grados  age active fluid tubo x 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Heliocare",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-360grados--age-active-fluid-tubo-x-50ml-823466798/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 39.49,
+     "precio_lista": 39.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4824324-300-300/image-cb381c19e3a4440497372743157a58d0.jpg"
+  },
+  "10006371": {
+   "nombre": "Heliocare Oil Free Gel 360 SPF 50 Tubo 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Industrial Farmaceutica Cantabria IFC",
+   "modelo": "",
+   "url": "https://sv.siman.com/heliocare-oil-free-gel-360-spf-50-tubo-50ml-823458422/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 38.49,
+     "precio_lista": 38.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4251736-300-300/image-e9a2d7ff620045dc8abc30c103acc3b7.jpg"
+  },
+  "6334152": {
+   "nombre": "Mustela Champú Bebé 200ml — MUS PN SHAMPOO SUAVE BEBE 200ML",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mustela",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/mus-pn-shampoo-suave-bebe-200ml-103185471/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 14.9,
+     "precio_lista": 14.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6503963-300-300/103185471-1.jpg"
+  },
+  "6334159": {
+   "nombre": "Mustela Crema antiestrías 150ml — MUS-M Crema PREVENCION ESTRIAS (Strech marks prevention cream)",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mustela",
+   "modelo": "150ML",
+   "url": "https://sv.siman.com/mus-m-crema-prevencion-estrias-strech-marks-prevention-cream-103185463/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 34.9,
+     "precio_lista": 34.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6504005-300-300/103185463-1.jpg"
+  },
+  "10012407": {
+   "nombre": "Mustela aceite prevencion de estrias 105ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mustela",
+   "modelo": "105ML",
+   "url": "https://sv.siman.com/mustela-aceite-prevencion-de-estrias-105ml-823463643/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 25.95,
+     "precio_lista": 25.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4695927-300-300/image-4ad6b76c2e1c40e5ba71c7abfda4ef0f.jpg"
+  },
+  "10012375": {
+   "nombre": "Mustela shampoo suave bebe 500ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mustela",
+   "modelo": "500ML",
+   "url": "https://sv.siman.com/mustela-shampoo-suave-bebe-500ml-823463611/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 19.95,
+     "precio_lista": 19.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4695895-300-300/image-ff8aef9427194d6da4563e581e5f5a89.jpg"
+  },
+  "10014136": {
+   "nombre": "Mustela shampoo suave bebe 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mustela",
+   "modelo": "200ML",
+   "url": "https://sv.siman.com/mustela-shampoo-suave-bebe-200ml-823464933/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 14.0,
+     "precio_lista": 14.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4801070-300-300/image-4a6fbe7fbac14caf90cb2d81a815bd07.jpg"
+  },
+  "10012396": {
+   "nombre": "Mustela prevencion estrias frasco x 150 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "Mustela",
+   "modelo": "",
+   "url": "https://sv.siman.com/mustela-prevencion-estrias-frasco-x-150-ml-823463632/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:55:31-06:00",
+     "precio": 27.95,
+     "precio_lista": 27.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/4695916-300-300/image-a7c6d5668ee94f38986b84352d05d9b7.jpg"
   }
  }
 }

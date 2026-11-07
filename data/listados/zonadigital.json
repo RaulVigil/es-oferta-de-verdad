@@ -1,6 +1,6 @@
 {
  "comercial": "zonadigital",
- "actualizado": "2026-11-06T13:39:26-06:00",
+ "actualizado": "2026-11-06T18:09:30-06:00",
  "listados": {
   "16080": {
    "nombre": "Teclado mecanico logitech g316 x polin 8k negro 920-014183",
@@ -102245,7 +102245,7 @@
    "modelo": "LGA1700",
    "url": "https://zonadigitalsv.com/product/motherboard-msi-pro-b760m-e-ddr4-lga1700-911-7d48-027",
    "primera_vez": "2026-10-30",
-   "ultima_vez": "2026-10-31",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-30T12:00:34-06:00",
@@ -102257,6 +102257,14 @@
     },
     {
      "fecha": "2026-10-31T11:34:21-06:00",
+     "precio": 115.0,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:09:30-06:00",
      "precio": 115.0,
      "precio_lista": null,
      "disponible": true,

@@ -1,6 +1,6 @@
 {
  "comercial": "curacao",
- "actualizado": "2026-11-06T13:30:51-06:00",
+ "actualizado": "2026-11-06T17:58:36-06:00",
  "listados": {
   "465123300008": {
    "nombre": "Set de Cama Capri Matrimonial Exclusiva 2 en 1",
@@ -122394,7 +122394,7 @@
    "modelo": "HF4004W",
    "url": "https://www.lacuracaonline.com/elsalvador/freidora-de-aire-black-decker-hf4004w-4-5-l-blanco-460114300012/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -122486,6 +122486,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 92.99,
+     "precio_lista": 98.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 92.99,
      "precio_lista": 98.99,
      "disponible": true,
@@ -148232,7 +148240,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/laptop-apple-8gb-ssd-256gb-13-3-space-gray-macbook-air-464992000019/p",
    "primera_vez": "2026-10-25",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-25T17:38:40-06:00",
@@ -148324,6 +148332,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 779.0,
+     "precio_lista": 1099.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 779.0,
      "precio_lista": 1099.0,
      "disponible": false,
@@ -194790,7 +194806,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/laptop-apple-macbook-air-8gb-ssd-256gb-13-6-space-grey-467621600017/p",
    "primera_vez": "2026-10-26",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-26T12:45:32-06:00",
@@ -194874,6 +194890,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 1299.0,
+     "precio_lista": 1299.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 1299.0,
      "precio_lista": 1299.0,
      "disponible": false,
@@ -206427,7 +206451,7 @@
    "modelo": "",
    "url": "https://www.lacuracaonline.com/elsalvador/celular-apple-128-gb-6-1-negro-iphone-16-esim-468125900016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -206492,6 +206516,14 @@
      "disponible": false,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
+     "precio": 959.0,
+     "precio_lista": 1009.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/5/0/5003050141_2__1.jpg?width=300&height=300&canvas=300"
@@ -206506,7 +206538,7 @@
    "modelo": "MK2N3LZ",
    "url": "https://www.lacuracaonline.com/elsalvador/tablet-apple-3gb-256gb-10-2-gris-espacial-mk2n3lz-466724100011/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -206566,6 +206598,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 599.0,
+     "precio_lista": 599.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 599.0,
      "precio_lista": 599.0,
      "disponible": false,
@@ -207354,6 +207394,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
+     "precio": 189.0,
+     "precio_lista": 250.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/0/409962600110_1.jpg?width=300&height=300&canvas=300"
@@ -207437,6 +207485,14 @@
     {
      "fecha": "2026-11-06T13:30:51-06:00",
      "precio": 300.0,
+     "precio_lista": 300.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
+     "precio": 219.0,
      "precio_lista": 300.0,
      "disponible": true,
      "fuente": "auto",
@@ -226065,7 +226121,7 @@
    "modelo": "SMR810NZDATT",
    "url": "https://www.lacuracaonline.com/elsalvador/smartwatch-samsung-smr810nzdatt-rosado-437031300005/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -226125,6 +226181,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 245.0,
+     "precio_lista": 245.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 245.0,
      "precio_lista": 245.0,
      "disponible": false,
@@ -240673,7 +240737,7 @@
    "modelo": "NX52T3310LVA",
    "url": "https://www.lacuracaonline.com/elsalvador/estufa-samsung-nx52t3310lva-6-quemadores-456253800018/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -240733,6 +240797,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 355.0,
+     "precio_lista": 355.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 355.0,
      "precio_lista": 355.0,
      "disponible": false,
@@ -245806,7 +245878,7 @@
    "modelo": "NX52T7322LSA",
    "url": "https://www.lacuracaonline.com/elsalvador/estufa-samsung-nx52t7322lsa-5-quemadores-457156100014/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -245866,6 +245938,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 475.0,
+     "precio_lista": 475.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 475.0,
      "precio_lista": 475.0,
      "disponible": false,
@@ -263021,7 +263101,7 @@
    "modelo": "GT342MMBLANC",
    "url": "https://www.lacuracaonline.com/elsalvador/smartwatch-huawei-gt342mmblanc-1-32-blanco-460102700015/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -263081,6 +263161,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 239.0,
+     "precio_lista": 239.0,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 239.0,
      "precio_lista": 239.0,
      "disponible": false,
@@ -263100,7 +263188,7 @@
    "modelo": "IR1850",
    "url": "https://www.lacuracaonline.com/elsalvador/plancha-black-and-decker-ir1850-1200-w-rosa-460114500016/p",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:39:09-06:00",
@@ -263160,6 +263248,14 @@
     },
     {
      "fecha": "2026-11-05T14:07:32-06:00",
+     "precio": 27.99,
+     "precio_lista": 31.99,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
      "precio": 27.99,
      "precio_lista": 31.99,
      "disponible": true,
@@ -375290,7 +375386,7 @@
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/471314600000_11_1_1.jpg?width=300&height=300&canvas=300"
   },
   "471324300013": {
-   "nombre": "impresora multifuncional Epson Inkjet Wi-FiNegro L4360OFFICE3",
+   "nombre": "impresora multifuncional Epson Inkjet Wi-Fi Negro L4360OFFICE3",
    "categoria": "impresora",
    "tipo": "impresora",
    "pulgadas": null,
@@ -421973,6 +422069,29 @@
     }
    ],
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/473522400014_1_2.jpg?width=300&height=300&canvas=300"
+  },
+  "472990500011": {
+   "nombre": "Estante para Potes Decorativos Santini Hierro 1 Pz 202-2100002",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.lacuracaonline.com/elsalvador/estante-para-potes-decorativos-santini-hierro-1-pz-202-2100002-472990500011/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:36-06:00",
+     "precio": 299.99,
+     "precio_lista": 499.99,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472990500011_1.jpg?width=300&height=300&canvas=300"
   }
  }
 }

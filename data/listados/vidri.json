@@ -1,6 +1,6 @@
 {
  "comercial": "vidri",
- "actualizado": "2026-11-06T13:43:06-06:00",
+ "actualizado": "2026-11-06T18:15:02-06:00",
  "listados": {
   "445006": {
    "nombre": "Inodoro elongado blanco smart - 1 Pieza",
@@ -77219,7 +77219,7 @@
    "modelo": "33X33",
    "url": "https://www.vidri.com.sv/producto/486114/ceramica-de-piso-33x33-cm-argelia-verde-caja-133-m2.html",
    "primera_vez": "2026-10-21",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-21T17:01:00-06:00",
@@ -77348,9 +77348,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:15:02-06:00",
+     "precio": 13.2,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/486114.jpg?v=120261105"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/486114.jpg?v=120261106"
   },
   "33123": {
    "nombre": "Repisa para closet 12 Pulg x 6 Pies (30.48 Cm x 1.82 M)",
@@ -93057,7 +93065,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/23973/taladro-percutor-10-mm-3-8-pulgada-120-v----600-w.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -93122,9 +93130,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:15:02-06:00",
+     "precio": 85.45,
+     "precio_lista": 94.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/23973.jpg?v=120261105"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/23973.jpg?v=120261106"
   },
   "456911": {
    "nombre": "Taladro rotacional 10 Mm (3/8 Pulgada) 120 V - 450 W",
@@ -96013,7 +96029,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/409762/cafetera-blanca-con-filtro-permanente-12-tazas.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -96070,9 +96086,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:15:02-06:00",
+     "precio": 18.35,
+     "precio_lista": 29.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/409762_99.jpg?v=120261105"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/409762_99.jpg?v=120261106"
   },
   "177182": {
    "nombre": "Cafetera personal de 473.17 Ml color negro",
@@ -99871,7 +99895,7 @@
    "modelo": "",
    "url": "https://www.vidri.com.sv/producto/433615/plancha-antiadherente-hamilton-beach.html",
    "primera_vez": "2026-10-29",
-   "ultima_vez": "2026-11-05",
+   "ultima_vez": "2026-11-06",
    "observaciones": [
     {
      "fecha": "2026-10-29T17:50:02-06:00",
@@ -99936,9 +99960,17 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T18:15:02-06:00",
+     "precio": 23.9,
+     "precio_lista": null,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
-   "imagen": "https://www.ferreteriavidri.com/images/items/large/433615_99.jpg?v=120261105"
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/433615_99.jpg?v=120261106"
   },
   "77327": {
    "nombre": "Plancha clásica para uso en seco de 1000 W",

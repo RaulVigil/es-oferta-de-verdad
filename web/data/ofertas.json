@@ -1,5 +1,5 @@
 {
- "generado": "2026-11-06T13:45:52-06:00",
+ "generado": "2026-11-06T18:19:33-06:00",
  "fuente": "https://es-oferta-de-verdad.vercel.app",
  "metodo": "linea_base = mediana de los precios capturados en cada tienda antes del 2026-11-01. Oferta real: 10 % o más por debajo de la línea base; baja leve: entre 3 y 10 %. Precios en línea, de contado, sin envío, en USD. Solo productos disponibles.",
  "ofertas_reales": [
@@ -484,6 +484,22 @@
    "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-x306b_001_front_green_thumb_1.png"
   },
   {
+   "producto": "Galaxy Watch8 (Bluetooth, 40 mm) (SM-L320NDAALTA-1)",
+   "marca": "Samsung",
+   "categoria": "Smartwatches",
+   "tienda": "Samsung",
+   "precio": 149.0,
+   "precio_tachado": 379.0,
+   "linea_base": 259.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -42.5,
+   "veredicto": "oferta real",
+   "minimo_historico": 149.0,
+   "url_tienda": "https://shop.samsung.com/latin/cac/sv/galaxy-watch8-40mm-bluetooth-sm-l320.html",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/samsung%3ASM-L320NDAALTA-1",
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/s/m/sm-l320_000_set-cut-all_thumb_1.png"
+  },
+  {
    "producto": "Set de Cama Capri Queen Master Technology",
    "marca": "Capri",
    "categoria": "Camas y colchones",
@@ -722,6 +738,22 @@
    "url_tienda": "https://www.vidri.com.sv/producto/473190/horno-microondas-digital-negro-30-x-54-x-41-cm.html",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A473190",
    "imagen": "https://www.ferreteriavidri.com/images/items/large/473190_99.jpg?v=120261106"
+  },
+  {
+   "producto": "Cafetera blanca con filtro permanente 12 Tazas",
+   "marca": "Black+decker",
+   "categoria": "Cafeteras",
+   "tienda": "Vidrí",
+   "precio": 18.35,
+   "precio_tachado": 29.95,
+   "linea_base": 29.95,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -38.7,
+   "veredicto": "oferta real",
+   "minimo_historico": 18.35,
+   "url_tienda": "https://www.vidri.com.sv/producto/409762/cafetera-blanca-con-filtro-permanente-12-tazas.html",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A409762",
+   "imagen": "https://www.ferreteriavidri.com/images/items/large/409762_99.jpg?v=120261106"
   },
   {
    "producto": "Freidora de aire portatil crispi® 4 En 1 Verde menta",
@@ -8500,6 +8532,22 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/132227.jpg?v=120261106"
   },
   {
+   "producto": "Cocina MGS30FS1LIFSSSF-CA | Gas | 30\"",
+   "marca": null,
+   "categoria": "Cocinas y estufas",
+   "tienda": "Omnisport",
+   "precio": 339.0,
+   "precio_tachado": 470.0,
+   "linea_base": 399.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 339.0,
+   "url_tienda": "https://omnisport.com/productos/cocina-mgs30fs1lifsssf-ca-gas-30",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000013016",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ZTQYH3zKigfM4V3UnTHyXyoumstjwjtqIQaM0eJn.png"
+  },
+  {
    "producto": "Taladro rotacional 10 Mm (3/8 Pulgada) 120 V - 450 W",
    "marca": "Ronix",
    "categoria": "Taladros",
@@ -8644,6 +8692,38 @@
    "imagen": "https://www.ferreteriavidri.com/images/items/large/436316.jpg?v=120261106"
   },
   {
+   "producto": "Batidora de Inmersión FP009USA - 200W",
+   "marca": "Multilaser",
+   "categoria": "Batidoras",
+   "tienda": "Simán",
+   "precio": 18.7,
+   "precio_tachado": 22.0,
+   "linea_base": 22.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 18.7,
+   "url_tienda": "https://sv.siman.com/batidora-de-inmersion--fp009usa-823476329/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10034022",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6688933-300-300/image-2c52b9c8b4d345bc9235bdb7299948e9.jpg"
+  },
+  {
+   "producto": "Mouse Warrior Gunter 6400 DPI — MOUSE WARRIOR GUNTER 6400DPI RAINBOW",
+   "marca": "Multilaser",
+   "categoria": "Mouse",
+   "tienda": "Simán",
+   "precio": 23.8,
+   "precio_tachado": 28.0,
+   "linea_base": 28.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 23.8,
+   "url_tienda": "https://sv.siman.com/mouse-warrior-gunter-6400dpi-rainbow-823476336/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10034029",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6688950-300-300/image-9afff70891d144289285aba054631d96.jpg"
+  },
+  {
    "producto": "Cafetera Multilaser 15 Tazas con Filtro Permanente BE041USA",
    "marca": "Multilaser",
    "categoria": "Cafeteras",
@@ -8658,6 +8738,22 @@
    "url_tienda": "https://sv.siman.com/cafetera-multilaser-15-tazas-con-filtro-permanente-be041usa-823489368/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10060484",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8012554-300-300/image-52270ac57d0d478c982927e9d148f4d7.jpg"
+  },
+  {
+   "producto": "Kit Secadora y Plancha para Cabello Multilaser — KIT SECADORA Y PLANCHA PARA CABELLO EB150USA",
+   "marca": "Multilaser",
+   "categoria": "Secadoras de pelo, alisadoras y rasuradoras",
+   "tienda": "Simán",
+   "precio": 34.0,
+   "precio_tachado": 40.0,
+   "linea_base": 40.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 34.0,
+   "url_tienda": "https://sv.siman.com/kit-secadora-y-plancha-para-cabello-823484058/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10042632",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/7240944-300-300/image-bf02edf9b9164040a4012f7d6a0e1d11.jpg"
   },
   {
    "producto": "Ventilador de techo blanco para uso interior — Ventilador de techo para uso interior",
@@ -8818,6 +8914,22 @@
    "url_tienda": "https://www.vidri.com.sv/producto/483209/ventilador-portatil-con-nebulizador-color-negro.html",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/vidri%3A483209",
    "imagen": "https://www.ferreteriavidri.com/images/items/large/483209_99.jpg?v=120261106"
+  },
+  {
+   "producto": "Celular Smartphone M23 Pro 128 GB 8 GB RAM Pantalla 6.5\" Snapdragon 750G Rendimiento eficiente Cámara Posterior 50 MP — M23 Pro 128GB / 8GB RAM / Negro",
+   "marca": "Multilaser",
+   "categoria": "Celulares",
+   "tienda": "Simán",
+   "precio": 148.75,
+   "precio_tachado": 175.0,
+   "linea_base": 175.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -15.0,
+   "veredicto": "oferta real",
+   "minimo_historico": 148.75,
+   "url_tienda": "https://sv.siman.com/celular-smartphone-m23-pro-823475046/p",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10029770",
+   "imagen": "https://siman.vteximg.com.br/arquivos/ids/6716791-300-300/TecnoAvance-M23-PRO-BLACK_FA.jpg"
   },
   {
    "producto": "Aspiradora Robot Multilaser Hydra 3 en 1 HO314 45W Bivolt",
@@ -9730,6 +9842,22 @@
    "url_tienda": "https://sv.siman.com/audifonos-bt-on-ear-soundgear-clips-cafe-105229106/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8947683",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8048152-300-300/105229104.jpg"
+  },
+  {
+   "producto": "75\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026) (UN75M70HAPXPA)",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Samsung",
+   "precio": 829.0,
+   "precio_tachado": 1099.0,
+   "linea_base": 949.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -12.6,
+   "veredicto": "oferta real",
+   "minimo_historico": 829.0,
+   "url_tienda": "https://shop.samsung.com/latin/cac/sv/75-mini-led-m70haf-4k-vision-ai-smart-tv.html",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/samsung%3AUN75M70HAPXPA",
+   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65m70hafxza_001_front_titan-black_thumb.png"
   },
   {
    "producto": "Smartwatch Argom Skei C70 ARG-WT-6070BK — Reloj Skei C70 ARG-WT-6070BK",
@@ -10724,6 +10852,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8202765-300-300/420765400158-1.jpg"
   },
   {
+   "producto": "4K TV UN75U8000 | 75\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 749.0,
+   "precio_tachado": 1135.0,
+   "linea_base": 849.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -11.8,
+   "veredicto": "oferta real",
+   "minimo_historico": 749.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-un75u8000-75",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000012113",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
+  },
+  {
    "producto": "Pantalla Samsung The Frame 55\" (139.7 cm) QLED UHD 4K HDR10+ QN55LS03FAPXPA — Pantalla Samsung QLED 2025 Smart 55\" (139.7 cm) The Frame UHD/4K Art Mode Vision AI //  QN55LS03FAPXPA",
    "marca": "Samsung",
    "categoria": "TV",
@@ -11682,6 +11826,22 @@
    "url_tienda": "https://sv.siman.com/refrigeradora-top-freezer-326-l-11-pcu-c-dispensador-acero-inox-105277023/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A9004500",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8306393-300-300/105277023-1.jpg"
+  },
+  {
+   "producto": "4K TV MINILED  UN65M70H | 65\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 589.0,
+   "precio_tachado": 885.0,
+   "linea_base": 659.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -10.6,
+   "veredicto": "oferta real",
+   "minimo_historico": 589.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-miniled-un65m70h-65",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000014117",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/vCuAD0vBy0pfXYv4bGqMfabaQuwGM8rX8eyCyUcU.png"
   },
   {
    "producto": "Smartwatch Xiaomi S4 Mini 1.32\" Dorado",
@@ -12898,22 +13058,6 @@
    "url_tienda": "https://sv.siman.com/reloj-skeiwatch-para-niños-k10-823487608/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A10054447",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7775646-300-300/image-e2985466b75e4bffbb5b28f712bae5fd.jpg"
-  },
-  {
-   "producto": "Cocina MGS30FS1LIFSSSF-CA | Gas | 30\"",
-   "marca": null,
-   "categoria": "Cocinas y estufas",
-   "tienda": "Omnisport",
-   "precio": 359.0,
-   "precio_tachado": 470.0,
-   "linea_base": 399.0,
-   "precios_en_linea_base": 3,
-   "variacion_vs_base_pct": -10.0,
-   "veredicto": "oferta real",
-   "minimo_historico": 359.0,
-   "url_tienda": "https://omnisport.com/productos/cocina-mgs30fs1lifsssf-ca-gas-30",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000013016",
-   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/ZTQYH3zKigfM4V3UnTHyXyoumstjwjtqIQaM0eJn.png"
   },
   {
    "producto": "Pantalla Samsung 50\" (127 cm) Mini LED UHD 4K HDR10+ UN50M70HAPXPA — TV MINI LED SMART 127 cm (50\") 4K",
@@ -14196,6 +14340,22 @@
    "url_tienda": "https://www.walmart.com.sv/celular-redmi-note-17-6gb-256gb-sv9750-5-7/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/walmart%3A128159",
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/955837-300-300/M-5_walmartsv_ACQrOgENVM_128179_01.jpg"
+  },
+  {
+   "producto": "2K TV QLED 50Q4S | 50\"",
+   "marca": "Hisense",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 309.0,
+   "precio_tachado": 385.0,
+   "linea_base": 339.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -8.8,
+   "veredicto": "baja leve",
+   "minimo_historico": 309.0,
+   "url_tienda": "https://omnisport.com/productos/2k-tv-qled-50q4s-50",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000014061",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/fxzVAVBbA06oObs3bdRb79WPVbMiwtlgBNaBiXAF.jpeg"
   },
   {
    "producto": "Samsung Galaxy Tab S12+ Wi-Fi de 256 GB con 12 GB de RAM gris — TABLET DE 30.48 cm (12\") GALAXY TAB S12 PLUS 12GB RAM - 256GB ROM GRIS",
@@ -18790,22 +18950,6 @@
    "imagen": "https://www.radioshackla.com/media/catalog/product/4/7/471107600019_1.jpg?width=300&height=300&canvas=300"
   },
   {
-   "producto": "2K TV QLED 50Q4S | 50\"",
-   "marca": "Hisense",
-   "categoria": "TV",
-   "tienda": "Omnisport",
-   "precio": 319.0,
-   "precio_tachado": 385.0,
-   "linea_base": 339.0,
-   "precios_en_linea_base": 12,
-   "variacion_vs_base_pct": -5.9,
-   "veredicto": "baja leve",
-   "minimo_historico": 309.0,
-   "url_tienda": "https://omnisport.com/productos/2k-tv-qled-50q4s-50",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000014061",
-   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/fxzVAVBbA06oObs3bdRb79WPVbMiwtlgBNaBiXAF.jpeg"
-  },
-  {
    "producto": "Galaxy A37 5G 256GB  (SM-A376BDGKGTO-1)",
    "marca": "Samsung",
    "categoria": "Celulares",
@@ -19494,6 +19638,22 @@
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472357700016_1.jpg?width=300&height=300&canvas=300"
   },
   {
+   "producto": "4K TV UN50U8000 | 50\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 349.0,
+   "precio_tachado": 555.0,
+   "linea_base": 369.0,
+   "precios_en_linea_base": 12,
+   "variacion_vs_base_pct": -5.4,
+   "veredicto": "baja leve",
+   "minimo_historico": 349.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-un50u8000-50",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000012109",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
+  },
+  {
    "producto": "Pantalla Samsung 50\" LED 4K UHD UN50U8000HPX",
    "marca": "Samsung",
    "categoria": "TV",
@@ -19620,6 +19780,22 @@
    "url_tienda": "https://sv.siman.com/colchon-semimatrimonial-804318/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A2021473",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/371059-300-300/exclusiva-base-normal-colchon-_-grande-1.jpg"
+  },
+  {
+   "producto": "4K TV UN70U8000 | 70\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 699.0,
+   "precio_tachado": 1030.0,
+   "linea_base": 739.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -5.4,
+   "veredicto": "baja leve",
+   "minimo_historico": 699.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-un70u8000-70",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000012112",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
   },
   {
    "producto": "Cerámica para piso 51 X 51 Cm patagonia fd ex blanco",
@@ -19860,22 +20036,6 @@
    "url_tienda": "https://www.almacenestropigas.com.sv/xiaomi-17t-8-gb-512-gb-negro-472655300017/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/tropigas%3A472655300017",
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/7/472655300017_1_.jpg?width=300&height=300&canvas=300"
-  },
-  {
-   "producto": "75\" Mini LED M70H 4K Samsung Vision AI Smart TV (2026) (UN75M70HAPXPA)",
-   "marca": "Samsung",
-   "categoria": "TV",
-   "tienda": "Samsung",
-   "precio": 899.0,
-   "precio_tachado": 1099.0,
-   "linea_base": 949.0,
-   "precios_en_linea_base": 5,
-   "variacion_vs_base_pct": -5.3,
-   "veredicto": "baja leve",
-   "minimo_historico": 899.0,
-   "url_tienda": "https://shop.samsung.com/latin/cac/sv/75-mini-led-m70haf-4k-vision-ai-smart-tv.html",
-   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/samsung%3AUN75M70HAPXPA",
-   "imagen": "https://shop.samsung.com/latin/cac/pub/media/catalog/product/cache/395d8f448ba5285f72d9917365a0b07e/u/n/un65m70hafxza_001_front_titan-black_thumb.png"
   },
   {
    "producto": "Lavasecadora Samsung 20 kg/12 kg carga frontal WD20T6300GP/AX",
@@ -21062,6 +21222,22 @@
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/8512779-300-300/105366510_6.jpg"
   },
   {
+   "producto": "4K TV QLED 85Q6Q | 85\"",
+   "marca": "Hisense",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 1049.0,
+   "precio_tachado": 1430.0,
+   "linea_base": 1099.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -4.5,
+   "veredicto": "baja leve",
+   "minimo_historico": 1049.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-qled-85q6q-85",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000014011",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Vkf8Wf6R7yRCEiGA1boutuSZeLPX8a5oOI1yG6H9.jpeg"
+  },
+  {
    "producto": "Pantalla Hisense 85\" (215.9 cm) QLED UHD 4K HDR10 85Q6QV — TV QLED SMART 85\" (215.9 cm) 4K/ VIDAA",
    "marca": "Hisense",
    "categoria": "TV",
@@ -21396,6 +21572,22 @@
    "url_tienda": "https://www.lacuracaonline.com/elsalvador/televisor-tcl-43s5lr-roku-tv-qled-43-fhd-472540800011/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/curacao%3A472540800011",
    "imagen": "https://www.lacuracaonline.com/media/catalog/product/4/7/472540800011_4.jpg?width=300&height=300&canvas=300"
+  },
+  {
+   "producto": "Cocina MGS24FS1BIABG-CA | Gas | 24\"",
+   "marca": null,
+   "categoria": "Cocinas y estufas",
+   "tienda": "Omnisport",
+   "precio": 219.0,
+   "precio_tachado": 315.0,
+   "linea_base": 229.0,
+   "precios_en_linea_base": 3,
+   "variacion_vs_base_pct": -4.4,
+   "veredicto": "baja leve",
+   "minimo_historico": 219.0,
+   "url_tienda": "https://omnisport.com/productos/cocina-mgs24fs1biabg-ca-gas-24",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000013009",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/4RKm2kJvCYjYgCszbECjC6uAJ79FAo1OalVJZjqJ.jpeg"
   },
   {
    "producto": "Pantalla TCL QLED 43\" FHD 43S5LR",
@@ -22756,6 +22948,22 @@
    "url_tienda": "https://sv.siman.com/refrigeradora-top-mount-13pcu-silver-c-dispensador-104998971/p",
    "url_historial": "https://es-oferta-de-verdad.vercel.app/#/siman%3A8623229",
    "imagen": "https://siman.vteximg.com.br/arquivos/ids/7203698-300-300/104998971-1.jpg"
+  },
+  {
+   "producto": "4K TV UN65U8000 | 65\"",
+   "marca": "Samsung",
+   "categoria": "TV",
+   "tienda": "Omnisport",
+   "precio": 549.0,
+   "precio_tachado": 840.0,
+   "linea_base": 569.0,
+   "precios_en_linea_base": 5,
+   "variacion_vs_base_pct": -3.5,
+   "veredicto": "baja leve",
+   "minimo_historico": 549.0,
+   "url_tienda": "https://omnisport.com/productos/4k-tv-un65u8000-65",
+   "url_historial": "https://es-oferta-de-verdad.vercel.app/#/omnisport%3A00000012111",
+   "imagen": "https://buketomnisportpweb.s3.us-east-2.amazonaws.com/products-thumbs/Adz1wIFrAWTgusuml2XPP7b7wO20TvGFQdNookGA.jpeg"
   },
   {
    "producto": "Pantalla QLED Smart 65\" (165.1 cm) UHD 4K Roku RCA RC65QL — TV QLED SMART 165.1 cm (65\") UHD/4K ROKU",

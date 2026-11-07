@@ -1,6 +1,6 @@
 {
  "comercial": "tropigas",
- "actualizado": "2026-11-06T13:31:27-06:00",
+ "actualizado": "2026-11-06T17:59:16-06:00",
  "listados": {
   "400889300107": {
    "nombre": "Set De Cama Indufoam Individual Triple Crown Ortopédico",
@@ -867,6 +867,14 @@
      "disponible": true,
      "fuente": "auto",
      "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:59:16-06:00",
+     "precio": 189.0,
+     "precio_lista": 250.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
     }
    ],
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/0/409962600110_1.jpg?width=300&height=300&canvas=300"
@@ -942,6 +950,14 @@
     {
      "fecha": "2026-11-06T13:31:27-06:00",
      "precio": 300.0,
+     "precio_lista": 300.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    },
+    {
+     "fecha": "2026-11-06T17:59:16-06:00",
+     "precio": 219.0,
      "precio_lista": 300.0,
      "disponible": true,
      "fuente": "auto",
@@ -277493,7 +277509,7 @@
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/7/471323000013_1.jpg?width=300&height=300&canvas=300"
   },
   "471324300013": {
-   "nombre": "impresora multifuncional Epson Inkjet Wi-FiNegro L4360OFFICE3",
+   "nombre": "impresora multifuncional Epson Inkjet Wi-Fi Negro L4360OFFICE3",
    "categoria": "impresora",
    "tipo": "impresora",
    "pulgadas": null,
@@ -318790,6 +318806,29 @@
     }
    ],
    "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/7/473522400014_1_2.jpg?width=300&height=300&canvas=300"
+  },
+  "472990500011": {
+   "nombre": "Estante para Potes Decorativos Santini Hierro 1 Pz 202-2100002",
+   "categoria": "repisa",
+   "tipo": "repisa",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "",
+   "modelo": "",
+   "url": "https://www.almacenestropigas.com.sv/estante-para-potes-decorativos-santini-hierro-1-pz-202-2100002-472990500011/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:59:16-06:00",
+     "precio": 499.99,
+     "precio_lista": 499.99,
+     "disponible": false,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://www.almacenestropigas.com.sv/media/catalog/product/4/7/472990500011_1.jpg?width=300&height=300&canvas=300"
   }
  }
 }

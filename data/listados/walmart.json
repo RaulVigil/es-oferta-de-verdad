@@ -1,6 +1,6 @@
 {
  "comercial": "walmart",
- "actualizado": "2026-11-06T13:30:27-06:00",
+ "actualizado": "2026-11-06T17:58:09-06:00",
  "listados": {
   "102975": {
    "nombre": "Cama Serta perfect balance firme matrimonial",
@@ -57418,7 +57418,7 @@
      "nota": ""
     }
    ],
-   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/964636-300-300/congelador-oster-os-cfmi-5001-w-145-l-horizontal-0810073473782.jpg"
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/966957-300-300/congelador-oster-os-cfmi-5001-w-145-l-horizontal-0810073473782.jpg"
   },
   "101204": {
    "nombre": "Congelador Oster OS CFMI35001W 99 L horizontal",
@@ -60105,7 +60105,7 @@
      "nota": ""
     }
    ],
-   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/964560-300-300/batidora-oster-de-mano-5-velocidades-0034264411869.webp"
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/966805-300-300/batidora-oster-de-mano-5-velocidades-0034264411869.jpg"
   },
   "75673": {
    "nombre": "Batidora manual Durabrand 5 velocidades de 150W",
@@ -65587,6 +65587,2743 @@
     }
    ],
    "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/958175-300-300/xiaomi-redmi-buds-8-pro-6932554458171.webp"
+  },
+  "116967": {
+   "nombre": "Dermatología Eucerin Aceite y Gel De Ducha Eucerin - 400 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-de-ducha-ph5-eucerin-400-ml-sv9545-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 12.4,
+     "precio_lista": 12.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/830345-300-300/gel-de-ducha-ph-5-eucerin-400-ml-4006000122069.jpg"
+  },
+  "112651": {
+   "nombre": "Crema CeraVe Alisadora Tubo - 170 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-crema-alisadora-sa-tubo-170-g-unidad-sv2931-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.3,
+     "precio_lista": 24.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/808108-300-300/cerave-crema-alisadora-sa-tubo-170-g-unidad-3337875684095.jpg"
+  },
+  "74681": {
+   "nombre": "Agua Termal La Roche Posay 150ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "150ML",
+   "url": "https://www.walmart.com.sv/bruma-de-agua-termal-marca-la-roche-posay-150ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 25.48,
+     "precio_lista": 25.48,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883350-300-300/agua-termal-la-roche-posay-150-ml-3433422404397.webp"
+  },
+  "101282": {
+   "nombre": "Bálsamo de labios Cicaplast 7.5ml La Roche Posay",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/lrp-cicaplast-labios-7-5ml-ea-s605/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 13.04,
+     "precio_lista": 13.04,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883262-300-300/balsamo-de-labios-la-roche-posay-cicaplast-7-5-ml-0000030106659.webp"
+  },
+  "116310": {
+   "nombre": "Protector solar Anthelios UV Air La Roche Posay 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/anthelios-uv-air-50-40ml-sv4308-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 31.72,
+     "precio_lista": 31.72,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883473-300-300/anthelios-uv-air-50-40-ml-3337875917810.webp"
+  },
+  "66980": {
+   "nombre": "Gel Limpiador Effaclar pieles mixtas a grasas 400ml La Roche Posay",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "400ML",
+   "url": "https://www.walmart.com.sv/limpiador-facial-purificante-la-roche-posay-effaclar-en-gel-400-ml-s381/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 38.5,
+     "precio_lista": 38.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883253-300-300/gel-limpiador-la-roche-posay-effaclar-m-pieles-mixtas-a-grasas-400-ml-3337872411991.webp"
+  },
+  "66981": {
+   "nombre": "Limpiador Hidratante Lipikar Syndet AP+ La Roche Posay 400 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/lipikar-syndet-ap-400ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 34.21,
+     "precio_lista": 34.21,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883267-300-300/limpiador-hidratante-la-roche-posay-lipikar-syndet-ap-400-ml-3337875537315.webp"
+  },
+  "116337": {
+   "nombre": "Protector solar La Roche-Posay Anthelios Family Spray SPF50 - 300 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "SPF50",
+   "url": "https://www.walmart.com.sv/anthelios-family-spray-fps50-300ml-sv2870-5-7/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 47.09,
+     "precio_lista": 47.09,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/834585-300-300/anthelios-family-spray-fps-50-300-ml-3337875799348.webp"
+  },
+  "101376": {
+   "nombre": "Gel Limpiador Effaclar +50% pieles mixtas a grasas La Roche Posay 300 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/lrp-effaclar-gel-300ml-ea-s138/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 30.4,
+     "precio_lista": 30.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/838405-300-300/gel-limpiador-la-roche-posay-effaclar-m-pieles-mixtas-a-grasas-300-ml-3337875549486.webp"
+  },
+  "66982": {
+   "nombre": "Protector Solar Facial Anthelios Oil Control Gel Crema UVmune 400 spf 50+ La Roche Posay 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protector-solar-la-roche-posay-anthelios-xl-anti-brillo-fps-50-50-ml-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.1,
+     "precio_lista": 35.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883274-300-300/protector-solar-facial-anthelios-la-roche-posay-oil-control-gel-crema-la-roche-posay-uv-mune-400-spf-50-50-ml-3337875546430.webp"
+  },
+  "116314": {
+   "nombre": "Protector solar corporal niños Anthelios Dermo-pediatrics Spray UVmune 400 spf 50+ La Roche Posay 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "LA ROCHE-POSAY",
+   "modelo": "200ML",
+   "url": "https://www.walmart.com.sv/anthelios-dermopediatrics-200-ml-sv8578-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 46.72,
+     "precio_lista": 46.72,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/833127-300-300/anthelios-dermopediatrics-200-ml-3337875886055.webp"
+  },
+  "101352": {
+   "nombre": "Vichy Agua Termal Volcánica 150ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "150ML",
+   "url": "https://www.walmart.com.sv/vichy-agua-thermal-150-ml-ea-s746/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.06,
+     "precio_lista": 23.06,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/842928-300-300/agua-termal-vichy-volcanica-150-ml-3337871308612.webp"
+  },
+  "101356": {
+   "nombre": "Vichy Desodorante Transpiración Intensa 48h 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-desodorante-antitran-48h-50ml-ea-s745/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 22.0,
+     "precio_lista": 22.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883536-300-300/desodorante-vichy-transpiracion-intensa-48-h-50-ml-3337871320300.webp"
+  },
+  "116289": {
+   "nombre": "Vichy Capital Soleil UV Clear spf 50+ protector solar 40ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-cs-uvclear-antimperfeccion-40ml-sv3550-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 32.3,
+     "precio_lista": 32.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/833136-300-300/vichy-cs-uvclear-antimperfeccion-40-ml-3337875837149.webp"
+  },
+  "116296": {
+   "nombre": "Vichy Minéral 89  Booster Sérum hidratante y rellenador refill 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-mineral-89-50ml-sv7149-5-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 44.85,
+     "precio_lista": 44.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/831468-300-300/vichy-mineral-89-50-ml-3337875543248.webp"
+  },
+  "101359": {
+   "nombre": "Vichy Desodorante Stress Resist 72h 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-desodorante-stress-resist-50ml-ea-s470/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 21.0,
+     "precio_lista": 21.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883551-300-300/desodorante-vichy-stress-resist-72-h-50-ml-3337871324001.webp"
+  },
+  "101440": {
+   "nombre": "Vichy Shampoo Anticaspa Dercos DS para cabello graso 390ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "390ML",
+   "url": "https://www.walmart.com.sv/vichy-anti-caspa-sh-390-ml-ea-s137/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 41.53,
+     "precio_lista": 41.53,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883554-300-300/vichy-shampoo-anticaspa-dercos-ds-para-cabello-graso-200-ml-3337871331290.webp"
+  },
+  "101423": {
+   "nombre": "Vichy Shampoo Anticaída Dercos Energy+ 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "200ML",
+   "url": "https://www.walmart.com.sv/vichy-dercos-shampoo-energizant-200ml-ea-s251/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 30.0,
+     "precio_lista": 30.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883516-300-300/shampoo-vichy-dercos-energizante-200-ml-3337871311292.webp"
+  },
+  "101394": {
+   "nombre": "Vichy Normaderm Gel de limpieza purificante 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "200ML",
+   "url": "https://www.walmart.com.sv/vichy-normaderm-probio-serum-30ml-ea-s887/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 42.16,
+     "precio_lista": 42.16,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883508-300-300/serum-antimperfecciones-vichy-normaderm-probio-bha-50-ml-3337875791984.webp"
+  },
+  "67213": {
+   "nombre": "Vichy Normaderm Crema doble corrección Antimperfecciones 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-normaderm-phytosolutions-trat-50ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 40.49,
+     "precio_lista": 40.49,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883359-300-300/crema-doble-correccion-vichy-normaderm-antimperfecciones-50-ml-3337875660617.webp"
+  },
+  "101406": {
+   "nombre": "Vichy Mineral 89 crema hidratante 72hrs hidratación intensa 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-mineral-89-crema-50ml-ea-s603-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 32.6,
+     "precio_lista": 32.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/866732-300-300/vichy-mineral-89-crema-hidratante-72-hrs-hidratacion-intensa-50-ml-3337875831888.webp"
+  },
+  "70262": {
+   "nombre": "Vichy Capital Soleil Matificante 3 en 1 spf50+ Antimanchas 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "SPF50",
+   "url": "https://www.walmart.com.sv/protector-solar-vichy-capital-soleil-matificante-fps-50-50-ml-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 38.2,
+     "precio_lista": 38.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883489-300-300/matificante-vichy-capital-soleil-3-en-1-spf-50-antimanchas-50-ml-3337875695176.webp"
+  },
+  "70261": {
+   "nombre": "Vichy Capital Soleil Antimanchas 3 en 1 spf50+ protector solar 50ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "SPF50",
+   "url": "https://www.walmart.com.sv/protector-solar-vichy-capital-soleil-antimanchas-fps-50-50-ml-7-5-8-0-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 44.03,
+     "precio_lista": 44.03,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883482-300-300/protector-solar-antimanchas-vichy-capital-soleil-3-en-1-spf-50-50-ml-3337875419802.webp"
+  },
+  "67215": {
+   "nombre": "Vichy Sérum reparador Mineral 89 con fracciones probióticas 30ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/vichy-mineral-89-probiotic-fraction-30ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 36.2,
+     "precio_lista": 36.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883497-300-300/vichy-serum-reparador-mineral-89-con-fracciones-probioticas-30-ml-3337875762908.webp"
+  },
+  "101429": {
+   "nombre": "Vichy Capital Soleil Leche protectora solar hidratante invisible spf 50+ 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "VICHY",
+   "modelo": "200ML",
+   "url": "https://www.walmart.com.sv/vichy-capital-soleil-leche-300ml-ea-s252/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 38.2,
+     "precio_lista": 38.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883523-300-300/leche-protectora-solar-capital-soleil-hidratante-e-invisible-con-spf-50-200-ml-3337871322694.webp"
+  },
+  "112634": {
+   "nombre": "Crema Hidratante Cerave - 454 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-hidratant-piel-seca-tarro-454-g-unidad-sv2999-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 31.5,
+     "precio_lista": 31.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883433-300-300/crema-hidratant-piel-seca-tarro-454-g-unidad-3337875597388.webp"
+  },
+  "112639": {
+   "nombre": "Loción Hidratante Cerave - 473 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-locio-hidra-p-normal-a-seca-473ml-sv832-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 31.5,
+     "precio_lista": 31.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/854288-300-300/cerave-locio-hidra-p-normal-a-seca-473-ml-3337875597395.webp"
+  },
+  "112613": {
+   "nombre": "Limpiadora Cerave Hidratante - 236 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-limpiador-hidratante-236-ml-unidad-sv3707-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.4,
+     "precio_lista": 23.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883392-300-300/cerave-limpiador-hidratante-236-ml-unidad-3337875597180.webp"
+  },
+  "112648": {
+   "nombre": "Crema Cerave Hidratante - 170 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-crema-hidratante-tubo-170-g-unidad-sv5479-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 19.8,
+     "precio_lista": 19.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883455-300-300/cerave-crema-hidratante-tubo-170-g-unidad-3337875598996.webp"
+  },
+  "112618": {
+   "nombre": "Gel Limpiador Cerave Espumoso -236 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-gel-limpiador-espumoso-236-ml-unidad-sv3034-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.4,
+     "precio_lista": 23.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883300-300-300/cerave-gel-limpiador-espumoso-236-ml-unidad-3337875597197.webp"
+  },
+  "112627": {
+   "nombre": "Crema reparadora Cerave de manos -50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-crema-reparadora-de-manos-50ml-sv6002-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 10.8,
+     "precio_lista": 10.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883411-300-300/cerave-crema-reparadora-de-manos-50-ml-3337875597319.webp"
+  },
+  "112644": {
+   "nombre": "Loción Hidratante Cerave de rostro PM  -52 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-locion-hidra-de-rostro-pm52-ml-sv9069-5-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.3,
+     "precio_lista": 24.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883444-300-300/cerave-locion-hidra-de-rostro-pm-52-ml-3337875597449.webp"
+  },
+  "115317": {
+   "nombre": "Loción Hidratante CeraVe - 473 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crv-refill-locion-hidratante-473ml-sv5172-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.3,
+     "precio_lista": 24.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/848808-300-300/crv-refill-locion-hidratante-473-ml-3337875905633.jpg"
+  },
+  "116279": {
+   "nombre": "Loción Cerave Hidratante Intensiva - 236 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-locion-hidratante-intensiva-236ml-sv3262-5-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 28.8,
+     "precio_lista": 28.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/835174-300-300/cerave-locion-hidratante-intensiva-236-ml-3337875904292.jpg"
+  },
+  "112654": {
+   "nombre": "Limpiador Cerave Anti-rugosidades - 236 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-limpiado-antirrugosidad-236-ml-unidad-sv1144-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 28.8,
+     "precio_lista": 28.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883467-300-300/cerave-limpiado-antirrugosidad-236-ml-unidad-3337875684118.webp"
+  },
+  "112616": {
+   "nombre": "Gel-crema CeraVe Oil Control  -1.75oz",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-am-facial-oil-control-52ml-sv1720-5-7/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.3,
+     "precio_lista": 24.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883386-300-300/cerave-am-facial-oil-control-52-ml-3337875909525.webp"
+  },
+  "112631": {
+   "nombre": "Gel Limpiador CeraVe Espumoso - 473 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-gel-limpiador-espumoso-473-ml-unidad-sv3788-5-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 31.5,
+     "precio_lista": 31.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883421-300-300/cerave-gel-limpiador-espumoso-473-ml-unidad-3337875597357.webp"
+  },
+  "112623": {
+   "nombre": "Crema reparadora para el contorno de ojos Cerave 14 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-crema-repara-contorno-de-ojos14ml-sv4802-5-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 20.5,
+     "precio_lista": 20.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883401-300-300/cerave-crema-repara-contorno-de-ojos-14-ml-3337875597272.webp"
+  },
+  "115316": {
+   "nombre": "Gel Limpiador  CeraVe Espumoso Refill - 473 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crv-refill-gel-limpiador-espumoso-473ml-sv6965-5-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.3,
+     "precio_lista": 24.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/826716-300-300/crv-refill-gel-limpiador-espumoso-473-ml-3337875905596.jpg"
+  },
+  "112626": {
+   "nombre": "Serum Cerave hidratante con Ácido Hialurónico - 30 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-am-facial-ahialuronico-30ml-sv6064-5-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 27.1,
+     "precio_lista": 27.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883374-300-300/cerave-am-facial-a-hialuronico-30-ml-3606000560833.webp"
+  },
+  "112658": {
+   "nombre": "Loción Hidratante de rostro CeraVe spf 30 - 52 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "CERAVE",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/cerave-crem-hidrat-facial-30spf-52-ml-unidad-sv1445-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.3,
+     "precio_lista": 24.3,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/883337-300-300/cerave-crem-hidrat-facial-30-spf-52-ml-unidad-3337875840620.webp"
+  },
+  "108604": {
+   "nombre": "Eucerin Epicelline Serum 30Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-epicelline-serum-30ml-ea-s8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 47.15,
+     "precio_lista": 47.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804157-300-300/eucerin-epicelline-serum-30-ml-ea-4006000077000.webp"
+  },
+  "112642": {
+   "nombre": "Eucerin Pomada Aquaphor 80g Unidad",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-pomada-aquaphor-80g-unidad-sv4967-5-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 11.65,
+     "precio_lista": 11.65,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/788944-300-300/112683_01.jpg"
+  },
+  "108592": {
+   "nombre": "Serum Dermopure Eucerin 40Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/serum-dermopure-eucerin-40ml-ea-s16/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 28.95,
+     "precio_lista": 28.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803694-300-300/serum-dermopure-eucerin-40-ml-ea-4005900873347.webp"
+  },
+  "108603": {
+   "nombre": "Aquaphor Labios Eucerin 10Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/aquaphor-labios-eucerin-10ml-ea-s5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 7.1,
+     "precio_lista": 8.38,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/747036-300-300/94910_01.jpg"
+  },
+  "112619": {
+   "nombre": "Gel Limpiador Eucerin Antipigment - 400ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "400ML",
+   "url": "https://www.walmart.com.sv/gel-limp-exfolian-anti-pig-eucerin-400ml-sv9116-5-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 40.6,
+     "precio_lista": 40.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/808117-300-300/gel-limp-exfolian-anti-pig-eucerin-400-ml-4005800346576.jpg"
+  },
+  "108596": {
+   "nombre": "Serum Ultralight Antipim Eucerin 30Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/serum-ultralight-antipim-eucerin-30ml-ea-s1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.98,
+     "precio_lista": 35.98,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803500-300-300/serum-ultralight-antipim-eucerin-30-ml-ea-4005900903273.webp"
+  },
+  "108602": {
+   "nombre": "Pomada Aquaphor Eucerin Tubo 55Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/pomada-aquaphor-eucerin-tubo-55ml-ea-s4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 7.6,
+     "precio_lista": 8.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/746992-300-300/89146_01.jpg"
+  },
+  "108593": {
+   "nombre": "Eucerin Antipigment Contorno Ojo 15Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-antipigment-contorno-ojo-15ml-ea-s17/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 44.65,
+     "precio_lista": 44.65,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/805970-300-300/eucerin-antipigment-contorno-ojo-15-ml-ea-4005900998385.webp"
+  },
+  "108600": {
+   "nombre": "Eucerin Antipig Crema Corporal 200Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "200ML",
+   "url": "https://www.walmart.com.sv/eucerin-antipig-crema-corporal-200ml-ea-s13/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 27.15,
+     "precio_lista": 27.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804216-300-300/eucerin-antipig-crema-corporal-200-ml-ea-4006000014395.webp"
+  },
+  "108605": {
+   "nombre": "Gel Limpiador Dermopure Eucerin 400Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "400ML",
+   "url": "https://www.walmart.com.sv/gel-limpiador-dermopure-eucerin-400ml-ea-s18/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 30.65,
+     "precio_lista": 30.65,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/814160-300-300/gel-limpiador-dermopure-eucerin-400-ml-ea-4006000075693.webp"
+  },
+  "108601": {
+   "nombre": "Eucerin Antipigment Serum Cuerpo 75Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-antipigment-serum-cuerpo-75ml-ea-s6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 33.45,
+     "precio_lista": 33.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/814177-300-300/eucerin-antipigment-serum-cuerpo-75-ml-ea-4006000014401.webp"
+  },
+  "66993": {
+   "nombre": "Exfoliante Eucerin dermopure - 100 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-dermopure-exfoliante-100ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804222-300-300/eucerin-dermopure-exfoliante-100-ml-4005900436993.webp"
+  },
+  "66634": {
+   "nombre": "Crema Eucerin Contorno De Ojos Hyaluron-Filler",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-hyaluron-filler-crema-ojos-15ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 40.1,
+     "precio_lista": 40.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804270-300-300/crema-eucerin-contorno-de-ojos-hyaluron-filler-4005800057670.webp"
+  },
+  "125201": {
+   "nombre": "Eucerin Fps50 Protec Solar 50ml Tmedio",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "FPS50",
+   "url": "https://www.walmart.com.sv/eucerin-fps50-protec-solar-50ml-tmedio-sv5702-5-7/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.05,
+     "precio_lista": 35.05,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/902810-300-300/M-5_walmartsv_xLpUQxtcGT_70188_5.jpg"
+  },
+  "108599": {
+   "nombre": "Gel Limpiador Dermopure Eucerin 150Ml Ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "150ML",
+   "url": "https://www.walmart.com.sv/gel-limpiador-dermopure-eucerin-150ml-ea-s2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 17.62,
+     "precio_lista": 17.62,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803512-300-300/gel-limpiador-dermopure-eucerin-150-ml-ea-4006000028828.webp"
+  },
+  "43315": {
+   "nombre": "Gel limpiador Eucerin dermopure - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-limpiador-facial-eucerin-dermopure-oil-control-200-ml-s424/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 25.85,
+     "precio_lista": 25.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803240-300-300/gel-limpiador-facial-eucerin-dermopure-oil-control-200-ml-4005900436986.webp"
+  },
+  "66639": {
+   "nombre": "Crema Corporal Eucerin Baby - 400 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-baby-crema-corp-piel-sensi-400ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 28.5,
+     "precio_lista": 28.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803014-300-300/crema-corporal-eucerin-baby-400-ml-4005900259639.webp"
+  },
+  "108589": {
+   "nombre": "Sérum Eucerin antipigmento dual - 30 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/serumdual-antipigm-facil-eucerin-30ml-ea-s15/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 48.74,
+     "precio_lista": 48.74,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804171-300-300/serumdual-antipigm-facil-eucerin-30-ml-ea-7319470066786.webp"
+  },
+  "66641": {
+   "nombre": "Protector solar Eucerin facial - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protector-solar-facial-eucerin-50-ml-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 34.05,
+     "precio_lista": 34.05,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804210-300-300/protector-solar-facial-eucerin-50-ml-4005900265227.webp"
+  },
+  "43314": {
+   "nombre": "Fluído facial Eucerin Dermopure - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-dermopure-matificante-50ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 28.95,
+     "precio_lista": 28.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803374-300-300/hidratante-facial-eucerin-dermopure-oil-control-matificante-50-ml-4005900436962.webp"
+  },
+  "112609": {
+   "nombre": "Bloqueador Eucerin toque seco corporal - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protect-solar-toque-seco-corp-200ml-unidad-sv406-5-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 29.62,
+     "precio_lista": 29.62,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804180-300-300/protect-solar-toque-seco-corp-200-ml-unidad-4005800266409.webp"
+  },
+  "66640": {
+   "nombre": "Baño Y Shampoo Eucerin Baby - 400 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-baby-bano-shampoo-piel-sen-400ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 24.75,
+     "precio_lista": 24.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/802974-300-300/bano-y-shampoo-eucerin-baby-400-ml-4005900259646.webp"
+  },
+  "107203": {
+   "nombre": "Crema Corporal Eucerin Urea 10 % -400 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-corporal-eucerin-urea-10-400ml-ea/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 25.9,
+     "precio_lista": 25.9,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/814181-300-300/crema-corporal-eucerin-urea-10-400-ml-ea-4005800164361.webp"
+  },
+  "88734": {
+   "nombre": "Loción corporal Eucerin PH5 hidratante - 250 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/locion-corporal-eucerin-ph5-frasco-250ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 31.35,
+     "precio_lista": 31.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/805769-300-300/locion-corporal-eucerin-ph-5-hidratante-250-ml-4005800178368.webp"
+  },
+  "66638": {
+   "nombre": "Gel facial Eucerin ácido hialurónico - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-gel-micelar-dermatocle-150ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 16.7,
+     "precio_lista": 16.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803281-300-300/gel-limpiador-eucerin-facial-dermato-clean-200-ml-4005808583348.webp"
+  },
+  "43258": {
+   "nombre": "Crema Hyaluron Filler Eucerin Noche - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-hyaluron-noche-50ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 53.5,
+     "precio_lista": 53.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/805920-300-300/crema-hyaluron-filler-eucerin-noche-50-ml-4005800024023.webp"
+  },
+  "86202": {
+   "nombre": "Jabón Líquido Eucerin De Limpieza Suave Zona Íntima - 250ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "250ML",
+   "url": "https://www.walmart.com.sv/jabon-liquido-eucerin-limpieza-intimo-250ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 12.8,
+     "precio_lista": 12.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803523-300-300/jabon-liquido-eucerin-limpieza-intimo-250-ml-4005800630958.webp"
+  },
+  "116970": {
+   "nombre": "Protector Solar Eucerin Ultra 100 50fps - 80 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-prot-solar-ultra-100-50fps-80ml-sv6539-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 37.6,
+     "precio_lista": 37.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/844612-300-300/eucerin-prot-solar-ultra-100-50-fps-80-ml-4006000110363.webp"
+  },
+  "108597": {
+   "nombre": "Pigmento Eucerin tono medio Fps 50 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-pigmento-ctrl-tono-medio-53g-ea-s9/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804289-300-300/eucerin-pigmento-ctrl-tono-medio-53-g-ea-4005900906083.webp"
+  },
+  "108591": {
+   "nombre": "Crema facial Eucerin hyaluron filler noche - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-hyalu-filler-ultra-boosther-50ml-s12/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 30.8,
+     "precio_lista": 30.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804300-300-300/eucerin-hyalu-filler-ultra-boosther-50-ml-4005900942777.webp"
+  },
+  "101452": {
+   "nombre": "Protector solar Eucerin kids toque seco - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protector-solar-eucerin-kids-toque-seco-200-ml-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.8,
+     "precio_lista": 35.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/814166-300-300/protector-solar-eucerin-kids-toque-seco-200-ml-4005900996169.webp"
+  },
+  "59146": {
+   "nombre": "Crema facial de día Eucerin hyaluron filler - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-eucerine-hyalluron-filler-dia-fps-30-50-ml-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 53.5,
+     "precio_lista": 53.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804251-300-300/crema-eucerine-hyalluron-filler-dia-fps-30-50-ml-4005900516961.webp"
+  },
+  "66536": {
+   "nombre": "Gel facial Eucerin moisture booster hialurónico . 30 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-eucerin-hyaluron-filler-booste-30ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 29.55,
+     "precio_lista": 29.55,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803718-300-300/gel-eucerin-hyaluron-filler-booste-30-ml-4005900656063.webp"
+  },
+  "112605": {
+   "nombre": "Crema Eucerin elasticity dia FPS 30 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-hyaluron-fil-elasticity-dia-50ml-sv1715-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 56.6,
+     "precio_lista": 56.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804256-300-300/eucerin-hyaluron-fil-elasticity-dia-50-ml-4005900728807.webp"
+  },
+  "112622": {
+   "nombre": "Gel Eucerin Limpieza Exfoliante AntiPigmet - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-limp-exfolian-anti-pig-eucerin-200ml-sv3672-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 25.85,
+     "precio_lista": 25.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/808093-300-300/gel-limp-exfolian-anti-pig-eucerin-200-ml-4005800346583.jpg"
+  },
+  "66643": {
+   "nombre": "Crema facial Eucerin anti-pigmento noche - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-facial-eucerin-anti-pigmento-noche-50-ml-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 48.7,
+     "precio_lista": 48.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804186-300-300/crema-facial-eucerin-anti-pigmento-noche-50-ml-4005900559517.webp"
+  },
+  "66550": {
+   "nombre": "Crema corporal Eucerin enriquecida con ceramidas - 450 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-corporal-eucerin-enriquecida-con-ceramidas-450-ml-s708/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.5,
+     "precio_lista": 23.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803701-300-300/crema-corporal-eucerin-enriquecida-con-ceramidas-450-ml-7501054548829.webp"
+  },
+  "112584": {
+   "nombre": "Crema facial Eucerin de noche con ácido hialurónico - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-hyalu-fil-elasticity-noche-50ml-sv4670-5-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 55.6,
+     "precio_lista": 55.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/814170-300-300/eucerin-hyalu-fil-elasticity-noche-50-ml-4005900324023.webp"
+  },
+  "43303": {
+   "nombre": "Protector Solar Eucerin oil control 50 fps - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protector-solar-eucerin-facial-en-gel-toque-seco-fps-50-50-ml-4-8-6-4-1-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 34.7,
+     "precio_lista": 34.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803685-300-300/protector-solar-eucerin-facial-en-gel-toque-seco-fps-50-50-ml-4005900140906.webp"
+  },
+  "116968": {
+   "nombre": "Protector solar Eucerin facial FPS50+ tono claro - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "FPS50",
+   "url": "https://www.walmart.com.sv/eucerin-sun-hydrofluid-tono-claro-50-ml-sv213-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 29.6,
+     "precio_lista": 29.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/832251-300-300/eucerin-sun-hydrofluid-tono-claro-50-ml-4006000127026.jpg"
+  },
+  "108595": {
+   "nombre": "Sun Antipigmento Eucerin tono claro Fps 50 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-pigment-ctrl-tono-claro-53g-ea-s10/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.0,
+     "precio_lista": 35.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804236-300-300/eucerin-pigment-ctrl-tono-claro-53-g-ea-4005900902566.webp"
+  },
+  "108594": {
+   "nombre": "Loción Eucerin Micelar 3en1 DermatoClean Hyaluron - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-facial-derm-clean-lim-3en1-200ml-s7/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 15.55,
+     "precio_lista": 15.55,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804231-300-300/eucerin-facial-derm-clean-lim-3-en-1-200-ml-4005808583805.webp"
+  },
+  "84137": {
+   "nombre": "Protector solar facial Eucerin hydro fluid FPS 50 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protector-solar-facial-eucerin-hydro-fluid-fps-50-50-ml-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 34.69,
+     "precio_lista": 34.69,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803710-300-300/protector-solar-facial-eucerin-hydro-fluid-fps-50-50-ml-4005900994776.webp"
+  },
+  "66642": {
+   "nombre": "Crema facial hidratante Eucerin para dia antipigmento 30 fps - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-facial-eucerin-antipigmento-dia-fps-30-50-ml-4-4-6-6-1-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 48.7,
+     "precio_lista": 48.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804193-300-300/crema-facial-eucerin-antipigmento-dia-fps-30-50-ml-4005900559500.webp"
+  },
+  "112597": {
+   "nombre": "Crema para contorno de ojos Eucerin hyaluron filller FPS 15 - 15 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-hyalu-fil-elasticity-ojos-15ml-sv162-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 42.5,
+     "precio_lista": 42.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/804247-300-300/eucerin-hyalu-fil-elasticity-ojos-15-ml-4005900650412.webp"
+  },
+  "116971": {
+   "nombre": "Protector Solar Facial Eucerin Sun Face Hydro Fluid Tono Medium SPF 50+ - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-sun-hydrofluid-tono-medio-50-ml-sv7707-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 29.6,
+     "precio_lista": 29.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/832258-300-300/eucerin-sun-hydrofluid-tono-medio-50-ml-4006000127033.jpg"
+  },
+  "67850": {
+   "nombre": "Crema facial Eucerin con color y protección solar tono claro FPS 50 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/eucerin-sun-toque-seco-tono-claro-50ml/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.72,
+     "precio_lista": 35.72,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/803381-300-300/eucerin-sun-face-oil-control-tono-claro-50-ml-4005900839626.webp"
+  },
+  "67851": {
+   "nombre": "Crema facial Eucerin con color y protección solar tono medio FPS 50 - 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "EUCERIN",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/protector-solar-eucerin-facial-toque-seco-tono-medio-fps-50-50-ml-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 35.7,
+     "precio_lista": 35.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/805915-300-300/protector-solar-eucerin-facial-toque-seco-tono-medio-fps-50-50-ml-4005900839633.webp"
+  },
+  "123558": {
+   "nombre": "Neutrogena Remover Maquillaje 162ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "162ML",
+   "url": "https://www.walmart.com.sv/neutrogena-remover-maquillaje-162ml-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 15.75,
+     "precio_lista": 18.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/887434-300-300/M-5_walmartsv_ixObahSqzQ_123577_01.jpg"
+  },
+  "123543": {
+   "nombre": "Neutrogena Toalla Desmaquillante 25ea",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/neutrogena-toalla-desmaquillante-25ea-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 7.75,
+     "precio_lista": 7.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/893242-300-300/M-5_walmartsv_iKuAwCPAai_4128106_5.jpg"
+  },
+  "108631": {
+   "nombre": "Sérum Neutrogena hydro boost - 30 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/serum-neutrogena-hydro-boost-30-ml-7/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 29.0,
+     "precio_lista": 29.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/775539-300-300/108717_01.jpg"
+  },
+  "106698": {
+   "nombre": "Agua micelar Neutrogena hydro boost - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/agua-micelar-neutrogena-hydro-boost-200-ml-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 12.6,
+     "precio_lista": 12.6,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/775535-300-300/106856_01.jpg"
+  },
+  "109665": {
+   "nombre": "Gel hidratante Neutrogena hydro boost - 50 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-hidratante-neutrogena-hydro-boost-50-g-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.0,
+     "precio_lista": 23.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/775544-300-300/106857_01.jpg"
+  },
+  "106697": {
+   "nombre": "Gel de limpieza Neutrogena Purified Skin - 150 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/neutrogena-purified-skin-gel-limp-150-gr-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 16.0,
+     "precio_lista": 16.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/764051-300-300/106854_01.jpg"
+  },
+  "106696": {
+   "nombre": "Exfoliante Facial Neutrogena Purified Skin - 100 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/neutrogena-purified-skin-scrub-100-gr-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 16.0,
+     "precio_lista": 16.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/764039-300-300/106853_01.jpg"
+  },
+  "113307": {
+   "nombre": "Gel de limpieza Neutrogena Hydro Boost - 150 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-hidratant-d-limpieza-neutrogena150ml-sv4399-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 12.65,
+     "precio_lista": 12.65,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/822352-300-300/gel-hidratant-d-limpieza-neutrogena-150-ml-7891010257149.jpg"
+  },
+  "108634": {
+   "nombre": "Protector Facial Neutrogena piel morena Fps 70 -  40 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-facial-lubriderm-ntg-facial-ole-mrna-fps70-40-g-sv4909-5-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.55,
+     "precio_lista": 25.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/947827-300-300/M-5_walmartsv_mdxopwvDEP_4179105_5.jpg"
+  },
+  "108632": {
+   "nombre": "Protector Facial Neutrogena sin tono Fps 70 -  40 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-facial-lubriderm-neutrogena-facial-pele-ol-fps70-40g-sv1245-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 23.55,
+     "precio_lista": 25.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/769896-300-300/108715_01.jpg"
+  },
+  "106694": {
+   "nombre": "Protector solar Neutrogena Sun Fresh Fps 90 - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/neutrogena-sun-fresh-fps-90-200-ml-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 30.8,
+     "precio_lista": 30.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/764052-300-300/106855_01.jpg"
+  },
+  "108628": {
+   "nombre": "Protector solar Neutrogena Sun Fresh Fps 50 - 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "NEUTROGENA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/bloqueadores-y-bronceadores-lubriderm-neutrogena-sun-fresh-fps-50-200-ml-sv7722-5-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 26.4,
+     "precio_lista": 26.4,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/764066-300-300/108718_01.jpg"
+  },
+  "116299": {
+   "nombre": "Balsamo Universal Mustela 75ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/balsamo-universal-mustela-75ml-sv881-5-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 20.95,
+     "precio_lista": 20.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/853516-300-300/balsamo-universal-mustela-75-ml-3504105037185.jpg"
+  },
+  "116290": {
+   "nombre": "Shampoo Suave Mustela 500ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "500ML",
+   "url": "https://www.walmart.com.sv/shampoo-suave-mustela-500ml-sv9937-5-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 17.45,
+     "precio_lista": 17.45,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/853510-300-300/shampoo-suave-mustela-500-ml-3504105036133.jpg"
+  },
+  "116286": {
+   "nombre": "Shampoo Suave Mustela 200ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "200ML",
+   "url": "https://www.walmart.com.sv/shampoo-suave-mustela-200ml-sv4271-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 11.2,
+     "precio_lista": 11.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/834591-300-300/shampoo-suave-mustela-200-ml-3504105036126.jpg"
+  },
+  "116293": {
+   "nombre": "Protector Solar Mustela Spf50 100ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "SPF50",
+   "url": "https://www.walmart.com.sv/protector-solar-mustela-spf50-100ml-sv9145-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 32.69,
+     "precio_lista": 32.69,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/848760-300-300/protector-solar-mustela-spf-50-100-ml-3504105036775.jpg"
+  },
+  "116340": {
+   "nombre": "Crema Contra Rozaduras Mustela 50 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-contra-rozaduras-mustela-50-ml-sv5300-5-0/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 9.8,
+     "precio_lista": 9.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/839798-300-300/crema-contra-rozaduras-mustela-50-ml-3504105025816.jpg"
+  },
+  "116304": {
+   "nombre": "Crema Contra Rozaduras Mustela 100 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-contra-rozaduras-mustela-100-ml-sv4827-5-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 13.95,
+     "precio_lista": 13.95,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/848003-300-300/crema-contra-rozaduras-mustela-100-ml-3504105025878.jpg"
+  },
+  "116284": {
+   "nombre": "Locion Refrescante Mustela 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/locion-refrescante-mustela-200-ml-sv9585-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 11.8,
+     "precio_lista": 11.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/834132-300-300/locion-refrescante-mustela-200-ml-3504105036027.jpg"
+  },
+  "116308": {
+   "nombre": "Crema Relip Stelatopia Mustela 150 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-relip-stelatopia-mustela-150-ml-sv4633-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 28.5,
+     "precio_lista": 28.5,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/853526-300-300/crema-relip-stelatopia-mustela-150-ml-3504105039851.jpg"
+  },
+  "116346": {
+   "nombre": "Aceite Prevencion Estrias Mustela 105 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/aceite-prevencion-estrias-mustela-105-ml-sv9742-5-8/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 21.0,
+     "precio_lista": 21.0,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/853488-300-300/aceite-prevencion-estrias-mustela-105-ml-3504105034535.jpg"
+  },
+  "116274": {
+   "nombre": "Hydra Bebe Piel Normal Mustela 300ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "300ML",
+   "url": "https://www.walmart.com.sv/hydra-bebe-piel-normal-mustela-300ml-sv3042-5-7/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 16.1,
+     "precio_lista": 16.1,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/840301-300-300/hydra-bebe-piel-normal-mustela-300-ml-3504105035891.jpg"
+  },
+  "116356": {
+   "nombre": "Soln Limp Sin Enjuague Mustela 300ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "300ML",
+   "url": "https://www.walmart.com.sv/soln-limp-sin-enjuague-mustela-300ml-sv9775-5-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 15.8,
+     "precio_lista": 15.8,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/848613-300-300/soln-limp-sin-enjuague-mustela-300-ml-3504105035815.jpg"
+  },
+  "116350": {
+   "nombre": "Hydra Bebe Piel Normal Mustela 500ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "500ML",
+   "url": "https://www.walmart.com.sv/hydra-bebe-piel-normal-mustela-500ml-sv9179-5-4/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 27.15,
+     "precio_lista": 27.15,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/853496-300-300/hydra-bebe-piel-normal-mustela-500-ml-3504105035501.jpg"
+  },
+  "116344": {
+   "nombre": "Shampoo Recien Nacido Mustela 150 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/shampoo-recien-nacido-mustela-150-ml-sv4537-5-6/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 13.2,
+     "precio_lista": 13.2,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/856983-300-300/shampoo-recien-nacido-mustela-150-ml-3504105034382.jpg"
+  },
+  "116275": {
+   "nombre": "Crema Prevencion Estrias Mustela 150 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/crema-prevencion-estrias-mustela-150-ml-sv3672-5-1/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 22.35,
+     "precio_lista": 22.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/834035-300-300/crema-prevencion-estrias-mustela-150-ml-3504105033828.jpg"
+  },
+  "116318": {
+   "nombre": "Gel Lavant Stelatopia Mustela 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/gel-lavant-stelatopia-mustela-200-ml-sv7650-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 21.85,
+     "precio_lista": 21.85,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/834088-300-300/gel-lavant-stelatopia-mustela-200-ml-3504105033620.jpg"
+  },
+  "116280": {
+   "nombre": "Gel Bano Suave Piel Normal Mustela 500ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "500ML",
+   "url": "https://www.walmart.com.sv/gel-bano-suave-piel-normal-mustela-500ml-sv2518-5-5/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 19.7,
+     "precio_lista": 19.7,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/833645-300-300/gel-bano-suave-piel-normal-mustela-500-ml-3504105035617.jpg"
+  },
+  "116353": {
+   "nombre": "Locion Nutritiv Cold Cre Mustela 200 ml",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/locion-nutritiv-cold-cre-mustela-200-ml-sv2675-5-2/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 14.75,
+     "precio_lista": 14.75,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/853466-300-300/locion-nutritiv-cold-cre-mustela-200-ml-3504105035532.jpg"
+  },
+  "116281": {
+   "nombre": "Jabon Suave Cold Cream Mustela 100 g",
+   "categoria": "dermo",
+   "tipo": "dermo",
+   "pulgadas": null,
+   "medida": null,
+   "marca": "MUSTELA",
+   "modelo": "",
+   "url": "https://www.walmart.com.sv/jabon-suave-cold-cream-mustela-100-g-sv3859-5-3/p",
+   "primera_vez": "2026-11-06",
+   "ultima_vez": "2026-11-06",
+   "observaciones": [
+    {
+     "fecha": "2026-11-06T17:58:09-06:00",
+     "precio": 10.35,
+     "precio_lista": 10.35,
+     "disponible": true,
+     "fuente": "auto",
+     "nota": ""
+    }
+   ],
+   "imagen": "https://walmartsv.vteximg.com.br/arquivos/ids/839807-300-300/jabon-suave-cold-cream-mustela-100-g-3504105036102.jpg"
   }
  }
 }
